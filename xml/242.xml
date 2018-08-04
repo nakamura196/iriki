@@ -1,0 +1,325 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>(年月日欠)　　　　_坪付注文断簡（＃２４２）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp>
+			      
+			<surface>
+				<graphic url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/24/00000001.jpg"/>
+			</surface>
+			<surface>
+				<graphic url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/24/00000002.jpg"/>
+			</surface>
+			<surface>
+				<graphic url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/24/00000003.jpg"/>
+			</surface>
+			<surface>
+				<graphic url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/24/00000004.jpg"/>
+			</surface>
+			<surface>
+				<graphic url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/24/00000005.jpg"/>
+			</surface>
+			<surface>
+				<graphic url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/24/00000006.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="共カ">
+					<span>共カ</span>
+				</span>
+				<span xml:id="朱書">
+					<span>朱書</span>
+				</span>
+				<span xml:id="るカ">
+					<span>るカ</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				二四二　坪付注文断簡
+				<lb/>
+				
+　　　松下方之分
+				<lb/>
+				
+一反二丁　　　中津町
+				<lb/>
+				
+二反　　　　　くきの木もと
+				<lb/>
+				
+　　　水田三反二丁
+				<lb/>
+				
+一ヶ所三舛　　居屋敷
+				<lb/>
+				
+
+				<span corresp="#朱書">「</span>
+				此分二反ハ、カチノヲトヽノ四郎五郎出作ニ
+				<lb/>
+				
+モチ候、一反二丁ハ自作ニ仕候也、　　」
+				<lb/>
+				
+　へ牟木八郎五郎方之分
+				<lb/>
+				
+一反　　　　　をかのもと
+				<lb/>
+				
+二丁　　　　　屋敷のまへ
+				<lb/>
+				
+一反三丁此内三丁ハ年〃不　　　　尾さき
+				<lb/>
+				
+丁　　　　　　高二郎
+				<lb/>
+				
+　　　水田三反丁
+				<lb/>
+				
+一ヶ所一斗　　居屋敷
+				<lb/>
+				
+一ヶ所二舛　　井のはなの屋敷
+				<lb/>
+				
+　へ牟木源三郎方之分
+				<lb/>
+				
+一反所〃ニ有　あミか谷
+				<lb/>
+				
+一反三丁　　　こむまのさき
+				<lb/>
+				
+　　　水田三反三丁
+				<lb/>
+				
+一ヶ所八舛　　居屋敷
+				<lb/>
+				
+
+				<span corresp="#朱書">「</span>
+				今ハ四郎五郎出作ニ仕候、」
+				<lb/>
+				
+　前田又七方之分
+				<lb/>
+				
+一反　　　　　下のかうはり山
+				<lb/>
+				
+一反　　　　　とひのす
+				<lb/>
+				
+一反　　　　　ひらき
+				<lb/>
+				
+　　　水田三反
+				<lb/>
+				
+一ヶ所二舛　居屋敷
+				<lb/>
+				
+　　　　　　はきのもと
+				<lb/>
+				
+　水田一反　居屋敷
+				<span corresp="#共カ">□</span>
+				<lb/>
+				
+　畠二舛まき　ほりその
+				<lb/>
+				
+　薗田七郎三郎方
+				<lb/>
+				
+一反　　　　　はやし
+				<lb/>
+				
+二丁　　　　　川ち
+				<lb/>
+				
+三丁　　　　　山のくち
+				<lb/>
+				
+二反　　　　　つゐちの内
+				<lb/>
+				
+丁　　　　　　蒲牟田の平
+				<lb/>
+				
+一舛まき　　　さかり
+				<lb/>
+				
+一反　　　　　きやうしふん須米田
+				<lb/>
+				
+丁　　　　　　きやうしふんうと
+				<lb/>
+				
+　　　水田五反二丁
+				<lb/>
+				
+一ヶ所四舛　　居屋敷
+				<lb/>
+				
+畠四舛　　　　　きやうしふん萩のもと
+				<lb/>
+				
+　　竹下方之分
+				<lb/>
+				
+Ｐ１６２
+				<lb/>
+				
+一舛まき　　　くすまきハら
+				<lb/>
+				
+三反　　　　　は
+				<span corresp="#るカ">□</span>
+				<lb/>
+				
+二丁　　　　　竹の下
+				<lb/>
+				
+丁　　　　　　大さこ
+				<lb/>
+				
+　　　水田三反三丁
+				<lb/>
+				
+一ヶ所二舛　　松尾の屋敷
+				<lb/>
+				
+一反丁　　　　屋所
+				<lb/>
+				
+三反二丁　　　まへた
+				<lb/>
+				
+二丁　　　　　かう田
+				<lb/>
+				
+三丁　　　　　松さこ
+				<lb/>
+				
+二丁　　　　　かたしろ
+				<lb/>
+				
+丁　　　　　　薬師田ふろのもと
+				<lb/>
+				
+丁中　　　　　三月三日祭妙見田
+				<lb/>
+				
+三丁　　　　　又薬師田はたかつか
+				<lb/>
+				
+　　　水田九反丁中
+				<lb/>
+				
+　　　玉泉庵領
+				<lb/>
+				
+二反丁　　　　はたけ田
+				<lb/>
+				
+一反二丁　　　やました
+				<lb/>
+				
+三反　　　　　ミねもと
+				<lb/>
+				
+　　　水田六反三丁
+				<lb/>
+				
+
+				<span corresp="#朱書">「</span>
+				今ハ自作ニ加候、」
+				<lb/>
+				
+　祝太郎兵衛
+				<lb/>
+				
+二反　　　　　天神霜月二日祭山の口
+				<lb/>
+				
+一反　　　　　かまむた
+				<lb/>
+				
+一反丁　　　　天神八月田しやうの原
+				<lb/>
+				
+一反　　　　　天神五月田
+				<lb/>
+				
+二反　　　　　九月田をか大明神領
+				<lb/>
+				
+一反　　　　　をか大明神修理田
+				<lb/>
+				
+一反　　　　　天神のまへ
+				<lb/>
+				
+一反　　　　　ひちはうかた
+				<lb/>
+				
+　　　水田九反一町〃〃丁
+				<lb/>
+				
+一ヶ所すわのはら　　　　　居屋敷
+				<lb/>
+				
+一ヶ所　　　　同外その
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

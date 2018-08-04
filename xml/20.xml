@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>4　 慶長5年10月10日　　島津維新(義弘)知行充行状（＃２０）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/261/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/261/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/729/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/261/canvas/p2" url="https://diyhistory.org/public/omekas12/iiif-img/730/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="入来院重高">
+					<span>入来院重高</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				二〇　島津維新義弘知行充行状
+				<lb/>
+				
+今度美濃国開か原之合戦致粉骨、従其伊勢・近江・伊賀・大和・河内・
+				<lb/>
+				
+和泉ニ至り、帰国之路次伝、片時も側を不相離、被抽奉公之段、神妙之
+				<lb/>
+				
+至、尤感入候、仍知行弐佰石遺之候也、
+				<lb/>
+				
+　　慶長五
+				<lb/>
+				
+　　　　拾月十日　　　　　　　　　　　　　　　維新　（墨印）
+				<lb/>
+				
+　　　　　　
+				<span corresp="#入来院重高">頴娃弥市郎</span>
+				殿
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

@@ -47,7 +47,7 @@ with open('../data/html_contents_list.csv', 'r') as f:
             tmp["title"] = text
             url = url.replace("http://www.hi.u-tokyo.ac.jp/IRIKI/JTXT/jpn_text", "")
             url = url.replace(".html", "")
-            tmp["url"] = "mirador/?resourceUri=https://raw.githubusercontent.com/nakamura196/iriki/master/xml/" + url + ".xml"
+            tmp["url"] = "mirador/?resourceUri=https://raw.githubusercontent.com/nakamura196/iriki/master/xml/" + url + ".xml&textDirection=vertical"
             tmp["highlight"] = False
         else:
             obj = {}

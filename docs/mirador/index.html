@@ -105,6 +105,7 @@
   var zones = {}
   var people_dict = {}
   var miradorInstance;
+  var ratio = 1
 
   $(function(){
 
@@ -118,6 +119,10 @@
       vertical_flg = true
       $("#target").addClass("target")
       $("#target").append('<span id="dest_pos"></span>') //???
+    }
+
+    if(vars["ratio"]){
+      ratio = Number(vars["ratio"])
     }
 
     $.ajax({
@@ -249,7 +254,7 @@
         tmp.x = ulx
         tmp.y = uly
         tmp.dx = lrx - ulx
-        tmp.dy = lry - uly
+        tmp.dy = (lry - uly) * ratio
         tmp.canvasID = canvasID
 
       })

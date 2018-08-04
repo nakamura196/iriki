@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>8　　延文2年5月19日　　_一色直氏恩賞充行状（＃２３３）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/468/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/468/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/892/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="一色直氏">
+					<span>一色直氏</span>
+				</span>
+				<span xml:id="重見">
+					<span>重見</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				二三三　一色直氏恩賞充行状
+				<lb/>
+				
+薩摩国日置庄古恒跡田地弐拾町地頭職事、為勲功之賞、所宛行也、早守
+				<lb/>
+				
+先例可致沙汰、仍執達如件、
+				<lb/>
+				
+　　　延文二年五月十九日　　　　　　　　　　　
+				<span corresp="#一色直氏">右京</span>
+				大夫（花押）
+				<lb/>
+				
+　　　　武光三郎殿
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

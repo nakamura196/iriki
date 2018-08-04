@@ -1,0 +1,157 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>3　　延徳4年3月1日　　　渋谷重聡田地并所当注文（＃１２４）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/360/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/360/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/799/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/360/canvas/p2" url="https://diyhistory.org/public/omekas12/iiif-img/800/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="らカ">
+					<span>らカ</span>
+				</span>
+				<span xml:id="高城">
+					<span>高城</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				一二四　渋谷重聡田地并所当注文
+				<lb/>
+				
+
+				<span corresp="#高城">たき</span>
+				のうちのしさく六反三丁にて候を、なかむらにいまたてかへ候ふん、
+				<lb/>
+				
+四反下もちさこ　　二反三丁かハち田
+				<lb/>
+				
+　　以上六反三丁
+				<lb/>
+				
+　みや田のかとに、むかいなかむらのかとかへ候、
+				<lb/>
+				
+一ねんくおなし　　くうしおなし
+				<lb/>
+				
+一みや田なしもの　壱貫五百文五百文ハたいくわんふん
+				<lb/>
+				
+一むかいなかむらなしもの　壱貫百五十百五十文ハたいくハんふんか〃〃〃〃〃〃〃〃〃〃〃〃〃
+				<lb/>
+				
+一か
+				<span corresp="#らカ">と</span>
+				をなし　一きぬくたおなし
+				<lb/>
+				
+Ｐ６２
+				<lb/>
+				
+一わたおなし　　　一か
+				<span corresp="#らカ">と</span>
+				みのおなし
+				<lb/>
+				
+　　　又みや田よりはあかり候、なかむらよりハあけす候もの、
+				<lb/>
+				
+一いも壱斗五舛　　一か
+				<span corresp="#らカ">と</span>
+				あい一斗
+				<lb/>
+				
+一からを百五十め　一むきのねんく五斗
+				<lb/>
+				
+　　　此ふんにうきめんのはたけあひそへ候ふん、
+				<lb/>
+				
+一一反　いけつる
+				<lb/>
+				
+　　又みや田よりあけ候もの
+				<lb/>
+				
+一あまつらのしろ百文　一あかねのしろ五十文
+				<lb/>
+				
+一ゑりこのまゆ三舛銭なれハ六百文
+				<lb/>
+				
+一ないけんのふん五百文　このふん、むかいなかむらニハなく候ほとに、二反そへ候田の事、
+				<lb/>
+				
+　二反　まへ田
+				<lb/>
+				
+又あらためて、たきのうちへまいらせ候分、
+				<lb/>
+				
+　二反丁　まへ田　　　　　二反　いけつる
+				<lb/>
+				
+　　　しさくものゝしろ以上に
+				<lb/>
+				
+　　　　水田壱町二反四丁
+				<lb/>
+				
+　　　　畠地四反
+				<lb/>
+				
+　　　延徳四年みつのえね三月一日　　　　　　　重とし（花押）
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

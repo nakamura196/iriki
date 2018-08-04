@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>10　　元弘元年9月11日　　渋谷定円(重基)譲状案（＃６５）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/302/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/302/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/553/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="切">
+					<span>切</span>
+				</span>
+				<span xml:id="×也">
+					<span>×也</span>
+				</span>
+				<span xml:id="来">
+					<span>来</span>
+				</span>
+				<span xml:id="重勝">
+					<span>重勝</span>
+				</span>
+				<span xml:id="事カ">
+					<span>事カ</span>
+				</span>
+				<span xml:id="重基">
+					<span>重基</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				六五　渋谷定円重基譲状案
+				<lb/>
+				
+譲与　　　
+				<span corresp="#重勝">松寿</span>
+				丸所
+				<lb/>
+				
+　　薩摩国入来院清敷北方内村尾□□□□□
+				<span corresp="#事カ">□</span>
+				<lb/>
+				
+四至　東限、河床下渡瀬上小谷河のほりニ切、
+				<lb/>
+				
+　　　南限、あつきのさきをつはきはゑのさかひ切、
+				<lb/>
+				
+　　　西限、大野田とつはきはゑのさかい
+				<span corresp="#切">□</span>
+				、
+				<lb/>
+				
+　　　北限、大道を苻宿河のほりニ切、
+				<lb/>
+				
+右所者、
+				<span corresp="#重基">定円</span>
+				相伝所領
+				<span corresp="#×也">北</span>
+				方内也、爰松寿丸依為幼少養子、限于永代所譲
+				<lb/>
+				
+与也、但、為方〃御□御公事物代米参斗、毎年ニ惣領方可弁之、其外色
+				<lb/>
+				
+〃済物等所令停止也、然早至後〃将
+				<span corresp="#来">□</span>
+				、無他妨可令知行領掌、仍譲状如
+				<lb/>
+				
+件、
+				<lb/>
+				
+　　　元弘元年辛未九月十一日　　　　　　　　　　沙弥定円御判
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

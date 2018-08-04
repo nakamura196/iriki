@@ -1,0 +1,997 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>長享元年10月20日　_薩摩郡羽島検地日記（＃２３９）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/473/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/473/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/585/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/473/canvas/p2" url="https://diyhistory.org/public/omekas12/iiif-img/586/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/473/canvas/p3" url="https://diyhistory.org/public/omekas12/iiif-img/587/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/473/canvas/p4" url="https://diyhistory.org/public/omekas12/iiif-img/588/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/473/canvas/p5" url="https://diyhistory.org/public/omekas12/iiif-img/589/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/473/canvas/p6" url="https://diyhistory.org/public/omekas12/iiif-img/590/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/473/canvas/p7" url="https://diyhistory.org/public/omekas12/iiif-img/591/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/473/canvas/p8" url="https://diyhistory.org/public/omekas12/iiif-img/592/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/473/canvas/p9" url="https://diyhistory.org/public/omekas12/iiif-img/593/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/473/canvas/p10" url="https://diyhistory.org/public/omekas12/iiif-img/594/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/473/canvas/p11" url="https://diyhistory.org/public/omekas12/iiif-img/595/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/473/canvas/p12" url="https://diyhistory.org/public/omekas12/iiif-img/596/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/473/canvas/p13" url="https://diyhistory.org/public/omekas12/iiif-img/597/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/473/canvas/p14" url="https://diyhistory.org/public/omekas12/iiif-img/598/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/473/canvas/p15" url="https://diyhistory.org/public/omekas12/iiif-img/599/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/473/canvas/p16" url="https://diyhistory.org/public/omekas12/iiif-img/600/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/473/canvas/p17" url="https://diyhistory.org/public/omekas12/iiif-img/601/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/473/canvas/p18" url="https://diyhistory.org/public/omekas12/iiif-img/602/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/473/canvas/p19" url="https://diyhistory.org/public/omekas12/iiif-img/603/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/473/canvas/p20" url="https://diyhistory.org/public/omekas12/iiif-img/604/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/473/canvas/p21" url="https://diyhistory.org/public/omekas12/iiif-img/605/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/473/canvas/p22" url="https://diyhistory.org/public/omekas12/iiif-img/606/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/473/canvas/p23" url="https://diyhistory.org/public/omekas12/iiif-img/607/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="朱書">
+					<span>朱書</span>
+				</span>
+				<span xml:id="重見">
+					<span>重見</span>
+				</span>
+				<span xml:id="原表紙">
+					<span>原表紙</span>
+				</span>
+				<span xml:id="マヽ">
+					<span>マヽ</span>
+				</span>
+				<span xml:id="×た">
+					<span>×た</span>
+				</span>
+				<span xml:id="×二丁">
+					<span>×二丁</span>
+				</span>
+				<span xml:id="享">
+					<span>享</span>
+				</span>
+				<span xml:id="同裏">
+					<span>同裏</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				二三九　薩摩郡羽島検地日記
+				<lb/>
+				
+　　　　　　○墨付二〇丁、合点ハ朱筆ニカヽル、
+				<lb/>
+				
+（表紙）
+				<lb/>
+				
+　　羽嶋見知之日記　　　　　　　　三十五番
+				<lb/>
+				
+　　　
+				<span corresp="#原表紙">「</span>
+				羽嶋見知之日記」
+				<lb/>
+				
+　　
+				<span corresp="#同裏">「</span>
+				長
+				<span corresp="#享">亨</span>
+				元年十月廿日」
+				<lb/>
+				
+　　　　羽嶋見知之日記
+				<lb/>
+				
+四反　彳　　　　まへ田　万福之門之内
+				<lb/>
+				
+一反二丁年〃不　　ちやうこ　万福之門之内
+				<lb/>
+				
+二丁　　　　　　なへせこう二ヶ所　万福之門之内
+				<lb/>
+				
+五反　中　　　　大あな以上　万福之門之内
+				<lb/>
+				
+五反　中　　　　万福　はんふくの門之内
+				<lb/>
+				
+二反　権　　　　山のかしら　万福之門之内
+				<lb/>
+				
+三丁　　　　　　といのもと　かり屋付孫八之分
+				<lb/>
+				
+二丁　　　　　　又といのもと　かり屋付孫八
+				<lb/>
+				
+一反二丁　彳　　わさ田　土川之門之内
+				<lb/>
+				
+三丁　権　　　　おりくち　土川之門之内
+				<lb/>
+				
+二反　権　　　　むるせまち　土川之門之内
+				<lb/>
+				
+一反　権　　　　くきハら　土川之門之内
+				<lb/>
+				
+二反年〃不　　　中つる　土川之門之内
+				<lb/>
+				
+一反三丁年〃不　山の口　土川之門之内
+				<lb/>
+				
+二丁　権　　　　坂の下　堀の下の屋敷之内
+				<lb/>
+				
+二反二丁　権　　すけの山　ひら石の門之内
+				<lb/>
+				
+八反　彳　　　　山の口　ひら石の門之内
+				<lb/>
+				
+一反三丁　権　　前の原　ひら石の門之内
+				<lb/>
+				
+九反半分ハ彳半ハ中まへ田　ひら石の門之内
+				<lb/>
+				
+一反三丁　権　　こんにやく　ひら石の門之内
+				<lb/>
+				
+一反二丁　権　　中野　ひら石の門之内
+				<lb/>
+				
+一反　　　　　　はやし　薗田七郎三郎方
+				<lb/>
+				
+二丁　　　　　　川ち　同七郎三郎方
+				<lb/>
+				
+三丁　　　　　　山の口　同七郎三郎方
+				<lb/>
+				
+二反　中　　　　ついちの内　同七郎三郎方
+				<lb/>
+				
+丁　　　　　　　蒲むたのひら　同七郎三郎方
+				<lb/>
+				
+二反　中　　　　山の口　天神領霜月二月祭　祝太郎兵衛
+				<lb/>
+				
+三反半ハ中半ハ権　あか岩　あか岩の屋敷之内
+				<lb/>
+				
+二反　　　　　　まきの口山の口　まきの屋敷之内
+				<lb/>
+				
+一反　中　　　　平山　萩の本屋敷之内　初二郎
+				<lb/>
+				
+Ｐ１２４
+				<lb/>
+				
+二丁中　　　　　山王田霜月三月祭　萩の本の門より作候、
+				<lb/>
+				
+二丁　　　　　　いけのひら　坂の下屋敷之内　平六
+				<lb/>
+				
+一舛まき　　　　くすまきハら　まきの口の屋敷之内　五郎四郎
+				<lb/>
+				
+一舛　　　　　　葛まきハら　竹の下方
+				<lb/>
+				
+一反二丁　中　　中野　坂の下屋敷之内
+				<lb/>
+				
+一反三丁年〃不　水あらい　まきの口屋敷之内
+				<lb/>
+				
+一反三丁　中　　天神くわんしやせく田　ひら原の門より作候、
+				<lb/>
+				
+一反　権　　　　かまむたの下　竹の下方之分
+				<lb/>
+				
+一反　権　　　　蒲牟田中　祝太郎兵衛
+				<lb/>
+				
+二丁中　権　　　蒲むた上　うきめん
+				<lb/>
+				
+丁　彳　　　　　萩の本之前　うきめん
+				<lb/>
+				
+二反　彳　　　　上のわさ田　宝寿庵領
+				<lb/>
+				
+二反　彳　　　　まきの口　まきの口の屋敷之内　平六
+				<lb/>
+				
+一反　権　　　　菱田　またきの門之内
+				<lb/>
+				
+一舛まき　　　　あかつちの本　また木の門之内
+				<lb/>
+				
+一舛　　　　　　さかり　薗田七郎三郎方
+				<lb/>
+				
+丁　　　　　　　その田しり　宝寿庵領
+				<lb/>
+				
+一反　権　　　　柿の木田　またきの門之内
+				<lb/>
+				
+二反　権　　　　水あらい　宝寿庵領
+				<lb/>
+				
+三反二丁　中　　もりの木　玉泉菴
+				<lb/>
+				
+二反　中　　　　菱田　福地庵領
+				<lb/>
+				
+三反　彳　　　　おうの後　たきめん　本ハかり屋付にて候、
+				<lb/>
+				
+二反四丁　中　　二反田　大明神二季ひかん田
+				<span corresp="#朱書">「</span>
+				宗兵衛」
+				<lb/>
+				
+一反二丁　中　　二反田　まきの口屋敷より半分　中をくりの屋敷より半分
+				<lb/>
+				
+一反丁　中　　　二反田　萩の本屋敷之内
+				<lb/>
+				
+一反二丁　中　　なか田　尾崎屋敷之内
+				<lb/>
+				
+三反　中　　　　三反田　萩の本の門之内
+				<lb/>
+				
+一反三丁　中　　二反田　あふミの屋敷之内
+				<lb/>
+				
+二反　中　　　　二反田　坂の下屋敷之内
+				<lb/>
+				
+二反　中　　　　梅の木　またきの門之内
+				<lb/>
+				
+二反二丁中　　　ちとうへ　萩の下之門之内
+				<lb/>
+				
+一反二丁中　中　ちとふへ　あまとまりの左衛門四郎
+				<lb/>
+				
+二一〃反三丁　中　　徳五郎作　また木の門之内
+				<lb/>
+				
+一反丁　中　　　西の原　あま留へんさし馬太郎
+				<lb/>
+				
+一ヶ所二舛まき　坂の下屋敷　平六
+				<lb/>
+				
+一ヶ所三舛まき年〃不　またきの門居屋敷
+				<lb/>
+				
+一ヶ所三舛　　　ひら石の門居屋敷
+				<lb/>
+				
+一ヶ所　　　　　万福の門居屋敷
+				<lb/>
+				
+一ヶ所　　　　　こんにやくの屋敷　ひら石の門之内
+				<lb/>
+				
+二反二丁　中　　西の原　あふミの屋敷之内
+				<lb/>
+				
+一反　中　　　　西の原　今ハかり屋付
+				<lb/>
+				
+二反　中　　　　西の原　土川とい付　田二郎
+				<lb/>
+				
+一反　中　　　　西の原　万蔵寺領
+				<lb/>
+				
+一反　中　　　　西の原　大明神二月三日祭田　祝宗兵衛
+				<lb/>
+				
+二反　中　　　　西の原　悟入寺領
+				<lb/>
+				
+一反　彳　　　　しやうの原　大明神領　ないし之持
+				<lb/>
+				
+一反丁　彳　　　しやうの原　大明神修理田　あま留左衛門四郎
+				<lb/>
+				
+Ｐ１２５
+				<lb/>
+				
+一反丁　彳　　　しやうの原　悟入寺領
+				<lb/>
+				
+一反丁　彳　　　しやうの原　宝寿庵領
+				<lb/>
+				
+一反丁　彳　　　しやうの原　うきめん
+				<lb/>
+				
+二反　彳　　　　しやうの原　大明神くわんしやせく田　ないし分
+				<lb/>
+				
+一反丁　彳　　　しやうの原　天神領八月祭田　祝太郎兵衛
+				<lb/>
+				
+一反丁　彳　　　しやうの原　万蔵寺領
+				<lb/>
+				
+一反丁　彳　　　又しやうの原　悟入寺領
+				<lb/>
+				
+一反丁　彳　　　しやうの原　また木の門之内
+				<lb/>
+				
+一反　彳　　　　けん王田九月九日祭　あふミの屋敷　彦四郎
+				<lb/>
+				
+二反　中　　　　ミすミ田　また木の門内
+				<lb/>
+				
+一反二丁　中　　寺田　かり屋付　孫八か分
+				<lb/>
+				
+二反丁　中　　　はたけ田　玉泉庵領
+				<lb/>
+				
+一反二丁　中　　あふミ　うきめん
+				<lb/>
+				
+一反二丁中　彳　妙見田　九月
+				<span corresp="#マヽ">一</span>
+				九日祭　不定候、
+				<lb/>
+				
+三反　彳　　　　中村　大明神五月五日祭　中嶋之門より作候、
+				<lb/>
+				
+一反丁　彳　　　たうの前　まきの口屋敷之内
+				<lb/>
+				
+一反丁  　　　　たうの前　中をくり屋敷之内
+				<lb/>
+				
+一反丁　　　　　たうの前　かり屋付　孫八
+				<lb/>
+				
+二反　権　　　　西の原　土川のとい付　八郎三郎
+				<lb/>
+				
+三丁　権　　　　ゑいのを　宝寿庵領
+				<lb/>
+				
+三反　権　　　　二反田　あま留左衛門四郎
+				<lb/>
+				
+一反二丁　権　　すさき　萩の本の門之内
+				<lb/>
+				
+二反　権　　　　を苗代　大明神初九日祭　あふミの彦四郎作候、
+				<lb/>
+				
+丁中　中　　　　岩の上　萩の本の門之内
+				<lb/>
+				
+三反三丁　権　　こ苗代　かり屋付　孫八
+				<lb/>
+				
+一反　権　　　　さこ田　またきの門之内
+				<lb/>
+				
+一ヶ所　　　　　あふミの屋敷　彦四郎
+				<lb/>
+				
+二反　中　　　　まへ田　また木の門之内
+				<lb/>
+				
+六反　　　　　　宮田　大明神二月霜月二度祭田也、祝宗兵衛
+				<lb/>
+				
+一ヶ所三舛まき　悟入寺門前
+				<lb/>
+				
+一ヶ所二舛今ハ人ゐす候、悟入寺門前
+				<lb/>
+				
+一ヶ所二舛人もゐす候、悟入寺門前
+				<lb/>
+				
+一ヶ所三舛　　　悟入寺門前
+				<lb/>
+				
+一ヶ所二舛　　　悟入寺門前
+				<lb/>
+				
+三丁　彳　　　　はま田　あふミの屋敷之内
+				<lb/>
+				
+二反　彳　　　　はま田　松下方　かり屋五郎二人にて一反つゝ持候、
+				<lb/>
+				
+三反　彳　　　　ミねもと　玉泉庵領
+				<lb/>
+				
+一ヶ所内その六舛水田二舛かり屋付　孫八
+				<lb/>
+				
+一ヶ所三舛　　　真崎　松下彦六方居屋敷
+				<lb/>
+				
+一ヶ所　　　　　真崎　かち弥五郎屋敷
+				<lb/>
+				
+一ヶ所　　　　　真崎　ないし屋敷
+				<lb/>
+				
+二反二丁　権　　中つまち　松下方〃〃〃中をくりの屋敷之内
+				<lb/>
+				
+一反二丁　権　　中つまち　松下方之分
+				<lb/>
+				
+一反　中　　　　くきの木のもと　中嶋之門之内
+				<lb/>
+				
+二反　中　　　　くきの木のもと　松下方
+				<lb/>
+				
+一反丁　中　　　くきの木もと　まきの口の屋敷之内
+				<lb/>
+				
+Ｐ１２６
+				<lb/>
+				
+二反　中　　　　口のまち一反ハかり屋付、一反ハ当年ハかゝり候、
+				<lb/>
+				
+一反　権　　　　阿弥陀田　宝寿庵より
+				<lb/>
+				
+二反二丁　権　　王田　二月二日、霜月祭田也、ないし分
+				<lb/>
+				
+一反　権　　　　しとき田　きやうし分　薗田七郎三郎方
+				<lb/>
+				
+一反　中　　　　又王田　霜月祭　ないし分
+				<lb/>
+				
+一反二丁　権　　山下　玉泉庵領
+				<lb/>
+				
+一反丁　中　　　屋所　万蔵寺領
+				<lb/>
+				
+一反二丁　中　　屋所　天神二月三日祭ないし分
+				<lb/>
+				
+一反丁　権　　　かしわ木　萩の本之屋敷之内
+				<lb/>
+				
+一反丁　権　　　かしわき　土川之門之内
+				<lb/>
+				
+一反丁　権　　　かしわき　ひらはるの門之内
+				<lb/>
+				
+一反　権　　　　はまた　ひらはるの門之内
+				<lb/>
+				
+一反　中　　　　はま田　かち弥五郎
+				<lb/>
+				
+一反　中　　　　はま田　うきめん
+				<lb/>
+				
+一町　中　　　　あい木　中嶋之門之内
+				<lb/>
+				
+一反丁　　　　　川つゝ田　あふミ屋敷之内
+				<lb/>
+				
+一反　権　　　　川つゝ田　うきめん
+				<lb/>
+				
+一反　権　　　　はたかつか　悟入寺領
+				<lb/>
+				
+一反　権　　　　はたかつか　中嶋之門之内
+				<lb/>
+				
+三丁　権　　　　はたかつか　薬師田　万蔵寺領
+				<lb/>
+				
+二丁　中　　　　竹の下　竹の下平二郎方
+				<lb/>
+				
+丁　中　　　　　山下　ひら原之門之内
+				<lb/>
+				
+一ヶ所　　　　　中嶋之門居屋敷
+				<lb/>
+				
+三丁　権　　　　屋敷上下　中嶋之門之内
+				<lb/>
+				
+一反　彳　　　　ふろの本　ひら原の門之内
+				<lb/>
+				
+一反　彳　　　　竹の下　ひら原の門之内
+				<lb/>
+				
+一ヶ所　　　　　尾崎之屋敷　衛門二郎
+				<lb/>
+				
+一町八反　彳　　前田以上　ひらはるの門之内
+				<lb/>
+				
+一反　権　　　　といのもと　かち弥五郎
+				<lb/>
+				
+一反　中　　　　五月田　天神領　祝太郎兵衛
+				<lb/>
+				
+一反　権　　　　松さこ　阿弥陀田　ほうしゆあんより
+				<lb/>
+				
+二反二丁　権　　松さこ　玉泉庵領
+				<lb/>
+				
+三反二丁　権　　前田　万蔵寺領
+				<lb/>
+				
+丁　権　　　　　ふく〃ろのもと　薬師田　万蔵寺領
+				<lb/>
+				
+丁　権　　　　　馬場口　悟入寺領
+				<lb/>
+				
+三丁　　　　　　松さこ　万蔵寺領
+				<lb/>
+				
+丁中　権　　　　妙見田三月三日祭　万蔵寺領
+				<lb/>
+				
+二丁中　権　　　松さこ　尾崎之屋敷之内
+				<lb/>
+				
+四反　彳　　　　西の前田　手作
+				<lb/>
+				
+三反　中　　　　西のまへ田　ひわたしのとい付　三郎兵衛
+				<lb/>
+				
+二丁　中　　　　かう田　万蔵寺領
+				<lb/>
+				
+七反　彳　　　　中の前田　手作
+				<lb/>
+				
+八反　中　　　　東の前田　手作
+				<lb/>
+				
+五反　権　　　　ふるてら　悟入寺領
+				<lb/>
+				
+一ヶ所二舛まき　松尾屋敷　竹の下平二郎方
+				<lb/>
+				
+一ヶ所二舛　　　松尾下屋敷　うきめん
+				<lb/>
+				
+Ｐ１２７
+				<lb/>
+				
+二反二丁　権　　なか田　かり屋付　孫八
+				<lb/>
+				
+四反　中　　　　たか田　よこすのとい付　十郎衛門
+				<lb/>
+				
+二反　中　　　　井のしり　正法庵領
+				<lb/>
+				
+一反　彳　　　　ひらミ　御すわ田　門まわりニ作候、
+				<lb/>
+				
+四丁　　　　　　井のしり　かり屋付　孫八
+				<lb/>
+				
+一反　権　　　　なかほりまち　竹の下平二郎方
+				<lb/>
+				
+三反　権　　　　中川原　あま留の左衛門太郎
+				<lb/>
+				
+一反　権　　　　中川原　竹の下方　不定候、
+				<lb/>
+				
+一反三丁　権　　なか野　正法庵領
+				<lb/>
+				
+二反　権　　　　ハらか本　御すわ田　門まハリニ作候、
+				<lb/>
+				
+一ヶ所三舛　　　またき門屋敷
+				<lb/>
+				
+丁　　　　　　　ハらか本　かり屋付　孫八
+				<lb/>
+				
+一反　　　　　　松の本　よこすとい付　十郎衛門
+				<lb/>
+				
+中　権　　　　　大さこ　正法庵領
+				<lb/>
+				
+丁　権　　　　　大さこ　竹の下方
+				<lb/>
+				
+中　　　　　　　大さこ　まきの口の藤二郎
+				<lb/>
+				
+一舛　権　　　　おゐのもと　よこすのとい付　十郎衛門
+				<lb/>
+				
+二丁中　権　　　うと　よこすのとい付　十郎衛門
+				<lb/>
+				
+丁　権　　　　　うと　きやうし分その　田七郎三郎方
+				<lb/>
+				
+丁中　権　　　　うと　かり屋付　孫八
+				<lb/>
+				
+一反丁　中　　　かたしろ　ひわたしのとい付　三郎兵衛
+				<lb/>
+				
+二丁　権　　　　かたしろ　万蔵寺領
+				<lb/>
+				
+丁　権　　　　　かたしろ　尾崎屋敷　衛門二郎
+				<lb/>
+				
+三丁　権　　　　ひらとうろ　いのはなの屋敷之内
+				<lb/>
+				
+二反　権　　　　中のほりまち　かり屋付　孫八
+				<lb/>
+				
+二反　権　　　　をか　大明神九日田　祝太郎兵衛
+				<lb/>
+				
+四反　権　　　　餅田　うきめん　いまかまのとい付
+				<lb/>
+				
+三反　中　　　　もち田　かり屋付　孫八
+				<lb/>
+				
+一反　権　　　　をかの本　かり屋付　孫八
+				<lb/>
+				
+一反　権　　　　をか大明神修理田　祝太郎兵衛
+				<lb/>
+				
+一反　権　　　　をかの本　遍牟木八郎五郎方
+				<lb/>
+				
+丁　権　　　　　せつしよ　いのはな屋敷之内　五郎衛門
+				<lb/>
+				
+一反　権　　　　鳥こへ　いのはなの屋敷　さこの九郎
+				<lb/>
+				
+三反　権　　　　はる　竹下方
+				<lb/>
+				
+一反　権　　　　せかき田　悟入寺領
+				<lb/>
+				
+四反　権　　　　中す　遍牟木八郎五郎方
+				<lb/>
+				
+一ヶ所一斗まき　遍牟木八郎五郎方居屋敷
+				<lb/>
+				
+二丁　　　　　　屋敷前　遍牟木八郎五郎方
+				<lb/>
+				
+二反　中　　　　いのはな　遍牟木八郎五郎方
+				<lb/>
+				
+二反　権　　　　かりそこ　御すわ田　門まハりニ作候、
+				<lb/>
+				
+一反　権　　　　尾さき　遍牟木源三郎方
+				<lb/>
+				
+一反三丁此内三丁年〃不尾さき　遍牟木八郎五郎方
+				<lb/>
+				
+二反　権　　　　かうはり山　遍牟木源三郎方
+				<lb/>
+				
+一反丁　権　　　うちのほうちやう　ゐのはなの屋敷之内　さこの九郎
+				<lb/>
+				
+一反　権　　　　下のかうはり山　まへ田又七方
+				<lb/>
+				
+丁　権　　　　　高二郎　遍牟木八郎五郎方
+				<lb/>
+				
+Ｐ１２８
+				<lb/>
+				
+一ヶ所二舛まき　ゐのはな屋敷　悟入寺領
+				<lb/>
+				
+一ヶ所二舛　　　ゐのはな　遍牟木八郎五郎方
+				<lb/>
+				
+一ヶ所二舛　　　いのはな　前田又七方
+				<lb/>
+				
+一ヶ所八舛　　　いのはな　遍牟木源三郎方
+				<lb/>
+				
+五反　彳　　　　いのはな　手作
+				<lb/>
+				
+一ヶ所五舛　　　いのはな屋敷　左衛門三郎
+				<lb/>
+				
+二反　中　　　　ゐのはなのとい付三郎衛門〃〃〃〃左衛門三郎
+				<lb/>
+				
+三丁年〃不　　　中つる　へむき源三郎方
+				<lb/>
+				
+三丁　権　　　　岩下　御すわの修理田　祝太郎兵衛
+				<lb/>
+				
+三丁　権　　　　松山　ゐのはなの五郎衛門
+				<lb/>
+				
+丁　権　　　　　なかほりまち　ゐのはなの屋敷の　さこの九郎
+				<lb/>
+				
+一反　権所〃ニ有　あミかか
+				<span corresp="#×た">谷</span>
+				　遍牟木源三郎方
+				<lb/>
+				
+一反　権　　　　とひのす　まへ田又七方
+				<lb/>
+				
+丁　権　　　　　萩の本　ゐのはなの屋敷の五郎衛門
+				<lb/>
+				
+二反二丁　中権〃　ひら田　ゐのはなのとい付　左衛門三郎
+				<lb/>
+				
+一反　権　　　　さこ田　いのはなのとい付　左衛門三郎
+				<lb/>
+				
+一反二丁此内二丁年〃不権ミとり　たて石さこの五郎
+				<lb/>
+				
+二反三丁　権　　こむまさき　遍牟木源三郎方
+				<lb/>
+				
+三丁　権　　　　こむまのさき　いのはなのとい付　左衛門三郎
+				<lb/>
+				
+二丁　権　　　　ひのゝさか　たて石のさこの五郎
+				<lb/>
+				
+一ヶ所二舛　　　たていしの居屋敷
+				<lb/>
+				
+一ヶ所四舛　　　はらのその　五郎衛門
+				<lb/>
+				
+一ヶ所二舛　　　はらのその　外
+				<lb/>
+				
+一ヶ所　　　　　はらのその　さこの九郎
+				<lb/>
+				
+丁　権　　　　　柳の本　さこの五郎
+				<lb/>
+				
+一反　中　　　　ひらき　前田又七方
+				<lb/>
+				
+一ヶ所　　　　　すわのはら　祝屋敷　太郎兵衛
+				<lb/>
+				
+一ヶ所　　　　　同　外屋敷
+				<lb/>
+				
+三反　　　　　　坂の下　萩の本之門之内
+				<lb/>
+				
+八反　　　　　　前田上　萩の本之門之内
+				<lb/>
+				
+三反　　　　　　前田中　萩の本之門之内
+				<lb/>
+				
+二反　　　　　　ひちまかた　土川之門之内
+				<lb/>
+				
+一反　　　　　　さかり　萩の本之門之内
+				<lb/>
+				
+二丁　　　　　　道より下　萩の本之門之内
+				<lb/>
+				
+丁中　　　　　　はる田　ミなくち　またきの門之内
+				<lb/>
+				
+二反二丁　　　　その田　またきの門之内
+				<lb/>
+				
+一反二丁　　　　ひちまかた　はやま田
+				<lb/>
+				
+一反　　　　　　ひちまかた　天神領
+				<lb/>
+				
+一反　　　　　　天神領　天神山の畦祝太郎兵衛
+				<lb/>
+				
+一反　　　　　　天神領　修理田　ほうしゆ庵
+				<lb/>
+				
+三丁　　　　　　ついちの内　土川之門之内
+				<lb/>
+				
+五反　　　　　　かき内　うきめん
+				<lb/>
+				
+一ヶ所　　　　　萩の本門居屋敷
+				<lb/>
+				
+一斗六舛　　　　同外その畠地
+				<lb/>
+				
+四舛　　　　　　萩の本畠地　きやうし分
+				<lb/>
+				
+二反　　　　　　ひちまかた　土川之門之内
+				<lb/>
+				
+二反二丁此間ハ萩の本の門ニ付候を、今度ふり分候、くらの後、うきめん
+				<lb/>
+				
+五反　　　　　　その田　うきめん
+				<lb/>
+				
+二舛　　　　　　まきの口居屋敷　藤二郎
+				<lb/>
+				
+
+				<span corresp="#×二丁">一反</span>
+				　　　　　左宗作　萩の本屋敷後　藤二郎
+				<lb/>
+				
+一ヶ所外ニ四舛まき　その田方居屋敷
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

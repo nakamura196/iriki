@@ -1,0 +1,114 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>2　 (天文8年)10月1日　_島津勝久書状（＃１２）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/253/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/253/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/689/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="浦">
+					<span>浦</span>
+				</span>
+				<span xml:id="懸神ウハ書">
+					<span>懸神ウハ書</span>
+				</span>
+				<span xml:id="天文八年">
+					<span>天文八年</span>
+				</span>
+				<span xml:id="重朝">
+					<span>重朝</span>
+				</span>
+				<span xml:id="端裏切封">
+					<span>端裏切封</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				一二　島津勝久書状（切紙）
+				<lb/>
+				
+　　　　
+				<span corresp="#端裏切封">「</span>
+				」
+				<lb/>
+				
+重〃預使僧候、畏悦之至候、仍昨日河辺衆谷山へ打越候而、鹿児嶋人衆
+				<lb/>
+				
+遣候、出合切着候間、敵弐百人計討取候て、谷山神前城迄追誥、下栫表
+				<lb/>
+				
+発向候、此方之勢可有推察候、然者、郡山
+				<span corresp="#浦">宇良</span>
+				破候由承候、喜悦之至
+				<lb/>
+				
+候、将又市来浦之事、嶽平原之門、自其方〓取候て可有仕役候、為心得
+				<lb/>
+				
+候、恐〃謹言、
+				<lb/>
+				
+　　　
+				<span corresp="#天文八年">十月一日</span>
+				　　　　勝久（花押）
+				<lb/>
+				
+　　　
+				<span corresp="#重朝">入来</span>
+				院殿
+				<lb/>
+				
+　　　
+				<span corresp="#懸神ウハ書">「</span>
+				入来院殿　　勝久」
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

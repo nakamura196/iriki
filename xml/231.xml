@@ -1,0 +1,106 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>6　　元徳3年8月21日　　_沙弥きやうにん田地売劵（＃２３１）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/466/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/466/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/940/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="武光">
+					<span>武光</span>
+				</span>
+				<span xml:id="重見">
+					<span>重見</span>
+				</span>
+				<span xml:id="競望">
+					<span>競望</span>
+				</span>
+				<span xml:id="つ">
+					<span>つ</span>
+				</span>
+				<span xml:id="高城">
+					<span>高城</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				二三一　沙弥きやうにん田地売券
+				<lb/>
+				
+さつまのくに
+				<span corresp="#高城">たき</span>
+				のこほり吉枝名内亡父きやうゑのゆつりしやう、よう
+				<lb/>
+				
+よう候によて、ようとう十五貫文に、そうりやう
+				<span corresp="#武光">たけミつ</span>
+				とのに、やう
+				<lb/>
+				
+たいをかきてうりわたしまいらせ候了、かの状ニのせられ候つほつほ、
+				<lb/>
+				
+御ちきやうあるへく候、このうへハ、自余のつほ
+				<span corresp="#つ">い</span>
+				け、そうしてきやう●ゑのふんのうちとかうして、なかく
+				<span corresp="#競望">けうはう</span>
+				のきあるましく候、よての
+				<lb/>
+				
+ちのためにしやう如件、
+				<lb/>
+				
+　　　元徳三年八月廿一日　　　　　　　　しやミきやうにん
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　　　　　　　　（花押）
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

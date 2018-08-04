@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>11　　(年月日欠)　　　　_武光氏系図（＃２２４）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/459/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/459/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/937/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="重見">
+					<span>重見</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				二二四　武光氏系図
+				<lb/>
+				
+　高城郡司高信　童名薬師　六郎信康　　大郎信久　　又大郎光信　　六郎実信
+				<lb/>
+				
+　仮名武光三郎
+				<lb/>
+				
+　　　　　　　　　　　　　二郎師高　　弥伴太師永　　孫大郎兼光　　小大郎盛光
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　伴二郎高重　　二郎師経
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　伴次郎大郎師重　　三郎師兼法忍　　弥三郎経兼日妙
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　　　　　　　四郎師員　　三郎重兼心呈　　小三郎兼氏心賢
+				<lb/>
+				
+　　　　　　　　　　　　　新三郎兼我浄琳　　三郎太郎伊兼浄冨
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

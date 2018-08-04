@@ -1,0 +1,137 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>9　　文永7年10月15日　　渋谷定仏(重経)同公重連署和与状案（＃６４）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/301/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/301/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/559/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="ら">
+					<span>ら</span>
+				</span>
+				<span xml:id="市比野">
+					<span>市比野</span>
+				</span>
+				<span xml:id="楡木田">
+					<span>楡木田</span>
+				</span>
+				<span xml:id="定仏">
+					<span>定仏</span>
+				</span>
+				<span xml:id="公重">
+					<span>公重</span>
+				</span>
+				<span xml:id="弥毛原">
+					<span>弥毛原</span>
+				</span>
+				<span xml:id="く">
+					<span>く</span>
+				</span>
+				<span xml:id="塔原">
+					<span>塔原</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				六四　渋谷定仏重経同公重連署和与状案
+				<lb/>
+				
+　　　　　○同文ノ案文、第八九号ニ収メタリ、宜シク彼此参看スベシ、
+				<lb/>
+				
+　　　た□□□□□□□候へく候、
+				<lb/>
+				
+
+				<span corresp="#塔原">たうのはら</span>
+				と
+				<span corresp="#市比野">いちゐの</span>
+				ゝさかいわよの事、へんひの□□□□けふミのこと
+				<lb/>
+				
+
+				<span corresp="#く">□</span>
+				ゆひらのひたをへきる、同ゆのこたにのミつかきたのたにのなかれ
+				<lb/>
+				
+を、いちゐのかわへきる、
+				<span corresp="#楡木田">にれきた</span>
+				にをいてハたうのは
+				<span corresp="#ら">□</span>
+				なり、
+				<span corresp="#公重">きんしけ</span>
+				<lb/>
+				
+かいろいあるましく候、同くきのゝとをうむれとのあいのこたにを
+				<lb/>
+				
+のほりニ、やはすの
+				<span corresp="#弥毛原">やけはら</span>
+				のさかいをきる、やはすのくまのゝにおい
+				<lb/>
+				
+てハ、いかういちゐのなり、
+				<span corresp="#定仏">ちやうふつ</span>
+				かいろいあるへからす、よての
+				<lb/>
+				
+ちのせうもんのために、わよのしやうくたんのことし、
+				<lb/>
+				
+　　　ふんえい七ねん十月十五日　　　　　　　　きんしけ在判
+				<lb/>
+				
+たうのハらの兵衛入道殿　　　　　　　　　　　　しやうふつ在判
+				<lb/>
+				
+市比野四郎三郎所中
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

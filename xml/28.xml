@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>2　 (慶保6年)10月27日　関東御教書案（＃２８）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/268/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/268/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/670/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="時政">
+					<span>時政</span>
+				</span>
+				<span xml:id="左カ">
+					<span>左カ</span>
+				</span>
+				<span xml:id="忠久">
+					<span>忠久</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				二八　関東御教書案
+				<lb/>
+				
+薩摩郡内山田村本領主大蔵氏所進折帋献之、如状者、右近将監友久狼藉
+				<lb/>
+				
+無遁方歟、早相尋子細、所行若実者、可令召進開東給候、仍執達如件、
+				<lb/>
+				
+　　　十月廿七日　　　　　　　　　　　　
+				<span corresp="#左カ">右</span>
+				京
+				<span corresp="#時政">権</span>
+				大夫在判
+				<lb/>
+				
+Ｐ８
+				<lb/>
+				
+嶋津
+				<span corresp="#忠久">左</span>
+				衛門尉殿
+				<lb/>
+				
+　　建保六年十月廿七日給了
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

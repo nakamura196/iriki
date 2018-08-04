@@ -1,0 +1,120 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>14　 文明13年8月22日　　島津武久契状（＃４０）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/280/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/280/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/859/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/280/canvas/p2" url="https://diyhistory.org/public/omekas12/iiif-img/860/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="重聡">
+					<span>重聡</span>
+				</span>
+				<span xml:id="包紙ウハ書">
+					<span>包紙ウハ書</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				四〇　島津武久契状
+				<lb/>
+				
+　　　　　　○包紙ハ、モトコノ文書ノモノナリヤ疑ナキニアラズ、今成巻
+				<lb/>
+				
+　　　　　　ノ順序に従ヒテコヽに収ム、
+				<lb/>
+				
+　　　契状
+				<lb/>
+				
+一三ヶ国雖如何様転変、無二可申合旨、得其意候、御親父重豊年来叮嚀
+				<lb/>
+				
+之儀、殊去一乱之時、甚深之御志、父子共ニ自今以後、弥可被懸御意
+				<lb/>
+				
+子細専一候、如然之御心中之時者、一段他ニ異申談、御大事を身之大
+				<lb/>
+				
+事と可存事、
+				<lb/>
+				
+一於御親類中之時宜、再三承分候、可存其儀事、
+				<lb/>
+				
+一和讒凶害之時者、互無覆蔵可申承事、
+				<lb/>
+				
+　　　若此条〃偽候者、
+				<lb/>
+				
+伊勢太神宮、八幡大菩薩、
+				<lb/>
+				
+諏訪上下大明神、可罷蒙御罰候、
+				<lb/>
+				
+　　　文明十三年八月廿二日　　　　　武久（花押）
+				<lb/>
+				
+　　　　入来院
+				<span corresp="#重聡">又五郎</span>
+				殿
+				<lb/>
+				
+　　　
+				<span corresp="#包紙ウハ書">「</span>
+				御使川上又八郎殿」
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

@@ -1,0 +1,149 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>4　　元徳4年3月10日　　_薩摩高城郡本萬徳名等辨済使兼快契状（＃１６０）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/396/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/396/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/537/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="避">
+					<span>避</span>
+				</span>
+				<span xml:id="×朝">
+					<span>×朝</span>
+				</span>
+				<span xml:id="宇">
+					<span>宇</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				一六〇　薩摩高城郡本萬徳名等辨済使兼快契状
+				<lb/>
+				
+　　　　　　○コノ文書、紙継目裏に兼快ノ花押アリ、
+				<lb/>
+				
+薩摩国高城郡本万徳名内田薗并上村名弁済使職事
+				<lb/>
+				
+　　合本万徳名内田薗坪付
+				<lb/>
+				
+一田地分　蔵町六段　原田内三段廿東依常荒　下
+				<span corresp="#宇">〓</span>
+				津木並八段　柏木卅　松
+				<lb/>
+				
+本内二段卅六代東依　野本内二反廿中　小舎人迫四段十　〓町本坪内
+				<lb/>
+				
+五段　権二郎作二反卅　世戸口二段　丸田四段　餝迫卅　樋口一段廿
+				<lb/>
+				
+中　大猿田三段四十　小猿田三反四十　矣
+				<lb/>
+				
+一薗分　一所孫太郎薗草原　一所同外薗　一所新二郎薗　一所同外薗
+				<lb/>
+				
+一所弥太郎薗　一所中薗　一所原口薗　一所南薗　一所桜井篭本薗
+				<lb/>
+				
+一所同外薗南依　一所草三郎薗　一所榎丁三分一東依小四郎居薗　一所借屋
+				<lb/>
+				
+Ｐ７２
+				<lb/>
+				
+薗四分参東依　矣
+				<lb/>
+				
+右、於弁済使職者、以去乾元二年、奉沽却畢、而本銭内十五貫五百文依
+				<lb/>
+				
+奉返候、於彼田薗并上村万徳名計弁済使職者、
+				<span corresp="#避">庭</span>
+				給候畢、仍所残本万徳
+				<lb/>
+				
+田薗并久能弁済使職者、任乾元二年沽却状、如元武光殿可令所務給候、
+				<lb/>
+				
+本万徳御年貢内請料四百六十弐文、桑代百六十文、脚力用途八十文、御
+				<lb/>
+				
+米二斗三舛一合、大豆１斗一舛三合、并上村御年貢等者、兼快可為沙汰
+				<lb/>
+				
+者也、所残本万徳御年貢内請料六百九十三文、脚力用途百二十文、桑代
+				<lb/>
+				
+二百四十文、御米三斗四舛五合五夕、大豆一斗七舛一合、并久能分御年
+				<lb/>
+				
+貢銭百四十一文、米一斗九舛一合者、毎年三月中、対于兼快、可令沙汰
+				<lb/>
+				
+給候、将又、就弁済使職、御公事出来之時者、於五分参者、可令勤仕給
+				<lb/>
+				
+候、五分弐者、兼快可勤仕也、毎納者、以
+				<span corresp="#×朝">乾</span>
+				元沽券之状、可被所務也、
+				<lb/>
+				
+仍為後日状如件、
+				<lb/>
+				
+　　　元徳四年三月十日　　　　　　　　　　　弁済使兼快（花押）
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

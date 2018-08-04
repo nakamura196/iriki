@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>5　　至徳元年8月23日　　薩摩入来院最禅寺住持惠棟譲状（＃１０４）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/340/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/340/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/696/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="村カ">
+					<span>村カ</span>
+				</span>
+				<span xml:id="副">
+					<span>副</span>
+				</span>
+				<span xml:id="端裏書">
+					<span>端裏書</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				一〇四　薩摩入来院最禅寺住持惠棟譲状
+				<lb/>
+				
+
+				<span corresp="#端裏書">「</span>
+				譲状」
+				<lb/>
+				
+薩州入来院南方本
+				<span corresp="#村カ">持</span>
+				萬寿山最禅寺住持職事
+				<lb/>
+				
+右、此所者雖為寺領、重代相伝本領也、　然相
+				<span corresp="#副">制</span>
+				本文書、限永代譲与慧
+				<lb/>
+				
+瑞侍者也、仍譲状如件、
+				<lb/>
+				
+　　　至徳元年甲子八月二十三日
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　　　　住持惠棟（花押）
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

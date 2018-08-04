@@ -1,0 +1,251 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>1　　正和3年10月3日　　_藤原親郷等勘渡文書目録（＃２２６）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/461/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/461/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/894/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/461/canvas/p2" url="https://diyhistory.org/public/omekas12/iiif-img/895/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/461/canvas/p3" url="https://diyhistory.org/public/omekas12/iiif-img/896/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/461/canvas/p4" url="https://diyhistory.org/public/omekas12/iiif-img/897/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/461/canvas/p5" url="https://diyhistory.org/public/omekas12/iiif-img/898/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="重見">
+					<span>重見</span>
+				</span>
+				<span xml:id="議">
+					<span>議</span>
+				</span>
+				<span xml:id="×通">
+					<span>×通</span>
+				</span>
+				<span xml:id="状脱カ">
+					<span>状脱カ</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				二二六　藤原親郷等勘渡文書目録
+				<lb/>
+				
+　　　　　　○コノ文書、紙継目裏毎（※印ノ部分）ニ藤原親郷ノ花押アリ、
+				<lb/>
+				
+　注進　薩摩国高城郡内吉枝名同車内并在庁職証文等、任公方御下知之
+				<lb/>
+				
+　旨、当名能惣領仁奉勘渡目録事
+				<lb/>
+				
+　　　合
+				<lb/>
+				
+一通　師高譲状案文　建保六年二月日　不知正文在所、共可尋之、
+				<lb/>
+				
+一通　高重譲状案文　建長七年歳次乙卯七月廿四日不知正文在所、共可尋之、
+				<lb/>
+				
+一通　師高
+				<span corresp="#状脱カ">譲</span>
+				案文　貞応元年八月日
+				<lb/>
+				
+一通　同譲状案文　寛喜四年七月十三日
+				<lb/>
+				
+一通　高長譲状案文　承久三年十一月廿一日
+				<lb/>
+				
+一通　関東御教書案文　正嘉元年五月二日
+				<lb/>
+				
+一通　領家御下文案文　文永九年十一月四日
+				<lb/>
+				
+　　以上此五通状者、京都居住仁、民部法橋許預置候、請取与書状并彼
+				<lb/>
+				
+　証文等案文封裏進之、正文者、取寄迫可進之、
+				<lb/>
+				
+一通　師重法名道行譲状正文　正安四年九月卅日
+				<lb/>
+				
+一通　同譲状正文　正安五年正月　日
+				<lb/>
+				
+一通　領家御下文正文　弘安五年正月日
+				<lb/>
+				
+一通　同御下文正文　弘安五年正月八日
+				<lb/>
+				
+一通　同御下文正文　弘安九年八月※廿一日
+				<lb/>
+				
+一通　同御下文正文　正応参年六月　日
+				<lb/>
+				
+Ｐ９５
+				<lb/>
+				
+一通　同御下文正文　正応四年六月　日
+				<lb/>
+				
+一通　同御下文正文　永仁二年正月十五日
+				<lb/>
+				
+一通　同御下文正文　正安四年八月廿六日
+				<lb/>
+				
+一通　地頭方施行正文　弘安九年閏十二月日
+				<lb/>
+				
+一通　同施行正文　正応四年九月五日
+				<lb/>
+				
+一通　領家御挙状正文　弘安九年十一月十日
+				<lb/>
+				
+一通　領家御挙状案文　建治元年十二月二日
+				<lb/>
+				
+一通　六波羅御教書正文　弘安九年十一月五日
+				<lb/>
+				
+一通　六波羅殿御教書案文　建治元年十二月十七日
+				<lb/>
+				
+一通　守護所請文案文　建治参年四月九日　封裏進之、
+				<lb/>
+				
+一通　六波羅御教書案文　建治元年五月十一日　同封裏進之、
+				<lb/>
+				
+一通　武蔵殿御教書正文　六月十四日両御判在之、〓弱訴人等被預置于人ニ由事、
+				<lb/>
+				
+一通　一見状正文　正応六年七月六日越後殿御判在之、
+				<lb/>
+				
+一通　守護方警固書下　正応六年七月十日
+				<lb/>
+				
+一
+				<span corresp="#×通">巻</span>
+				　車内証文并地頭与領家相論訴陳状・具書等案文、皆封裏進之、
+				<lb/>
+				
+一　在庁職証文等内
+				<lb/>
+				
+一通　庁宣案文　安貞二年三月卅日
+				<lb/>
+				
+一通　庁宣案文　永仁二年九月　日　※国領薗事
+				<lb/>
+				
+一通　庁宣案文　永仁三年正月　日　国領薗事
+				<lb/>
+				
+　　此在庁職証文同具書等者、不知正文在所候、正文在所聞出候時者、
+				<lb/>
+				
+　可沙汰進候、自御方同可被沙汰召候、
+				<lb/>
+				
+右証文等帯持之分、不残一帋、任公方御下知之旨、吉枝名惣領仁奉勘
+				<lb/>
+				
+渡畢、此上者、雖為散文書一通、取落而以其不可致訴訟候、若有残証文
+				<lb/>
+				
+者、随見出而可進之、不思
+				<span corresp="#議">儀</span>
+				仁天毛彼名并在庁職証文等、他人帯持之由承
+				<lb/>
+				
+及者、不可奉隠之候、又沙汰取可進之、自惣領毛任御下知之旨、可被沙
+				<lb/>
+				
+汰候、将又此内案文計進候証文能正文者、自是毛可尋出候、自惣領毛可
+				<lb/>
+				
+有御尋候、仍証文目録如件、
+				<lb/>
+				
+　　　正和参年十月三日　　　　　　　　　　藤原弥法師丸（花押）
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　　伴氏女（花押）
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　　藤原親郷（花押）
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　証　　人
+				<lb/>
+				
+　　　　　　　　　　　　　　　　高城郡惣地頭代伴弘雄（花押）
+				<lb/>
+				
+　　　　　　　　　　　　　　　　薩摩国守護代沙弥阿忍（花押）
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

@@ -1,0 +1,104 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>12　　貞和7年3月18日　　_武光重兼譲状（＃１１１）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/347/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/347/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/705/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="重見">
+					<span>重見</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				一一一　武光重兼譲状
+				<lb/>
+				
+譲与　小三郎兼者所
+				<lb/>
+				
+薩摩国高城郡本方徳名惣領職同弁済使職、
+				<lb/>
+				
+同国同郡吉枝名惣領職
+				<lb/>
+				
+筑前国七隈郷一分地頭職田薗畠地、正応配分状ニ分明也、
+				<lb/>
+				
+薩摩国宮里郷権次郎名惣領田薗等
+				<lb/>
+				
+同郷清水寺別当職免田薗山野等
+				<lb/>
+				
+薩摩国三番在庁職国領薗弐ヶ所北円石走也、
+				<lb/>
+				
+　牛尿書生職、日置南郷書生職
+				<lb/>
+				
+右所領所帯等者、重兼重代相伝所領也、而間、相副安堵御下文御下知御
+				<lb/>
+				
+Ｐ５７
+				<lb/>
+				
+教書已下代〃手継状等、所譲与兼者也、至後〃将来、無他妨可知行、舎
+				<lb/>
+				
+弟等令分譲於田薗者、御公事配分之外、不可致違乱、仍譲状如件、
+				<lb/>
+				
+　　　貞和七年三月十八日　　　　　　　　　　　　重兼（花押）
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

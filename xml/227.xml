@@ -1,0 +1,290 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>2　　応長2年6月17日　　_武光法忍(師兼)同日一筆譲状（＃２２７）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/462/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/462/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/885/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/462/canvas/p2" url="https://diyhistory.org/public/omekas12/iiif-img/886/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/462/canvas/p3" url="https://diyhistory.org/public/omekas12/iiif-img/887/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/462/canvas/p4" url="https://diyhistory.org/public/omekas12/iiif-img/888/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/462/canvas/p5" url="https://diyhistory.org/public/omekas12/iiif-img/889/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/462/canvas/p6" url="https://diyhistory.org/public/omekas12/iiif-img/890/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/462/canvas/p7" url="https://diyhistory.org/public/omekas12/iiif-img/891/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="法忍">
+					<span>法忍</span>
+				</span>
+				<span xml:id="重見">
+					<span>重見</span>
+				</span>
+				<span xml:id="追筆">
+					<span>追筆</span>
+				</span>
+				<span xml:id="〓">
+					<span>〓</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				二二七　武光法忍師兼同日一筆譲状
+				<lb/>
+				
+　　　　　　○コノ文書、紙継目裏毎（※印ノ部分）ニ法忍ノ花押アリ、
+				<lb/>
+				
+　譲与
+				<lb/>
+				
+　　　先祖相伝所職并所領田畠等事
+				<lb/>
+				
+一　弥三郎経兼分
+				<lb/>
+				
+　本万徳惣領職加弁済使所務定
+				<lb/>
+				
+　上村　給乃弁済使職
+				<lb/>
+				
+　清水寺院主職并田薗等
+				<lb/>
+				
+　在庁職　牛屎院書生職　南郷書生職
+				<lb/>
+				
+　入来院塔原内南部村并弥毛原村但、此刀部・弥毛原両村ハ、後ニハ可譲給三郎太郎也、　吉枝名惣領職
+				<lb/>
+				
+　宮里郷内正岡田地参町并堂薗壱曲在御下知、
+				<lb/>
+				
+Ｐ９６
+				<lb/>
+				
+　勲功御領筑前国七隈郷惣領職
+				<lb/>
+				
+一　三郎次郎師藤分
+				<lb/>
+				
+　万徳名内　又五郎居薗壱曲　源藤次郎薗壱曲
+				<lb/>
+				
+　　源藤太郎薗壱曲　山門尼御前本薗壱曲　藤四郎安光薗壱曲
+				<lb/>
+				
+　　　以上五ヶ所分許ニ宛テ加弁済使所務
+				<lb/>
+				
+　水田　宇津木並八段　溝越四段同加弁※済使所務
+				<lb/>
+				
+　吉枝名内　西町壱町　小山本三段十坪　保佐田五段付下
+				<lb/>
+				
+　同四郎入道契約田薗等壱曲　在庁給壱町　元五町内
+				<lb/>
+				
+　新五郎薗壱曲　西尾寺院主職并加田薗等定
+				<lb/>
+				
+　勲功御領筑前国七隈郷内淵田壱町同長淵畠地壱所
+				<lb/>
+				
+　入来院塔原大狩倉諸絹拾伍内絹陸両
+				<lb/>
+				
+一　伴三兼治分
+				<lb/>
+				
+　万徳名内　石走五段　西部弐段　原田早田壱段卅坪此坪等許充テ、加弁済使所務定、
+				<lb/>
+				
+　八溝田参段　軍原壱曲加崎原定、此分許ニ宛テ加弁済使所務定、
+				<lb/>
+				
+　吉枝名内　
+				<span corresp="#〓">〓</span>
+				丸六段　保佐田五段付上　牧崎当時細工作薗壱所
+				<lb/>
+				
+　入来院塔原内大狩倉諸絹拾伍内絹五両
+				<lb/>
+				
+　在庁給五段元五町内
+				<span corresp="#追筆">「</span>
+				勲功御領筑前国七隈郷内袴田伍五〃段　件田者、
+				<lb/>
+				
+　　　　　　　　　書落六月十七日譲状之間、重所譲也、
+				<span corresp="#法忍">（花押）</span>
+				」
+				<lb/>
+				
+一　又三郎兼正分
+				<lb/>
+				
+　万徳名内　弥二郎入道薗壱曲　当時居薗　此分ニ宛テ、加弁済使所務定、
+				<lb/>
+				
+　又竹中薗壱曲　前小薗壱曲　此者雖為小太郎之薗、被売本主之時、
+				<lb/>
+				
+　止餘人競望、可令売領知之、背此儀於子孫等者、可為不孝仁也、
+				<lb/>
+				
+　字水田三段坪　深町卅代坪同加弁済使所務
+				<lb/>
+				
+　宮里郷内　志奈田陸段　梵フクロ三段　本大〃※野本三段坪
+				<lb/>
+				
+　平良〃田弐段卅坪止一向地頭所務、証文在之、　正冨内元小田五段内二段ハ地頭秡田除之、
+				<lb/>
+				
+　三段内壱段ハ停止地頭所務、証文在之、　〓王丸内一房薗壱所同停止地頭所務、証文在之、
+				<lb/>
+				
+　五大院若吉内柳田八段　小樋口弐段本方三段
+				<lb/>
+				
+　新田宮領荒野壱曲限東正岡作畠、　限西大俣日溝、限北毛苅田、　　限南万徳堺、
+				<lb/>
+				
+　吉枝名内　松本四段　橋口八段　長薗壱曲
+				<lb/>
+				
+　勲功御領筑前国橋爪四段大六十歩
+				<lb/>
+				
+　在庁給五段　元五町内
+				<lb/>
+				
+　入来院塔原内大狩倉諸絹拾伍内絹四両
+				<lb/>
+				
+一　女子乙〓御前分
+				<lb/>
+				
+　万徳名内　榎木町薗壱曲加弁済使所務定、
+				<lb/>
+				
+　五大院若吉名惣領職
+				<lb/>
+				
+　　　但、柳田八段　小樋口弐段　本万三段、又三郎ニ譲与也、此外ハ可令知行
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　也、坪付ハ見本証文、
+				<lb/>
+				
+一　三郎太郎兼長所
+				<lb/>
+				
+　万徳名内　当時居薗加弁済使所務
+				<lb/>
+				
+　水田　武津町壱町但、法忍命後ハ可令知行也、
+				<lb/>
+				
+　牧崎舟太郎薗堺河縁薗壱曲
+				<lb/>
+				
+　入来院塔原内　南部村　弥毛原村此両村者、経兼命之後ハ可知行也、
+				<lb/>
+				
+一　後家分
+				<lb/>
+				
+　万徳名内　当時居薗壱所　中津牟礼坪
+				<lb/>
+				
+　吉枝名内打開四段　本銭返田薗并沽却田畠等但、除吉枝、質券地等定、
+				<lb/>
+				
+　家内資財物并所従下人等但、所譲与正安三年三月廿三日於田薗等者、一期之後者、可被付于惣領也、
+				<lb/>
+				
+一　〓石分
+				<lb/>
+				
+Ｐ９７
+				<lb/>
+				
+　万徳名内　中津牟礼坪加弁済使所務定、
+				<lb/>
+				
+一　土用御前阿久利御前所
+				<lb/>
+				
+　平四郎薗壱所但、一期之後者、可被返付于惣領也、
+				<lb/>
+				
+右、件所職田薗等者、守面〃譲状等、可令知行之状如件、
+				<lb/>
+				
+　　　応長二年六月十七日　　　　　　　　　　　法忍（花押）
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

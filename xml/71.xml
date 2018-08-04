@@ -1,0 +1,349 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>1　　（永伝元年カ）　　_田畠薗地并屋敷注文（＃７１）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/308/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/308/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/547/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/308/canvas/p2" url="https://diyhistory.org/public/omekas12/iiif-img/548/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/308/canvas/p3" url="https://diyhistory.org/public/omekas12/iiif-img/549/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/308/canvas/p4" url="https://diyhistory.org/public/omekas12/iiif-img/550/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/308/canvas/p5" url="https://diyhistory.org/public/omekas12/iiif-img/551/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/308/canvas/p6" url="https://diyhistory.org/public/omekas12/iiif-img/552/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="延徳二年">
+					<span>延徳二年</span>
+				</span>
+				<span xml:id="マヽ">
+					<span>マヽ</span>
+				</span>
+				<span xml:id="異筆">
+					<span>異筆</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				七一　田畠薗地并屋敷注文
+				<lb/>
+				
+一上原西之門
+				<lb/>
+				
+一みな原之門
+				<lb/>
+				
+一上副田西薗之門
+				<lb/>
+				
+一倉野田中之門
+				<lb/>
+				
+一中村下坂本之門
+				<lb/>
+				
+一くすもと上江河之門
+				<lb/>
+				
+一山田諏訪薗門夫足ハカリ、年貢ハ神物ニ仕候、
+				<lb/>
+				
+一草原田中門
+				<lb/>
+				
+一田崎うへの薗門
+				<lb/>
+				
+一天辰東門
+				<lb/>
+				
+　　　御自作　　　
+				<span corresp="#延徳二年">永伝元年</span>
+				カノヘイヌ之年ノイ子カス
+				<lb/>
+				
+二反二丁　　　みなを田つふき百弐十参は也、　　中間十郎二郎与次郎
+				<lb/>
+				
+五反　　　　　くら野つゝミ田
+				<lb/>
+				
+五反　　　　　倉野ゝつる
+				<lb/>
+				
+一反二丁中　　倉野さこ田
+				<lb/>
+				
+四反二丁　　　中村山本
+				<lb/>
+				
+四反　　　　　中村かわち田
+				<lb/>
+				
+Ｐ２６
+				<lb/>
+				
+四反丁　　　　同まへ田
+				<lb/>
+				
+二反　　　　　くすもとのつく田
+				<lb/>
+				
+三反三丁　　　くすもとの三反田
+				<lb/>
+				
+三丁　　　　　同一せまち
+				<lb/>
+				
+一反二丁中　　同くわはた
+				<lb/>
+				
+一反二丁　　　同てらさこ
+				<lb/>
+				
+二反　　　　　上副田原田
+				<lb/>
+				
+一反　　　　　同桑の木丸
+				<lb/>
+				
+六反　　　　　山田鳥越
+				<lb/>
+				
+一町二反　　　同ちか田
+				<lb/>
+				
+四反　　　　　同みたう井
+				<lb/>
+				
+三反二丁　　　同山した
+				<lb/>
+				
+五反　　　　　同ときてん
+				<lb/>
+				
+一反　　　　　同うちわさ田
+				<lb/>
+				
+一町一反
+				<span corresp="#異筆">「</span>
+				三町一反二丁」　　天辰こなてしま
+				<lb/>
+				
+
+				<span corresp="#マヽ">一</span>
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　（紙継目）
+				<lb/>
+				
+　　畠地自作分
+				<lb/>
+				
+五反　　　　　中村いけつる
+				<lb/>
+				
+二丁　　　　　同山本のうち
+				<lb/>
+				
+二丁　　　　　同なかれより
+				<lb/>
+				
+四丁　　　　　倉野山下
+				<lb/>
+				
+二反　　　　　同又山下
+				<lb/>
+				
+一反二丁　　　同宮のわき
+				<lb/>
+				
+五反　　　　　同大その
+				<lb/>
+				
+二反三丁　　　同あせち
+				<lb/>
+				
+二丁　　　　　同田のうへ
+				<lb/>
+				
+一反　　　　　同つる
+				<lb/>
+				
+一反　　　　　同田しま
+				<lb/>
+				
+一ヶ所　　　　同こきたの屋敷
+				<lb/>
+				
+一ヶ所　　　　下久住もとハ上屋殿被持候也、
+				<lb/>
+				
+四反　　　　　中村上つる
+				<lb/>
+				
+三反丁　　　　同ふなかハら
+				<lb/>
+				
+三丁　　　　　くすもと堂のまへ
+				<lb/>
+				
+一反三丁　　　同くほその
+				<lb/>
+				
+二反　　　　　天辰みたちその
+				<lb/>
+				
+茶薗　　　　　たうの原しまゑん
+				<lb/>
+				
+茶薗　　　　　くめかた
+				<lb/>
+				
+大茶薗　　　　くら野
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　（紙継目）
+				<lb/>
+				
+　　屋敷者
+				<lb/>
+				
+くら野ゝ三郎右衛門　　　　　田一反中一ヶ所一反三丁
+				<lb/>
+				
+同八郎次郎　　　　　　　　　　田二反四丁一ヶ所畠地一反四丁
+				<lb/>
+				
+同太郎四郎　　　　　　　　　　田一反四丁一ヶ所畠地三反二丁
+				<lb/>
+				
+同九郎太郎　　　　　　　　　　田一反丁一ヶ所畠地一反
+				<lb/>
+				
+同助九郎　　　　　　　　　　　田一反中一ヶ所畠地一反四丁
+				<lb/>
+				
+Ｐ２７
+				<lb/>
+				
+同勢三郎　　　　　　　　　　　田二反三丁一ヶ所畠地四丁
+				<lb/>
+				
+くす本助四郎　　　　　　　　　田三反二丁中一ヶ所畠地二反丁
+				<lb/>
+				
+同助六　　　　　　　　　　　　田一反二丁一ヶ所畠地二反四丁
+				<lb/>
+				
+同四郎五郎　　　　　　　　　　一ヶ所畠地二反
+				<lb/>
+				
+同三郎四郎　　　　　　　　　　一ヶ所畠地一反丁
+				<lb/>
+				
+同孫平次　　　　　　　　　　　一ヶ所ハカリ
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　（紙継目）
+				<lb/>
+				
+副田孫太郎　　　　　　　　　　田一反四丁一ヶ所畠地二丁
+				<lb/>
+				
+同五郎四郎　　　　　　　　　　田四丁中一ヶ所畠地三丁
+				<lb/>
+				
+同六郎四郎　　　　　　　　　　田一反四丁一ヶ所畠地一反
+				<lb/>
+				
+同平五郎　　　　　　　　　　　田一反一ヶ所
+				<lb/>
+				
+同二郎右衛門　　　　　　　　　一ヶ所茶薗畠二反
+				<lb/>
+				
+山田作子彦九郎　　　　　　　　田二反一ヶ所畠地六反
+				<lb/>
+				
+同彦三郎　　　　　　　　　　　一ヶ所畠地五反
+				<lb/>
+				
+同彦五郎　　　　　　　　　　　一ヶ所畠地二反
+				<lb/>
+				
+　　畠地自作分　　　　　　　　副田
+				<lb/>
+				
+一反　　　　　　　　　　　　　同原口
+				<lb/>
+				
+二反　　　　　　　　　　　　　同森木の本
+				<lb/>
+				
+一反　　　　　　　　　　　　　同つふき田のうへ
+				<lb/>
+				
+〓　　　　　　　　　　　　　　同ゐなりの前
+				<lb/>
+				
+茶薗　　　　　上副田之分如何之、
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

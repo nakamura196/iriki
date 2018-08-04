@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>12　　建長5年11月29日　　渋谷定心同明重連署譲状案（＃５１）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/289/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/289/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/906/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="定心">
+					<span>定心</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				五一　渋谷定心同明重連署譲状案
+				<lb/>
+				
+　　四郎重経にゆつりわたすところのそりやう
+				<lb/>
+				
+一所てらをの村　　一〃いせの大くてん
+				<lb/>
+				
+一所河会郷十丁北　一〃入来塔原
+				<lb/>
+				
+　四至堺ゆつり状見たり、
+				<lb/>
+				
+　としをいてもうもうなるによりて、この状よりさきにいかなる状あり
+				<lb/>
+				
+といふとも、又このゝちも別状いてくといふとも、重経かそりやうに
+				<lb/>
+				
+は、いさゝかのわつらひあるましき也、
+				<lb/>
+				
+一女子三人やしきゝうてんは、重経かりやうのうち也、大番時ハふけん
+				<lb/>
+				
+　にしたかはん公事をあひかくへし、のちのそうもんのために状如件、
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　　　平明重在判
+				<lb/>
+				
+　　　建長五年十一月廿九日　　　　　　　　　
+				<span corresp="#定心">僧</span>
+				在判
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

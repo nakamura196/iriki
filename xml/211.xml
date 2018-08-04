@@ -1,0 +1,97 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>15　　至徳2年2月7日　　　今川了俊(貞世)感状（＃２１１）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/447/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/447/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/608/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="貞世">
+					<span>貞世</span>
+				</span>
+				<span xml:id="重頼">
+					<span>重頼</span>
+				</span>
+				<span xml:id="三雄">
+					<span>三雄</span>
+				</span>
+				<span xml:id="肥後">
+					<span>肥後</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				二一一　今川了俊貞世感状（小切紙）
+				<lb/>
+				
+
+				<span corresp="#肥後">水俣</span>
+				城合力之由、
+				<span corresp="#三雄">大将</span>
+				令注進之間、所感悦也、向後堅被致合力者、弥可
+				<lb/>
+				
+為忠節上者、且所令執申京都也、定可有御感歟、重尚依注進、可被仰之
+				<lb/>
+				
+状如件、
+				<lb/>
+				
+　　　至徳二年二月七日　　
+				<span corresp="#貞世">沙弥</span>
+				（花押）
+				<lb/>
+				
+　　　　　渋谷
+				<span corresp="#重頼">五郎</span>
+				殿
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

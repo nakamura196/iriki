@@ -1,0 +1,144 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>11　　建保5年9月26日　　_島津庄政所施行状（＃１３１）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/367/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/367/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/782/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="大〓">
+					<span>大〓</span>
+				</span>
+				<span xml:id="伴">
+					<span>伴</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				一三一　島津庄政所施行状
+				<lb/>
+				
+御庄政所
+				<lb/>
+				
+　施行薩摩方御領薩摩郡内山田村名頭職事
+				<lb/>
+				
+右、去八月日源宗久京進解状下給称、件村者、是宗久妻女之先祖相伝所
+				<lb/>
+				
+領也、而高祖父
+				<span corresp="#伴">信</span>
+				房之時、為薩州住人忠景一国惣領之時、暫押領歟、而
+				<lb/>
+				
+以彼非例、称兼宗庄方弁済使職、彼所押領之程、曾祖父信明任文書道
+				<lb/>
+				
+理、如本蒙裁許、領掌顕然也、随又宗久妻女之父故
+				<span corresp="#大〓">種信</span>
+				相継領掌畢き、
+				<lb/>
+				
+而種信死去之後、同無妨領知之程、庄国課役難堪之故、代官真清男迯脱
+				<lb/>
+				
+之尅、為弁済使友久寄事於左右、令押領云〃者、御外題云、件村事、如
+				<lb/>
+				
+申状者、尤有其謂、早任相伝道理、無違乱宗久可令領知之状、所仰如件
+				<lb/>
+				
+云云者、仍以施行、
+				<lb/>
+				
+　　　建保五年九月廿六日　　　　　　　　別当伴　朝臣
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　別当藤原朝臣（花押）
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　別当伴　朝臣（花押）
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　沙　　　　弥（花押）
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　別当藤原朝臣
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　別当藤原朝臣（花押）
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　別当伴　朝臣
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　別当藤原朝臣（花押）
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　執行伴　朝臣（花押）
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　別当漆嶋宿弥（花押）
+				<lb/>
+				
+Ｐ６５
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　別当藤原朝臣（花押）
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　別当伴　朝臣
+				<lb/>
+				
+　　　　　　　　　　　　　　　奉行執行刑部丞藤原朝臣（花押）
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>18　　元応元年12月25日　_薩摩守護代源貞綱遵行状（＃９３）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/330/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/330/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/874/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="惟重">
+					<span>惟重</span>
+				</span>
+				<span xml:id="為重">
+					<span>為重</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				九三　薩摩守護代源貞綱遵行状
+				<lb/>
+				
+渋谷
+				<span corresp="#為重">余一</span>
+				入道善阿申、相模国寺尾村内田畠在家以下之事、御教書案并相
+				<lb/>
+				
+副訴状令進候、任被仰下旨、御請文給可令進覧候、恐〃謹言、
+				<lb/>
+				
+　　　元応元年十二月廿五日　　　　　　　　　　源貞綱（花押）
+				<lb/>
+				
+　謹上渋谷
+				<span corresp="#惟重">孫三郎</span>
+				殿
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

@@ -31,25 +31,25 @@
 	   
 	<facsimile>
 		      
-		<surfaceGrp>
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/475/manifest">
 			      
 			<surface>
-				<graphic url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/24/00000001.jpg"/>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/475/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/722/full/full/0/default.jpg"/>
 			</surface>
 			<surface>
-				<graphic url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/24/00000002.jpg"/>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/475/canvas/p2" url="https://diyhistory.org/public/omekas12/iiif-img/723/full/full/0/default.jpg"/>
 			</surface>
 			<surface>
-				<graphic url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/24/00000003.jpg"/>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/475/canvas/p3" url="https://diyhistory.org/public/omekas12/iiif-img/724/full/full/0/default.jpg"/>
 			</surface>
 			<surface>
-				<graphic url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/24/00000004.jpg"/>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/475/canvas/p4" url="https://diyhistory.org/public/omekas12/iiif-img/725/full/full/0/default.jpg"/>
 			</surface>
 			<surface>
-				<graphic url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/24/00000005.jpg"/>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/475/canvas/p5" url="https://diyhistory.org/public/omekas12/iiif-img/726/full/full/0/default.jpg"/>
 			</surface>
 			<surface>
-				<graphic url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/24/00000006.jpg"/>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/475/canvas/p6" url="https://diyhistory.org/public/omekas12/iiif-img/727/full/full/0/default.jpg"/>
 			</surface>
 		</surfaceGrp>
 		   
@@ -61,11 +61,11 @@
 			         
 			<p>
 				         
-				<span xml:id="共カ">
-					<span>共カ</span>
-				</span>
 				<span xml:id="朱書">
 					<span>朱書</span>
+				</span>
+				<span xml:id="共カ">
+					<span>共カ</span>
 				</span>
 				<span xml:id="るカ">
 					<span>るカ</span>

@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>16　　元弘3年11月10日　　渋谷重棟同重利連署去状包紙（＃６７）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/304/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/304/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/652/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/304/canvas/p2" url="https://diyhistory.org/public/omekas12/iiif-img/653/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="包紙">
+					<span>包紙</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				六七　渋谷重棟同重利連署去状
+				<lb/>
+				
+去渡
+				<lb/>
+				
+　薩摩国祁荅院与入来院堺一野河床中木庭村等事
+				<lb/>
+				
+右所者、以去正安三年十二月廿五日、重利曾祖父渋谷次郎太郎入道妙行預
+				<lb/>
+				
+鎮西御下知訖、仍相伝当知行之地也、而渋谷六郎房静重今者死去、捧越訴状
+				<lb/>
+				
+就致訴訟、多年雖及其沙汰、所詮一族相論事、非本意之間、於彼一野・
+				<lb/>
+				
+河床・中木庭村者、相副妙行所給御下知、永代所去渡渋谷平二五郎重勝
+				<lb/>
+				
+也、且為後証、渋谷左衛門尉重棟加判形訖、向後不可有違乱変改之儀、
+				<lb/>
+				
+仍去状如件、
+				<lb/>
+				
+　　　元弘三年十一月十日　　　　　　　　　平　　　重利（花押）
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　　左衛門尉重棟（花押）
+				<lb/>
+				
+　　　
+				<span corresp="#包紙">「</span>
+				いちのゝ・かわとこ
+				<lb/>
+				
+　　　　　中こは・けたういん　　并くろき中津河
+				<lb/>
+				
+　　　　　入来院さかいの事　　　　　　　判　形」
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

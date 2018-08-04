@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>3　 (慶保6年)11月26日　島津忠久袖加判中務丞忠俊奉書写（＃２９）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/269/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/269/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/673/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="忠久">
+					<span>忠久</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				二九　島津忠久袖加判中務丞忠俊奉書写
+				<lb/>
+				
+　　　　　　　　　　　　　　　
+				<span corresp="#忠久">（花押）</span>
+				<lb/>
+				
+薩摩郡内山田村の名頭職事、大蔵氏女帯証文等、可令安堵由依訴申、任
+				<lb/>
+				
+文書之道理、可令領知之由、所成賜外題也、早無其煩、件村に大蔵氏を
+				<lb/>
+				
+可令為居之状如件、
+				<lb/>
+				
+　　　建保六年十一月廿六日　　　　　中務丞忠俊奉
+				<lb/>
+				
+　　薩摩方地頭代殿
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

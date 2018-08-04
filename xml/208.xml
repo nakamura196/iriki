@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>12　　応安5年12月25日　　今川了俊(貞世)軍勢催促状（＃２０８）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/444/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/444/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/821/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="貞世">
+					<span>貞世</span>
+				</span>
+				<span xml:id="懸紙ウハ書">
+					<span>懸紙ウハ書</span>
+				</span>
+				<span xml:id="重頼">
+					<span>重頼</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				二〇八　今川了俊貞世軍勢催促状（小切紙）
+				<lb/>
+				
+参御方致忠節者、本領不可有相違、有別功者、可被抽賞状如件、
+				<lb/>
+				
+　　　応安五年十二月廿五日　　
+				<span corresp="#貞世">沙弥</span>
+				（花押）
+				<lb/>
+				
+　　　渋谷
+				<span corresp="#重頼">乕五郎</span>
+				殿
+				<lb/>
+				
+　　
+				<span corresp="#懸紙ウハ書">「</span>
+				渋谷乕五郎殿　　了俊」
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

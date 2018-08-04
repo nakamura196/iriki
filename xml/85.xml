@@ -1,0 +1,162 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>10　　嘉吉元年2月27日　　渋谷重長譲状（＃８５）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/322/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/322/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/952/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/322/canvas/p2" url="https://diyhistory.org/public/omekas12/iiif-img/953/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="会">
+					<span>会</span>
+				</span>
+				<span xml:id="度">
+					<span>度</span>
+				</span>
+				<span xml:id="重豊">
+					<span>重豊</span>
+				</span>
+				<span xml:id="斐">
+					<span>斐</span>
+				</span>
+				<span xml:id="第">
+					<span>第</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				八五　渋谷重長譲状
+				<lb/>
+				
+　譲与
+				<lb/>
+				
+　　　所　孫
+				<span corresp="#重豊">菊五郎</span>
+				丸
+				<lb/>
+				
+一所　薩摩国入来院内清敷北方同南方
+				<lb/>
+				
+一所　北方内上副田村
+				<lb/>
+				
+一所　市比野村
+				<lb/>
+				
+一所　塔原村
+				<lb/>
+				
+一所　中村
+				<lb/>
+				
+一所　楠本村
+				<lb/>
+				
+一所　倉野村
+				<lb/>
+				
+一所　久住村
+				<lb/>
+				
+一所　柏嶋村
+				<lb/>
+				
+一所　薩摩国薩摩郡内永利名同地頭職
+				<lb/>
+				
+一所　筑前国柏原水田屋敷
+				<lb/>
+				
+一所　筑後国永淵屋敷、同国みなきの屋敷
+				<lb/>
+				
+一所　甲
+				<span corresp="#斐">双</span>
+				国西嶋内葦入在家田畠
+				<lb/>
+				
+一所　美作国河
+				<span corresp="#会">絵</span>
+				庄内下森上山大足
+				<lb/>
+				
+一所　相模国渋谷曾司郷ふちこゝろの屋敷立野等之事
+				<lb/>
+				
+右、於所領等者、重長重代相伝所領也、仍孫菊五郎仁相副次
+				<span corresp="#第">弟</span>
+				調
+				<span corresp="#度">渡</span>
+				手継
+				<lb/>
+				
+証文等、限永代所譲与也、於御公事者、任先例可致支配者也、次重長以
+				<lb/>
+				
+後所領事、雖有数輩之兄弟、守其器用、惣領一人仁一所ヲモ不残可譲与
+				<lb/>
+				
+之也、若背此旨、所領ヲ於分与数子之輩者、不可有重長之子孫云〃、如
+				<lb/>
+				
+此定置上者、若万一ニモ所領ヲ雖分譲、任此状之旨、於惣領一人之計、
+				<lb/>
+				
+押テ可知行者也、且為後証、所書載置文之趣也、仍譲状如件、
+				<lb/>
+				
+　　　嘉吉元年二月廿七日　　　　　　　　　弾正少弼重長（花押）
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

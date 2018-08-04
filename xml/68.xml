@@ -1,0 +1,103 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>13　　貞和2年11月26日　　渋谷定円(重基)譲状（＃６８）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/305/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/305/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/865/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="重基">
+					<span>重基</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				六八　渋谷定円重基譲状
+				<lb/>
+				
+譲与　　所領等事
+				<lb/>
+				
+　　平次五郎重勝所
+				<lb/>
+				
+一所　相模国渋谷庄内清太入道西在家壱宇
+				<lb/>
+				
+　　　同藤意内立野伍町　但、四至堺者見本証文、
+				<lb/>
+				
+一所　美作国河会郷内下森上山村
+				<lb/>
+				
+一所　筑前国佐波良郡内長尾并比伊郷内柏原両村定円知行分
+				<lb/>
+				
+一所　筑前国長淵庄畠地
+				<lb/>
+				
+一所　薩摩国入来院内清色郷五分三北方
+				<lb/>
+				
+右、於所〃者、定円重代相伝所領也、然間、相副御下文并次第手継証文
+				<lb/>
+				
+等、限永代重勝所譲与也、於有限御公事者、守先例可致沙汰、仍譲状如
+				<lb/>
+				
+件、
+				<lb/>
+				
+　　　貞和弐年十一月廿六日　　　　　　　　　　沙弥
+				<span corresp="#重基">定円</span>
+				（花押）
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

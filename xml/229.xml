@@ -1,0 +1,103 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>4　　永仁3年11月4日　　_武光師兼薗地配分状（＃２２９）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/464/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/464/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/490/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="武光">
+					<span>武光</span>
+				</span>
+				<span xml:id="重見">
+					<span>重見</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				二二九　武光師兼薗地配分状
+				<lb/>
+				
+吉枝名内河俣入道殿御分薗〃、孫満丸仁令打渡事
+				<lb/>
+				
+　　合
+				<lb/>
+				
+一所蒔崎唐坊薗限東彦次郎殿垣根、　　限西今分堺在之、限北八講田波多、　　　限南大河、
+				<lb/>
+				
+一白石山崎薗在外薗、但北、　　一所成仏薗在薗之内堀町、
+				<lb/>
+				
+一庄屋内権三郎外薗一所
+				<lb/>
+				
+　　此外庄屋内篭〃并荒野等者、寄合随分限、可有配分也、又於地頭押
+				<lb/>
+				
+　領田薗等者、相共致沙汰、可配分之、
+				<lb/>
+				
+右、大略配分如件、
+				<lb/>
+				
+　　　永仁三年十一月四日
+				<lb/>
+				
+Ｐ９８
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　　　
+				<span corresp="#武光">伴師兼</span>
+				（花押）
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

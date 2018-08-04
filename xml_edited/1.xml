@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>1　 元弘3年11月9日　　_後醍醐天皇綸旨（＃１）</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>Publication Information</p>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Information about the source</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/242/manifest">
+			<surface>
+				<graphic
+					url="https://diyhistory.org/public/omekas12/iiif-img/927/full/full/0/default.jpg"
+					n="https://diyhistory.org/public/omekas12/iiif/242/canvas/p1"/>
+				<zone xml:id="zone_tvt_kky_r2b" lry="476" lrx="615" uly="59" ulx="523"/>
+				<zone xml:id="zone_qb2_lky_r2b" lry="497" lrx="515" uly="77" ulx="439"/>
+				<zone xml:id="zone_mkn_lky_r2b" lry="312" lrx="430" uly="84" ulx="366"/>
+				<zone xml:id="zone_hnw_lky_r2b" lry="493" lrx="344" uly="83" ulx="274"/>
+				<zone xml:id="zone_rwf_mky_r2b" lry="344" lrx="239" uly="128" ulx="164"/>
+				<zone xml:id="zone_hmw_mky_r2b" lry="452" lrx="238" uly="343" ulx="164"/>
+				<zone xml:id="zone_nst_nky_r2b" lry="494" lrx="257" uly="433" ulx="163"/>
+			</surface>
+		</surfaceGrp>
+	</facsimile>
+	<text>
+		<front>
+			<p>
+				<span xml:id="重基">
+					<span>重基</span>
+				</span>
+			</p>
+		</front>
+		<body>
+			<p>
+				<lb facs="#zone_tvt_kky_r2b"/> 渋谷新平二入道<lb facs="#zone_qb2_lky_r2b"/>
+				<span corresp="#重基">定円</span> 当知行地、不可<lb facs="#zone_mkn_lky_r2b"/>有相違者、 <lb
+					facs="#zone_hnw_lky_r2b"/> 天気如此、悉之以状、<lb/> 　　　<span facs="#zone_rwf_mky_r2b"
+					>元弘三年十一月九日</span>　　　　　　　　　<span facs="#zone_hmw_mky_r2b">式部大丞</span><span
+					facs="#zone_nst_nky_r2b">（花押）</span>
+				<lb/>
+			</p>
+		</body>
+	</text>
+</TEI>

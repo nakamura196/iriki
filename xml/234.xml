@@ -1,0 +1,105 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>9　　(年月日欠)　　　　_薩摩高城郡吉枝名実検帳（＃２３４）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/469/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/469/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/824/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/469/canvas/p2" url="https://diyhistory.org/public/omekas12/iiif-img/825/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="兼久">
+					<span>兼久</span>
+				</span>
+				<span xml:id="重見">
+					<span>重見</span>
+				</span>
+				<span xml:id="端裏書">
+					<span>端裏書</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				二三四　薩摩高城郡吉枝名実検帳
+				<lb/>
+				
+
+				<span corresp="#端裏書">「</span>
+				吉枝名取帳」
+				<lb/>
+				
+　吉枝名拾九丁内庶子等分領事
+				<lb/>
+				
+　右衛門入道本忍　　保佐田一町
+				<lb/>
+				
+Ｐ９９
+				<lb/>
+				
+　河縁入道日伝　　　〓丸牧崎細工薗一所六段保佐田五段付上
+				<lb/>
+				
+　南入道忍性　　　橋口八段松本四段まき崎薗一所
+				<lb/>
+				
+　馬場入道日性　　　加毛武津町一丁〃〃九段卅又一町五反
+				<lb/>
+				
+　武光
+				<span corresp="#兼久">五郎</span>
+				三郎入道主禅四分一、二町五段
+				<lb/>
+				
+惣領日妙知行分内
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

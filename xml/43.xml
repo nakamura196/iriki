@@ -1,0 +1,108 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>17　 文明13年6月23日　　島津武久契状（＃４３）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/283/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/283/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/828/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="訪">
+					<span>訪</span>
+				</span>
+				<span xml:id="重聡">
+					<span>重聡</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				四三　島津武久契状
+				<lb/>
+				
+　　　契状
+				<lb/>
+				
+一三ヶ国如何様ニ雖転変、無二ニ可被成御志之由承候、我等も世中雖如
+				<lb/>
+				
+何様之子細候、無二ニ可申談事、
+				<lb/>
+				
+一対我〃、弥御叮嚀之由承候、如此之御心中之時者、御大事を身之大事
+				<lb/>
+				
+と存、偏憑被憑可申事、
+				<lb/>
+				
+一如此申談候処、若和讒凶害出来候者、互無覆蔵可申承事、
+				<lb/>
+				
+　　　若此条〃偽候者、
+				<lb/>
+				
+伊勢天照大神、　熊野三所権現、
+				<lb/>
+				
+正八幡大菩薩、　天満天神、
+				<lb/>
+				
+諏
+				<span corresp="#訪">防</span>
+				上下大明神、可罷蒙御罰候、
+				<lb/>
+				
+　　　文明十三年辛丑六月廿三日　　　　　武久（花押）
+				<lb/>
+				
+　　　　　
+				<span corresp="#重聡">入来</span>
+				院殿
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

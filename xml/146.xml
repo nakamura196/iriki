@@ -1,0 +1,108 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>3　　(明応9年カ)3月13日_大内義興書状（＃１４６）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/382/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/382/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/920/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="重聡">
+					<span>重聡</span>
+				</span>
+				<span xml:id="相良">
+					<span>相良</span>
+				</span>
+				<span xml:id="懸紙ウハ書">
+					<span>懸紙ウハ書</span>
+				</span>
+				<span xml:id="明応九年カ">
+					<span>明応九年カ</span>
+				</span>
+				<span xml:id="端裏切封">
+					<span>端裏切封</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				一四六　大内義興書状（切紙）
+				<lb/>
+				
+　　　　
+				<span corresp="#端裏切封">「</span>
+				　　」
+				<lb/>
+				
+雖未申承候、以事次企一行候、仍
+				<span corresp="#相良">為続</span>
+				事、年来別而当家申通候之処、無御
+				<lb/>
+				
+等閑之由承及候、尤祝着候、弥御一味無餘儀候者、可為本意候、為路次
+				<lb/>
+				
+態不及巨細候、恐〃謹言、
+				<lb/>
+				
+　　　
+				<span corresp="#明応九年カ">三月十三日</span>
+				　　　　義興（花押）
+				<lb/>
+				
+　　　
+				<span corresp="#重聡">入木</span>
+				院殿
+				<lb/>
+				
+　　　
+				<span corresp="#懸紙ウハ書">「</span>
+				入木院殿　　義興」
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

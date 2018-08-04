@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>21　　(年未詳)4月13日　　今川貞臣書状（＃１８８）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/424/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/424/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/496/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/424/canvas/p2" url="https://diyhistory.org/public/omekas12/iiif-img/497/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="懸紙ウハ書">
+					<span>懸紙ウハ書</span>
+				</span>
+				<span xml:id="重頼">
+					<span>重頼</span>
+				</span>
+				<span xml:id="端裏切封">
+					<span>端裏切封</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				一八八　今川貞臣書状（切紙）
+				<lb/>
+				
+　　　　
+				<span corresp="#端裏切封">「</span>
+				　　」
+				<lb/>
+				
+御音信悦入候、抑嶋津為勢仕打寄之由承候了、現形候者、定可有一勢可
+				<lb/>
+				
+有渡海候歟、八代事一途申子細間目出候、近日可有左右候、左様事、其
+				<lb/>
+				
+方勢仕於今延引候、子細委入道方可申候歟、恐〃謹言、
+				<lb/>
+				
+　　　卯月十三日　　　　貞臣（花押）
+				<lb/>
+				
+　　　渋谷
+				<span corresp="#重頼">清敷</span>
+				殿
+				<lb/>
+				
+　　　　　　　　　　　　　　　御返事
+				<lb/>
+				
+　　　
+				<span corresp="#懸紙ウハ書">「</span>
+				渋谷清敷殿　　貞臣
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　御返事　　」
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

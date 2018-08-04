@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>6　　(至徳2年)正月28日　今川了俊(貞世)自筆書状（＃２０２）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/438/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/438/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/523/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/438/canvas/p2" url="https://diyhistory.org/public/omekas12/iiif-img/524/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="三雄">
+					<span>三雄</span>
+				</span>
+				<span xml:id="島津">
+					<span>島津</span>
+				</span>
+				<span xml:id="相良">
+					<span>相良</span>
+				</span>
+				<span xml:id="重頼">
+					<span>重頼</span>
+				</span>
+				<span xml:id="懸紙ウハ書">
+					<span>懸紙ウハ書</span>
+				</span>
+				<span xml:id="至徳二年">
+					<span>至徳二年</span>
+				</span>
+				<span xml:id="端裏切封">
+					<span>端裏切封</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				二〇二　今川了俊貞世自筆書状（切紙）
+				<lb/>
+				
+　　　
+				<span corresp="#端裏切封">「</span>
+				　　」
+				<lb/>
+				
+自最前
+				<span corresp="#三雄">大将</span>
+				事御合力、申つくしかたく存候、今ハ
+				<span corresp="#相良">前頼</span>
+				等ニすてられ候て
+				<lb/>
+				
+失面目候ニ、尚以御同道候事、しかしなから将軍家の御忠御志専一候
+				<lb/>
+				
+間、難申尽存候、前頼か事ハ無是非、嶋津進退いふかしく候ほとに、く
+				<lb/>
+				
+ハしく申遣候、たとひ凶徒ニ加候とも、今度ハ御一族たち一同ニ我〃ニ
+				<lb/>
+				
+御合力候間、何の子細あらしと存候、面〃の御合力候ハてハ、
+				<span corresp="#島津">伊久</span>
+				何ほ
+				<lb/>
+				
+との事候ましく候ニ付ても、弥たのミ申て候、始中終御らんしつかれ候
+				<lb/>
+				
+やうニ御一家ニも御申候へく候、たのミ入候、恐〃謹言、
+				<lb/>
+				
+　　　
+				<span corresp="#至徳二年">正月廿八日</span>
+				　　　　了俊（花押）
+				<lb/>
+				
+　　　渋谷
+				<span corresp="#重頼">清敷</span>
+				殿
+				<lb/>
+				
+Ｐ８３
+				<lb/>
+				
+　　
+				<span corresp="#懸紙ウハ書">「</span>
+				渋谷清敷殿　　　了俊」
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

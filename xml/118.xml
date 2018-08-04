@@ -1,0 +1,104 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>19　　(年未詳)2月11日　　宮内大輔三雄書状（＃１１８）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/354/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/354/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/801/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/354/canvas/p2" url="https://diyhistory.org/public/omekas12/iiif-img/802/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="端裏切封ウハ書">
+					<span>端裏切封ウハ書</span>
+				</span>
+				<span xml:id="重頼">
+					<span>重頼</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				一一八　宮内大輔三雄書状
+				<lb/>
+				
+　其方事、此間久御注進なく候事、心もとなく存候、抑愚身早〃罷越候
+				<lb/>
+				
+て、力をつけ申候へく候処、高久勢をあひまち候間、其儀なく候、明
+				<lb/>
+				
+日も勢着津候ハヽ、早〃参へく候、
+				<lb/>
+				
+一自大手かん状一通進候、其後事ハ萬事御計之儀、たのミ入存候、下村
+				<lb/>
+				
+殿えも状進之候へく候とも、いて舟参候、いそき候間、同事に申候、
+				<lb/>
+				
+諸事期後信時候、恐〃謹言、
+				<lb/>
+				
+　　　二月十一日　　　　　　　　　　　　　　　三雄（花押）
+				<lb/>
+				
+　　
+				<span corresp="#重頼">清色</span>
+				殿
+				<lb/>
+				
+　　
+				<span corresp="#端裏切封ウハ書">「</span>
+				<lb/>
+				
+　　　清色五郎殿　　　　　三雄」
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>24　　嘉暦3年12月19日　　沙弥某召文奉書案（＃５５）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/292/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/292/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/853/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="重棟">
+					<span>重棟</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				五五　関東（？）召文奉書案
+				<lb/>
+				
+渋谷河内十郎重文申、相模国渋谷庄合郷内田畠在家以下事、訴状如此、
+				<lb/>
+				
+早可被参決之状、依仰執進如件、
+				<lb/>
+				
+　　　嘉暦三年十二月十九日　　　　　　　　　　沙弥在判
+				<lb/>
+				
+　　　　渋谷
+				<span corresp="#重棟">河内</span>
+				権守入道殿
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

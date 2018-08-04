@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>13　　延文2年正月20日　　渋谷重勝寄進状（＃１３３）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/369/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/369/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/778/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="追筆">
+					<span>追筆</span>
+				</span>
+				<span xml:id="端裏書">
+					<span>端裏書</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				一三三　渋谷重勝寄進状
+				<lb/>
+				
+　
+				<span corresp="#端裏書">「</span>
+				馬渡瀬寄進状正文
+				<span corresp="#追筆">『</span>
+				乙酉歳也』」
+				<lb/>
+				
+今日衣鉢御布施之事
+				<lb/>
+				
+清色北方馬渡瀬竹下記名四郎作壱段、手作弐段、寿昌寺方丈令進候、聊
+				<lb/>
+				
+違乱妨不可有申仁候、仍為後証状如件、
+				<lb/>
+				
+　　　延文二年正月廿日　　　　　　　　　　美濃守重勝（花押）
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>11　　(年未詳)9月5日　　_畠山直顕書下（＃１１０）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/346/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/346/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/697/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="直顕">
+					<span>直顕</span>
+				</span>
+				<span xml:id="重基">
+					<span>重基</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				一一〇　畠山直顕書下
+				<lb/>
+				
+去月廿八日注進状、今月五日到来候了、抑薩州凶徒等参御方候之条、目
+				<lb/>
+				
+出度覚候、御所望御教書二通進候、疲労御事奉察候哉、仍執達如件、
+				<lb/>
+				
+　　　九月五日　　　　　　　　　　　　　　　　
+				<span corresp="#直顕">源</span>
+				（花押）
+				<lb/>
+				
+　　渋谷
+				<span corresp="#重基">新平次</span>
+				入道殿
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

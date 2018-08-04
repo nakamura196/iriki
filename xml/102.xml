@@ -1,0 +1,160 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>3　　寿永2年8月8日　　　島津庄別当伴信明解状（＃１０２）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/338/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/338/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/679/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="謀叛、下同ジ">
+					<span>謀叛、下同ジ</span>
+				</span>
+				<span xml:id="摩">
+					<span>摩</span>
+				</span>
+				<span xml:id="専カ">
+					<span>専カ</span>
+				</span>
+				<span xml:id="阿多">
+					<span>阿多</span>
+				</span>
+				<span xml:id="謀叛">
+					<span>謀叛</span>
+				</span>
+				<span xml:id="住、下同ジ">
+					<span>住、下同ジ</span>
+				</span>
+				<span xml:id="住">
+					<span>住</span>
+				</span>
+				<span xml:id="家カ">
+					<span>家カ</span>
+				</span>
+				<span xml:id="外題">
+					<span>外題</span>
+				</span>
+				<span xml:id="盛俊カ">
+					<span>盛俊カ</span>
+				</span>
+				<span xml:id="摩、下同ジ">
+					<span>摩、下同ジ</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				一〇二　島津庄別当伴信明解状
+				<lb/>
+				
+　　　
+				<span corresp="#外題">「</span>
+				於件山田村者、任相伝之理、可令領掌信明之状如件、
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　
+				<span corresp="#盛俊カ">前越</span>
+				中守平（花押）」
+				<lb/>
+				
+嶋津御庄別当散位伴信明解　申請　留守裁事
+				<lb/>
+				
+請被殊任且解状之旨、且依先祖相伝之理御裁許、御庄御領薩
+				<span corresp="#摩、下同ジ">麻</span>
+				国薩
+				<span corresp="#摩">麻</span>
+				郡
+				<lb/>
+				
+　内山田村者、信明先祖相伝之所領也、然不慮外信明父信房時、同国
+				<lb/>
+				
+　
+				<span corresp="#住、下同ジ">佳</span>
+				人
+				<span corresp="#阿多">忠景</span>
+				企
+				<span corresp="#謀叛、下同ジ">無本</span>
+				尅、被押領取以後不領知不当愁状、
+				<lb/>
+				
+右、謹検案内、件所領者、信明先祖相伝所領也、然代代領掌間、無他
+				<lb/>
+				
+　妨、随無異論人、然薩
+				<span corresp="#摩">麻</span>
+				国
+				<span corresp="#住">佳</span>
+				人故忠景企
+				<span corresp="#謀叛">無本</span>
+				、権門御領云、御庄国衙
+				<lb/>
+				
+　召物云押取尅、忠景舎弟忠永件所領押取間、如此依
+				<span corresp="#謀叛">無本</span>
+				、被1
+				<span corresp="#盛俊カ">1宜</span>
+				使失了、
+				<lb/>
+				
+　其後字仁六郎大夫兼宗彼郡為弁済使職、有限地頭職遠指無雑怠、不蒙
+				<lb/>
+				
+　本
+				<span corresp="#家カ">蒙</span>
+				裁、不知地頭、恣押領条、言語不及事也者、恩裁被停止兼宗非道
+				<lb/>
+				
+　沙汰、依先祖相伝之理、為被御裁判、子細言上、以解、
+				<lb/>
+				
+　　　寿永二年八月八日　　　　　　　　　　　別当散位伴信明上
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

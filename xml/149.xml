@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>6　　(年未詳)8月9日　　_酒匂伊景書状（＃１４９）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/385/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/385/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/507/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="マヽ">
+					<span>マヽ</span>
+				</span>
+				<span xml:id="端裏切封">
+					<span>端裏切封</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				一四九　酒匂伊景書状（切紙）
+				<lb/>
+				
+　　　　
+				<span corresp="#端裏切封">「</span>
+				　　」
+				<lb/>
+				
+Ｐ６９
+				<lb/>
+				
+清色殿より被仰候所領向事、在所事共者、為私難申定候、
+				<span corresp="#マヽ">於</span>
+				于田数等事
+				<lb/>
+				
+者、自貴方も可被仰越候之間、無等閑申沙汰可仕候、仍河辺之左右を御
+				<lb/>
+				
+待候する事、今程可事延候間、先急〃道行候様ニ御談合候ハヽ、総州如
+				<lb/>
+				
+何様ニ被申候共、平申沙汰可仕候、　八幡も御照覧候へ、聊不可有無沙
+				<lb/>
+				
+汰之儀候、委細厚地殿ニ申候間、定可被聞召候哉、恐〃謹言、
+				<lb/>
+				
+　　　八月九日　　　　伊景（花押）
+				<lb/>
+				
+　　　市来殿
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

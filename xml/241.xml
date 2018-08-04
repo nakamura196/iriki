@@ -1,0 +1,1419 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>文明5年10月18日　　坪付注文帳（＃２４１）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/474/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/474/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/744/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/474/canvas/p2" url="https://diyhistory.org/public/omekas12/iiif-img/745/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/474/canvas/p3" url="https://diyhistory.org/public/omekas12/iiif-img/746/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/474/canvas/p4" url="https://diyhistory.org/public/omekas12/iiif-img/747/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/474/canvas/p5" url="https://diyhistory.org/public/omekas12/iiif-img/748/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/474/canvas/p6" url="https://diyhistory.org/public/omekas12/iiif-img/749/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/474/canvas/p7" url="https://diyhistory.org/public/omekas12/iiif-img/750/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/474/canvas/p8" url="https://diyhistory.org/public/omekas12/iiif-img/751/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/474/canvas/p9" url="https://diyhistory.org/public/omekas12/iiif-img/752/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/474/canvas/p10" url="https://diyhistory.org/public/omekas12/iiif-img/753/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/474/canvas/p11" url="https://diyhistory.org/public/omekas12/iiif-img/754/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/474/canvas/p12" url="https://diyhistory.org/public/omekas12/iiif-img/755/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/474/canvas/p13" url="https://diyhistory.org/public/omekas12/iiif-img/756/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/474/canvas/p14" url="https://diyhistory.org/public/omekas12/iiif-img/757/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/474/canvas/p15" url="https://diyhistory.org/public/omekas12/iiif-img/758/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/474/canvas/p16" url="https://diyhistory.org/public/omekas12/iiif-img/759/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/474/canvas/p17" url="https://diyhistory.org/public/omekas12/iiif-img/760/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/474/canvas/p18" url="https://diyhistory.org/public/omekas12/iiif-img/761/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/474/canvas/p19" url="https://diyhistory.org/public/omekas12/iiif-img/762/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/474/canvas/p20" url="https://diyhistory.org/public/omekas12/iiif-img/763/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="重見">
+					<span>重見</span>
+				</span>
+				<span xml:id="ミ">
+					<span>ミ</span>
+				</span>
+				<span xml:id="坂本">
+					<span>坂本</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				二四一　坪付注文帳（横帳仮綴）
+				<lb/>
+				
+　　　一番
+				<lb/>
+				
+文明五年ミつのとのミ十月十八日
+				<lb/>
+				
+一上手名上舟津田門之分
+				<lb/>
+				
+　三反　　　　前田
+				<lb/>
+				
+　二反　　　　〓の本
+				<lb/>
+				
+　四反　　　　古川
+				<lb/>
+				
+　一反　　　　弓場本
+				<lb/>
+				
+　五反　　　　中の麦田
+				<lb/>
+				
+　三反　　　　うハむた
+				<lb/>
+				
+　二反　　　　こいのす
+				<lb/>
+				
+Ｐ１５２
+				<lb/>
+				
+　三反　　　　堂のまへ
+				<lb/>
+				
+　四反　　　　なこ地
+				<lb/>
+				
+　四反　　　　くほた
+				<lb/>
+				
+　五反　　　　なかはすわ
+				<lb/>
+				
+　七代　　　　垣内
+				<lb/>
+				
+　　　以上三町七反半
+				<lb/>
+				
+一林勝院　御持
+				<lb/>
+				
+　三丁　　　　平城古川
+				<lb/>
+				
+一楠原方之分
+				<lb/>
+				
+　七代　　　　平城古川
+				<lb/>
+				
+一中城之分
+				<lb/>
+				
+　一反三丁　　平城古河
+				<lb/>
+				
+一けいとうあん之分
+				<lb/>
+				
+　一反　　　　平城古河
+				<lb/>
+				
+一山口方之分
+				<lb/>
+				
+　一反四丁　　平城古河
+				<lb/>
+				
+一栗下方之分
+				<lb/>
+				
+　四反半　　　平城古河
+				<lb/>
+				
+一迫田方之分
+				<lb/>
+				
+　丁　　　　　平城古河
+				<lb/>
+				
+一野鎮之用作上浦方之かゝり
+				<lb/>
+				
+　二反　　　　下河原田
+				<lb/>
+				
+　二反　　　　森田
+				<lb/>
+				
+一有村方之かゝり用作
+				<lb/>
+				
+　三反　　　　つほくた
+				<lb/>
+				
+　二反　　　　かちやかわ古河
+				<lb/>
+				
+　二反　　　　竹下舟津田
+				<lb/>
+				
+　七代　　　　舟津田
+				<lb/>
+				
+　四反安芸方より買得　　　舟津田
+				<lb/>
+				
+　一反　　　　下ふるつたのまへ竹之下
+				<lb/>
+				
+　二反　　　　しと
+				<lb/>
+				
+　三反三丁　　ひわき古河
+				<lb/>
+				
+一木嶽三郎二郎方かゝり用作
+				<lb/>
+				
+　五反　　　　三池田
+				<lb/>
+				
+一中津河宮内少輔方かゝり用作
+				<lb/>
+				
+　二反　　　　舟津田竹のした
+				<lb/>
+				
+　一反　　　　くほたのうへ此内半ハたうめん
+				<lb/>
+				
+一山田方之分
+				<lb/>
+				
+　七代　　　　たかつき
+				<lb/>
+				
+一木嶽孫兵衛方かゝり用作
+				<lb/>
+				
+　六反　　　　上河原田
+				<lb/>
+				
+一中間よ五郎之分
+				<lb/>
+				
+　三丁　　　　つほくた
+				<lb/>
+				
+一木嶽孫兵衛方之おん
+				<lb/>
+				
+　二丁　　　　つほくた
+				<lb/>
+				
+一長池之分
+				<lb/>
+				
+Ｐ１５３
+				<lb/>
+				
+　二丁　　　　つほくた
+				<lb/>
+				
+　五反　　　　池田
+				<lb/>
+				
+一充行方之分
+				<lb/>
+				
+　一反　　　　つほくた
+				<lb/>
+				
+　一反　　　　くらたて
+				<lb/>
+				
+　一反　　　　たかやなき
+				<lb/>
+				
+一松山方分
+				<lb/>
+				
+　二反　　　　森田
+				<lb/>
+				
+　七代　　　　舟津田
+				<lb/>
+				
+一坂本方之買得
+				<lb/>
+				
+　二丁　　　　野中
+				<lb/>
+				
+一栗下方之分
+				<lb/>
+				
+　一反　　　　野中
+				<lb/>
+				
+　二反　　　　かうこ作り
+				<lb/>
+				
+一浜田孫七方分
+				<lb/>
+				
+　一反　　　　ミそゝい
+				<lb/>
+				
+　一反　　　　いわさき
+				<lb/>
+				
+　一反　　　　下舟津田
+				<lb/>
+				
+一馬場方之分
+				<lb/>
+				
+　七代　　　　森田
+				<lb/>
+				
+　二反　　　　岩のもと
+				<lb/>
+				
+一安芸方之分
+				<lb/>
+				
+　二丁　　　　ミそゝい
+				<lb/>
+				
+一財部伊豆方之分
+				<lb/>
+				
+　二反　　　　なかはすわ
+				<lb/>
+				
+一先達之分
+				<lb/>
+				
+　二反　　　　〓崎天神田若宮田
+				<lb/>
+				
+一是枝方之分
+				<lb/>
+				
+　二反半　　　岩崎
+				<lb/>
+				
+一上浦方之おん
+				<lb/>
+				
+　一反　　　　岩さき
+				<lb/>
+				
+　一反　　　　岩のわき
+				<lb/>
+				
+一楠原方之持松木薗之門之分
+				<lb/>
+				
+　四反　　　　岩崎
+				<lb/>
+				
+　　　以上四反
+				<lb/>
+				
+一松田方之分
+				<lb/>
+				
+　一反　　　　岩さき
+				<lb/>
+				
+一楠原方之分
+				<lb/>
+				
+　二反　　　　岩さき
+				<lb/>
+				
+一手嶋方之分
+				<lb/>
+				
+　野鎮之用作　有村方かゝり
+				<lb/>
+				
+　二反　　　　くきさき
+				<lb/>
+				
+　一反　　　　しときてん
+				<lb/>
+				
+　二丁　　　　くらたて
+				<lb/>
+				
+　三反　　　　高柳　以上四所ニ
+				<lb/>
+				
+　二反　　　　古川　いてきえふん
+				<lb/>
+				
+　丁　　　　　おもあかり　下舟津田
+				<lb/>
+				
+Ｐ１５４
+				<lb/>
+				
+　七代　　　　かちやかわ
+				<lb/>
+				
+一十郎右衛門方之分
+				<lb/>
+				
+　三反　　　　たかやなき
+				<lb/>
+				
+一中嶋方之分
+				<lb/>
+				
+　二反三丁　　たかやなき
+				<lb/>
+				
+一おい神田
+				<lb/>
+				
+　一反　　　　くらたて
+				<lb/>
+				
+一沢源六方之分
+				<lb/>
+				
+　二丁　　　　たかやなき
+				<lb/>
+				
+　五反　　　　舟津田
+				<lb/>
+				
+　二丁　　　　古川かちやかわ
+				<lb/>
+				
+一浜田方之分
+				<lb/>
+				
+　二丁　　　　加冶屋川
+				<lb/>
+				
+一陣次郎左衛門方之分
+				<lb/>
+				
+　一反　　　　たかやなき
+				<lb/>
+				
+　小ほりまち一所丁　かちやかわ
+				<lb/>
+				
+一有村方之おん
+				<lb/>
+				
+　三丁　　　　古川　かちやかわ
+				<lb/>
+				
+　一反　　　　三池田
+				<lb/>
+				
+　二反　　　　下舟津田のまへ
+				<lb/>
+				
+一中丸方之分
+				<lb/>
+				
+　七代　　　　古川　わさた
+				<lb/>
+				
+　二反　　　　舟津田
+				<lb/>
+				
+一新定院之分
+				<lb/>
+				
+　一反　　　　下舟津田屋敷そい
+				<lb/>
+				
+一野鎮之用作有村方かゝり
+				<lb/>
+				
+　二反　　　　三池田
+				<lb/>
+				
+一上手下舟津田之門之分
+				<lb/>
+				
+　四反　　　　古川坂本方之はいとく
+				<lb/>
+				
+　一反　　　　古川六郎へもん之分
+				<lb/>
+				
+　三反　　　　かつねさこ有村方かゝり用作
+				<lb/>
+				
+　二反　　　　おもあかり
+				<lb/>
+				
+　二反　　　　うとさゝハら
+				<lb/>
+				
+　　　以上一町二反
+				<lb/>
+				
+一河原八郎太郎方之分
+				<lb/>
+				
+　一反　　　　篠原此内ミつわけのほりまち二所そへ候、
+				<lb/>
+				
+　一反　　　　舟津田
+				<lb/>
+				
+　七代　　　　舟津田
+				<lb/>
+				
+一二郎かくし之分
+				<lb/>
+				
+　一反　　　　舟津田さゝハら
+				<lb/>
+				
+一田中方之分
+				<lb/>
+				
+　一反　　　　舟津田
+				<lb/>
+				
+一林勝院之分
+				<lb/>
+				
+　一反　　　　舟津田
+				<lb/>
+				
+一河副方之分
+				<lb/>
+				
+　二反半　　　舟津田
+				<lb/>
+				
+一薬師堂田
+				<lb/>
+				
+Ｐ１５５
+				<lb/>
+				
+　七代　　　　やくしてん
+				<lb/>
+				
+　三丁　　　　同前堂めん
+				<lb/>
+				
+一今村方之分
+				<lb/>
+				
+　一反　　　　舟津田
+				<lb/>
+				
+一加治屋方之分
+				<lb/>
+				
+　一反　　　　舟津田
+				<lb/>
+				
+一中間次郎五郎之分
+				<lb/>
+				
+　二反　　　　あしたひき
+				<lb/>
+				
+一上手安芸方之持荒瀬之門之分
+				<lb/>
+				
+　四反　　　　なる山
+				<lb/>
+				
+　一反　　　　池たをし
+				<lb/>
+				
+　三反　　　　岩のもとひかしまた
+				<lb/>
+				
+　一反ハ　　　ほりまち三所之分
+				<lb/>
+				
+　四反　　　　くほた
+				<lb/>
+				
+　三反　　　　さかもと
+				<lb/>
+				
+　一反　　　　あふミ
+				<lb/>
+				
+　三反　　　　古川
+				<lb/>
+				
+　五反　　　　おうちそい
+				<lb/>
+				
+　四反　　　　はるた
+				<lb/>
+				
+　一反　　　　ゆた古川
+				<lb/>
+				
+　一反ハ　　　ほりまち三か所
+				<lb/>
+				
+　　以上三町一反
+				<lb/>
+				
+一新母方之分
+				<lb/>
+				
+　七代　　　　古川
+				<lb/>
+				
+一上手ひさいハらの門之分
+				<lb/>
+				
+　二反　　　　ミそミて
+				<lb/>
+				
+　七代　　　　古川
+				<lb/>
+				
+　一反　　　　古川
+				<lb/>
+				
+　二反　　　　わさた
+				<lb/>
+				
+　二反　　　　桑木つる
+				<lb/>
+				
+　一反　　　　竹之下
+				<lb/>
+				
+　一反　　　　まへ田
+				<lb/>
+				
+　七代　　　　まへ田
+				<lb/>
+				
+　一反　　　　小松本　竹之下
+				<lb/>
+				
+　七代　　　　ゆしり
+				<lb/>
+				
+　一反　　　　柳つる
+				<lb/>
+				
+　二反　　　　小広田
+				<lb/>
+				
+　三丁　　    あかいけ
+				<lb/>
+				
+　二丁　　　　坂山古川二所
+				<lb/>
+				
+　二反　　　　ようさくかつほ
+				<lb/>
+				
+　一反　　　　さるはミ
+				<lb/>
+				
+　一反　　　　ちんしゆてん
+				<lb/>
+				
+　　　以上二町二反半
+				<lb/>
+				
+一有村方之おん
+				<lb/>
+				
+　一反二丁　　ひさい原のまへ
+				<lb/>
+				
+一清水寺之分
+				<lb/>
+				
+　四反　　　　しらかわ口
+				<lb/>
+				
+Ｐ１５６
+				<lb/>
+				
+　一反　　　　溝ミて
+				<lb/>
+				
+　三反　　　　山の田
+				<lb/>
+				
+　一反　　　　ほりまち三か所
+				<lb/>
+				
+　　　以上九反
+				<lb/>
+				
+一ゆたのひかしの門之内
+				<lb/>
+				
+　三反　　　　こものわき
+				<lb/>
+				
+　二反　　　　小広田
+				<lb/>
+				
+　二反　　　　古川
+				<lb/>
+				
+　一反　　　　こいのす
+				<lb/>
+				
+　一反　　　　柳の丸
+				<lb/>
+				
+　一反　　　　よつゑた
+				<lb/>
+				
+　五反　　　　あなまちつゝ口　二所ニ
+				<lb/>
+				
+　二反　　　　くほ山
+				<lb/>
+				
+　一反　　　　ほりまち三か所
+				<lb/>
+				
+　一反　　　　さるはミほりまち一所そへ候、
+				<lb/>
+				
+　二反　　　　竹之下
+				<lb/>
+				
+　　　以上二町一反
+				<lb/>
+				
+一湯田御神領之分
+				<lb/>
+				
+　四反　　　　柿木之丸
+				<lb/>
+				
+　四反　　　　ふるかわ
+				<lb/>
+				
+　四反　　　　なかの丸
+				<lb/>
+				
+　四反　　　　正へいてん
+				<lb/>
+				
+　三反　　　　きたまた
+				<lb/>
+				
+　一反　　　　はるた
+				<lb/>
+				
+　二反　　　　たしまた
+				<lb/>
+				
+　一反ミやつかさ分くわいた
+				<lb/>
+				
+　二丁　　　　かにはミ
+				<lb/>
+				
+　四反　　　　大わ田此内一反ハあき方之持ひさい原より作候、
+				<lb/>
+				
+一ゆたの鐘つきへん
+				<lb/>
+				
+　三反　　　　鐘楼田
+				<lb/>
+				
+一新母方之分
+				<lb/>
+				
+　一反　　　　ひわのくひ
+				<lb/>
+				
+　二反　　　　中野
+				<lb/>
+				
+菱刈院内
+				<lb/>
+				
+　　以上　五百八町七反三杖半
+				<lb/>
+				
+　　　　　此内五町九反半一杖ハふ
+				<lb/>
+				
+日記一閇之内田数
+				<lb/>
+				
+一番　六十三町五反半〃一杖
+				<lb/>
+				
+　　　此内一町三反半ふ
+				<lb/>
+				
+二番　七十七町九反
+				<lb/>
+				
+　　　此内一町七反四杖ふ
+				<lb/>
+				
+三番　三十八町四反四杖半
+				<lb/>
+				
+Ｐ１５７
+				<lb/>
+				
+　　　此内一町五反半ふ
+				<lb/>
+				
+四番　七十一町四反半一杖
+				<lb/>
+				
+　　　此内六反三杖ふ
+				<lb/>
+				
+五番　五十三町五反四杖半
+				<lb/>
+				
+　　　此内二反半ふ
+				<lb/>
+				
+六番　九十四町七反半
+				<lb/>
+				
+　　　此内一反二杖ふ
+				<lb/>
+				
+七番　二十七町
+				<lb/>
+				
+八番　八十一町九反半四杖
+				<lb/>
+				
+　　　此内二反二杖ふ
+				<lb/>
+				
+現作田数五百二町一反三杖
+				<lb/>
+				
+一湯のこんけんの神田
+				<lb/>
+				
+　二反　　　　　こんけん田
+				<lb/>
+				
+一上手栖原之門之分
+				<lb/>
+				
+　三反　　　　　松かさこ
+				<lb/>
+				
+　二反　　　　　つゝミの口
+				<lb/>
+				
+　二反　　　　　ふつかさこ
+				<lb/>
+				
+　三反　　　　　しんかい
+				<lb/>
+				
+　四反　　　　　ふるかわ
+				<lb/>
+				
+　二丁　　　　　野中田
+				<lb/>
+				
+　三反此内一反ふ　いりかさかり
+				<lb/>
+				
+　三反此内二反ふ　いてミつ
+				<lb/>
+				
+　三反　　　　　こはのひら
+				<lb/>
+				
+　　　以上二町三反二丁此内三反ふ
+				<lb/>
+				
+一上手いちふの門之分
+				<lb/>
+				
+　七反　　　　　つゝ
+				<span corresp="#ミ">□</span>
+				口
+				<lb/>
+				
+　　　以上七反
+				<lb/>
+				
+一上手松山之門之分有村方之かゝり
+				<lb/>
+				
+　四反　　　　　くほ山
+				<lb/>
+				
+　四反　　　　　かうしか山
+				<lb/>
+				
+　二反　　　　　四たん田
+				<lb/>
+				
+　三反　　　　　四たん田
+				<lb/>
+				
+　三反　　　　　大松山あミたてん
+				<lb/>
+				
+　五反　　　　　大松山
+				<lb/>
+				
+　二反　　　　　竹之下
+				<lb/>
+				
+　二反　　　　　ゆのこ田
+				<lb/>
+				
+　　　以上二町五反此内三反たうめん
+				<lb/>
+				
+一上手　溝口方之分ひのしたの門之分
+				<lb/>
+				
+　二反　　　　　竹之下
+				<lb/>
+				
+　一反　　　　　わさた
+				<lb/>
+				
+　一反　　　　　ふるかわ
+				<lb/>
+				
+　一反　　　　　ようさくかつほ
+				<lb/>
+				
+　一反ハ　　　　せとの口ほりまち四所に
+				<lb/>
+				
+　一反　　　　　こはた
+				<lb/>
+				
+　　　以上七反
+				<lb/>
+				
+　三反これハ門之外むくの木か丸
+				<lb/>
+				
+Ｐ１５８
+				<lb/>
+				
+一築地方之分大つほ之内
+				<lb/>
+				
+　一反　　　　　大つほ
+				<lb/>
+				
+一つる方之分
+				<lb/>
+				
+　二反　　　　　大つほ
+				<lb/>
+				
+一天神田
+				<lb/>
+				
+　一反　　　　　大つほ
+				<lb/>
+				
+一はまた孫七方之分
+				<lb/>
+				
+　二反　　　　　大つほ
+				<lb/>
+				
+一楠原十郎右衛門方之分
+				<lb/>
+				
+　二反　　　　　大つほ
+				<lb/>
+				
+一ロクロ轆轤之分
+				<lb/>
+				
+　二反　　　　　大つほ
+				<lb/>
+				
+一中丸方分
+				<lb/>
+				
+　五反　　　　　くろの口
+				<lb/>
+				
+一上手平沢津之門之分
+				<lb/>
+				
+　三反　　　　　そのた
+				<lb/>
+				
+　一反　　　　　かわのはた
+				<lb/>
+				
+　二反　　　　　こうへのまへ
+				<lb/>
+				
+　四反　　　　　たう地
+				<lb/>
+				
+　五反　　　　　大つほ
+				<lb/>
+				
+　七代　　　　　まへ田
+				<lb/>
+				
+　二反　　　　　竹之下
+				<lb/>
+				
+　三反　　　　　山のくち
+				<lb/>
+				
+　二反　　　　　山神てん
+				<lb/>
+				
+　三反　　　　　松下
+				<lb/>
+				
+　七代　　　　　野中田
+				<lb/>
+				
+　七代　　　　　わたせ口
+				<lb/>
+				
+　一反　　　　　おうちそい
+				<lb/>
+				
+　一反　　　　　さきやハら
+				<lb/>
+				
+　四反　　　　　いのししつくり
+				<lb/>
+				
+　一反　　　　　湯のしり
+				<lb/>
+				
+　三反　　　　　うらの松下
+				<lb/>
+				
+　二反　　　　　といしやく田
+				<lb/>
+				
+　三反　　　　　大ふか田
+				<lb/>
+				
+　五反　　　　　こいろ田
+				<lb/>
+				
+　二反　　　　　ふろのもと
+				<lb/>
+				
+　二反　　　　　ふろのまへ
+				<lb/>
+				
+　二丁　　　　　はしくち
+				<lb/>
+				
+　二反此内七代ふ　ふろのもと
+				<lb/>
+				
+　　　以上五町四反四丁此内七代ふ
+				<lb/>
+				
+一上手坂山之門之分
+				<lb/>
+				
+　一反　　　　　竹之下
+				<lb/>
+				
+　一反　　　　　たう地
+				<lb/>
+				
+　五反　　　　　上坂山
+				<lb/>
+				
+　二反二丁　　　うら田
+				<lb/>
+				
+　　　以上九反二丁
+				<lb/>
+				
+一古河方之分
+				<lb/>
+				
+Ｐ１５９
+				<lb/>
+				
+　丁　　　　　　かまむた
+				<lb/>
+				
+一有村方えかゝり用作
+				<lb/>
+				
+　二反　　　　　山田うそふき
+				<lb/>
+				
+一中原之門之分
+				<lb/>
+				
+　三反　　　　　松下此内所〃ニ候、
+				<lb/>
+				
+　五反　　　　　といしやく田
+				<lb/>
+				
+　　　以上八反
+				<lb/>
+				
+一山田之山の口之門之分
+				<lb/>
+				
+　二反　　　　　かまむた
+				<lb/>
+				
+　一反　　　　　よけたをし
+				<lb/>
+				
+　二反　　　　　ミつかき
+				<lb/>
+				
+　四反　　　　　柳之丸
+				<lb/>
+				
+　七代　　　　　中のこハた
+				<lb/>
+				
+　一反　　　　　いしつる
+				<lb/>
+				
+　　　以上一町一反半
+				<lb/>
+				
+一ゆたの山口方之分
+				<lb/>
+				
+　二反　　　　　さかもと
+				<lb/>
+				
+　五反　　　　　中野
+				<lb/>
+				
+　三反　　　　　松かさこ
+				<lb/>
+				
+　　　此内一反ハ有村方えかゝりに成候、
+				<lb/>
+				
+一大工うた方之分
+				<lb/>
+				
+　二反　　　　　くきのさこ
+				<lb/>
+				
+一山之井方分
+				<lb/>
+				
+　二反　　　　　くきのさこ
+				<lb/>
+				
+一長池方之分
+				<lb/>
+				
+　五反二丁　　　くきのさこ
+				<lb/>
+				
+一ゆたの御神領
+				<lb/>
+				
+　五反　　　　　ちよかハら
+				<lb/>
+				
+　五反　　　　　竹のした
+				<lb/>
+				
+一山口方之分
+				<lb/>
+				
+　上手〓迫之門之分
+				<lb/>
+				
+　三反　　　　　やつしり
+				<lb/>
+				
+　三反　　　　　中の丸
+				<lb/>
+				
+　二反　　　　　二たん田
+				<lb/>
+				
+　二反此内一反ふ　水あらい
+				<lb/>
+				
+　三反此内七代ふ　くきもと
+				<lb/>
+				
+　三反半此内半ふ　いしの丸
+				<lb/>
+				
+　　　以上一町六反半此内三反ふ
+				<lb/>
+				
+一浜田蔵人方之分
+				<lb/>
+				
+　四反　　　　　中野
+				<lb/>
+				
+一つる方之分
+				<lb/>
+				
+　二反　　　　　中野
+				<lb/>
+				
+一坂本方之買得
+				<lb/>
+				
+　三反　　　　　はうか田
+				<lb/>
+				
+一木嶽孫兵衛方かゝり用作
+				<lb/>
+				
+　七反　　　　　はうか田
+				<lb/>
+				
+Ｐ１６０
+				<lb/>
+				
+一上手　山田方之分ゐる木原之門之分
+				<lb/>
+				
+　二反	　　　　　古川
+				<lb/>
+				
+　五反　　　　　五たん田
+				<lb/>
+				
+　一反　　　　　こ山さき
+				<lb/>
+				
+　二反　　　　　もちた
+				<lb/>
+				
+　二反　　　　　宮のうしろ
+				<lb/>
+				
+　三反　　　　　まへ田
+				<lb/>
+				
+　三反　　　　　いやしき
+				<lb/>
+				
+　二反　　　　　宮のまへ
+				<lb/>
+				
+　一町此内二反ふ　沼のもと
+				<lb/>
+				
+　一反　　　　　ミヽとり
+				<lb/>
+				
+　一反　　　　　山神てん
+				<lb/>
+				
+　　　以上三町二反此内二反ふ
+				<lb/>
+				
+一上手　中城之分内山田之門之分
+				<lb/>
+				
+　七代　　　　　ひさきつる
+				<lb/>
+				
+　七代　　　　　榎木之丸
+				<lb/>
+				
+　三反　　　　　菖蒲のもと
+				<lb/>
+				
+　六反　　　　　まへた
+				<lb/>
+				
+　二反彼作田　　ひらき
+				<lb/>
+				
+　　　以上一町四反
+				<lb/>
+				
+一上手榎木田之門之分
+				<span corresp="#坂本">□□</span>
+				□□の買□
+				<lb/>
+				
+　三反　　　　　椎之木丸
+				<lb/>
+				
+　二反　　　　　たていし
+				<lb/>
+				
+　二丁　　　　　榎木田
+				<lb/>
+				
+　　　以上五反二丁
+				<lb/>
+				
+一馬越名馬場之原之門之分
+				<lb/>
+				
+　一反　　　　　榎木田
+				<lb/>
+				
+　二反　　　　　七そく田
+				<lb/>
+				
+　二反　　　　　大丸
+				<lb/>
+				
+　五反　　　　　立もと田
+				<lb/>
+				
+　七代　　　　　ゆあな口
+				<lb/>
+				
+　八反此内四反ふ　あしたに
+				<lb/>
+				
+　四反　　　　　まつさき
+				<lb/>
+				
+　二反　　　　　よこまくら
+				<lb/>
+				
+　五反半　　　　ひわたし
+				<lb/>
+				
+　一反　　　　　はきハら
+				<lb/>
+				
+　五反　　　　　かうのさき
+				<lb/>
+				
+　一反　　　　　七またかうのさきニそへ候て
+				<lb/>
+				
+　二反　　　　　柿木田
+				<lb/>
+				
+　四反　　　　　上はるた
+				<lb/>
+				
+　二反半　　　　なかみとり
+				<lb/>
+				
+　　　以上四町六反半此内四反ふ
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

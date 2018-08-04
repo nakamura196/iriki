@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>11　　建長3年3月　日　　_藤原光平外三名連署入来院堺注文案（＃６６）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/303/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/303/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/572/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/303/canvas/p2" url="https://diyhistory.org/public/omekas12/iiif-img/573/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="渋谷重純">
+					<span>渋谷重純</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				六六　藤原光平外三名連署入来院堺注文案
+				<lb/>
+				
+　　　　　　　　　　　　　　有御判
+				<lb/>
+				
+入来院
+				<lb/>
+				
+　　ちうしん　建長三年のきむたちの御方ニ村わけさかいのしるし文
+				<lb/>
+				
+
+				<span corresp="#渋谷重純">二郎</span>
+				三郎殿御りやう、北ハかきる大河、西ハかきる一てうの江口、同か
+				<lb/>
+				
+らす山の、同きせのお、同うつきれ山のたうけ、うハとこのひたをか
+				<lb/>
+				
+きる、同せうの石桝口を中村ニいけて如さかい、入道ミねから東郷のひ
+				<lb/>
+				
+なたひらのえほうしかたにあてゝきる、あいにハはうしあり、入道かミ
+				<lb/>
+				
+ねから東ニきる松板田ハ中村也、ふちの上の大門のついちよりはんたの山
+				<lb/>
+				
+の上のはためかきる、同ふち山のはためをかきる、同しゝの河内の口、
+				<lb/>
+				
+南ハかきるしゝの河内、同ほるをせうの石きる、
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　　　　　くん文僧有判
+				<lb/>
+				
+　　　建長参年庚亥三月日　　　　　　　　　　　　　僧　内慶在判
+				<lb/>
+				
+Ｐ２４
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　　　　　藤原光貞在判
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　　　　　藤原光平在判
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

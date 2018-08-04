@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>19　 天文6年3月14日　　_島津勝久知行充行状（＃４５）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/285/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/285/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/905/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="重朝">
+					<span>重朝</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				四五　島津勝久知行充行状
+				<lb/>
+				
+今度就入国之企、一段入魂之奉公、最神妙之至候、仍為此忠賞、満家院
+				<lb/>
+				
+之内郡山之城并卅町之事、所宛行也、早任此旨、可被知行之状如件、
+				<lb/>
+				
+天文六年三月十四日　　　　　　　　　　　　　　勝久（花押）
+				<lb/>
+				
+　　　　
+				<span corresp="#重朝">入来</span>
+				院殿
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

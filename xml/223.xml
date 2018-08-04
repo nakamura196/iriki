@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>10　　(年月日欠)　　　　_薩摩高城郡辨済使并吉枝名相伝系図（＃２２３）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/458/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/458/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/858/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="重見">
+					<span>重見</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				二二三　薩摩高城郡辨済使并吉枝名相伝系図
+				<lb/>
+				
+高城郡弁済使并吉枝名相伝系図
+				<lb/>
+				
+　僧観勢　義　忠　師　高　先親父死去了嫡子得祖父譲高　永　　師永　　兼光
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　師兼云親父譲、云兼光譲、共以帯之
+				<lb/>
+				
+　　　　　　　　　　　　　次男高重　不孝仁　師重
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

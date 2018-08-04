@@ -1,0 +1,103 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>5　　正和5年3月13日　　_武光兼治避状（＃２３０）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/465/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/465/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/936/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="武光">
+					<span>武光</span>
+				</span>
+				<span xml:id="重見">
+					<span>重見</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				二三〇　武光兼治避状
+				<lb/>
+				
+避進　薩摩国高城郡吉枝名内兼治分水田坪〃事
+				<lb/>
+				
+　合　保佐田内上五段十中坪　〓丸内四段弐拾坪矣
+				<lb/>
+				
+右、件田地等、都合玖段参拾中内七段参拾中者、当名惣領御方仁、永避
+				<lb/>
+				
+進候畢、〓丸田内弐段北依、停止国衙所当米・領家御年貢銭・地頭米・免
+				<lb/>
+				
+田所当米・万雑公事・臨時課役等、兼治可令知行一円不輸候、彼弐段分
+				<lb/>
+				
+諸公事等者、惣領御方仁、拘持給候畢、将又、自法忍之手譲給候在庁給
+				<lb/>
+				
+五段、同避進候、若本万得名内兼治知行分田地、有国検之時、為其募為
+				<lb/>
+				
+要者、可返給候、此上者、至于子〃孫〃、不可有違乱変改之儀候、仍為
+				<lb/>
+				
+後避状如件、
+				<lb/>
+				
+　　　正和五年三月十三日　　　　　　　　　　　
+				<span corresp="#武光">伴兼治</span>
+				（花押）
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　　　　証人沙弥崇也（花押）
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>3　　観応2年6月17日　　_足利直冬下文（＃２１６）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/451/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/451/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/522/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="重見">
+					<span>重見</span>
+				</span>
+				<span xml:id="直冬">
+					<span>直冬</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				二一六　足利直冬下文
+				<lb/>
+				
+下　武光三郎重兼
+				<lb/>
+				
+　可令早領知薩摩国宮里郷清水寺免田薗山野、同郷正岡内田地三町屋敷
+				<lb/>
+				
+　壱所号権次郎、筑前国野介庄七隈郷内田地壱町陸十歩、同国比伊郷内屋
+				<lb/>
+				
+　敷一所七隈畠地三奈木庄内屋敷壱所、筑後国長淵庄畠地等地頭職事
+				<lb/>
+				
+右、任文保・元亨鎮西下知、建武四年五月廿日両通御外題、可令領掌之
+				<lb/>
+				
+状如件、
+				<lb/>
+				
+　　　観応二年六月十七日
+				<lb/>
+				
+　　　源
+				<span corresp="#直冬">朝臣</span>
+				（花押）
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

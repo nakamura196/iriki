@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>7　 (年未詳)2月19日　　島津師久去状（＃３３）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/273/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/273/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/773/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="重継">
+					<span>重継</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				三三　島津師久去状
+				<lb/>
+				
+凶徒国分平次郎友重・同永利又太郎入道祖性両人跡田薗事、善悪共令中
+				<lb/>
+				
+分、半分所去申候也、迄于御子〃孫〃、聊不可成違乱之煩候、此上者、
+				<lb/>
+				
+於公方可挙申候、恐〃謹言、
+				<lb/>
+				
+Ｐ９
+				<lb/>
+				
+　　　二月十九日　　　　　　　　　　　　左衛門少尉師久（花押）
+				<lb/>
+				
+　謹上　渋谷
+				<span corresp="#重継">美濃</span>
+				五郎左衛門尉殿
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

@@ -1,0 +1,169 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>3　　正応元年10月3日　　蒙古合戦勲功賞配分状（＃２２８）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/463/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/463/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/487/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/463/canvas/p2" url="https://diyhistory.org/public/omekas12/iiif-img/488/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/463/canvas/p3" url="https://diyhistory.org/public/omekas12/iiif-img/489/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="重見">
+					<span>重見</span>
+				</span>
+				<span xml:id="少弐経資">
+					<span>少弐経資</span>
+				</span>
+				<span xml:id="大友頼泰">
+					<span>大友頼泰</span>
+				</span>
+				<span xml:id="筑後">
+					<span>筑後</span>
+				</span>
+				<span xml:id="端裏書">
+					<span>端裏書</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				二二八　蒙古合戦勲功賞配分状
+				<lb/>
+				
+　　　　　　○コノ文書、上部ニ五条ノ罫線ヲ引キタリ、
+				<lb/>
+				
+
+				<span corresp="#端裏書">「</span>
+				七」
+				<lb/>
+				
+弘安四年蒙古合戦勲功賞筑前国早良郡七隈郷地頭職配分事
+				<lb/>
+				
+一人薩摩国武光三郎師兼
+				<lb/>
+				
+　田地参町
+				<lb/>
+				
+　　当郷内
+				<lb/>
+				
+　　　下ハカマ一所　　七段大内六段西依
+				<lb/>
+				
+　　　橋爪一所　　八段半
+				<lb/>
+				
+　　　フチ田一所　　丁
+				<lb/>
+				
+　　　クキ田一所　　八段小内五段半東依
+				<lb/>
+				
+　屋敷二箇所
+				<lb/>
+				
+　　比伊郷上乙王丸名内
+				<lb/>
+				
+　　　一宇　　　蓮成房
+				<lb/>
+				
+　　三奈木庄井上名内
+				<lb/>
+				
+　　　一宇　　　弥平三
+				<lb/>
+				
+　畠地六段
+				<lb/>
+				
+　　七隈郷内
+				<lb/>
+				
+　　　武清一所　　三段二丈
+				<lb/>
+				
+　　
+				<span corresp="#筑後">長淵</span>
+				庄内
+				<lb/>
+				
+　　　せト口一所　　　一段　　安与
+				<lb/>
+				
+　　　上座町一所　　　一段三丈元三段四丈内南依冨光
+				<lb/>
+				
+右、就孔子配分如此、有限仏神事・本所年貢、守先例、不可有懈怠之状
+				<lb/>
+				
+如件、
+				<lb/>
+				
+　　　正応元年十月三日
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　　　
+				<span corresp="#少弐経資">沙　弥</span>
+				（花押）
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　　　
+				<span corresp="#大友頼泰">沙　弥</span>
+				（花押）
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

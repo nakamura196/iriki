@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>15　　延慶4年2月20日　　_入来院塔原国方用途返抄（＃１３５）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/371/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/371/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/732/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="端裏書">
+					<span>端裏書</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				一三五　入来院塔原国方用途返抄
+				<lb/>
+				
+
+				<span corresp="#端裏書">「</span>
+				二月分　国方へ沙汰用途請取」
+				<lb/>
+				
+二月中ニ国方へ御沙汰候佰伍拾貫文用途内
+				<lb/>
+				
+　合弐拾九貫四百六十五文　塔原分
+				<lb/>
+				
+預置候、無相違国方仁被請取候者、請取を可取進候、若異儀候者、此用
+				<lb/>
+				
+途を任員数可返進候、仍状如件、
+				<lb/>
+				
+　　　延慶四年二月廿日　　　　　　　　　　　　道弘（花押）
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

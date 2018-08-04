@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>1　　(明応9年)正月11日　大内義興書状（＃１４４）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/380/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/380/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/908/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="周防">
+					<span>周防</span>
+				</span>
+				<span xml:id="相良">
+					<span>相良</span>
+				</span>
+				<span xml:id="義稙">
+					<span>義稙</span>
+				</span>
+				<span xml:id="明応九年">
+					<span>明応九年</span>
+				</span>
+				<span xml:id="懸紙ウハ書">
+					<span>懸紙ウハ書</span>
+				</span>
+				<span xml:id="重聡">
+					<span>重聡</span>
+				</span>
+				<span xml:id="端裏切封">
+					<span>端裏切封</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				一四四　大内義興書状（切紙）
+				<lb/>
+				
+　　　　
+				<span corresp="#端裏切封">「</span>
+				　　」
+				<lb/>
+				
+先日進状候処、御懇承候通祝着候、於已後者、弥連〃可申通候、抑
+				<lb/>
+				
+
+				<span corresp="#義稙">公方</span>
+				様、旧冬十二月晦日至
+				<span corresp="#周防">当国</span>
+				、被移御座候、面目之至候、任　上意、
+				<lb/>
+				
+為天下可然之様、可抽勲功之心中候、御忠節尤可為此時候、
+				<span corresp="#相良">為続</span>
+				無御等
+				<lb/>
+				
+閑之由候、祝着候、毎事可申談候之条、併期後信候、恐〃謹言、
+				<lb/>
+				
+　　　
+				<span corresp="#明応九年">正月十一日</span>
+				　　　　義興（花押）
+				<lb/>
+				
+　　　入来院
+				<span corresp="#重聡">加賀</span>
+				守殿
+				<lb/>
+				
+　　　
+				<span corresp="#懸紙ウハ書">「</span>
+				入来院加賀守殿　義興」
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

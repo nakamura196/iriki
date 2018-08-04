@@ -1,0 +1,138 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>2　　(年未詳)6月5日　　_今川了俊(貞世)自筆書状（＃１９９）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/435/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/435/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/654/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/435/canvas/p2" url="https://diyhistory.org/public/omekas12/iiif-img/655/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="貞世">
+					<span>貞世</span>
+				</span>
+				<span xml:id="義、下同ジ">
+					<span>義、下同ジ</span>
+				</span>
+				<span xml:id="懸紙ウハ書">
+					<span>懸紙ウハ書</span>
+				</span>
+				<span xml:id="義">
+					<span>義</span>
+				</span>
+				<span xml:id="端裏切封">
+					<span>端裏切封</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				一九九　今川了俊貞世自筆書状（切紙）
+				<lb/>
+				
+　　　　
+				<span corresp="#端裏切封">「</span>
+				　　」
+				<lb/>
+				
+　　　手原禅門御参事、目出候目出候、設楽注進時可遣状候、目出候、
+				<lb/>
+				
+　此御一揆事ハ中〃両嶋津等ふるまひもよく成候ぬと存候間、かたかた
+				<lb/>
+				
+ニ付て可然候、此事ハ京都ニも申入へく候間、ハヽかり存ましく候、仍
+				<lb/>
+				
+大隅薩广人〃の中ニも此よしを状を一通つかハし候、面〃ニ御ちかつ
+				<lb/>
+				
+きの方〃ニ仰候てしかるへく候、両国の人〃の力をかり候て、今まても
+				<lb/>
+				
+守護人不
+				<span corresp="#義、下同ジ">儀</span>
+				候つる間無勿躰候、守護人不
+				<span corresp="#義">儀</span>
+				候ハすハ、又おのつからめ
+				<lb/>
+				
+んめんの御事も可為御本望候歟間、如此申にて候、御心え候へく候、
+				<lb/>
+				
+一天草郡人〃一揆事ハ今ハ無益存候、とても
+				<span corresp="#貞世">伊与</span>
+				守同道ニて候間、中〃
+				<lb/>
+				
+ニ他国の人〃ニ仰候ハん事無益候、これハ可御心安候、恐〃謹言、
+				<lb/>
+				
+　　　六月五日　　　　了俊（花押）
+				<lb/>
+				
+　　　　渋谷人〃御中
+				<lb/>
+				
+　　　　和泉人〃御中
+				<lb/>
+				
+　　　　
+				<span corresp="#懸紙ウハ書">「</span>
+				しふや御かたかた御中
+				<lb/>
+				
+　　　　　いつみの人〃　　御中
+				<lb/>
+				
+　　　　　面〃御中　　　　了俊」
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>10　　(年月日欠)　　　　_武光伊兼所領注文案（＃２３５）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/470/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/470/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/818/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="武光">
+					<span>武光</span>
+				</span>
+				<span xml:id="重見">
+					<span>重見</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				二三五　武光伊兼所領注文案
+				<lb/>
+				
+　薩摩国高城郡伴伊兼本知行庶子分事
+				<lb/>
+				
+一吉枝名十九丁惣領職庶子等跡田薗
+				<lb/>
+				
+一本万徳名五丁惣領職庶子等跡他人契約地
+				<lb/>
+				
+一上村万徳名五丁田薗庶子等跡
+				<lb/>
+				
+一西尾寺〃務職免田畠地等
+				<lb/>
+				
+一武光大かく入道跡上五大院畠地等
+				<lb/>
+				
+　宮里郷　本給分起三跡
+				<lb/>
+				
+一武光名二町五反加流崎五反他人契約地薗一所
+				<lb/>
+				
+一つる王丸名武光大かく入道跡田薗
+				<lb/>
+				
+一清水寺〃務職免田一町七反山野等薗三ヶ所
+				<lb/>
+				
+　御奉行所　　　　　　　　　　　　　　　　
+				<span corresp="#武光">伴氏</span>
+				伊兼
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

@@ -1,0 +1,890 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>(年月日欠)　　　　_薩摩入来院内山之手手持分帳（＃２３８）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/472/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/472/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/614/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/472/canvas/p2" url="https://diyhistory.org/public/omekas12/iiif-img/615/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/472/canvas/p3" url="https://diyhistory.org/public/omekas12/iiif-img/616/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/472/canvas/p4" url="https://diyhistory.org/public/omekas12/iiif-img/617/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/472/canvas/p5" url="https://diyhistory.org/public/omekas12/iiif-img/618/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/472/canvas/p6" url="https://diyhistory.org/public/omekas12/iiif-img/619/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/472/canvas/p7" url="https://diyhistory.org/public/omekas12/iiif-img/620/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/472/canvas/p8" url="https://diyhistory.org/public/omekas12/iiif-img/621/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/472/canvas/p9" url="https://diyhistory.org/public/omekas12/iiif-img/622/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/472/canvas/p10" url="https://diyhistory.org/public/omekas12/iiif-img/623/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/472/canvas/p11" url="https://diyhistory.org/public/omekas12/iiif-img/624/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/472/canvas/p12" url="https://diyhistory.org/public/omekas12/iiif-img/625/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/472/canvas/p13" url="https://diyhistory.org/public/omekas12/iiif-img/626/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/472/canvas/p14" url="https://diyhistory.org/public/omekas12/iiif-img/627/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/472/canvas/p15" url="https://diyhistory.org/public/omekas12/iiif-img/628/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/472/canvas/p16" url="https://diyhistory.org/public/omekas12/iiif-img/629/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/472/canvas/p17" url="https://diyhistory.org/public/omekas12/iiif-img/630/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/472/canvas/p18" url="https://diyhistory.org/public/omekas12/iiif-img/631/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/472/canvas/p19" url="https://diyhistory.org/public/omekas12/iiif-img/632/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/472/canvas/p20" url="https://diyhistory.org/public/omekas12/iiif-img/633/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/472/canvas/p21" url="https://diyhistory.org/public/omekas12/iiif-img/634/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/472/canvas/p22" url="https://diyhistory.org/public/omekas12/iiif-img/635/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/472/canvas/p23" url="https://diyhistory.org/public/omekas12/iiif-img/636/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/472/canvas/p24" url="https://diyhistory.org/public/omekas12/iiif-img/637/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/472/canvas/p25" url="https://diyhistory.org/public/omekas12/iiif-img/638/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/472/canvas/p26" url="https://diyhistory.org/public/omekas12/iiif-img/639/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/472/canvas/p27" url="https://diyhistory.org/public/omekas12/iiif-img/640/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/472/canvas/p28" url="https://diyhistory.org/public/omekas12/iiif-img/641/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/472/canvas/p29" url="https://diyhistory.org/public/omekas12/iiif-img/642/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/472/canvas/p30" url="https://diyhistory.org/public/omekas12/iiif-img/643/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/472/canvas/p31" url="https://diyhistory.org/public/omekas12/iiif-img/644/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/472/canvas/p32" url="https://diyhistory.org/public/omekas12/iiif-img/645/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="重見">
+					<span>重見</span>
+				</span>
+				<span xml:id="マヽ">
+					<span>マヽ</span>
+				</span>
+				<span xml:id="垣内">
+					<span>垣内</span>
+				</span>
+				<span xml:id="木場">
+					<span>木場</span>
+				</span>
+				<span xml:id="文脱カ">
+					<span>文脱カ</span>
+				</span>
+				<span xml:id="黒武者">
+					<span>黒武者</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				二三八　薩摩入来院内山之手手持分帳
+				<lb/>
+				
+　　　　　　○墨付二七丁、合点ハ朱筆ニカヽル、
+				<lb/>
+				
+（表紙）
+				<lb/>
+				
+　　山之手御手持分帳　　　　　　　三十四番
+				<lb/>
+				
+　　　　山之手御手持之分
+				<lb/>
+				
+　　　　　川床之門
+				<lb/>
+				
+二反　　　コソノヽ下一貫六百文　二丁　タウチ四百文　三丁　　フナコヘ五百文
+				<lb/>
+				
+丁　　　　　　　　　中木場ノカコイノ下七十文　二舛ツチヘノ尻マキ五十文　一反　　　シイノ木ノ丸八百文
+				<lb/>
+				
+一反四丁　ヒラせ一貫二百文　　一反二丁　　鳥コヱ一貫文　丁　　　ツチヱノ尻七十文
+				<lb/>
+				
+二舛柳ノ丸マキ五十文　一反　　　　ヒラコハノ下八百文　一反三丁　　　クハンサンせ
+				<span corresp="#マヽ">ク田</span>
+				一貫六百文
+				<lb/>
+				
+四町八反　　マヘ田以上卅四貫文　サンハウ田二反二丁　　　中河原一貫八百文
+				<lb/>
+				
+一反　　ユノ木ノ丸九百文　一反　フルカハ一貫二百文　二反　ナハヱマツ一貫六百文
+				<lb/>
+				
+　　　　六町四反四丁　代四十七貫六百四十文
+				<lb/>
+				
+　　　　　畠地之分
+				<lb/>
+				
+一ヶ所　　居屋敷三百文　　一反　　フナコヱ百五十文　　二反　　マヘハラ五百文
+				<lb/>
+				
+三舛　　　　　　　クハンサンせツク田ノ下百五十文　　三舛　　　　ミヤノ下ノワキ百文
+				<lb/>
+				
+二舛堂ノマヘ　　　　　一反　　カハツル四百文　三舛　　ヤシキノ下五十文
+				<lb/>
+				
+　　　　　畠五反二丁　屋敷共ニ一貫六百五十文
+				<lb/>
+				
+　定田数五町二反　与田一町二反四丁
+				<lb/>
+				
+　田畠ノ代已上四十九貫二百九十文
+				<lb/>
+				
+　　　　　
+				<span corresp="#黒武者">くろむしや</span>
+				の門
+				<lb/>
+				
+二反　ソノ田一貫二百文　一反三丁　　　チカホ八所田八百文　　一反　　小早田八百文
+				<lb/>
+				
+二反　　岩屋ノ口一貫文　五反　　大河ノハタ四貫文　二反　ヰテノ下一貫六百文
+				<lb/>
+				
+一町五反　　　　　マヘ田ウトカケテ十二貫文　丁中　　コヰテノ下二百文
+				<lb/>
+				
+二丁　　ユハノサコ二百文　二反二丁　ヤマカムレ一貫六百文　三反三丁　　井ノ尻堤ノ下二貫文
+				<lb/>
+				
+　　　　三町五反丁中　代二十五貫四百文
+				<lb/>
+				
+　　　　　畠地之分
+				<lb/>
+				
+一ヶ所　　居屋敷百文　　一ヶ所　　　　七郎五良屋敷百文　二丁　　　ミヤノワキ五十文
+				<lb/>
+				
+一反　　　コソノ百文　　二丁　　　コソノヽ上七十文　二舛イハヤノタチマキ
+				<lb/>
+				
+三舛　　茶ヱン百文　　四丁　　マヱハラ八十文
+				<lb/>
+				
+　　　　　畠三反　屋敷二ヶ所共六百文
+				<lb/>
+				
+　定田数　三町　与田五反丁中
+				<lb/>
+				
+　田畠之代　已上廿六貫文
+				<lb/>
+				
+Ｐ１１８
+				<lb/>
+				
+　　　　中尾之門
+				<lb/>
+				
+一町六反二丁　　マヘタ十二貫四百文　二反二丁　タカノコ田一貫六百文
+				<lb/>
+				
+二反三丁　　　　ハキノモト一貫八百文
+				<lb/>
+				
+　　　　二町一反二丁　代十五貫八百文
+				<lb/>
+				
+　　　　　畠地之分
+				<lb/>
+				
+一ヶ所　　居屋敷百文　　二舛　又二ヶ所百五十文
+				<lb/>
+				
+　定田数一町六反　与田五反二丁
+				<lb/>
+				
+　田畠之代　以上十六貫五十文
+				<lb/>
+				
+　　　本村
+				<span corresp="#垣内">かきうち</span>
+				の門
+				<lb/>
+				
+一反丁　　　　キチイノ木ノモト八百文　一反　山ノ口七百文　　二丁中　　ユカハチ三百文
+				<lb/>
+				
+四丁　　　　タテ山四ヶ所四百文　　　一反丁　　マツシタ七百文　　二反　野ナカ一貫二百文
+				<lb/>
+				
+一反　　カハチ七百文　丁中　　　ヲニカサコ百文　　一町五反　モリ田以上十二貫文
+				<lb/>
+				
+二反　ソノ田一貫四百文　　一反　　　ソノタノ下七百文　二丁　　　山ノ内三ヶ所ニ百文
+				<lb/>
+				
+二反三丁ナシノサコ　　一貫六百文
+				<lb/>
+				
+　　　　水田二町九反　代廿貫七百文
+				<lb/>
+				
+　　　　　畠地之分
+				<lb/>
+				
+一ヶ所　　居屋敷二百文　一町二反　　マヘ以上二貫五百文
+				<lb/>
+				
+　　　　畠一町二反屋敷共ニ二貫七百文
+				<lb/>
+				
+　定田数二町五反　与田四反
+				<lb/>
+				
+　田畠之代廿三貫四百文
+				<lb/>
+				
+　　　　　下の原の門
+				<lb/>
+				
+四反二丁　　ナハヘマツ三貫文　　二反二丁　　サヲトメ原一貫四百文　　一反　　ヲウチソキ六百文
+				<lb/>
+				
+四反四丁　　下ナカ田二貫八百文　丁　　　　　　リウハウテンノカシラ百五十文
+				<lb/>
+				
+二反二丁　井ノシリ一貫八百文　四反丁　ソノタ二貫九百文　三丁　ワサタ五百文
+				<lb/>
+				
+五反　カタホキ三貫文　　一反二丁中　　カシスタ木一貫文　　一反三丁　下スタキ一貫百文
+				<lb/>
+				
+一反二丁　ユノ木ノ谷八百文　　二丁中　　　　同所ユノ木ノタニ三百文　　二丁　　　又ユノ木ノタニ二百文
+				<lb/>
+				
+二丁　　　　　　　　　チンシユテン、又ユノ木ノタニ二百文　　二反三丁　　一貫五百文上長田
+				<lb/>
+				
+　　　　水田三町三反二丁　代廿一貫二百五十文
+				<lb/>
+				
+　　　　　畠地之分
+				<lb/>
+				
+二丁　　　コナヘノカシラ五十文　六反　　　池ノサコ六百文　　一ヶ所　居屋敷七百文
+				<lb/>
+				
+九反　　　マヱ以上一貫三百文
+				<lb/>
+				
+　　　　畠一町五反二丁　屋敷共ニ二貫六百五十文
+				<lb/>
+				
+　定田数二町七反二丁　与田六反
+				<lb/>
+				
+　田畠以上代廿三貫九百文
+				<lb/>
+				
+　　　　　
+				<span corresp="#木場">こは</span>
+				の門
+				<lb/>
+				
+自作一反二丁　　　コフルカハ一貫文　自作五反丁　又コフルカハ四貫二百文　自作一反四丁　ワサタ一貫三百文
+				<lb/>
+				
+自作一反丁　　　フルヤシキ一貫文　自作四反　マヘタ二貫八百文　自作一反丁　　　　モヽキノヽ井ノ尻八百文
+				<lb/>
+				
+自作三反　　　　モヽキノヽコクルス一貫八百文　自作二反二丁中　モヽキノ一貫二百文
+				<lb/>
+				
+自作四丁　　　モヽキノ池田六百文　二反　ニシノカハ一貫六百文　二反丁　フルカハ一貫八百文
+				<lb/>
+				
+二丁　　　コフルカハ三百文　一反　ツつシ所〃ニ六百文　一反　　アフミ七百文
+				<lb/>
+				
+丁　　　タツイシ百文　二反　　　タニノクチ一貫五百文　丁　　　カナカヰカ原百文
+				<lb/>
+				
+Ｐ１１９
+				<lb/>
+				
+二丁中　　　　　コクルスウチアケ二百文　一反丁　　　マツカサコ七百文　二反　　　フカヰムタ一貫文
+				<lb/>
+				
+四丁　　　タケノ下六百文　一反　　　モヽキノヽ分柳ノ丸六百文　三反四丁　　　モヽキノヽ分カキノ木ノ丸二貫二百文
+				<lb/>
+				
+丁　　　モヽキノヽ分ユノ木ノタニ百文　一反三丁　　　モヽキノヽ分イケノシリ九百文　一反　六百文石のわき
+				<lb/>
+				
+　　　　水田四町二反丁代廿八貫三百文
+				<lb/>
+				
+　　　　此内二町一反中ハ自作
+				<lb/>
+				
+　　　　　畠地之分
+				<lb/>
+				
+二丁　　　　マヘタノシヤウ百文　三反　ハヽ三百文　一反二丁　　カワハタ三百文
+				<lb/>
+				
+二丁　　　タツヰシノ下五十文　三丁　　カワツル五百文　一反　ニシ百五十文
+				<lb/>
+				
+二反　　又ニシ四百文　二舛　　マヘ五十文　一ヶ所　居屋敷九百文
+				<lb/>
+				
+三丁　　　井ケタソイ百文　一反　　カナカイカ原二百文　一ヶ所　　　　モヽキノヽ屋敷三百文
+				<lb/>
+				
+二反丁　　モヽキノヽマヘ五百文　二丁　　　　モヽキノ上ノワキ五十文
+				<lb/>
+				
+　　　　畠一町三丁　屋敷共ニ三貫五十文
+				<lb/>
+				
+　　　又もゝきのゝ畠二反三丁屋敷共八百五十文
+				<lb/>
+				
+　定田数三町五反　与田七反丁
+				<lb/>
+				
+　以上田畠之代三十二貫二百文
+				<lb/>
+				
+　　　　　かり屋さきの門
+				<lb/>
+				
+一反四丁　　トキテン一貫文　　一反　　マツノモト六百文　二反　モチサコ一貫二百文
+				<lb/>
+				
+二反　　　クホタケノ下一貫四百文　三丁　　　カマサコ三百文　四丁　　チウヘツタウ四百文
+				<lb/>
+				
+二反　苗代田一貫六百文　四反二丁　シマメクリ二貫六百文　一反三丁　　サヽノサコ六百文
+				<lb/>
+				
+二反二丁　　マタノ一貫百文　三反　　マツハラタ一貫八百文　三反　　ヱノ木田二貫四
+				<span corresp="#文脱カ">百</span>
+				<lb/>
+				
+五反　　フチワキ四貫文
+				<lb/>
+				
+　　　　二町九反三丁　代十九貫文
+				<lb/>
+				
+　　　　　畠地之分
+				<lb/>
+				
+三丁　　キワラ五十文　二舛カマサコ　　　　一ヶ所　　　前ノ屋敷四百文
+				<lb/>
+				
+四反　　　　　　ニシノソノホカソノ一貫文　五反三丁　　　モリノソノ一貫文
+				<lb/>
+				
+一ヶ所　居屋敷二貫文　一町　　ツルクネヨリ下一貫八百文　二丁　　　　　ヱノ木田ナカレヨリ五十文
+				<lb/>
+				
+　　　畠二町三丁屋敷二ヶ所共ニ六貫三百文
+				<lb/>
+				
+　定田数二町五反　与田四反三丁
+				<lb/>
+				
+　以上田畠之代　二十五貫三百文
+				<lb/>
+				
+　　　　　にし原の門
+				<lb/>
+				
+五反二丁　　サカモト三貫二百文　九反　　イナハタ五貫四百文
+				<lb/>
+				
+　　　　水田一町四反二丁　代八貫六百文
+				<lb/>
+				
+　　　　　畠地之分
+				<lb/>
+				
+一ヶ所　　居屋敷六百文　二丁　シマ百文　丁　　ナカシマ五十文
+				<lb/>
+				
+一反二丁　キワラ二百五十文　二反　　トコナミ二百文　三反　　ハタケタノ上五百文
+				<lb/>
+				
+丁　コシマ五十文　二舛　　　　イナハタノシマ廿文　三舛　　カワハタ廿文
+				<lb/>
+				
+二反二丁　　　本ハ田にて候かナカタノクル四百文
+				<lb/>
+				
+　　　　畠九反四丁　屋敷共ニ二貫百九十文
+				<lb/>
+				
+　定田数一町二反　与田二反三丁
+				<lb/>
+				
+　田畠之代以上十五貫七百九十文
+				<lb/>
+				
+　　　　　あか坂の門
+				<lb/>
+				
+Ｐ１２０
+				<lb/>
+				
+八反三丁　フチワキ六貫六百文　三丁　　淵ノ上四百文　一反三丁　　門ノマヘ上下一貫文
+				<lb/>
+				
+一反三丁　　　イテノモト一貫文　四反三丁　コハ田四貫文　　一反丁　　ツヽリ木八百文
+				<lb/>
+				
+五舛年〃不同所ツヽリ木　三反三丁　　　せトノクチ二貫文　一反三丁　ヲヽチ田八百文
+				<lb/>
+				
+三反　大マル二貫八百文　二丁　　キラヌスケ三百文　二丁　ミソノ下二百文
+				<lb/>
+				
+四丁　　クヘノサコ五百文　三反　ヤトウタ二貫四百文　一反二丁　ムキタ一貫文
+				<lb/>
+				
+四丁　　タテワラ五百文
+				<lb/>
+				
+　　　　水田三町三反丁　代廿四貫三百文
+				<lb/>
+				
+　　　　　畠地之分
+				<lb/>
+				
+一ヶ所　居屋敷四百文　丁　　カワツル二百文　丁　　ミチノ上下五十文
+				<lb/>
+				
+一反　　　坂ヨリ上百文　三舛　　　道ヨリウヘ卅文
+				<lb/>
+				
+　　　　畠一反三丁屋敷共ニ代七百八十文
+				<lb/>
+				
+　定田数二町六反　与田七反丁
+				<lb/>
+				
+　田畠之代以上廿五貫八十文
+				<lb/>
+				
+　　　　　岩下之門
+				<lb/>
+				
+二町一反　岩下十六貫八百文
+				<lb/>
+				
+　　　　　畠地之分
+				<lb/>
+				
+一ヶ所　　居屋敷三百文　四反　　ホカソノ九百文
+				<lb/>
+				
+　　　　　畠四反屋敷共一貫百文
+				<lb/>
+				
+　定田数一町八反　与田三反
+				<lb/>
+				
+　田畠以上　代十八貫文
+				<lb/>
+				
+　　　　　横枕之屋敷分　助六
+				<lb/>
+				
+一反丁　　　ミシマハラ六百文　丁　　　ノキリヤマ百文　一反二丁　　　イモアラヰ八百文
+				<lb/>
+				
+一反二丁　　　ヱノ木田八百文　二反　柳ノ丸一貫二百文　二丁　　　ミソヽイ二ヶ所二百文
+				<lb/>
+				
+二反　　　キシヤノ木ノ丸一貫六百文　四丁　　　クチノマチ六百文　三丁　　　アツマリミナクチ五百文
+				<lb/>
+				
+三丁　　クリノ丸三百文　二丁　　ミタレハシ二百文　二丁　　又ミタレハシ二百文
+				<lb/>
+				
+丁中　クミサコ百五十文　一舛キトクチマキ　廿文
+				<lb/>
+				
+　　　　水田一町一反三丁中　代七貫二百八十文
+				<lb/>
+				
+　　　　　畠地ノ分
+				<lb/>
+				
+一ヶ所　　居屋敷三百文　一反二丁　　カワソイ三百文　四反　ホカソノ二貫二百文
+				<lb/>
+				
+三丁　　　　　　アツマリミナクチ百文
+				<lb/>
+				
+　　　　畠六反屋敷共ニ二貫九百文
+				<lb/>
+				
+　　　以上田畠之代十貫百八十文
+				<lb/>
+				
+　　　　　上副田はねたノ屋敷作子孫四郎か分
+				<lb/>
+				
+二反　　　　サルカウカタニ一貫文　三丁　　　ヒライシ百文
+				<lb/>
+				
+　　　　水田二反三丁　代一貫百文
+				<lb/>
+				
+　　　　　畠地之分
+				<lb/>
+				
+一反　　ハラクチ百文　一反　　カコヰノ原百文　一ヶ所　居屋敷二百文
+				<lb/>
+				
+　　　　　　畠二反屋敷共ニ代四百文
+				<lb/>
+				
+　　　田畠以上代一貫五百文
+				<lb/>
+				
+　　　　クヌカタ作子太郎次郎か分
+				<lb/>
+				
+二丁山中　　二百文　二丁　　　　クヌカタノ堂地二百文　一反　　クリノシタ六百文
+				<lb/>
+				
+二反丁　　　ヲキノクホ一貫百文
+				<lb/>
+				
+Ｐ１２１
+				<lb/>
+				
+　　　　水田四反　代二貫百文
+				<lb/>
+				
+　　　　　畠地之分
+				<lb/>
+				
+一ヶ所　　居屋敷三百文　一反　　カワハタ百文　丁　　ミヤノマヘ五十文
+				<lb/>
+				
+三丁　　　下ツル三百文　三丁　　　チサウタウ百文
+				<lb/>
+				
+　　　　畠二反二丁屋敷共ニ八百五十文
+				<lb/>
+				
+　　　田畠以上代　二貫九百五十文
+				<lb/>
+				
+　　　　　しらハのその作子六郎三郎か分
+				<lb/>
+				
+一反丁中　　四十田七百文　一反三丁　　ヤマヒコ九百文　一反丁　タシマ六百文
+				<lb/>
+				
+丁　キハラ百文　一反　　ヰワシタ七百文　三丁　　田代カワ三百文
+				<lb/>
+				
+丁　　　ミヤノマヘ百文
+				<lb/>
+				
+　　　　水田六反中　代三貫四百文
+				<lb/>
+				
+　　　　　畠地之分
+				<lb/>
+				
+一ヶ所　　居屋敷二百文　二反　　井ノ上七百文　一反丁　　フルヱソノ二百文
+				<lb/>
+				
+　　　　畠地之分三反丁屋敷共代一貫百文
+				<lb/>
+				
+　　　　田畠以上代　四貫五百文
+				<lb/>
+				
+　　　　つるはミの屋敷之分
+				<lb/>
+				
+四丁　　　ナカミソ三百文　一反丁　　　イコヰ七百文　二舛コヒラタノ下
+				<lb/>
+				
+　　　　水田二反代一貫文
+				<lb/>
+				
+一ヶ所　　居屋敷四百文　三丁　　　イコヰノ原百文
+				<lb/>
+				
+　　　　田畠以上代　一貫五百文
+				<lb/>
+				
+　　　　　かんほうその作子さへもん四郎か分
+				<lb/>
+				
+丁　　　ホツタ百文　一反丁　　タテサコ七百文　二丁　　サワタリ原二百文
+				<lb/>
+				
+二丁　　　　ホウノ木二百文
+				<lb/>
+				
+　　　　水田二反丁　代一貫二百文
+				<lb/>
+				
+　　　　　畠地之分
+				<lb/>
+				
+一ヶ所　　居屋敷三百文　三反　　ホカソノ七百文　三舛　　ニシノソノヽ下五十文
+				<lb/>
+				
+　　　　畠三反三舛マキ屋敷共ニ一貫五十文
+				<lb/>
+				
+　　田畠以上代　二貫二百五十文
+				<lb/>
+				
+　　　　はらのその作子小五郎か分
+				<lb/>
+				
+一反丁　　木ワラ七百文　丁　　　田代カワ百文
+				<lb/>
+				
+　　　　水田一反二丁　代八百文
+				<lb/>
+				
+一ヶ所　　居屋敷百文　二丁フルヱソノ　丁　　　馬場ノソノ百文
+				<lb/>
+				
+一反　　　　トタカサキ百五十文
+				<lb/>
+				
+　　　　畠一反三丁　屋敷共ニ四百文
+				<lb/>
+				
+　　田畠以上代　一貫二百文
+				<lb/>
+				
+　　　　作子彦三郎か分
+				<lb/>
+				
+一反丁　　　四十田七百文　四丁　　カマサコ五百文
+				<lb/>
+				
+　　　　水田二反　代一貫二百文
+				<lb/>
+				
+　　　　畠地
+				<lb/>
+				
+一反　　　　フルヱソノ百文
+				<lb/>
+				
+　　　　　中間助三郎か分
+				<lb/>
+				
+二反二丁　　　ナカレカワ一貫八百文　一反　　　拵ノウシロ六百文
+				<lb/>
+				
+Ｐ１２２
+				<lb/>
+				
+　　　　水田三反二丁　代二貫四百文
+				<lb/>
+				
+　　　　畠地之分
+				<lb/>
+				
+一ヶ所　　　　　ニムレノ居屋敷二百文　三丁　　　　　　副田ハルクチノウシロ五十文
+				<lb/>
+				
+　　田畠以上代二貫六百五十文
+				<lb/>
+				
+　　　　　中間与八か分
+				<lb/>
+				
+一反二丁　　　ツフキ田八百文
+				<lb/>
+				
+　　　　　中間五郎四郎か分
+				<lb/>
+				
+一反三丁　　　ウチノタ九百文　一反　　　　　　　山ノクチノマヘ柿ノ木ノ丸七百文
+				<lb/>
+				
+二丁　　　クリノサコ二百文
+				<lb/>
+				
+　　　　水田三反　代一貫八百文
+				<lb/>
+				
+　　　　　畠地之分
+				<lb/>
+				
+一ヶ所　　居屋敷三百文
+				<lb/>
+				
+　　　　以上代二貫百文
+				<lb/>
+				
+　　　　　御自作之分
+				<lb/>
+				
+三反　　クヌカタノマヘ二貫四百文　一反三丁　井ノシリ一貫二百文　五反　　ヱノ木タ四貫文
+				<lb/>
+				
+三反　　シモカハ又二貫四百文　一反四丁　カミカハ又一貫四百文　一反二丁　　カチヤマ一貫百文
+				<lb/>
+				
+古市三反三丁　ナヘタ二貫四百文　古市四反　　　　クスノ木ノモト三貫文　川床ニ二反　　　ヲクラせマチ二貫文
+				<lb/>
+				
+ムタノハラ七反　トヲリ五反田五貫六百文　四反　　ホリノウチ三貫七百文　ソヘタ四反二丁　　ミヤノマヘ四貫文
+				<lb/>
+				
+三反　ハネタノサコ二貫四百文　木場ノ原二反　　コハタ一貫六百文　一反　　　カコヰノウシロ六百文
+				<lb/>
+				
+　　　　水田四町六反四丁　代卅七貫八百文
+				<lb/>
+				
+　　　　　なへの門
+				<lb/>
+				
+一反　　コナヘ七百文　丁　　大サコ年〃不　丁　　　コナヘノサコ百文
+				<lb/>
+				
+五反　キタノサコ二貫五百文　二丁　　　ホウノ木ノサコ二百文　一反三丁　　シヤウフノ谷一貫百文
+				<lb/>
+				
+一反四丁　ワタ一貫文　七反丁　　モチタ五貫百文　二反丁　岸下二貫文
+				<lb/>
+				
+二反三丁　ミヤノマヘ一貫九百文　二反四丁　カタホキ一貫八百文　五反丁　マチノ三貫六百文
+				<lb/>
+				
+一町二反三丁　　　　ユノ木ノタニ七貫六百文
+				<lb/>
+				
+　　　　水田四町二反三丁　代廿七貫六百文
+				<lb/>
+				
+　　　　　畠地之分
+				<lb/>
+				
+一ヶ所　　居屋敷五百文　四反　　マヘ以上四百文　一反二丁　フルヤシキ百五十文
+				<lb/>
+				
+五反　　　コナヘノサコ五百文　一反　　　　　コナヘノサコ上百文
+				<lb/>
+				
+　　　　畠一町一反二丁屋敷共ニ一貫六百五十文
+				<lb/>
+				
+　定田数三町五反　与田七反三丁
+				<lb/>
+				
+　田畠之代　以上廿九貫二百五十文
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

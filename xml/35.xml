@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>9　 応永7年12月13日　　島津久哲(伊久)預ケ状（＃３５）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/275/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/275/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/721/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="重頼">
+					<span>重頼</span>
+				</span>
+				<span xml:id="伊久">
+					<span>伊久</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				三五　島津久哲伊久預ヶ状
+				<lb/>
+				
+薩摩国之内谷山郡同国給黎院半分事
+				<lb/>
+				
+右、為料所〃預申也、任先例可被沙汰之状如件、
+				<lb/>
+				
+　　　応永七年十二月十三日　　　　　　　　　　
+				<span corresp="#伊久">久哲</span>
+				（花押）
+				<lb/>
+				
+　　　渋谷
+				<span corresp="#重頼">弾正</span>
+				少弼殿
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

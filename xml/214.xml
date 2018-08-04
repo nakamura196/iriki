@@ -1,0 +1,111 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>1　　延慶2年11月26日　　鎮西裁許状（＃２１４）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/449/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/449/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/484/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="政顕">
+					<span>政顕</span>
+				</span>
+				<span xml:id="島津忠宗">
+					<span>島津忠宗</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				二一四　鎮西裁許状
+				<lb/>
+				
+　薩摩国武光弥三郎経兼与宮里八郎正有相論、当国宮里郷正岡名内田地
+				<lb/>
+				
+参町、屋敷壱所当公事等事
+				<lb/>
+				
+右、就訴陳状、擬有其沙汰之処、如嘉元三年十一月廿八日正有状者、件
+				<lb/>
+				
+田屋敷者、亡父正行弘安八年十月十日譲与養子経兼時、定置所当公事分
+				<lb/>
+				
+限之上、以和与之儀、向後請米佃者、弐町分、臨時課役者、壱町分、可
+				<lb/>
+				
+弁勤、又薗公事者、任正行譲状、不可懈怠之由、出状之間、所止訴訟也
+				<lb/>
+				
+云〃、如経兼同日状者、子細同前、爰両方之品〓、相論之下地、有疑貽
+				<lb/>
+				
+之間、被糺明之処、守護人
+				<span corresp="#島津忠宗">下野前司</span>
+				入道〃義代本性与経兼正有等、就当
+				<lb/>
+				
+郷田地、番訴陳、依出和与状、去正安四年八月十八日、嘉元三年七月二
+				<lb/>
+				
+日被裁許畢、此上者、云品〓、云論所、無不審歟、然則相互任和与状、
+				<lb/>
+				
+可致沙汰矣者、依仰下知如件、
+				<lb/>
+				
+　　　延慶二年十一月廿六日
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　前上総介平
+				<span corresp="#政顕">朝臣</span>
+				（花押）
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

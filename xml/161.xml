@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>5　　建保6年11月26日　　島津忠久袖判中務丞忠旬奉書写（＃１６１）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/397/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/397/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/505/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/397/canvas/p2" url="https://diyhistory.org/public/omekas12/iiif-img/506/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="端裏朱書">
+					<span>端裏朱書</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				一六一　島津忠久袖判中務丞忠俊奉書写　建保六年十一月廿六日
+				<lb/>
+				
+　　　　　　○コノ文書、前出第二九号ニソノ正文ヲ収メタルヲ以テ、端裏
+				<lb/>
+				
+　　　　　　書ノミヲ掲ゲ、本文省略ニ従フ、
+				<lb/>
+				
+
+				<span corresp="#端裏朱書">「</span>
+				是ハ御文書方より賜写也」
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

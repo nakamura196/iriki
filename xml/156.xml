@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>13　　(至徳2年カ)4月21日_宮内大輔三雄挙状（＃１５６）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/392/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/392/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/838/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="至徳二年カ">
+					<span>至徳二年カ</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				一五六　宮内大輔三雄挙状（切紙）
+				<lb/>
+				
+畏申上候、抑渋谷五郎重頼申、当知行分安堵之事、無相違様、御申御沙
+				<lb/>
+				
+汰候者、畏入候、殊更、此時分被致忠節候之間、悦入候、便宜之時者、
+				<lb/>
+				
+京都可有御申候、以此之旨、可有御披露候、恐惶謹言、
+				<lb/>
+				
+　　　
+				<span corresp="#至徳二年カ">卯月廿一日</span>
+				　　　　宮内大輔三雄（花押）
+				<lb/>
+				
+進上　周防右京亮殿
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

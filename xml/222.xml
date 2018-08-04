@@ -1,0 +1,128 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>9　　応安元年10月25日　_武光心呈(重兼)譲状（＃２２２）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/457/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/457/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/855/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/457/canvas/p2" url="https://diyhistory.org/public/omekas12/iiif-img/856/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="重見">
+					<span>重見</span>
+				</span>
+				<span xml:id="島津">
+					<span>島津</span>
+				</span>
+				<span xml:id="右裏書">
+					<span>右裏書</span>
+				</span>
+				<span xml:id="重兼">
+					<span>重兼</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				二二二　武光心呈重兼譲状
+				<lb/>
+				
+譲与　小三郎兼氏所
+				<lb/>
+				
+　薩摩国高城郡本万得名惣領職加弁済使職定、
+				<lb/>
+				
+　同国同郡吉枝名惣領職　領家御安堵之時可申給、
+				<lb/>
+				
+　同国宮里郷床並田地薗惣領職　今者号武光名、元権次郎名、
+				<lb/>
+				
+　同郷清水寺別当職惣領　田薗并免田、薩摩郡高城郡散在料田也、
+				<lb/>
+				
+　薩摩国三番在庁権大様職　牛屎院南郷書生吉枝名内在庁給在之、五町也、
+				<lb/>
+				
+　同国薩摩郡別苻前田地四段
+				<lb/>
+				
+　筑前国三奈木庄七隈郷田地三町屋敷二ヶ所畠六段
+				<lb/>
+				
+　井上長淵等弘安恩賞地頭職惣領職
+				<lb/>
+				
+右所領所職等、重代相伝之地也、然間、相副次第本証文御下文御下知、
+				<lb/>
+				
+譲与小三郎兼氏者也、限永代不可有知行相違、将亦庶子等并女子後家先
+				<lb/>
+				
+年田薗等譲与了、御公事支配之外、不可成乱違、仍譲状如件、
+				<lb/>
+				
+　　　応安元年十月廿五日　　　　　　　　　　　沙弥
+				<span corresp="#重兼">心呈</span>
+				（花押）
+				<lb/>
+				
+　　　
+				<span corresp="#右裏書">「</span>
+				　任此譲状之旨、知行所不可有相違也、
+				<lb/>
+				
+　　　応安元年十一月三日　　　　　　　　　　　
+				<span corresp="#島津">伊久</span>
+				（花押）」
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

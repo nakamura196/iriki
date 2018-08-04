@@ -1,0 +1,444 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>6　　嘉暦4年5月99日　　_渋谷惟重遺領等注進状案（＃９８）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/334/manifest">
+			      
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/334/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/659/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/334/canvas/p2" url="https://diyhistory.org/public/omekas12/iiif-img/660/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/334/canvas/p3" url="https://diyhistory.org/public/omekas12/iiif-img/661/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/334/canvas/p4" url="https://diyhistory.org/public/omekas12/iiif-img/662/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/334/canvas/p5" url="https://diyhistory.org/public/omekas12/iiif-img/663/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/334/canvas/p6" url="https://diyhistory.org/public/omekas12/iiif-img/664/full/full/0/default.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://diyhistory.org/public/omekas12/iiif/334/canvas/p7" url="https://diyhistory.org/public/omekas12/iiif-img/665/full/full/0/default.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="進イ">
+					<span>進イ</span>
+				</span>
+				<span xml:id="上上イ">
+					<span>上上イ</span>
+				</span>
+				<span xml:id="大、下同ジ">
+					<span>大、下同ジ</span>
+				</span>
+				<span xml:id="端裏書">
+					<span>端裏書</span>
+				</span>
+				<span xml:id="密">
+					<span>密</span>
+				</span>
+				<span xml:id="師イ">
+					<span>師イ</span>
+				</span>
+				<span xml:id="丁イ中イ">
+					<span>丁イ中イ</span>
+				</span>
+				<span xml:id="丁イ">
+					<span>丁イ</span>
+				</span>
+				<span xml:id="ハイ">
+					<span>ハイ</span>
+				</span>
+				<span xml:id="付イ">
+					<span>付イ</span>
+				</span>
+				<span xml:id="功">
+					<span>功</span>
+				</span>
+				<span xml:id="中イ">
+					<span>中イ</span>
+				</span>
+				<span xml:id="ナシイ ">
+					<span>ナシイ </span>
+				</span>
+				<span xml:id="ニイ">
+					<span>ニイ</span>
+				</span>
+				<span xml:id="ナシイ">
+					<span>ナシイ</span>
+				</span>
+				<span xml:id="上イ">
+					<span>上イ</span>
+				</span>
+				<span xml:id="下イ">
+					<span>下イ</span>
+				</span>
+				<span xml:id="跡所領等事イ">
+					<span>跡所領等事イ</span>
+				</span>
+				<span xml:id="大">
+					<span>大</span>
+				</span>
+				<span xml:id="古イ">
+					<span>古イ</span>
+				</span>
+				<span xml:id="裏書">
+					<span>裏書</span>
+				</span>
+				<span xml:id="下下イ">
+					<span>下下イ</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				<lb/>
+				九八　渋谷惟重遺領等注進状案
+				<lb/>
+				
+　　　　　　○コノ文書、紙継目裏毎ニ「……裏判……裏判」トアリ、次号
+				<lb/>
+				
+　　　　　　ニ同文ノ案文アリ、文字ノ異同ハ便宜傍註セリ、
+				<lb/>
+				
+
+				<span corresp="#端裏書">「</span>
+				重名所進勘返状案」
+				<lb/>
+				
+勘
+				<span corresp="#進イ">返</span>
+				<lb/>
+				
+　　渋谷孫三郎惟重遺
+				<span corresp="#跡所領等事イ">領等勘返事</span>
+				<lb/>
+				
+　　　合
+				<lb/>
+				
+一相模国吉田上庄寺尾村内
+				<lb/>
+				
+　　田地肆段
+				<lb/>
+				
+　　在家弐宇内副同山野立野壱
+				<span corresp="#丁イ">町</span>
+				<lb/>
+				
+　　　壱宇中三郎入道
+				<span corresp="#上イ">屋敷</span>
+				<lb/>
+				
+　　　壱宇後藤太郎
+				<span corresp="#下イ">屋敷</span>
+				<lb/>
+				
+　　　而如重広注文者、弐宇内壱宇地頭屋敷云〃、無跡形不実也、弐宇
+				<lb/>
+				
+　　共往代百姓屋敷也、
+				<lb/>
+				
+　　在家伍宇
+				<span corresp="#付イ">村</span>
+				山野在之、是者、自法音寺押領之、
+				<lb/>
+				
+一薩摩国入来院塔原郷
+				<lb/>
+				
+　　公田十八町七段半
+				<lb/>
+				
+　　　是
+				<span corresp="#ハイ">者</span>
+				公田許也、莫
+				<span corresp="#大、下同ジ">太</span>
+				余剰雖在之、不持下地取帳之間、不備進之、
+				<lb/>
+				
+　　於重広
+				<span corresp="#ナシイ">者</span>
+				雖令所持之、〓奸心、不進取帳之上者、被配分公田、至
+				<lb/>
+				
+　　下地余剰者、就于分限、可被領之由、可被仰下于鎮西探題御方
+				<lb/>
+				
+　　歟、
+				<lb/>
+				
+　　在家分
+				<lb/>
+				
+　　　一所　　地頭堀
+				<span corresp="#上イ">内</span>
+				<lb/>
+				
+　　　四个所城篭1
+				<span corresp="#進イ">1村</span>
+				<lb/>
+				
+　　　一宇淵
+				<span corresp="#中イ">脇</span>
+				　此内毘沙門堂并十二宮、同敷地・免田在之、
+				<lb/>
+				
+　　　二宇借屋崎　当所
+				<span corresp="#ニイ">仁</span>
+				有市庭、是則、有得分之地
+				<span corresp="#ナシイ ">也</span>
+				、尤欲有御配分、
+				<lb/>
+				
+　　　一宇藤九郎入
+				<span corresp="#中イ">道</span>
+				<lb/>
+				
+　　　二宇大
+				<span corresp="#中イ">薗</span>
+				　此内天神敷地・免田在之、
+				<lb/>
+				
+　　三个所中里
+				<span corresp="#中イ">内</span>
+				<lb/>
+				
+　　　一宇号岡六在家、　宗万房一期分也・未来仁可被定之、
+				<lb/>
+				
+　　三个所　古家薗
+				<span corresp="#下イ">内</span>
+				　一宇重名当住、此内
+				<span corresp="#ナシイ">仁</span>
+				薬
+				<span corresp="#師イ">堂</span>
+				并三嶋社、同敷地・免田在之、
+				<lb/>
+				
+　　　一宇　樺
+				<span corresp="#下イ">目</span>
+				　此内阿弥陀堂、同敷地・免田在之、
+				<lb/>
+				
+　　　一宇　中2
+				<span corresp="#跡所領等事イ">2塚</span>
+				　此内若宮敷地・免田在之、
+				<lb/>
+				
+　　　一宇　横
+				<span corresp="#下イ">枕</span>
+				<lb/>
+				
+　　　一宇　久目
+				<span corresp="#上上イ">方</span>
+				<lb/>
+				
+　　　四宇　宇津木
+				<span corresp="#上上イ">浪</span>
+				　此内権現堂、同敷地・免田在之、
+				<lb/>
+				
+　　　一宇　塚
+				<span corresp="#下イ">原</span>
+				<lb/>
+				
+Ｐ５２
+				<lb/>
+				
+　　　一宇　皮
+				<span corresp="#中イ">屋</span>
+				<lb/>
+				
+　　　三宇　田
+				<span corresp="#中イ">代</span>
+				<lb/>
+				
+　　　一宇　木
+				<span corresp="#中イ">葉</span>
+				<lb/>
+				
+　　　二宇　金
+				<span corresp="#上イ">家</span>
+				　如重広注文者、一宇云〃、争隠
+				<span corresp="#密">蜜</span>
+				之　罪科可遁之哉、
+				<lb/>
+				
+　　　弐宇　橋
+				<span corresp="#下イ">口</span>
+				<lb/>
+				
+　　　一宇　樋3
+				<span corresp="#丁イ">3脇</span>
+				<lb/>
+				
+　　　三宇　村
+				<span corresp="#古イ">子</span>
+				<span corresp="#下イ">田</span>
+				当所
+				<span corresp="#ニイ">仁</span>
+				観音堂一宇、同敷地・免田在之、
+				<lb/>
+				
+　　　二宇　前土
+				<span corresp="#下イ">古</span>
+				此内諏方社、同敷地・免田在之、
+				<lb/>
+				
+　　　一宇　柿木
+				<span corresp="#下下イ">原</span>
+				<lb/>
+				
+　　　一宇　峯
+				<span corresp="#下イ">越</span>
+				<lb/>
+				
+　　　一宇　松
+				<span corresp="#中イ">丸</span>
+				<lb/>
+				
+　　重広一向令隠畠分
+				<lb/>
+				
+　　　一宇　藤
+				<span corresp="#下イ">次</span>
+				<lb/>
+				
+　　　一宇　永吉入
+				<span corresp="#下イ">道</span>
+				<lb/>
+				
+　　　一宇　五郎太郎入
+				<span corresp="#下イ">道</span>
+				<lb/>
+				
+　　　一宇　赤崎入4
+				<span corresp="#上イ">4道</span>
+				<lb/>
+				
+　　　一宇　皆
+				<span corresp="#下イ">原</span>
+				<lb/>
+				
+　　正作分
+				<lb/>
+				
+　　　一段井
+				<span corresp="#上イ">尻</span>
+				二段月
+				<span corresp="#中イ">方</span>
+				　三段桜
+				<span corresp="#中イ">木</span>
+				<lb/>
+				
+　　　三段樺
+				<span corresp="#上イ">目</span>
+				　一
+				<span corresp="#丁イ">町</span>
+				口
+				<span corresp="#上イ">町</span>
+				　一
+				<span corresp="#丁イ中イ">町</span>
+				　頭田、此内神田在之、
+				<lb/>
+				
+　此外山野河莫
+				<span corresp="#大">太</span>
+				在之、就于分限、可被分付
+				<span corresp="#ナシイ">之</span>
+				歟、
+				<lb/>
+				
+　又在之、号楡木田、名主押領之間、相論最中也、
+				<lb/>
+				
+一筑前国早良郡下長尾庄5
+				<span corresp="#下イ">5内</span>
+				<lb/>
+				
+　　田地　二丁
+				<lb/>
+				
+　　畠　　二段
+				<lb/>
+				
+　　屋敷　一所
+				<lb/>
+				
+一筑後国三奈木庄
+				<span corresp="#下イ">内</span>
+				<lb/>
+				
+　　畠　　一丁
+				<lb/>
+				
+一伊勢国大
+				<span corresp="#功">工</span>
+				田
+				<span corresp="#上イ">内</span>
+				<lb/>
+				
+　　田　　一
+				<span corresp="#丁イ">町</span>
+				<lb/>
+				
+右、注進如件、
+				<lb/>
+				
+　　　嘉暦四年五月　日　　　　　　　　　　平重名
+				<span corresp="#裏書">「</span>
+				裏判」
+				<lb/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

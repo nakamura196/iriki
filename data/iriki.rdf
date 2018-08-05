@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:prop-ja="http://ja.dbpedia.org/property/"
+   xmlns:prov="http://www.w3.org/ns/prov#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/入来院重高">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/島津忠豊_(薩州家)"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1637年"/>
+    <prop-ja:兄弟 rdf:resource="http://ja.dbpedia.org/resource/島津忠清"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/入来院重通"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/島原の乱"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/石見国"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1643年"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/島津義虎"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/本藩人物誌"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/8月20日_(旧暦)"/>
+    <foaf:name xml:lang="ja">入来院重高</foaf:name>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/新納忠在"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/南原城"/>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q11162215"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/江戸時代"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/改易"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/Category:入来院氏"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/慶長"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/関ヶ原の戦い"/>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">2170</dbpedia-owl:wikiPageLength>
+    <prop-ja:氏族 rdf:resource="http://ja.dbpedia.org/resource/島津氏"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/8月18日_(旧暦)"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/伯耆国"/>
+    <prop-ja:墓所 xml:lang="ja">鹿児島県薩摩川内市入来町の蓮昌寺</prop-ja:墓所>
+    <dcterms:subject rdf:resource="http://ja.dbpedia.org/resource/Category:1579年生"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/頴娃氏"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/天正"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/庄内の乱"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/白石永仙"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1597年"/>
+    <dbpedia-owl:abstract xml:lang="ja">入来院 重高（いりきいん しげたか）は、安土桃山時代から江戸時代前期にかけての武将。島津氏の家臣。元は島津氏庶流の薩州家出身だが、後に頴娃氏、入来院氏を称した。</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/鎌田政近"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/島津忠恒"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1602年"/>
+    <prop-ja:改名 xml:lang="ja">島津忠富、久秀、頴娃久秀、入来院重国、重高</prop-ja:改名>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/山田有栄"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/寛永"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/入来院重時"/>
+    <dcterms:subject rdf:resource="http://ja.dbpedia.org/resource/Category:薩摩藩士"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/薩州家"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1605年"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <prop-ja:子 xml:lang="ja">重通、重次、養子：頴娃久政</prop-ja:子>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/島津忠栄_(薩州家)"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1579年"/>
+    <prop-ja:官位 xml:lang="ja">石見守、伯耆守</prop-ja:官位>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/文禄"/>
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"/>
+    <prop-ja:主君 rdf:resource="http://ja.dbpedia.org/resource/島津忠恒"/>
+    <prop-ja:藩 rdf:resource="http://ja.dbpedia.org/resource/薩摩藩"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/薩摩川内市"/>
+    <dcterms:subject rdf:resource="http://ja.dbpedia.org/resource/Category:薩州島津氏"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/Category:1647年没"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/豊臣秀吉"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/9月6日"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/入来院氏"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/阿久根市"/>
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/薩摩藩"/>
+    <prop-ja:兄弟 rdf:resource="http://ja.dbpedia.org/resource/島津忠栄_(薩州家)"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1600年"/>
+    <dbpedia-owl:alias xml:lang="ja">通称：弥一郎（但し頴娃氏の頃のみ）</dbpedia-owl:alias>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q11162215"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/正保"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1647年"/>
+    <dcterms:subject rdf:resource="http://ja.dbpedia.org/resource/Category:戦国武将"/>
+    <prop-ja:時代 rdf:resource="http://ja.dbpedia.org/resource/安土桃山時代"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1632年"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/入来院重次"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/鹿児島県"/>
+    <prop-ja:別名 xml:lang="ja">通称：弥一郎（但し頴娃氏の頃のみ）</prop-ja:別名>
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:基礎情報_武士"/>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">58837244</dbpedia-owl:wikiPageRevisionID>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/南蛮"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/入来院重頼"/>
+    <prop-ja:氏名 xml:lang="ja">入来院重高</prop-ja:氏名>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/9月10日"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/島津光久"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/山田城_(宮崎県)"/>
+    <dbpedia-owl:alias xml:lang="ja">島津忠富、久秀、頴娃久秀、入来院重国、重高</dbpedia-owl:alias>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/北郷久加"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/島津忠辰"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/Category:1579年生"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1599年"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/小西行長"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/MilitaryPerson"/>
+    <prop-ja:氏族 rdf:resource="http://ja.dbpedia.org/resource/入来院氏"/>
+    <prop-ja:主君 rdf:resource="http://ja.dbpedia.org/resource/島津義弘"/>
+    <prop-ja:戒名 xml:lang="ja">蓮昌寺殿大円月鑑庵主</prop-ja:戒名>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <prop-ja:時代 rdf:resource="http://ja.dbpedia.org/resource/江戸時代"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/島津忠清"/>
+    <prop-ja:兄弟 rdf:resource="http://ja.dbpedia.org/resource/島津忠豊_(薩州家)"/>
+    <prop-ja:兄弟 rdf:resource="http://ja.dbpedia.org/resource/島津忠隣"/>
+    <prop-ja:妻 xml:lang="ja">入来院重時娘</prop-ja:妻>
+    <prop-ja:兄弟 rdf:resource="http://ja.dbpedia.org/resource/志岐親弘"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://ja.wikipedia.org/wiki/入来院重高"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/李氏朝鮮"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/Category:薩州島津氏"/>
+    <rdfs:label xml:lang="ja">入来院重高</rdfs:label>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/Category:薩摩藩士"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/入来町"/>
+    <dbpedia-owl:child rdf:resource="http://ja.dbpedia.org/resource/入来院重通"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/武将"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/頴娃久政"/>
+    <prop-ja:死没 rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--08-18</prop-ja:死没>
+    <rdfs:comment xml:lang="ja">入来院 重高（いりきいん しげたか）は、安土桃山時代から江戸時代前期にかけての武将。島津氏の家臣。元は島津氏庶流の薩州家出身だが、後に頴娃氏、入来院氏を称した。</rdfs:comment>
+    <dbpedia-owl:sibling rdf:resource="http://ja.dbpedia.org/resource/志岐親弘"/>
+    <prop-ja:父母 xml:lang="ja">父：島津義虎、母：島津義久娘・御平</prop-ja:父母>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/泗川の戦い"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1613年"/>
+    <prop-ja:生誕 rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--08-20</prop-ja:生誕>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/長崎県"/>
+    <dcterms:subject rdf:resource="http://ja.dbpedia.org/resource/Category:入来院氏"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/Category:戦国武将"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/文禄・慶長の役"/>
+    <dcterms:subject rdf:resource="http://ja.dbpedia.org/resource/Category:1647年没"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/参勤交代"/>
+    <prop-ja:氏族 rdf:resource="http://ja.dbpedia.org/resource/頴娃氏"/>
+    <dbpedia-owl:wikiPageOutDegree rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">103</dbpedia-owl:wikiPageOutDegree>
+    <prov:wasDerivedFrom rdf:resource="http://ja.wikipedia.org/wiki/入来院重高?oldid=58837244"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/吉利忠張"/>
+    <prop-ja:父母 xml:lang="ja">養父：頴娃久音、入来院重時</prop-ja:父母>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/安土桃山時代"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/島津忠隣"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/志岐親弘"/>
+    <prop-ja:主君 rdf:resource="http://ja.dbpedia.org/resource/島津光久"/>
+    <dbpedia-owl:alias xml:lang="ja">蓮昌寺殿大円月鑑庵主</dbpedia-owl:alias>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/国司"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/島津義久"/>
+    <dbpedia-owl:parent rdf:resource="http://ja.dbpedia.org/resource/島津義虎"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/喜入忠政"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/島津氏"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2032559</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/島津久賀"/>
+    <dbpedia-owl:sibling rdf:resource="http://ja.dbpedia.org/resource/島津忠辰"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/島津義弘"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/頴娃久音"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1594年"/>
+    <prop-ja:兄弟 rdf:resource="http://ja.dbpedia.org/resource/島津忠辰"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/地頭"/>
+    <dbpedia-owl:parent rdf:resource="http://ja.dbpedia.org/resource/頴娃久音"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/入来院重時">
+    <prop-ja:子 rdf:resource="http://ja.dbpedia.org/resource/入来院重高"/>
+    <dbpedia-owl:child rdf:resource="http://ja.dbpedia.org/resource/入来院重高"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/入来院重高"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/入来院氏">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/入来院重高"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/入来院重基"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/入来院重通">
+    <dbpedia-owl:parent rdf:resource="http://ja.dbpedia.org/resource/入来院重高"/>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/入来院重高"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/入来院重頼">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/入来院重高"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/頴娃久音">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/入来院重高"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/志岐氏">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/入来院重高"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/data/入来院重高.rdf">
+    <foaf:primaryTopic rdf:resource="http://ja.dbpedia.org/resource/入来院重高"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/data/入来院重基.rdf">
+    <foaf:primaryTopic rdf:resource="http://ja.dbpedia.org/resource/入来院重基"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/島津忠隣">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/入来院重高"/>
+    <prop-ja:兄弟 rdf:resource="http://ja.dbpedia.org/resource/入来院重高"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.wikipedia.org/wiki/入来院重高">
+    <foaf:primaryTopic rdf:resource="http://ja.dbpedia.org/resource/入来院重高"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/島津忠辰">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/入来院重高"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/島津義久">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/入来院重高"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/薩摩藩家臣">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/入来院重高"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/薩州家">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/入来院重高"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/島津忠清">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/入来院重高"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/肝付氏">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/入来院重高"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/島津義虎">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/入来院重高"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/吉利忠張">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/入来院重高"/>
+  </rdf:Description>
+</rdf:RDF>

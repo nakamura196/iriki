@@ -34,18 +34,21 @@
 	<text>
 		<front>
 			<p>
-				<span xml:id="重基">
-					<span>重基</span>
-				</span>
+				<listPerson>
+					<person xml:id="入来院重基">
+						<persName ref="http://ja.dbpedia.org/resource/入来院重基">入来院重基</persName>
+					</person>
+				</listPerson>
 			</p>
 		</front>
 		<body>
 			<p>
 				<lb facs="#zone_tvt_kky_r2b"/> 渋谷新平二入道<lb facs="#zone_qb2_lky_r2b"/>
-				<span corresp="#重基">定円</span> 当知行地、不可<lb facs="#zone_mkn_lky_r2b"/>有相違者、 <lb
+				<span corresp="#入来院重基">定円</span> 当知行地、不可<lb facs="#zone_mkn_lky_r2b"/>有相違者、 <lb
 					facs="#zone_hnw_lky_r2b"/> 天気如此、悉之以状、<lb/> 　　　<span facs="#zone_rwf_mky_r2b"
-					>元弘三年十一月九日</span>　　　　　　　　　<span facs="#zone_hmw_mky_r2b">式部大丞</span><span
-					facs="#zone_nst_nky_r2b">（花押）</span>
+						><date when="1333-12-16" sameAs="http://datetime.hutime.org/date/1333-12-16"
+						>元弘三年十一月九日</date></span>　　　　　　　　　<span facs="#zone_hmw_mky_r2b"
+					>式部大丞</span><span facs="#zone_nst_nky_r2b">（花押）</span>
 				<lb/>
 			</p>
 		</body>

@@ -43,9 +43,11 @@
 	<text>
 		<front>
 			<p>
-				<span xml:id="入来院重高">
-					<span>入来院重高</span>
-				</span>
+				<listPerson>
+					<person xml:id="入来院重高">
+						<persName ref="http://ja.dbpedia.org/resource/入来院重高">入来院重高</persName>
+					</person>
+				</listPerson>
 			</p>
 		</front>
 		<body>
@@ -54,10 +56,10 @@
 				/>致粉骨、従其伊勢・近江・伊賀・ <lb facs="#zone_e1y_1yw_r2b"/>大和・河内・和泉ニ至り、帰国之 <lb
 					facs="#zone_p5j_byw_r2b"/>路次伝、片時も側を不相離、 <lb facs="#zone_mzx_byw_r2b"
 				/>被抽奉公之段、神妙之至、尤 <lb facs="#zone_wwk_cyw_r2b"/>感入候、仍知行弐佰石遺之候也 <lb
-					facs="#zone_zhw_cyw_r2b"/> 　　慶長五 <lb/> 　　　　<span facs="#zone_m33_dyw_r2b"
-					>拾月十日</span>　　　　　　　　　　　　　　<span facs="#zone_rwr_dyw_r2b">維新</span>　<span
-					facs="#zone_edg_2yw_r2b">（墨印）</span>
-				<lb facs="#zone_bhr_2yw_r2b"/> 　　　　　　 <span corresp="#入来院重高">頴娃弥市郎</span> 殿 <lb/>
+					facs="#zone_zhw_cyw_r2b"/> 　　<date when="1600-11-15">慶長五 <lb/> 　　　　<span
+						facs="#zone_m33_dyw_r2b">拾月十日</span></date>　　　　　　　　　　　　　　<span
+					facs="#zone_rwr_dyw_r2b">維新</span>　<span facs="#zone_edg_2yw_r2b">（墨印）</span>
+				<lb facs="#zone_bhr_2yw_r2b"/> 　　　　　　 <persName corresp="#入来院重高">頴娃弥市郎</persName> 殿 <lb/>
 			</p>
 		</body>
 	</text>

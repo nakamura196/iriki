@@ -201,14 +201,6 @@ def create_xml(title, text, comments, image_urls, manifest):
         print(title)
         return None
 
-ids = {}
-with open('ids.csv', 'r') as f:
-    reader = csv.reader(f)
-    header = next(reader)  # ヘッダーを読み飛ばしたい時
-
-    for row in reader:
-        ids[row[0]] = row[1]
-
 
 with open('html_contents_list.csv', 'r') as f:
     reader = csv.reader(f)
@@ -262,8 +254,3 @@ with open('html_contents_list.csv', 'r') as f:
                     f.write(text)
 
                     f.close()
-
-
-
-            # if count > 3:
-            #    break

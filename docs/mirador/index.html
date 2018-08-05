@@ -83,6 +83,31 @@
   </footer>
   <!--/.Footer-->
 
+  <!-- Modal -->
+  <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="label"></h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <div class="media">
+            <img class="mr-3" id="thumb" width="90px" alt="Generic placeholder image">
+            <div class="media-body">
+              <span id="comment"></span>
+            </div>
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <script
   src="//code.jquery.com/jquery-3.3.1.min.js"
   integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
@@ -178,8 +203,14 @@
             selector.attr('title', title);
             selector.attr("class", "text-primary")
             selector.attr("data-toggle", "tooltip")
+
+            if(person_dict["dbpedia_uri"]){
+              selector.attr('onClick', 'lod("'+person_dict["dbpedia_uri"]+'");');
+            }
           })
         }
+
+        highlightDate(xml)
 
         body = body.html()
         body = body.replace(/<lb/g, '<br')
@@ -262,26 +293,42 @@
   }
 
   function getPeople(xml){
-    $(xml).find("span").each(function() {
-      var s = $(this);
 
-      var person_id = s.attr("xml:id")
-      var person_dict = {}
-      people_dict[person_id] = person_dict
+    var tags = [["span", "span"], ["person", "persName"]]
 
-      var dbpedia_uri = $(s.find("span")[0]).attr("ref")
-      if(dbpedia_uri != null){
-        person_dict["dbpedia_uri"] = dbpedia_uri
-      }
+    for(i = 0; i < tags.length; i++){
 
-      person_dict.occupation = []
-      $(s.find("occupation")).each(function(){
-        var o = $(this);
-        person_dict.occupation.push(o.text())
+      var tag = tags[i]
+
+      $(xml).find(tag[0]).each(function() {
+        var s = $(this);
+
+        var person_id = s.attr("xml:id")
+        var person_dict = {}
+        people_dict[person_id] = person_dict
+
+        var dbpedia_uri = $(s.find(tag[1])[0]).attr("ref")
+        if(dbpedia_uri != null){
+          person_dict["dbpedia_uri"] = dbpedia_uri
+        }
+
+        person_dict.occupation = []
+        $(s.find("occupation")).each(function(){
+          var o = $(this);
+          person_dict.occupation.push(o.text())
+        })
+
       })
+    }
+  }
 
+  function highlightDate(xml){
+    $(xml).find("body").find("date").each(function() {
+      var selector = $(this);
+      var date = selector.attr("when")
+      selector.attr('title', date);
+      selector.attr("data-toggle", "tooltip")
     })
-
   }
 
   //canvasIDと領域を指定して移動
@@ -289,6 +336,50 @@
     var zone = zones[id]
     miradorInstance.eventEmitter.publish('SET_CURRENT_CANVAS_ID', zone.canvasID);
     miradorInstance.eventEmitter.publish('fitBounds', {'x': zone.x, 'y': zone.y,'width': zone.dx, 'height': zone.dy});
+  }
+
+  function lod(dbpedia_uri){
+
+    var query = "";
+    query += " SELECT DISTINCT * ";
+    query += " WHERE { ";
+    query += " ?s rdfs:label ?label . ";
+    query += " filter (?s = <"+dbpedia_uri+">)  . ";
+    query += " ?s rdfs:comment ?comment . ";
+    query += " OPTIONAL { ?s <http://dbpedia.org/ontology/thumbnail> ?thumb . } ";
+    query += " } ";
+
+    $.ajax({
+      type : "POST",
+      url : "https://dydra.com/ut-digital-archives/iriki/sparql",
+      data : {
+        query : query,
+        format : "json"
+      },
+      success : function(data) {
+        var result = data.results.bindings;
+
+        if(result.length > 0){
+
+          var obj = result[0]
+          $("#label").text(obj.label.value)
+          $("#comment").text(obj.comment.value)
+
+          var thumb;
+          if(obj.thumb){
+            thumb = obj.thumb.value
+          } else {
+            thumb = "http://simpleicon.com/wp-content/uploads/user1-64x64.png"
+          }
+          $("#thumb").attr("src", thumb)
+
+          $('#myModal').modal()
+        }
+
+      }, error : function(data) {
+  			alert(data.statusText);
+  		}
+    });
   }
 
 </script>

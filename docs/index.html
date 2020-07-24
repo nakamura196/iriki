@@ -71,8 +71,6 @@
     }),
     
       async created() {
-        
-
         var self = this;
         await axios
           .get('data/toc.json')
@@ -88,12 +86,10 @@
               for(let j = 0; j < toc.length; j++){
                 let t = toc[j]
 
-                let url = t.url
-
                 children.push({
                   id : t.title,
                   name: t.title,
-                  url : url
+                  url : t.url
                 })
               }
               items.push({
@@ -105,15 +101,6 @@
             }
 
             self.items = items
-            
-            /*
-            for (let i = 0; i < manifests.length; i++) {
-              let manifest = manifests[i]
-              let vol = manifest.index
-              self.data[vol - 1].name = manifest.label.split("_")[0]
-            }
-            */
-           console.log({data})
           });
       }
     })

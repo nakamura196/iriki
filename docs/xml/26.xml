@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>10　 (慶長17年)10月23日_島津竜伯(義久)書状（＃２６）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/26/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/26/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/3/00000019.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/26/manifest.json/canvas/p2" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/3/00000020.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="封書切封ウハ書">
+					<span>封書切封ウハ書</span>
+				</span>
+				<span xml:id="慶長十七年">
+					<span>慶長十七年</span>
+				</span>
+				<span xml:id="重高">
+					<span>重高</span>
+				</span>
+				<span xml:id="家久">
+					<span>家久</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+　二六　島津龍伯義久書状（折紙）
+				<lb/>
+				
+
+				<note corresp="#家久">陸奥</note>
+				守殿其宅へ被成入御候哉、定何かと馳走之志推察候、近比乍軽微、上酒両樽、損候て無爾〃之由候へとも、令進之候、補空書計候、恐〃謹言、
+				<lb/>
+				
+　　　　
+				<note corresp="#慶長十七年">十月廿三日</note>
+				　　　龍伯　（黒印）
+				<lb/>
+				
+　　　　　入来院
+				<note corresp="#重高">
+					守殿
+					<lb/>
+					
+　　　　　
+				</note>
+				<note corresp="#封書切封ウハ書">「</note>
+				<lb/>
+				
+　　　　　入来院石見守殿　　　　　　竜伯」
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

@@ -1,0 +1,134 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>17　　(年月日欠)　　　　_某手日記（＃１１６）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/116/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/116/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000029.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="重見">
+					<span>重見</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+　一一六　某手日記（折紙）
+				<lb/>
+				
+一御酒筒二つゐ
+				<lb/>
+				
+　　　とうかう二十
+				<lb/>
+				
+一けつり物篭二
+				<lb/>
+				
+一へき篭二
+				<lb/>
+				
+一かわらけ篭二
+				<lb/>
+				
+一やき串篭二
+				<lb/>
+				
+一山のいも篭十
+				<lb/>
+				
+一ところ篭十
+				<lb/>
+				
+一くわ篭十
+				<lb/>
+				
+一串柿篭十
+				<lb/>
+				
+一あつかわ篭十
+				<lb/>
+				
+一もちい篭十
+				<lb/>
+				
+一雲州橘篭十
+				<lb/>
+				
+一いも篭十
+				<lb/>
+				
+一大こん篭十
+				<lb/>
+				
+一かふ篭十
+				<lb/>
+				
+一和布篭十
+				<lb/>
+				
+一猪子五まる
+				<lb/>
+				
+一鹿ゑた二十
+				<lb/>
+				
+一雉　二十
+				<lb/>
+				
+一鴈　六
+				<lb/>
+				
+一うほ三十
+				<lb/>
+				
+　　以上
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

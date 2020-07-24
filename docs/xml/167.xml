@@ -1,0 +1,96 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>11　　文明13年8月　　　　渋谷重聡起請文案（＃１６７）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/167/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/167/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/13/00000021.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="島津武久">
+					<span>島津武久</span>
+				</span>
+				<span xml:id="経安">
+					<span>経安</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+　一六七　渋谷重聡起請文案
+				<lb/>
+				
+一三ヶ国如何様雖転変、無二
+				<note corresp="#島津武久">御屋形</note>
+				御用可罷立事、
+				<lb/>
+				
+一言葉之意趣、私於親類之時儀、再三村田殿ニ親にて候者え被申上候、
+				<lb/>
+				
+不可有其外之儀事、
+				<lb/>
+				
+一若和讒凶害之時者、被仰下、無覆蔵可申上事、
+				<lb/>
+				
+　　右、此条〃偽申候者、
+				<lb/>
+				
+　神名
+				<lb/>
+				
+　　　文明十三年辛丑八月　　　　重聡
+				<lb/>
+				
+　　進上　村田
+				<note corresp="#経安">肥前</note>
+				守殿
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

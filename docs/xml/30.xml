@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>4　 正平13年8月12日　　島津道鑑(貞久)同師久連署避状案（＃３０）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/30/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/30/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000007.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/30/manifest.json/canvas/p2" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000008.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="貞久">
+					<span>貞久</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+　三〇　島津道鑒貞久同師久連署避状案
+				<lb/>
+				
+　　　　　　　　○コノ文書、裏花押アリ、
+				<lb/>
+				
+薩摩国薩摩郡内勧童・永利両名地頭職、
+				<note corresp="#貞久">道鑒</note>
+				雖為重代所領、永利又太郎友
+				<lb/>
+				
+秀仁、限永代所避渡也、若於道鑒跡、此所仁於致違乱輩者、不可為子孫
+				<lb/>
+				
+儀、勧童・永利両名地頭職事落居之上者、日次公事止之畢、仍状如件、
+				<lb/>
+				
+　　　正平十三年八月十二日　　　　師久在判
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　道鑒在判
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

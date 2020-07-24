@@ -1,0 +1,178 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>4　　弘安2年12月23日　　関東裁許状案（＃７９）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/79/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/79/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000006.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/79/manifest.json/canvas/p2" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000007.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/79/manifest.json/canvas/p3" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000008.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="藉">
+					<span>藉</span>
+				</span>
+				<span xml:id="次カ">
+					<span>次カ</span>
+				</span>
+				<span xml:id="端裏書">
+					<span>端裏書</span>
+				</span>
+				<span xml:id="時宗">
+					<span>時宗</span>
+				</span>
+				<span xml:id="折">
+					<span>折</span>
+				</span>
+				<span xml:id="通">
+					<span>通</span>
+				</span>
+				<span xml:id="二階堂行綱">
+					<span>二階堂行綱</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+　七九　関東裁許状案
+				<lb/>
+				
+　　　　　　○コノ文書、紙継目裏ニ「……在裏判……在裏判」トアリ、
+				<lb/>
+				
+
+				<note corresp="#端裏書">「</note>
+				くわんとうの御けちのあん
+				<lb/>
+				
+　　渋谷五郎四郎重経法師法名定仏後家尼妙蓮同子息弥四郎重
+				<note corresp="#通">道</note>
+				并女子竹鶴
+				<lb/>
+				
+　等与余一為重本名重員相論、美作国河会郷内拾町北村、薩摩国入来院内
+				<lb/>
+				
+　塔原事
+				<lb/>
+				
+右、訴陳之趣子細雖多、所詮、定仏所領者、建治三年譲与重道等畢、於
+				<lb/>
+				
+為重者、令義絶之条、定仏自筆状等明白也、而乱入拾町北村并塔原、致
+				<lb/>
+				
+狼
+				<note corresp="#藉">籍</note>
+				之条、甚無謂、爰云渋谷屋敷、云自余所領等、任定仏自筆譲状、為
+				<lb/>
+				
+重令知行之間、下向美作所領之刻、妙蓮寺押領渋谷屋敷之由、為重雖申
+				<lb/>
+				
+之、件譲者、義絶以前状者、就後状并安堵御下文致沙汰旨、重道等令申
+				<lb/>
+				
+之処、為重無陳謝、随又為重帯譲状者、尤可訴申重道等之処、就重道等
+				<lb/>
+				
+之訴訟、書載陳状之上、度〃被下召苻之後、適雖参上、不遂問答、迯下
+				<lb/>
+				
+奥州之条、無理之至顕然也、
+				<note corresp="#次カ">以</note>
+				重道等弘安元年五月十九日申給召苻之
+				<lb/>
+				
+処、同六月三日掠給安堵御下文之条、変〃猛悪之由、為重雖申之、定仏
+				<lb/>
+				
+存生之時、令付申状於奉行人
+				<note corresp="#二階堂行綱">伊勢入道</note>
+				行願之間、経御沙汰、成給之旨、
+				<lb/>
+				
+重道等陳荅之刻、為重不論申、然則、於件所領者、任定仏譲状并安堵御
+				<lb/>
+				
+下文　重道等可令領掌也、次為重自六波羅被催促之処、不拘召苻、剰破
+				<lb/>
+				
+却御教書、打擲刃傷同使者、令
+				<note corresp="#折">析</note>
+				左右指之間、可被行其科之由、重道等
+				<lb/>
+				
+雖申之、為重論申之上、自六波羅不注進之間、当時不及其沙汰、次如妙
+				<lb/>
+				
+蓮等代景泰訴状者、夜討・強盗・山賊・海賊者世常事也、被定罪科畢、
+				<lb/>
+				
+為重之企者、無双猛悪之由、令書載間、可被行悪口科之旨、為重雖訴
+				<lb/>
+				
+之、為重押入重道等所領、致濫妨之上、彼詞難処悪口之間、非沙汰之限
+				<lb/>
+				
+者、依鎌倉殿仰、下知如件、
+				<lb/>
+				
+　　　弘安二年十二月廿三日
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　　相模守平
+				<note corresp="#時宗">朝臣</note>
+				在御判
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

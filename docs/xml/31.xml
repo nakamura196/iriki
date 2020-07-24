@@ -1,0 +1,97 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>5　 寛正3年3月24日　　_島津立久契状（＃３１）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/31/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/31/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000009.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="重豊">
+					<span>重豊</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+　三一　島津立久契状
+				<lb/>
+				
+　　　契状
+				<lb/>
+				
+右、世上如何様雖為転変、無二可立用之由、承候之間、自是も於于子〃
+				<lb/>
+				
+孫〃、偏可憑入候、於此中自然和讒凶害之人出来時者、不残心底可申承
+				<lb/>
+				
+事、
+				<lb/>
+				
+　　此条偽申候者、
+				<lb/>
+				
+伊勢天照太神宮、熊野三所大権現、
+				<lb/>
+				
+新田八幡大菩薩、天満大自在天神、
+				<lb/>
+				
+諏方上下大明神之御罰可罷蒙候、
+				<lb/>
+				
+　　　寛正三年三月廿四日　　　　　立久（花押）
+				<lb/>
+				
+　　　　　　　
+				<note corresp="#重豊">入来</note>
+				院殿
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

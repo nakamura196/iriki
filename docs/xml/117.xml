@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>18　　至徳3年5月22日　　_宮内大輔守政奉書（＃１１７）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/117/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/117/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000030.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="重光">
+					<span>重光</span>
+				</span>
+				<span xml:id="久氏">
+					<span>久氏</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+　一一七　宮内大輔守政奉書
+				<lb/>
+				
+薩摩国嶋津伊集院
+				<note corresp="#久氏">大隅</note>
+				入道跡当知行参分壱事、為闕所上者、知行不可有相違之
+				<lb/>
+				
+状、依　仰執達如件、
+				<lb/>
+				
+　　至徳三年五月廿二日　　　　　　　　　宮内大輔守政（花押）
+				<lb/>
+				
+　　渋谷
+				<note corresp="#重光">左馬</note>
+				佐殿
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

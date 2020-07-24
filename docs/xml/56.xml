@@ -1,0 +1,362 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>1　　建長2年10月20日　　渋谷定心置文案（＃５６）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/56/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/56/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/6/00000003.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/56/manifest.json/canvas/p2" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/6/00000004.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/56/manifest.json/canvas/p3" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/6/00000005.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/56/manifest.json/canvas/p4" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/6/00000006.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/56/manifest.json/canvas/p5" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/6/00000007.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="重賢">
+					<span>重賢</span>
+				</span>
+				<span xml:id="〓">
+					<span>〓</span>
+				</span>
+				<span xml:id="端裏書">
+					<span>端裏書</span>
+				</span>
+				<span xml:id="×ん">
+					<span>×ん</span>
+				</span>
+				<span xml:id="明重">
+					<span>明重</span>
+				</span>
+				<span xml:id="範〓">
+					<span>範〓</span>
+				</span>
+				<span xml:id="重純">
+					<span>重純</span>
+				</span>
+				<span xml:id="〓、下同ジ">
+					<span>〓、下同ジ</span>
+				</span>
+				<span xml:id="定心">
+					<span>定心</span>
+				</span>
+				<span xml:id="重経">
+					<span>重経</span>
+				</span>
+				<span xml:id="戌">
+					<span>戌</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+　五六　渋谷定心置文案
+				<lb/>
+				
+　　　　　　○コノ文書、前出第五三号ニ同文ノ案文（但、前欠）ヲ収メタ
+				<lb/>
+				
+　　　　　　リ、字句ニ若干ノ異同アリ、宜シク彼此参看スベシ、
+				<lb/>
+				
+
+				<note corresp="#端裏書">「</note>
+				定心大庭帳」
+				<lb/>
+				
+　定置　就于公事并諸事可存知子息等子細状
+				<lb/>
+				
+一公事田数事
+				<lb/>
+				
+　　御公事本田十九町肆段、雖為伊勢大類之分、相具今所領、令配分畢、
+				<lb/>
+				
+　　　十町四段　　大功田
+				<lb/>
+				
+　　　九町　　　　大類
+				<lb/>
+				
+　　　参十壱町弐段河会
+				<lb/>
+				
+　　　七拾五町　　入来
+				<lb/>
+				
+　　　陸町　　　　打
+				<note corresp="#〓、下同ジ">鈍</note>
+				<lb/>
+				
+　　已上百参拾壱町陸段
+				<lb/>
+				
+　　以之勘定拾九町肆段
+				<lb/>
+				
+一
+				<note corresp="#明重">三郎</note>
+				分
+				<lb/>
+				
+　　　九町　大類　　　　十七町四段　河会
+				<lb/>
+				
+　　　参町　打
+				<note corresp="#〓">鈍</note>
+				　　　　十捌町七段半　入来
+				<lb/>
+				
+　　　但、公事定田七町四段
+				<lb/>
+				
+一
+				<note corresp="#重経">四郎</note>
+				分
+				<lb/>
+				
+　　　十町四段　大功田　弐町参段河会
+				<lb/>
+				
+Ｐ２０
+				<lb/>
+				
+　　　十捌町七段半　入来
+				<lb/>
+				
+　　　但、公事定田肆町七段半
+				<lb/>
+				
+一
+				<note corresp="#重賢">五郎</note>
+				分
+				<lb/>
+				
+　　　肆町　河会　　　　十捌町七段半　入来
+				<lb/>
+				
+　　　但、公事定田参町
+				<lb/>
+				
+一
+				<note corresp="#重純">次郎</note>
+				三郎分
+				<lb/>
+				
+　　　七町五段　河会　　　　参町　打
+				<note corresp="#〓">鈍</note>
+				<lb/>
+				
+　　　十町四段大三十歩　入来
+				<lb/>
+				
+　　　但、公事定田参町壱段
+				<lb/>
+				
+一六郎次郎分
+				<lb/>
+				
+　　　捌町弐段大三十歩入来
+				<lb/>
+				
+　　　但、公事定田壱町弐段
+				<lb/>
+				
+一
+				<note corresp="#範〓">あら</note>
+				六分
+				<lb/>
+				
+　　　弐町入来公田也、但、除十九町四段御公事田数定也、
+				<lb/>
+				
+右、各随此田数、色〃御公事・京都大番、可令勤仕也、
+				<lb/>
+				
+一於領家国司両方御公事者、以入来院七拾五町田数、可令勤仕也、
+				<lb/>
+				
+一子息等中自此所領得替事出来者、勘合残田数、就于得田、於三郎明重
+				<lb/>
+				
+之沙汰、御公事可令支配、於得替所者、不可勤者也、
+				<lb/>
+				
+一鎌倉御神事之時、舎人出立事、一向ニ三郎かいとなみにてあるへし、
+				<lb/>
+				
+一鎌倉より人夫をめさるゝ時、うちもちり・ふかや・ふちこゝろやしき
+				<lb/>
+				
+たはたけのほとをハからひてあつへし、人夫あまたあたらん時ハ、女
+				<lb/>
+				
+房のふんニもさたすへし、三度ニ二度ハうちもちりよりあひまいらす
+				<lb/>
+				
+へし、
+				<lb/>
+				
+一大ゆかの番ハ、五ニ二をハ三らうつとむへし、いま三をハ三人してつ
+				<lb/>
+				
+とむへし、
+				<lb/>
+				
+　おちあいの殿ハらよりあふ事也、
+				<lb/>
+				
+一大庭御まきをひかん時ハ、ふかや・ふち心のさいけニしたかひて、一
+				<lb/>
+				
+人もらさす百文のせにをハからひあてゝ、をちあい・しもふかやの二
+				<lb/>
+				
+百文のせにゝくして、三百にて人夫のいとまをうけとゝむる也、その
+				<lb/>
+				
+むねを存すへし、
+				<lb/>
+				
+一五所宮御まつりの時、もしハ御すりのあらん時ハ、せんれいをたつね
+				<lb/>
+				
+て、ほとにしたかいてそのやくをつとむへし、たいかんすへからす、
+				<lb/>
+				
+一かまくらのやちハ三郎ニとらす、たゝし、ゐこんなからんをとゝにハ
+				<lb/>
+				
+すくせさすへし、他人をハやとせとも、をとゝにハかさぬ事おほくミ
+				<lb/>
+				
+る所也、をやのめいをそむく事なり、きひしくせいせハ、上ニ申すへ
+				<lb/>
+				
+し、
+				<lb/>
+				
+一下人らのあひたの事、かねて申つけ了、又せけむのくそくせうせうあ
+				<lb/>
+				
+らんをハ、こけさたに申あハせて、そのはからひにしたかふへし、
+				<lb/>
+				
+一女子ニゆつるさいけ田畠ハ、件女子はうニすきたるふるまひあらん時
+				<lb/>
+				
+ハ、子息よりあひて、この事ハ一定かとよくよくたつねて、もし一定
+				<lb/>
+				
+ならハ、件やしきを上まて申さすとも、おしとりて、子息等はいふん
+				<lb/>
+				
+してしるへし、件女子のこなんとにとらする事あるへからす、
+				<lb/>
+				
+一をやのためにほうこうありて心さしあらんものを、おや死去のゝち、
+				<lb/>
+				
+いつしかとかをいゐつけて、さんさんにあたる事、ゆめゆめあるまし
+				<lb/>
+				
+き事、
+				<lb/>
+				
+一をやのために仏事するよしいゐて、そのようとうれうニ、とかなから
+				<lb/>
+				
+ん人をせめてものをとりて、仏事する事あるへからす、くとくニ
+				<note corresp="#×ん">なら</note>
+				<lb/>
+				
+ぬ事也、
+				<lb/>
+				
+Ｐ２１
+				<lb/>
+				
+一子息同まこらか中、やしきをなんと本丁をはくやうにもうちいれて、しま
+				<lb/>
+				
+とう事あらハ、おのおのよりあひて一とハひきたすけ、いまよりのち
+				<lb/>
+				
+ニハさる事候ましと、きしやうをかゝせてをくへし、なをそのこゝろ
+				<lb/>
+				
+ありてくるう事あらハ、そのやしきをハ、おやの申たる事なれハと
+				<lb/>
+				
+て、おのおのわけてしるへし、
+				<lb/>
+				
+右、このうゑニハさのミ申へきやうなし、この状をハ上下万人ひか事と
+				<lb/>
+				
+ハ候ましき也、一事といふともゆめゆめたかふへからす、あなかしこ
+				<lb/>
+				
+かしこ、
+				<lb/>
+				
+　　　建長二年庚
+				<note corresp="#戌">戊</note>
+				十月廿日　　　　　　　　　1
+				<note corresp="#〓、下同ジ">1僧</note>
+				在判
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

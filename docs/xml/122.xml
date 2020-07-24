@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>1　　正嘉2年9月　日　　_薩摩国司庁宣（＃１２２）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/122/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/122/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000003.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="渋谷">
+					<span>渋谷</span>
+				</span>
+				<span xml:id="範〓">
+					<span>範〓</span>
+				</span>
+				<span xml:id="塔">
+					<span>塔</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+　一二二　薩摩国司庁宣
+				<lb/>
+				
+　　　　（花押）
+				<lb/>
+				
+庁宣　　　留守所
+				<lb/>
+				
+　可早以地頭
+				<note corresp="#渋谷">平重経</note>
+				・同重賢・字
+				<note corresp="#範〓">荒六</note>
+				等、沙汰進入来院半分所当米事
+				<lb/>
+				
+　　国定肆拾七石壱斗肆舛伍合　加軽物半分肆石　陸斗参舛定
+				<lb/>
+				
+　　除楽校宮立用田二町五段所当米十石国定
+				<lb/>
+				
+右郷半分内、
+				<note corresp="#塔">荅</note>
+				原重経、中村・庄篭・下副田等重賢、柏嶋水田半分荒六、
+				<lb/>
+				
+為請所、有限仏神事、管府役例立用田外、不論旱水不熟損亡、任請文員
+				<lb/>
+				
+数、可沙汰進、若背請文状、致未進対捍者、可停止請所之状、所宣如件、
+				<lb/>
+				
+留守所宜承知、不可違失、　以宣、
+				<lb/>
+				
+　　　正嘉二年九月　日
+				<lb/>
+				
+大介藤原朝臣
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

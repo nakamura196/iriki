@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>4　　寛元4年12月9日　　_藤原頼嗣袖加判下文（＃１２５）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/125/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/125/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000009.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="頼嗣">
+					<span>頼嗣</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+　一二五　藤原頼嗣袖加判下文
+				<lb/>
+				
+　　　　
+				<note corresp="#頼嗣">（花押）</note>
+				<lb/>
+				
+下　　伊勢国甲賀山住人
+				<lb/>
+				
+　補任地頭職事
+				<lb/>
+				
+　　渋谷三郎重保法師法名重厳
+				<lb/>
+				
+右人、為彼職、守先例、可致沙汰之状如件、
+				<lb/>
+				
+　　　寛元四年十二月九日
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

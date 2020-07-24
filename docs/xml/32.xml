@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>6　 寛正3年3月24日　　_島津立久知行充行状（＃３２）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/32/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/32/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000010.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="重豊">
+					<span>重豊</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+　三二　島津立久知行充行状
+				<lb/>
+				
+嶋津御庄薩摩方火同・永利・山田城之事、宛行処也、早任先例、領掌不
+				<lb/>
+				
+可有相違之状如件、
+				<lb/>
+				
+　　　寛正三年三月廿四日
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　立久（花押）
+				<lb/>
+				
+　　　　　　　
+				<note corresp="#重豊">入来</note>
+				院殿
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

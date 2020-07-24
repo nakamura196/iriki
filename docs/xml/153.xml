@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>10　　明徳元年7月18日　　室町将軍家御教書（＃１５３）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/153/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/153/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/12/00000015.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="斯波義将">
+					<span>斯波義将</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+　一五三　室町将軍家御教書（切紙）
+				<lb/>
+				
+Ｐ７０
+				<lb/>
+				
+嶋津上総介伊久事、雖為当時不忠之仁、依前忠所被召出也、此間、別而
+				<lb/>
+				
+致忠節上者、自今以後、不可随伊久成敗、弥為天下可抽忠功之状、依仰
+				<lb/>
+				
+執達如件、
+				<lb/>
+				
+　　　明徳元年七月十八日　　
+				<note corresp="#斯波義将">左衛門</note>
+				佐（花押）
+				<lb/>
+				
+　　　渋谷清色殿
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

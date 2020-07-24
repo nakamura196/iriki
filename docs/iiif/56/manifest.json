@@ -1,0 +1,148 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/iriki/iiif/56/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "56",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "related": "http://universalviewer.io/examples/uv/uv.html#?manifest=https://nakamura196.github.io/iriki/iiif/56/manifest.json",
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/iriki/iiif/56/manifest.json/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://nakamura196.github.io/iriki/iiif/56/manifest.json/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 512,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/iriki/iiif/56/manifest.json/annotation/p1-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/iriki/iiif/56/manifest.json/canvas/p1",
+                            "resource": {
+                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/6/00000003.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 512,
+                                "width": 768
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/6/00000003.jpg"
+                    },
+                    "width": 768
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iriki/iiif/56/manifest.json/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "height": 512,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/iriki/iiif/56/manifest.json/annotation/p2-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/iriki/iiif/56/manifest.json/canvas/p2",
+                            "resource": {
+                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/6/00000004.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 512,
+                                "width": 768
+                            }
+                        }
+                    ],
+                    "label": "[2]",
+                    "thumbnail": {
+                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/6/00000004.jpg"
+                    },
+                    "width": 768
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iriki/iiif/56/manifest.json/canvas/p3",
+                    "@type": "sc:Canvas",
+                    "height": 512,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/iriki/iiif/56/manifest.json/annotation/p3-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/iriki/iiif/56/manifest.json/canvas/p3",
+                            "resource": {
+                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/6/00000005.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 512,
+                                "width": 768
+                            }
+                        }
+                    ],
+                    "label": "[3]",
+                    "thumbnail": {
+                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/6/00000005.jpg"
+                    },
+                    "width": 768
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iriki/iiif/56/manifest.json/canvas/p4",
+                    "@type": "sc:Canvas",
+                    "height": 512,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/iriki/iiif/56/manifest.json/annotation/p4-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/iriki/iiif/56/manifest.json/canvas/p4",
+                            "resource": {
+                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/6/00000006.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 512,
+                                "width": 768
+                            }
+                        }
+                    ],
+                    "label": "[4]",
+                    "thumbnail": {
+                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/6/00000006.jpg"
+                    },
+                    "width": 768
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iriki/iiif/56/manifest.json/canvas/p5",
+                    "@type": "sc:Canvas",
+                    "height": 512,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/iriki/iiif/56/manifest.json/annotation/p5-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/iriki/iiif/56/manifest.json/canvas/p5",
+                            "resource": {
+                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/6/00000007.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 512,
+                                "width": 768
+                            }
+                        }
+                    ],
+                    "label": "[5]",
+                    "thumbnail": {
+                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/6/00000007.jpg"
+                    },
+                    "width": 768
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": {
+        "@id": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/6/00000003.jpg"
+    },
+    "viewingDirection": "right-to-left"
+}

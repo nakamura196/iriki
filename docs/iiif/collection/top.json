@@ -1,0 +1,1913 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/iriki/iiif/collection/top.json",
+    "@type": "sc:Collection",
+    "label": "入来院文書",
+    "manifests": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "1",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/1/00000002.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "2",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/1/00000003.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/3/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "3",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/1/00000004.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/4/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "4",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/1/00000005.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/5/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "5",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/1/00000006.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/6/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "6",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/1/00000007.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/7/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "7",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/1/00000008.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/8/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "8",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/1/00000009.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/9/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "9",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/1/00000010.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/10/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "10",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/1/00000011.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/11/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "11",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/2/00000003.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/12/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "12",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/2/00000004.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/13/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "13",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/2/00000005.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/14/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "14",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/2/00000006.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/15/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "15",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/2/00000007.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/16/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "16",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/2/00000008.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/17/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "17",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/3/00000003.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/18/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "18",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/3/00000004.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/19/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "19",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/3/00000005.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/20/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "20",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/3/00000007.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/21/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "21",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/3/00000009.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/22/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "22",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/3/00000011.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/23/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "23",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/3/00000013.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/24/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "24",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/3/00000016.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/25/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "25",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/3/00000017.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/26/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "26",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/3/00000019.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/27/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "27",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000003.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/28/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "28",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000005.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/29/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "29",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000006.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/30/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "30",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000007.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/31/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "31",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000009.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/32/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "32",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000010.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/33/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "33",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000011.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/34/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "34",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000012.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/35/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "35",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000013.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/36/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "36",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000014.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/37/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "37",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000017.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/38/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "38",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000019.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/39/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "39",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000022.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/40/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "40",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000024.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/41/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "41",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000026.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/42/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "42",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000027.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/43/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "43",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000029.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/44/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "44",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000030.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/45/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "45",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000031.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/46/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "46",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000032.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/47/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "47",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/5/00000003.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/48−3/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "48−3",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/5/00000009.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/48−4/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "48−4",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/5/00000009.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/48−2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "48−2",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/5/00000009.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/48−1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "48−1",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/5/00000009.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/49/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "49",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/5/00000011.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/50−1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "50−1",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/5/00000015.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/50−2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "50−2",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/5/00000015.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/51/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "51",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/5/00000017.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/50−3/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "50−3",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/5/00000015.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/50−4/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "50−4",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/5/00000015.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/52/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "52",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/5/00000020.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/53/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "53",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/5/00000022.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/54−1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "54−1",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/5/00000026.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/54−2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "54−2",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/5/00000026.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/54−3/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "54−3",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/5/00000026.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/54−4/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "54−4",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/5/00000026.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/54−5/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "54−5",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/5/00000026.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/54−6/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "54−6",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/5/00000026.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/54−7/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "54−7",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/5/00000026.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/55/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "55",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/5/00000033.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/56/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "56",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/6/00000003.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/57/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "57",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/6/00000008.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/58/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "58",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/6/00000009.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/59/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "59",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/6/00000010.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/60/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "60",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/6/00000011.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/61/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "61",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/6/00000012.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/62/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "62",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/6/00000013.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/63/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "63",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/6/00000014.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/64/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "64",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/6/00000015.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/65/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "65",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/6/00000016.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/66/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "66",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/6/00000017.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/67/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "67",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/6/00000019.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/68/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "68",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/6/00000020.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/69/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "69",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/6/00000021.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/70/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "70",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/6/00000022.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/71/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "71",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/7/00000003.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/72/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "72",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/7/00000009.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/73/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "73",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/7/00000015.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/74/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "74",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/7/00000020.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/75/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "75",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/7/00000030.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/76/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "76",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000003.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/77/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "77",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000004.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/78/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "78",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000005.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/79/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "79",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000006.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/80/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "80",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000009.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/81/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "81",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000015.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/82/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "82",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000017.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/83/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "83",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000020.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/84/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "84",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000023.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/85/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "85",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000027.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/86/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "86",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000029.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/87/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "87",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000031.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/88/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "88",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000033.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/89/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "89",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000034.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/90/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "90",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000035.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/91/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "91",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000036.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/92/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "92",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000037.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/93/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "93",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000038.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/94/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "94",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000039.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/95/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "95",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000040.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/96−1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "96−1",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/9/00000003.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/96−2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "96−2",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/9/00000003.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/96−3/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "96−3",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/9/00000003.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/96−4/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "96−4",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/9/00000003.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/97/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "97",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/9/00000007.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/98/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "98",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/9/00000008.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/99/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "99",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/9/00000015.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/100/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "100",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000003.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/101/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "101",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000004.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/102/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "102",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000005.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/103/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "103",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000006.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/104/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "104",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000007.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/105/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "105",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000008.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/106/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "106",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000015.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/107/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "107",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000017.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/108/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "108",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000019.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/109/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "109",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000020.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/110/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "110",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000021.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/111/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "111",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000022.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/112/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "112",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000023.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/113/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "113",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000024.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/114/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "114",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000026.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/115/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "115",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000028.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/116/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "116",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000029.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/117/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "117",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000030.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/118/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "118",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000031.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/119/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "119",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000033.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/120/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "120",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000035.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/121/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "121",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000037.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/122/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "122",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000003.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/123/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "123",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000004.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/124/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "124",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000007.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/125/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "125",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000009.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/126/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "126",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000010.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/127/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "127",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000011.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/128/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "128",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000012.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/129/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "129",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000013.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/130/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "130",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000014.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/131/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "131",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000019.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/132/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "132",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000020.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/133/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "133",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000021.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/134/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "134",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000022.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/135/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "135",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000023.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/136/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "136",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000024.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/137/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "137",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000025.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/138/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "138",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000026.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/139/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "139",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000028.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/140/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "140",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000030.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/141/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "141",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000033.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/142/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "142",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000035.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/143/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "143",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000036.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/144/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "144",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/12/00000003.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/145/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "145",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/12/00000004.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/146/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "146",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/12/00000005.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/147/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "147",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/12/00000006.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/148/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "148",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/12/00000007.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/149/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "149",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/12/00000009.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/150/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "150",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/12/00000010.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/151/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "151",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/12/00000012.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/152/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "152",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/12/00000013.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/153/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "153",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/12/00000015.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/154/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "154",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/12/00000016.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/155/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "155",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/12/00000017.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/156/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "156",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/12/00000018.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/157/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "157",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/12/00000019.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/158/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "158",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/13/00000003.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/159/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "159",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/13/00000007.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/160/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "160",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/13/00000008.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/161/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "161",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/13/00000009.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/162/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "162",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/13/00000011.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/163/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "163",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/13/00000013.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/164/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "164",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/13/00000016.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/165/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "165",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/13/00000019.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/166/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "166",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/13/00000020.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/167/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "167",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/13/00000021.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/168/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "168",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/13/00000022.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/169/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "169",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/14/00000003.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/170/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "170",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/14/00000004.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/171/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "171",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/14/00000006.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/172/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "172",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/14/00000008.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/173/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "173",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/14/00000012.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/174/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "174",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/14/00000014.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/175/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "175",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/14/00000015.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/176/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "176",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/14/00000015.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/177/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "177",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/14/00000015.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/178/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "178",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/14/00000016.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/179/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "179",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/14/00000016.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/180/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "180",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/14/00000017.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/181/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "181",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/14/00000017.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/182/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "182",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/14/00000017.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/183/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "183",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/14/00000018.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/184/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "184",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/14/00000018.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/185/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "185",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/14/00000019.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/186/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "186",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/14/00000021.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/187/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "187",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/14/00000018.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/188/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "188",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/14/00000022.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/189/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "189",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/14/00000024.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/190/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "190",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/14/00000026.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/191/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "191",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/14/00000028.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/192/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "192",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/14/00000028.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/193/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "193",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/14/00000029.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/194/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "194",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/14/00000031.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/195/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "195",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/14/00000032.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/196/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "196",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/14/00000033.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/197/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "197",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/14/00000035.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/198/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "198",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/15/00000003.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/199/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "199",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/15/00000004.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/200/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "200",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/15/00000006.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/201/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "201",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/15/00000011.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/202/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "202",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/15/00000013.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/203/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "203",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/15/00000015.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/204/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "204",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/15/00000017.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/205/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "205",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/15/00000019.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/206/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "206",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/15/00000021.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/207/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "207",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/15/00000022.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/208/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "208",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/15/00000023.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/209/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "209",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/15/00000024.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/210/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "210",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/15/00000024.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/211/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "211",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/15/00000025.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/212/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "212",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/15/00000026.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/213−1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "213−1",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/16/00000003.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/213−8/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "213−8",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/16/00000003.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/213−9/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "213−9",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/16/00000003.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/213−10/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "213−10",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/16/00000003.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/213−2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "213−2",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/16/00000003.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/213−3/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "213−3",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/16/00000003.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/213−4/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "213−4",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/16/00000003.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/213−5/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "213−5",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/16/00000003.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/213−6/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "213−6",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/16/00000003.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/213−7/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "213−7",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/16/00000003.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/213−11/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "213−11",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/16/00000003.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/213−12/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "213−12",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/16/00000003.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/213−13/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "213−13",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/16/00000003.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/213−14/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "213−14",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/16/00000003.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/213−15/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "213−15",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/16/00000003.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/213−16/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "213−16",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/16/00000003.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/214/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "214",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/17/00000004.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/215/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "215",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/17/00000005.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/216/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "216",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/17/00000007.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/217/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "217",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/17/00000008.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/218/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "218",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/17/00000009.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/219/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "219",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/17/00000010.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/220/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "220",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/17/00000011.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/221/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "221",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/17/00000013.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/222/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "222",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/17/00000014.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/223/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "223",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/17/00000016.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/224/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "224",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/17/00000017.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/225/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "225",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/17/00000018.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/226/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "226",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/18/00000003.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/227/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "227",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/18/00000008.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/228/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "228",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/18/00000015.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/229/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "229",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/18/00000018.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/230/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "230",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/18/00000019.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/231/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "231",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/18/00000020.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/232/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "232",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/18/00000021.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/233/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "233",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/18/00000022.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/234/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "234",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/18/00000023.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/235/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "235",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/18/00000025.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/236/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "236",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/18/00000026.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/237/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "237",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000001.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/238/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "238",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/20/00000001.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/239/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "239",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/21/00000001.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/240/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "240",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000001.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/241/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "241",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/23/00000001.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/iriki/iiif/242/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "242",
+            "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/24/00000001.jpg"
+        }
+    ],
+    "vhint": "use-thumb"
+}

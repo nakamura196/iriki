@@ -1,0 +1,105 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>7　　(年未詳)6月13日　　酒匂伊景書状（＃１５０）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/150/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/150/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/12/00000010.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/150/manifest.json/canvas/p2" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/12/00000011.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="懸紙ウハ書">
+					<span>懸紙ウハ書</span>
+				</span>
+				<span xml:id="端裏切封">
+					<span>端裏切封</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+　一五〇　酒匂伊景書状（切紙？）
+				<lb/>
+				
+　　　　
+				<note corresp="#端裏切封">「</note>
+				　　」
+				<lb/>
+				
+雖無差事候、連〃申承度候、御同心候者所仰候、抑先日於〓田陣ニ被承
+				<lb/>
+				
+候谷山之一筆之事、軈認可被進候之処、打続依被取乱事、于今延引候之
+				<lb/>
+				
+条、背本意被存候、仍此便宜可然候之間令進候、尤以使者可被申候処、
+				<lb/>
+				
+此便宜ニ可進之由被承候間、任御意候、此謂可有御申候、毎事期後信
+				<lb/>
+				
+候、恐〃謹言、
+				<lb/>
+				
+　　　六月十三日　　　　伊景（花押）
+				<lb/>
+				
+　　　　　村尾三河殿
+				<lb/>
+				
+　　　　　
+				<note corresp="#懸紙ウハ書">「</note>
+				　　　　さかわ状
+				<lb/>
+				
+　　　　　村尾殿　　　　伊景」
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

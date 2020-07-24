@@ -1,0 +1,122 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>1　 応永10年12月13日　_島津元久契状（＃２７）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/27/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/27/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000003.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/27/manifest.json/canvas/p2" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000004.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="木">
+					<span>木</span>
+				</span>
+				<span xml:id="転">
+					<span>転</span>
+				</span>
+				<span xml:id="荷">
+					<span>荷</span>
+				</span>
+				<span xml:id="重頼">
+					<span>重頼</span>
+				</span>
+				<span xml:id="少">
+					<span>少</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+　二七　島津元久契状
+				<lb/>
+				
+　　　契約
+				<lb/>
+				
+一雖為天下
+				<note corresp="#転">伝</note>
+				変、就大小事、可成一味同心之思申事、
+				<lb/>
+				
+一自然東郷殿・柏原殿、我等同心之儀被申候時者、東郷者〓淵并黒
+				<note corresp="#木">禾</note>
+				・
+				<lb/>
+				
+見成河、柏原者湯田、此外者、当知行共可被置差事、
+				<lb/>
+				
+一於三ヶ国中、如何様雖不慮之子細之候、相互見次被見次可申事、
+				<lb/>
+				
+一讒者出来、縦雖何事申候、不可及信用之事、
+				<lb/>
+				
+一今度申談候条〃、自今以後不可有相違事、若此条〃詐申候者、
+				<lb/>
+				
+正八幡大菩薩、稲
+				<note corresp="#荷">莉</note>
+				大明神、
+				<lb/>
+				
+諏訪上下大明神、可蒙御罰候、
+				<lb/>
+				
+　　　応永十年十二月十三日　　　　元久（花押）
+				<lb/>
+				
+　　渋谷
+				<note corresp="#重頼">弾正</note>
+				<note corresp="#少">小</note>
+				弼殿
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

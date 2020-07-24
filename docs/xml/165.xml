@@ -1,0 +1,104 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>9　　文明13年6月23日　　渋谷重豊請文案（＃１６５）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/165/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/165/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/13/00000019.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="島津武久">
+					<span>島津武久</span>
+				</span>
+				<span xml:id="経安">
+					<span>経安</span>
+				</span>
+				<span xml:id="和">
+					<span>和</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+　一六五　渋谷重豊請文案
+				<lb/>
+				
+　　　請文
+				<lb/>
+				
+一三ヶ国如何様ニ雖転変、如前〃、無二ニ　
+				<note corresp="#島津武久">御屋形</note>
+				御用ニ被立、余儀を
+				<lb/>
+				
+存ましき事、
+				<lb/>
+				
+一私之心中、再三村田殿ニ申入候、其外之儀不可有候事、
+				<lb/>
+				
+一若
+				<note corresp="#和">話</note>
+				讒凶害之時ハ、乍憚被仰下、私之懇意をも可申上事、
+				<lb/>
+				
+　　右、此条〃偽申候ハヽ、
+				<lb/>
+				
+　神名
+				<lb/>
+				
+　　　文明十三年辛丑六月廿三日　　　　下野守重豊
+				<lb/>
+				
+　　進上　村田
+				<note corresp="#経安">肥前</note>
+				守殿
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

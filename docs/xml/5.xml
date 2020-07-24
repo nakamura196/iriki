@@ -1,0 +1,96 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>5　 正平22年2月10日　　後村上天皇綸旨（＃５）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/5/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/5/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/1/00000006.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="少">
+					<span>少</span>
+				</span>
+				<span xml:id="懸紙ウハ書">
+					<span>懸紙ウハ書</span>
+				</span>
+				<span xml:id="少、下同ジ">
+					<span>少、下同ジ</span>
+				</span>
+				<span xml:id="重門">
+					<span>重門</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+　五　後村上天皇綸旨（白紙、小切紙）
+				<lb/>
+				
+致軍忠之由被聞食了、尤以神妙者、
+				<lb/>
+				
+天気如此、悉之以状、
+				<lb/>
+				
+　　　正平廿二年二月十日　　右衛門権佐（花押）
+				<lb/>
+				
+　渋谷
+				<note corresp="#重門">弾正</note>
+				<note corresp="#少、下同ジ">小</note>
+				弼館
+				<lb/>
+				
+　
+				<note corresp="#懸紙ウハ書">「</note>
+				渋谷弾正
+				<note corresp="#少">小</note>
+				弼館　右衛門権佐（花押）」
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>12　 永享8年9月14日　　_島津忠国安堵状（＃３８）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/38/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/38/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000019.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/38/manifest.json/canvas/p2" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000020.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/38/manifest.json/canvas/p3" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000021.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="忠国">
+					<span>忠国</span>
+				</span>
+				<span xml:id="包紙ウハ書">
+					<span>包紙ウハ書</span>
+				</span>
+				<span xml:id="重茂">
+					<span>重茂</span>
+				</span>
+				<span xml:id="同裏書">
+					<span>同裏書</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+　三八　島津忠国安堵状
+				<lb/>
+				
+嶋津御庄薩广方羽嶋六町、任先例可被領知状如件、
+				<lb/>
+				
+　　　永享八年九月十二日
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　　　
+				<note corresp="#忠国">陸奥</note>
+				守（花押）
+				<lb/>
+				
+　　　　　
+				<note corresp="#重茂">入来</note>
+				院殿
+				<lb/>
+				
+　　　　
+				<note corresp="#包紙ウハ書">「</note>
+				羽嶋之一筆
+				<lb/>
+				
+　　　　　　奥州より判形也」
+				<lb/>
+				
+Ｐ１０
+				<lb/>
+				
+　　　　
+				<note corresp="#同裏書">「</note>
+				忠国ヨリ預候
+				<lb/>
+				
+　　　　　　羽嶋之判形也」
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

@@ -1,0 +1,98 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>20　　元徳元年10月20日　_関東下知状案（＃９５）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/95/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/95/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000040.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="守時">
+					<span>守時</span>
+				</span>
+				<span xml:id="端書">
+					<span>端書</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+　九五　関東下知状案
+				<lb/>
+				
+　　　　　　○コノ文書、モト前出第五四号中ニアリシモノニシテ、成巻
+				<lb/>
+				
+　　　　　　ノ際、巻ヲ異ニシタルモノナルベシ、宜シク併看スベシ、
+				<lb/>
+				
+
+				<note corresp="#端書">「</note>
+				一」
+				<lb/>
+				
+　　可令早平重広領知相模国渋谷庄寺尾村内田肆段在家弐宇、薩摩国入
+				<lb/>
+				
+　来院内塔原郷田陸町在家拾弐宇坪付見配分状事
+				<lb/>
+				
+右、以亡父渋谷孫三郎惟重跡、所被配分也者、早守先例可令領掌之状、
+				<lb/>
+				
+依仰下知如件、
+				<lb/>
+				
+　　　元徳元年十月廿日
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　　　　相模守平
+				<note corresp="#守時">朝臣</note>
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

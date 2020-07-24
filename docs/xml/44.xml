@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>18　 永禄2年12月23日　　島津貴久知行充行状（＃４４）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/44/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/44/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000030.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="重嗣">
+					<span>重嗣</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+　四四　島津貴久知行充行状
+				<lb/>
+				
+薩摩国鹿児嶋之内犬迫名之事、依奉公所宛行也、早任此旨、可被知行之
+				<lb/>
+				
+状如件、
+				<lb/>
+				
+永禄弐年己未十弐月廿三日　　　　　　　　　　　　貴久（花押）
+				<lb/>
+				
+　　　　入来院
+				<note corresp="#重嗣">加賀</note>
+				守殿
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

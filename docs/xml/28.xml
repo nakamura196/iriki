@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>2　 (慶保6年)10月27日　関東御教書案（＃２８）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/28/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/28/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000005.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="忠久">
+					<span>忠久</span>
+				</span>
+				<span xml:id="時政">
+					<span>時政</span>
+				</span>
+				<span xml:id="左カ">
+					<span>左カ</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+　二八　関東御教書案
+				<lb/>
+				
+薩摩郡内山田村本領主大蔵氏所進折帋献之、如状者、右近将監友久狼藉
+				<lb/>
+				
+無遁方歟、早相尋子細、所行若実者、可令召進開東給候、仍執達如件、
+				<lb/>
+				
+　　　十月廿七日　　　　　　　　　　　　
+				<note corresp="#左カ">右</note>
+				京
+				<note corresp="#時政">権</note>
+				大夫在判
+				<lb/>
+				
+Ｐ８
+				<lb/>
+				
+嶋津
+				<note corresp="#忠久">左</note>
+				衛門尉殿
+				<lb/>
+				
+　　建保六年十月廿七日給了
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

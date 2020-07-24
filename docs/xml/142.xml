@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>22　　応永24年9月20日　　伊集院道応(頼久)知行充行状（＃１４２）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/142/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/142/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000035.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="重長">
+					<span>重長</span>
+				</span>
+				<span xml:id="伊集院頼久">
+					<span>伊集院頼久</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+　一四二　伊集院道応頼久知行充行状
+				<lb/>
+				
+奉宛行、薩摩国満家院内中俣同西俣、谷山郡内山田村坪付別帋在之、然者、
+				<lb/>
+				
+早任先規、知行不可有相違状如件、
+				<lb/>
+				
+　　　応永廿四年九月廿日　　　　　　　　　　
+				<note corresp="#伊集院頼久">道応</note>
+				（花押）
+				<lb/>
+				
+　　　
+				<note corresp="#重長">清色</note>
+				殿
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

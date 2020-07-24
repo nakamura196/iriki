@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>16　　貞和2年6月3日　　　渋谷重広自筆譲状（＃９１）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/91/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/91/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000036.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="○「か」ノ裏ニ重広ノ花押アリ">
+					<span>○「か」ノ裏ニ重広ノ花押アリ</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+　九一　渋谷重広自筆譲状
+				<lb/>
+				
+　　　ゆつりわたすそりやうの事
+				<lb/>
+				
+一さつまのくにいりきいんのうちたうのはらのうちまへのまふし・あつ
+				<lb/>
+				
+きあな、おなしきかうのうちなへの五郎二郎かさいけ三うの事、重広
+				<lb/>
+				
+ちうたいさうてんのそりやうたるあいた、ゑいたいをかきて、子そく
+				<lb/>
+				
+くまわうにゆつりわたすところなり、いさゝ
+				<note corresp="#○「か」ノ裏ニ重広ノ花押アリ">か</note>
+				もこのところにいらん
+				<lb/>
+				
+をもいたさんものハ、ふけうのものたるへきなり、重広かあとをちき
+				<lb/>
+				
+やうすへからす、よてのちのために、しひちのゆつり状くたんのことし、
+				<lb/>
+				
+　　　ちやうハ二年六月三日　　　　　　　　　　　重広（花押）
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

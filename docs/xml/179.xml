@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>12　　応安6年3月16日　　_今川了俊(貞世)書下（＃１７９）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/179/manifest.json">
+			      
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/179/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/14/00000016.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="貞世">
+					<span>貞世</span>
+				</span>
+				<span xml:id="懸紙ウハ書">
+					<span>懸紙ウハ書</span>
+				</span>
+				<span xml:id="重頼">
+					<span>重頼</span>
+				</span>
+				<span xml:id="密">
+					<span>密</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				一七九　今川了俊貞世書下（小切紙）
+				<br/>
+				
+度〃被成御教書了、近日可有合戦之上者、其堺事、厳
+				<note corresp="#密">蜜</note>
+				一途可有籌策之
+				<br/>
+				
+状如件、
+				<br/>
+				
+　　　応安六年三月十六日　　
+				<note corresp="#貞世">沙弥</note>
+				（花押）
+				<br/>
+				
+　　　渋谷
+				<note corresp="#重頼">乕五郎</note>
+				殿
+				<br/>
+				
+　　
+				<note corresp="#懸紙ウハ書">「</note>
+				渋谷乕五郎殿　　了俊」
+				<br/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

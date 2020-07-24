@@ -1,0 +1,1646 @@
+[
+    {
+        "gedai": " 御綸旨御下文御感状御教書 九通 九番",
+        "title": "1 入来院家文書 一     1帖",
+        "toc": [
+            {
+                "highlight": false,
+                "title": "  1  元弘3年11月9日  _後醍醐天皇綸旨(#1)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/1.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  2  元弘3年11月9日  _後醍醐天皇綸旨(#2)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/2.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  3  元弘3年11月9日  _後醍醐天皇綸旨(#3)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/3.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  4  正平19年2月1日  _後村上天皇綸旨(#4)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/4.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  5  正平22年2月10日  後村上天皇綸旨(#5)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/5.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  6  文中1年12月21日  征西将軍宮(懐良親王)令旨(#6)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/6.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  7  正平6年8月3日   後村上天皇綸旨(#7)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/7.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  8  文和2年10月9日  _足利義詮御判御教書案(#8)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/8.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  9  観応2年7月30日  _足利直冬下文(#9)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/9.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  10  康永2年4月12日  _足利直義軍勢催促状(#10)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/10.xml&textDirection=vertical"
+            }
+        ]
+    },
+    {
+        "gedai": " 忠治公勝久公御状 六通 十番",
+        "title": "2 入来院家文書 二     1巻",
+        "toc": [
+            {
+                "highlight": false,
+                "title": "  1  (年未詳)11月2日  島津忠治書状(#11)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/11.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  2  (天文8年)10月1日 _島津勝久書状(#12)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/12.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  3  (天文5年カ)6月3日 島津勝久書状(#13)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/13.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  4  (天文5年カ)6月3日 島津勝久書状(#14)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/14.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  5  (天文8年カ)10月3日_島津勝久書状(#15)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/15.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  6  (年未詳)正月20日 _島津忠治書状(#16)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/16.xml&textDirection=vertical"
+            }
+        ]
+    },
+    {
+        "gedai": " 家久公御袖判ヨリ龍伯公御状迄 拾通 十壱番",
+        "title": "3 入来院家文書 三     1巻",
+        "toc": [
+            {
+                "highlight": false,
+                "title": "  1  慶長19年10月16日 _島津家久条目(#17)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/17.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  2  慶長19年10月16日 _島津家久条目案(#18)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/18.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  3  元亨2年8月22日  _薩摩守護島津貞久請文(#19)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/19.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  4  慶長5年10月10日  島津維新(義弘)知行充行状(#20)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/20.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  5  (年未詳)12月21日 _島津忠治書状(#21)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/21.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  6  明応4年11月24日  島津忠治書状(#22)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/22.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  7  (年未詳)8月24日  島津忠治書状(#23)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/23.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  8  (年未詳)10月3日  島津義久書状礼紙書(#24)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/24.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  9  (慶長10年カ)4月1日_島津維新(義弘)書状(#25)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/25.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  10  (慶長17年)10月23日_島津竜伯(義久)書状(#26)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/26.xml&textDirection=vertical"
+            }
+        ]
+    },
+    {
+        "gedai": " 元久公御契約状ヨリ勝久公御在判迄 廿通 十二番",
+        "title": "4 入来院家文書 四     1巻",
+        "toc": [
+            {
+                "highlight": false,
+                "title": "  1  応永10年12月13日 _島津元久契状(#27)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/27.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  2  (慶保6年)10月27日 関東御教書案(#28)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/28.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  3  (慶保6年)11月26日 島津忠久袖加判中務丞忠俊奉書写(#29)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/29.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  4  正平13年8月12日  島津道鑑(貞久)同師久連署避状案(#30)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/30.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  5  寛正3年3月24日  _島津立久契状(#31)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/31.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  6  寛正3年3月24日  _島津立久知行充行状(#32)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/32.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  7  (年未詳)2月19日  島津師久去状(#33)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/33.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  8  応永10年12月7日  島津守久知行充行状(#34)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/34.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  9  応永7年12月13日  島津久哲(伊久)預ケ状(#35)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/35.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  10  (応永10年)12月13日_島津元久書状(#36)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/36.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  11  応永10年11月29日 _島津元久知行充行状(#37)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/37.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  12  永享8年9月14日  _島津忠国安堵状(#38)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/38.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  13  応永30年8月30日  島津存忠(久豊)起請文(#39)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/39.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  14  文明13年8月22日  島津武久契状(#40)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/40.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  15  応永18年9月15日  島津久世知行充行状(#41)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/41.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  16  寛正7年4月16日  _島津立久起請文(#42)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/42.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  17  文明13年6月23日  島津武久契状(#43)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/43.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  18  永禄2年12月23日  島津貴久知行充行状(#44)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/44.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  19  天文6年3月14日  _島津勝久知行充行状(#45)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/45.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  20  天文5年7月23日  _島津勝久知行充行状(#46)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/46.xml&textDirection=vertical"
+            }
+        ]
+    },
+    {
+        "gedai": "重豊譲状ヨリ重文申状迄 廿一通 十三番",
+        "title": "5 入来院家文書 五      1巻",
+        "toc": [
+            {
+                "highlight": false,
+                "title": "  1  永伝元年8月21日  渋谷重豊譲状(#47)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/47.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  2  貞治7年8月6日   渋谷重成譲状案2/2(#48−3)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/48.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  3  貞治7年8月6日   渋谷重成譲状案1/2(#48−4)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/48.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  4  貞和5年閏6月23日 _渋谷重勝譲状案2/2(#48−2)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/48.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  5  貞治7年8月6日   渋谷重成譲状案1/2(#48−3)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/48.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  6  貞和5年閏6月23日 _渋谷重勝譲状案(#48−1)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/48.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  7  貞和5年閏6月23日 _渋谷重勝譲状案1/2(#48−2)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/48.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  8  貞治7年8月6日   渋谷重成譲状案2/2(#48−4)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/48.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  9  正応元年10月3日  蒙古合戦勲功賞配分状(#49)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/49.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 10  寛元4年3月29日  _渋谷定心譲状案(#50−1)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/50.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 11  建長3年8月24日  _渋谷定心譲状案(#50−2)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/50.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 12  建長5年11月29日  渋谷定心同明重連署譲状案(#51)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/51.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 13  建長7年6月5日   将軍家政所下文案(本文省略)(#50−3)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/50.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 14  建長7年12月7日  _関東御教書案(#50−4)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/50.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 15  貞和2年11月26日  渋谷定円(重基)置文案(#52)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/52.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 16  建長2年10月20日  渋谷定心置文案(#53)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/53.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 17  元徳元年10月20日 _関東下知状案(#54−1)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/54.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 18  元徳元年10月20日 _関東下知状案(#54−2)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/54.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 19  元徳元年10月20日 _関東下知状案(#54−3)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/54.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 20  元徳元年10月20日 _関東下知状案(#54−4)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/54.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 21  元徳元年10月20日 _関東下知状案(#54−5)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/54.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 22  元徳元年10月20日 _関東下知状案(#54−6)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/54.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 23  元徳元年10月20日 _関東下知状案(#54−7)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/54.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 24  嘉暦3年12月19日  沙弥某召文奉書案(#55)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/55.xml&textDirection=vertical"
+            }
+        ]
+    },
+    {
+        "gedai": "定心大庭徴ヨリ重利判迄 拾五通 十四番",
+        "title": "6 入来院家文書 六      1巻",
+        "toc": [
+            {
+                "highlight": false,
+                "title": "  1  建長2年10月20日  渋谷定心置文案(#56)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/56.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  2  嘉元3年3月10日  _入来院市比野村名主友家証状(#57)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/57.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  3  貞和5年閏6月23日 _渋谷重勝同日一筆譲状(#58)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/58.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  4  貞和5年閏6月23日 _渋谷重勝同日一筆譲状(#59)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/59.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  5  貞和5年閏6月23日 _渋谷重勝置文(#60)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/60.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  6  文和4年4月8日   渋谷重勝譲状(#61)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/61.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  7  建徳2年10月15日  渋谷重門置文(#62)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/62.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  8  応永13年11月15日 _渋谷重頼置文(#63)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/63.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  9  文永7年10月15日  渋谷定仏(重経)同公重連署和与状案(#64)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/64.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 10  元弘元年9月11日  渋谷定円(重基)譲状案(#65)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/65.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 11  建長3年3月 日  _藤原光平外三名連署入来院堺注文案(#66)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/66.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 12  元弘3年11月10日  渋谷重棟同重利連署去状(#67)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/67.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 13  貞和2年11月26日  渋谷定円(重基)譲状(#68)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/68.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 14  康永2年2月8日   渋谷定円(重基)譲状(#69)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/69.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 15  元弘3年11月10日  渋谷重利証状(#70)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/70.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 16  元弘3年11月10日  渋谷重棟同重利連署去状包紙(#67)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/67.xml&textDirection=vertical"
+            }
+        ]
+    },
+    {
+        "gedai": "入来清敷図田帳 五通 十五番",
+        "title": "7 入来院家文書 七      1巻",
+        "toc": [
+            {
+                "highlight": false,
+                "title": "  1  (永伝元年カ)  _田畠薗地并屋敷注文(#71)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/71.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  2  元享2年3月13日  _薩摩入来院内清敷北方水田検注帳(#72)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/72.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  3  元亨2年3月13日  _薩摩入来院内清敷南方水田検注帳(#73)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/73.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  4  正安元年10月 日 _薩摩入来院内塔原請地目録(#74)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/74.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  5  建長2年12月 日  薩摩入来院内村々田地年貢等注文(#75)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/75.xml&textDirection=vertical"
+            }
+        ]
+    },
+    {
+        "gedai": "左京権太夫在判ヨリ相模守下知状迄 十七通 十六番",
+        "title": "8 入来院家文書 八      1巻",
+        "toc": [
+            {
+                "highlight": false,
+                "title": "  1  文永4年6月16日  _関東下知状(#76)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/76.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  2  文永2年8月3日   渋谷善心(明重)譲状案(#77)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/77.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  3  文永2年8月3日   渋谷善心(明重)譲状(#78)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/78.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  4  弘安2年12月23日  関東裁許状案(#79)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/79.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  5  寛元3年5月11日  _渋谷定心置文(#80)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/80.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  6  宝治元年8月5日  _伴信俊同信忠同信資連署起請文(#81)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/81.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  7  建長2年4月28日  _関東裁許状案(#82)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/82.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  8  建徳2年10月15日  渋谷重門譲状(#83)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/83.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  9  嘉暦3年12月21日  渋谷惟重遺領注進状案(#84)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/84.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 10  嘉吉元年2月27日  渋谷重長譲状(#85)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/85.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 11  応永13年11月15日 _渋谷重頼譲状(#86)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/86.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 12  応永30年8月16日  渋谷重長譲状(#87)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/87.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 13  建徳2年10月15日  渋谷重門置文(#88)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/88.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 14  文永7年10月5日  _渋谷公重和与状案(#89)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/89.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 15  弘安3年5月8日   渋谷正善(有重)譲状(#90)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/90.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 16  貞和2年6月3日   渋谷重広自筆譲状(#91)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/91.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 17  建徳2年12月2日  _渋谷重門(?)譲状案(#92)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/92.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 18  元応元年12月25日 _薩摩守護代源貞綱遵行状(#93)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/93.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 19  正平22年1月29日  渋谷重門置文(#94)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/94.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 20  元徳元年10月20日 _関東下知状案(#95)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/95.xml&textDirection=vertical"
+            }
+        ]
+    },
+    {
+        "gedai": "沙弥在判ヨリ平重名勘進迄 三通 十七番",
+        "title": "9 入来院家文書 九      1巻",
+        "toc": [
+            {
+                "highlight": false,
+                "title": "  1  建武2年11月2日  _足利直義軍勢催促状案(#96−1)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/96.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  2  建武3年8月17日  _足利尊氏袖御判感状案(#96−2)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/96.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  3  建武4年4月27日  _足利尊氏軍勢催促状案(#96−3)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/96.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  4  暦応4年2月27日  _島津貞久裏書証判(#96−4)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/96.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  5  明徳3年      渋谷重頼(?)起請文案(#97)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/97.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  6  嘉暦4年5月99日  _渋谷惟重遺領等注進状案(#98)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/98.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  7  嘉暦4年5月99日  _渋谷惟重遺領等注進状案(#99)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/99.xml&textDirection=vertical"
+            }
+        ]
+    },
+    {
+        "gedai": "地頭代暁道請文ヨリ御代官浄慶在判マテ 廿二通 十八番",
+        "title": "10 入来院家文書 十      1巻",
+        "toc": [
+            {
+                "highlight": false,
+                "title": "  1  元応2年9月2日   本田暁道請文(#100)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/100.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  2  文治3年7月 日  _大蔵種章解状(#101)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/101.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  3  寿永2年8月8日   島津庄別当伴信明解状(#102)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/102.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  4  久安3年2月9日   薩摩入来院弁済使別当伴信房解状(#103)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/103.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  5  至徳元年8月23日  薩摩入来院最禅寺住持惠棟譲状(#104)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/104.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  6  貞和2年12月7日  _鎮西沙汰事書并足利直義御教書案(#105)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/105.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  7  文明13年4月2日  _薩摩入来院天福寺至林霊供田請取状(#106)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/106.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  8  乾元2年8月10日  _大前則道和与状(#107)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/107.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  9  応永7年12月21日  渋谷重茂避状(#108)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/108.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 10  嘉暦2年9月28日  _鎮西御教書(#109)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/109.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 11  (年未詳)9月5日  _畠山直顕書下(#110)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/110.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 12  貞和7年3月18日  _武光重兼譲状(#111)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/111.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 13  延文5年4月19日  _渋谷重門寄進状(#112)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/112.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 14  (年月日欠)    _河縁殿知行分薗地目録(#113)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/113.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 15  (至徳3年カ)5月23日_宮内大輔守政書状(#114)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/114.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 16  (年月日欠)    _某手日記(#115)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/115.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 17  (年月日欠)    _某手日記(#116)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/116.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 18  至徳3年5月22日  _宮内大輔守政奉書(#117)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/117.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 19  (年未詳)2月11日  宮内大輔三雄書状(#118)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/118.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 20  (年月日欠)    _渋谷重門遺状(#119)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/119.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 21  永仁6年7月20日  _異国要害石築地配分状案(#120)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/120.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 22  建武元年9月8日  _二牟礼の六郎二郎入道在家得分注文(#121)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/121.xml&textDirection=vertical"
+            }
+        ]
+    },
+    {
+        "gedai": "趙宣留守所ヨリ周頼在判迄 廿二通 十九番",
+        "title": "11 入来院家文書 十一      1巻",
+        "toc": [
+            {
+                "highlight": false,
+                "title": "  1  正嘉2年9月 日  _薩摩国司庁宣(#122)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/122.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  2  (年月日欠)    _渋谷為重重陳状(#123)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/123.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  3  延徳4年3月1日   渋谷重聡田地并所当注文(#124)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/124.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  4  寛元4年12月9日  _藤原頼嗣袖加判下文(#125)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/125.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  5  延慶4年3月4日   入来院塔原領家文書代用途免除状(#126)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/126.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  6  文明13年6月1日  _木場重着避状(#127)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/127.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  7  建保5年8月 日  _源宗久愁状(#128)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/128.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  8  元応元年11月14日 _薩摩入来院塔原領家方夏物年貢請取状(#129)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/129.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  9  元亨4年12月16日  鎮西裁許状1/3(#130)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/130.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 10  元亨4年12月16日  鎮西裁許状3/3(#130)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/130.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 11  建保5年9月26日  _島津庄政所施行状(#131)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/131.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 12  至徳2年2月4日   渋谷重頼軍忠状(#132)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/132.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 13  延文2年正月20日  渋谷重勝寄進状(#133)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/133.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 14  明徳元年11月14日 _今川了俊(貞世)知行充行状(#134)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/134.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 15  延慶4年2月20日  _入来院塔原国方用途返抄(#135)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/135.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 16  明徳3年11月15日  渋谷重茂名字書出案(#136)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/136.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 17  明徳5年4月25日  _今川了俊(貞世)感状(#137)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/137.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 18  嘉慶元年11月28日 _宮内大輔和元名字書出案(#138)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/138.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 19  嘉慶元年11月28日 _宮内大輔和元名字書出案(#139)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/139.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 20  (年未詳)正月 日 _渋谷重長請文案(#140)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/140.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 21  (年未詳)8月4日  _市来家親書状(#141)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/141.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 22  応永24年9月20日  伊集院道応(頼久)知行充行状(#142)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/142.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 23  応永27年6月29日  周頼名字書出(#143)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/143.xml&textDirection=vertical"
+            }
+        ]
+    },
+    {
+        "gedai": "義興在判ヨリ宮内大輔在判迄 十三通 廿番",
+        "title": "12 入来院家文書 十二      1巻",
+        "toc": [
+            {
+                "highlight": false,
+                "title": "  1  (明応9年)正月11日 大内義興書状(#144)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/144.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  2  (明応9年カ)9月3日 大内義興書状(#145)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/145.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  3  (明応9年カ)3月13日_大内義興書状(#146)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/146.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  4  (年未詳)7月18日  相良為続書状(#147)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/147.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  5  (至徳2年カ)8月9日 名和慈冬書状(#148)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/148.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  6  (年未詳)8月9日  _酒匂伊景書状(#149)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/149.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  7  (年未詳)6月13日  酒匂伊景書状(#150)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/150.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  8  嘉吉2年10月25日  室町将軍家御教書(#151)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/151.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  9  (年未詳)正月25日 _直忠書状(#152)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/152.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 10  明徳元年7月18日  室町将軍家御教書(#153)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/153.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 11  嘉慶2年4月26日  _室町将軍家御教書(#154)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/154.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 12  貞治4年閏9月17日 _鎮西探題渋川義行書下(#155)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/155.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 13  (至徳2年カ)4月21日_宮内大輔三雄挙状(#156)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/156.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 14  (至徳2年カ)2月7日 宮内大輔三雄挙状(#157)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/157.xml&textDirection=vertical"
+            }
+        ]
+    },
+    {
+        "gedai": "永利如性与ヨリ重聡神名迄 十二通 廿一番",
+        "title": "13 入来院家文書 十三      1巻",
+        "toc": [
+            {
+                "highlight": false,
+                "title": "  1  (年月日欠)    _鎮西裁許状(#158)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/158.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  2  元亨4年12月16日  鎮西裁許状2/3(#130)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/130.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  3  (年月日欠)    _東郷道重充某譲状(#159)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/159.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  4  元徳4年3月10日  _薩摩高城郡本萬徳名等辨済使兼快契状(#160)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/160.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  5  建保6年11月26日  島津忠久袖判中務丞忠旬奉書写(#161)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/161.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  6  (建保6年)10月27日 関東御教書写(#162)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/162.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  7  建長4年6月30日  _関東裁許状案(#163)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/163.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  8  (年未詳)12月27日 _川上忠克書状(#164)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/164.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  9  文明13年6月23日  渋谷重豊請文案(#165)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/165.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 10  文明13年6月22日  島津武久契状案(#166)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/166.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 11  文明13年8月    渋谷重聡起請文案(#167)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/167.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 12  文明13年8月    渋谷重聡起請文案(#168)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/168.xml&textDirection=vertical"
+            }
+        ]
+    },
+    {
+        "gedai": "今川了俊書状 三拾通 廿二番",
+        "title": "14 入来院家文書 十四      1巻",
+        "toc": [
+            {
+                "highlight": false,
+                "title": "  1  (年未詳)9月16日  今川了俊(貞世)書状(#169)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/169.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  2  永和2年5月15日  _今川了俊(貞世)自筆内書(#170)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/170.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  3  (永徳2年カ)8月12日_今川了俊(貞世)自筆書状(#171)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/171.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  4  (至徳3年)10月29日 今川了俊(貞世)自筆書状(#172)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/172.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  5  永和2年5月15日  _今川了俊(貞世)自筆内書(#170)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/170.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  6  (年未詳)4月13日  今川了俊(貞世)自筆書状(#173)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/173.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  7  (至徳2年)2月23日 _今川了俊(貞世)書状(#174)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/174.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  8  (年未詳)3月10日  今川了俊(貞世)書状(#175)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/175.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  9  永和2年5月25日  _今川了俊(貞世)書下(#176)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/176.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 10  永和元年9月13日  今川了俊(貞世)書下(#177)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/177.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 11  永和2年4月20日  _今川了俊(貞世)挙状(#178)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/178.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 12  応安6年3月16日  _今川了俊(貞世)書下(#179)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/179.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 13  応安5年11月25日  今川了俊(貞世)書下(#180)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/180.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 14  永和3年9月15日  _今川了俊(貞世)書状(#181)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/181.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 15  (年未詳)10月19日 _今川了俊(貞世)書状(#182)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/182.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 16  応安6年2月23日  _今川了俊(貞世)軍勢催促状(#183)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/183.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 17  至徳3年正月6日  _今川了俊(貞世)自筆書下(#184)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/184.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 18  (年未詳)9月24日  今川了俊(貞世)自筆書状(#185)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/185.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 19  明徳2年4月13日  _今川了俊(貞世)知行充行状(#186)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/186.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 20  永和元年11月10日 _今川了俊(貞世)感状(#187)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/187.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 21  (年未詳)4月13日  今川貞臣書状(#188)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/188.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 22  (至徳2年カ)8月10日_今川了俊(貞世)自筆書状(#189)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/189.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 23  至徳3年5月13日  _今川了俊(貞世)自筆書状(#190)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/190.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 24  (年未詳)4月21日  今川了俊(貞世)書状(#191)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/191.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 25  (永和2年)7月5日  今川了俊(貞世)書状(#192)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/192.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 26  (至徳2年カ)8月10日_今川了俊(貞世)自筆書状(#193)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/193.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 27  至徳3年4月3日   今川了俊(貞世)安堵状(#194)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/194.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 28  永和3年3月21日  _今川了俊(貞世)書状(#195)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/195.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 29  永徳2年5月30日  _今川了俊(貞世)書下(#196)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/196.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 30  (永和2年)9月4日  今川了俊(貞世)書状(#197)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/197.xml&textDirection=vertical"
+            }
+        ]
+    },
+    {
+        "gedai": "今川了俊状 十六通 廿三番",
+        "title": "15 入来院家文書 十五      1巻",
+        "toc": [
+            {
+                "highlight": false,
+                "title": "  1  (応永2年カ)正月6日_今川了俊(貞世)自筆書状(#198)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/198.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  2  (年未詳)6月5日  _今川了俊(貞世)自筆書状(#199)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/199.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  3  (応永2年カ)正月6日_今川了俊(貞世)自筆書状(#200)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/200.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  4  (応永2年カ)正月6日_今川了俊(貞世)自筆書状(#198)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/198.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  5  (至徳2年カ)8月10日_今川了俊(貞世)自筆書状(#201)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/201.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  6  (至徳2年)正月28日 今川了俊(貞世)自筆書状(#202)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/202.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  7  (至徳2年)正月28日 今川了俊(貞世)書状(#203)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/203.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  8  (年未詳)6月5日  _今川了俊(貞世)自筆書状(#204)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/204.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  9  (至徳2年カ)8月10日_今川了俊(貞世)挙状(#205)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/205.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 10  明徳2年10月28日  今川了俊(貞世)知行充行状(#206)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/206.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 11  至徳3年10月29日  今川了俊(貞世)知行充行状(#207)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/207.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 12  応安5年12月25日  今川了俊(貞世)軍勢催促状(#208)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/208.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 13  (永和3年)3月21日 _今川了俊(貞世)書状(#209)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/209.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 14  至徳3年5月13日  _今川了俊(貞世)恩賞充行状(#210)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/210.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 15  至徳2年2月7日   今川了俊(貞世)感状(#211)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/211.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 16  (応安7年)4月20日 _今川了俊(貞世)書状(#212)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/212.xml&textDirection=vertical"
+            }
+        ]
+    },
+    {
+        "gedai": "重経安堵下文定仏書物案 用紙廿枚余 廿四番",
+        "title": "16 入来院家文書 十六      1巻",
+        "toc": [
+            {
+                "highlight": false,
+                "title": "  1  建長7年6月5日   将軍家政所下文案1/2(#213−1)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/213.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  2  建治3年12月1日  _渋谷定仏(重経)置文案2/2(#213−8)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/213.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  3  建治3年9月13日  _渋谷定仏(重経)譲状案(#213−9)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/213.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  4  建治3年9月13日  _渋谷定仏(重経)譲状案1/2(#213−10)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/213.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  5  建長7年6月5日   将軍家政所下文案2/2(#213−1)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/213.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  6  建治3年9月13日  _渋谷定仏(重経)譲状案(#213−2)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/213.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  7  弘安元年6月3日  _将軍家政所下案(#213−3)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/213.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  8  建治3年4月5日   渋谷定仏(重経)書状案(#213−4)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/213.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  9  建治3年6月24日  _渋谷定仏(重経)置文案(#213−5)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/213.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 10  建治3年10月21日  渋谷定仏(重経)置文案(#213−6)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/213.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 11  建治3年10月21日  渋谷定仏(重経)置文案(#213−7)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/213.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 12  建治3年12月1日  _渋谷定仏(重経)置文案1/2(#213−8)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/213.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 13  建治3年9月13日  _渋谷定仏(重経)譲状案2/2(#213−10)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/213.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 14  弘安元年6月3日  _関東下知状案(#213−11)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/213.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 15  弘安元年5月18日  渋谷定仏後家尼妙蓮同重通(?)重訴状案(#213−12)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/213.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 16  (年月日欠)    _渋谷定仏後家尼妙蓮同重通(?)重訴状案(#213−13)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/213.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 17  弘安元年8月14日  関東御教書案(#213−14)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/213.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 18  (年月日欠)    _渋谷為重陳状(#213−15)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/213.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 19  (年月日欠)    _渋谷定仏後家尼妙蓮同重通等重訴状(#213−16)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/213.xml&textDirection=vertical"
+            }
+        ]
+    },
+    {
+        "gedai": "武光家文書 拾二通 廿五番",
+        "title": "17 入来院家文書 十七      1巻",
+        "toc": [
+            {
+                "highlight": false,
+                "title": "  1  延慶2年11月26日  鎮西裁許状(#214)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/214.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  2  元弘3年7月20日  _後醍醐天皇綸旨(#215)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/215.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  3  観応2年6月17日  _足利直冬下文(#216)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/216.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  4  元徳3年7月13日  _武光日妙(経兼)譲状(#217)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/217.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  5  貞和7年5月29日  _足利直冬御判御教書(#218)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/218.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  6  建武4年2月12日  _足利直義御判御教書(#219)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/219.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  7  永和4年2月19日  _武光心賢(兼氏)譲状(#220)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/220.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  8  応長2年6月17日  _武光法忍(師兼)同日一筆譲状(#221)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/221.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  9  応安元年10月25日 _武光心呈(重兼)譲状(#222)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/222.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 10  (年月日欠)    _薩摩高城郡辨済使并吉枝名相伝系図(#223)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/223.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 11  (年月日欠)    _武光氏系図(#224)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/224.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 12  応永3年11月16日  島津久哲(伊久)名字書出(#225)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/225.xml&textDirection=vertical"
+            }
+        ]
+    },
+    {
+        "gedai": "武光家文書 拾壱通 廿六番",
+        "title": "18 入来院家文書 十八      1巻",
+        "toc": [
+            {
+                "highlight": false,
+                "title": "  1  正和3年10月3日  _藤原親郷等勘渡文書目録(#226)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/226.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  2  応長2年6月17日  _武光法忍(師兼)同日一筆譲状(#227)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/227.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  3  正応元年10月3日  蒙古合戦勲功賞配分状(#228)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/228.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  4  永仁3年11月4日  _武光師兼薗地配分状(#229)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/229.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  5  正和5年3月13日  _武光兼治避状(#230)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/230.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  6  元徳3年8月21日  _沙弥きやうにん田地売劵(#231)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/231.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  7  文保元年11月17日 _武光経兼和与状案(#232)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/232.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  8  延文2年5月19日  _一色直氏恩賞充行状(#233)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/233.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": "  9  (年月日欠)    _薩摩高城郡吉枝名実検帳(#234)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/234.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 10  (年月日欠)    _武光伊兼所領注文案(#235)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/235.xml&textDirection=vertical"
+            },
+            {
+                "highlight": false,
+                "title": " 11  元徳3年7月13日  _武光日妙(経兼)譲状案(#236)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/236.xml&textDirection=vertical"
+            }
+        ]
+    },
+    {
+        "gedai": "平松水田坪付帳 三十三番",
+        "title": "19 入来院家文書 十九      1巻",
+        "toc": [
+            {
+                "highlight": false,
+                "title": "    (年月日欠)    _大隅蒲生内平松水田坪付帳(#237)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/237.xml&textDirection=vertical"
+            }
+        ]
+    },
+    {
+        "gedai": "山之手御手持分帳 三十四番",
+        "title": "20 入来院家文書 二十      1冊",
+        "toc": [
+            {
+                "highlight": false,
+                "title": "    (年月日欠)    _薩摩入来院内山之手手持分帳(#238)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/238.xml&textDirection=vertical"
+            }
+        ]
+    },
+    {
+        "gedai": "羽嶋見地之日記 三十五番",
+        "title": "21 入来院家文書 二十一     1冊",
+        "toc": [
+            {
+                "highlight": false,
+                "title": "    長享元年10月20日 _薩摩郡羽島検地日記(#239)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/239.xml&textDirection=vertical"
+            }
+        ]
+    },
+    {
+        "gedai": "算田之日記 三十六番",
+        "title": "22 入来院家文書 二十二     1冊",
+        "toc": [
+            {
+                "highlight": false,
+                "title": "    (年月日欠)    _算田日記(#240)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/240.xml&textDirection=vertical"
+            }
+        ]
+    },
+    {
+        "title": "23 入来院家文書 二十三     1冊",
+        "toc": [
+            {
+                "highlight": false,
+                "title": "    文明5年10月18日  坪付注文帳(#241)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/241.xml&textDirection=vertical"
+            }
+        ]
+    },
+    {
+        "title": "24 入来院家文書 二十四     1冊",
+        "toc": [
+            {
+                "highlight": false,
+                "title": "    (年月日欠)    _坪付注文断簡(#242)",
+                "url": "https://tei-eaj.github.io/aozora_tei/tools/visualization/facs/?url=https://nakamura196.github.io/iriki/xml/242.xml&textDirection=vertical"
+            }
+        ]
+    },
+    {
+        "gedai": "入来院系図〈自一代至二十八代〉",
+        "title": "25 入来院家文書 二十五     1巻",
+        "toc": []
+    },
+    {
+        "title": "26 入来院家文書 二十六     1巻",
+        "toc": []
+    },
+    {
+        "title": "(端裏貼紙)六番",
+        "toc": []
+    },
+    {
+        "gedai": "入来院系図調/明治十三年十二月",
+        "title": "27 入来院家文書 二十七     1冊",
+        "toc": []
+    },
+    {
+        "gedai": "御系図調",
+        "title": "28 入来院家文書 二十八     1冊",
+        "toc": []
+    },
+    {
+        "title": "(貼紙)自第二十五代定馨至第三十三代重尚",
+        "toc": []
+    },
+    {
+        "gedai": "清色亀鑑 一",
+        "title": "29 入来院家文書 二十九     1冊",
+        "toc": []
+    },
+    {
+        "gedai": "清色亀鑑 二",
+        "title": "30 入来院家文書 三十      1冊",
+        "toc": []
+    },
+    {
+        "gedai": "清色亀鑑 三",
+        "title": "31 入来院家文書 三十一     1冊",
+        "toc": []
+    },
+    {
+        "gedai": "清色亀鑑 四",
+        "title": "32 入来院家文書 三十二     1冊",
+        "toc": []
+    },
+    {
+        "gedai": "清色亀鑑 五",
+        "title": "33 入来院家文書 三十三     1冊",
+        "toc": []
+    },
+    {
+        "gedai": "清色亀鑑 六",
+        "title": "34 入来院家文書 三十四     1冊",
+        "toc": []
+    },
+    {
+        "gedai": "清色亀鑑 七",
+        "title": "35 入来院家文書 三十五     1冊",
+        "toc": []
+    },
+    {
+        "gedai": "清色亀鑑 八",
+        "title": "36 入来院家文書 三十六     1冊",
+        "toc": []
+    },
+    {
+        "gedai": "清色亀鑑 九",
+        "title": "37 入来院家文書 三十七     1冊",
+        "toc": []
+    },
+    {
+        "gedai": "清色亀鑑 十",
+        "title": "38 入来院家文書 三十八     1冊",
+        "toc": []
+    },
+    {
+        "gedai": "清色亀鑑 十一",
+        "title": "39 入来院家文書 三十九     1冊",
+        "toc": []
+    },
+    {
+        "gedai": "清色亀鑑 十二",
+        "title": "40 入来院家文書 四十      1冊",
+        "toc": []
+    }
+]

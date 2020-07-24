@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>4　　久安3年2月9日　　　薩摩入来院弁済使別当伴信房解状（＃１０３）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/103/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/103/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000006.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="外題">
+					<span>外題</span>
+				</span>
+				<span xml:id="マヽ">
+					<span>マヽ</span>
+				</span>
+				<span xml:id="微">
+					<span>微</span>
+				</span>
+				<span xml:id="外">
+					<span>外</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+　一〇三　薩摩入来院辨済使別当伴信房解状
+				<lb/>
+				
+　　　　　　　
+				<note corresp="#外題">「</note>
+				任先例、可為地頭職状如件、
+				<lb/>
+				
+　　　　　　　　　　　　　　　　右衛門尉中原（花押）」
+				<lb/>
+				
+入来院弁済使別当伴信房解　申請御庄政所裁事
+				<lb/>
+				
+Ｐ５４
+				<lb/>
+				
+　請被殊任度度御下文旨、賜重御外題、薩摩郡内山田村地頭子細状、
+				<lb/>
+				
+右、謹検案内、於信房者、雖貧弊不堪之身、励
+				<note corresp="#微">徴</note>
+				力随堪、令進上任料於
+				<lb/>
+				
+京都、山田村并車内可
+				<note corresp="#マヽ">地</note>
+				頭之由、雖罷預御下文、至于車内者、依為当時
+				<lb/>
+				
+御目代沙汰、不及力　於山田村者、無相違、賜御
+				<note corresp="#外">迯</note>
+				題、為備永代証文、
+				<lb/>
+				
+言上如件、　以解、
+				<lb/>
+				
+　　　久安三年二月九日　　　　　　　　　　　　伴信房上
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

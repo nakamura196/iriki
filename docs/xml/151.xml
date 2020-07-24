@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>8　　嘉吉2年10月25日　　室町将軍家御教書（＃１５１）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/151/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/151/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/12/00000012.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="殖家">
+					<span>殖家</span>
+				</span>
+				<span xml:id="重長">
+					<span>重長</span>
+				</span>
+				<span xml:id="畠山持国">
+					<span>畠山持国</span>
+				</span>
+				<span xml:id="島津">
+					<span>島津</span>
+				</span>
+				<span xml:id="久家">
+					<span>久家</span>
+				</span>
+				<span xml:id="懸紙ウハ書">
+					<span>懸紙ウハ書</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+　一五一　室町将軍家御教書（切紙）
+				<lb/>
+				
+嶋津持久・高木
+				<note corresp="#殖家">孫三郎</note>
+				・市来
+				<note corresp="#久家">太郎</note>
+				以下事、先度被成治罰之処、尚令出
+				<lb/>
+				
+張、既陸奥守
+				<note corresp="#島津">忠国</note>
+				及難儀云〃、不廻時日、合力忠国、可被抽戦功、若有
+				<lb/>
+				
+背御成敗族者、可為彼両三人同罪之由、所被仰下也、仍執達如件、
+				<lb/>
+				
+　　　嘉吉二年十月廿五日　　
+				<note corresp="#畠山持国">沙　弥</note>
+				（花押）
+				<lb/>
+				
+　　　　　入来院
+				<note corresp="#重長">弾正</note>
+				少弼殿
+				<lb/>
+				
+　　　　　
+				<note corresp="#懸紙ウハ書">「</note>
+				入来院弾正少弼殿　　沙弥徳本」
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

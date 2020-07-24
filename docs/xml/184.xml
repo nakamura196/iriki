@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>17　　至徳3年正月6日　　_今川了俊(貞世)自筆書下（＃１８４）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/184/manifest.json">
+			      
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/184/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/14/00000018.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="比伊郷">
+					<span>比伊郷</span>
+				</span>
+				<span xml:id="貞世">
+					<span>貞世</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				一八四　今川了俊貞世自筆書下（小切紙）
+				<br/>
+				
+筑前国
+				<note corresp="#比伊郷">比郷</note>
+				内本知行分事、如元令遵行之状如件、
+				<br/>
+				
+　　　至徳三年正月六日　　
+				<note corresp="#貞世">沙弥</note>
+				（花押）
+				<br/>
+				
+　　　渋谷一族中
+				<br/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>5　　建保6年11月26日　　島津忠久袖判中務丞忠旬奉書写（＃１６１）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/161/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/161/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/13/00000009.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/161/manifest.json/canvas/p2" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/13/00000010.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="端裏朱書">
+					<span>端裏朱書</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+　一六一　島津忠久袖判中務丞忠俊奉書写　建保六年十一月廿六日
+				<lb/>
+				
+　　　　　　○コノ文書、前出第二九号ニソノ正文ヲ収メタルヲ以テ、端裏
+				<lb/>
+				
+　　　　　　書ノミヲ掲ゲ、本文省略ニ従フ、
+				<lb/>
+				
+
+				<note corresp="#端裏朱書">「</note>
+				是ハ御文書方より賜写也」
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

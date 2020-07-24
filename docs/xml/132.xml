@@ -1,0 +1,122 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>12　　至徳2年2月4日　　　渋谷重頼軍忠状（＃１３２）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/132/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/132/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000020.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="供、下同ジ">
+					<span>供、下同ジ</span>
+				</span>
+				<span xml:id="馳">
+					<span>馳</span>
+				</span>
+				<span xml:id="同上">
+					<span>同上</span>
+				</span>
+				<span xml:id="供">
+					<span>供</span>
+				</span>
+				<span xml:id="肥後">
+					<span>肥後</span>
+				</span>
+				<span xml:id="証判">
+					<span>証判</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+　一三二　渋谷重頼軍忠状
+				<lb/>
+				
+　　渋谷五郎平重頼謹言上
+				<lb/>
+				
+右、自去年八月、馳参
+				<note corresp="#肥後">二見</note>
+				之御陣、致忠節之処、給身一人之暇帰国仕、
+				<lb/>
+				
+親類若党等不残令在陣、致警固、今年正月十日夜、
+				<note corresp="#同上">佐敷</note>
+				仁御退之間、彼
+				<lb/>
+				
+等御
+				<note corresp="#供、下同ジ">共</note>
+				仕了、重頼不遷時日、同十六日馳参佐敷、致宿直之処、和泉・水
+				<lb/>
+				
+俣依難儀、為手宛可罷向之由、被仰下之間、馳越彼在所、致合力、相残
+				<lb/>
+				
+親類若党等励忠勤、同晦夜御
+				<note corresp="#馳">弛</note>
+				佐敷御陣、天草仁御渡海、難儀至極時分、
+				<lb/>
+				
+彼親類若党等、或者御
+				<note corresp="#供">共</note>
+				仕、或者留跡勢、楯篭佐敷之城、成粉骨之思、
+				<lb/>
+				
+抽軍功之条、御見知之上者、下賜御証判、為備末代、粗言上如件、
+				<lb/>
+				
+　　　至徳二年二月四日
+				<lb/>
+				
+　　　　　　　　　　　　
+				<note corresp="#証判">「</note>
+				承了（花押）」
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>16　　(年月日欠)　　　　_某手日記（＃１１５）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/115/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/115/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000028.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="重見">
+					<span>重見</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+　一一五　某手日記（折紙）
+				<lb/>
+				
+一　太刀
+				<lb/>
+				
+Ｐ５８
+				<lb/>
+				
+二弓、征矢
+				<lb/>
+				
+三よろい
+				<lb/>
+				
+四鞍置馬
+				<lb/>
+				
+　　　同引副
+				<lb/>
+				
+料足廿貫
+				<lb/>
+				
+又御屋形・松之屋とニ御出之時、太刀・扇・料そく五貫進之候、
+				<lb/>
+				
+御せんニ料足三くハん、
+				<lb/>
+				
+　次ニ平田殿ニ料足三貫、太刀一遣候、
+				<lb/>
+				
+　村田殿ニ料足二貫、太刀一、
+				<lb/>
+				
+　石井殿ニ料足二貫、太刀一、
+				<lb/>
+				
+　十郎左衛門殿ニ料足二貫、扇、
+				<lb/>
+				
+引出物うけとられ候方ニ、
+				<lb/>
+				
+　料足一貫、太刀一、
+				<lb/>
+				
+　御中間ニ料足一貫、
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

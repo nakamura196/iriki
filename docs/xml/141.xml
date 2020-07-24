@@ -1,0 +1,118 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>21　　(年未詳)8月4日　　_市来家親書状（＃１４１）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/141/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/141/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000033.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/141/manifest.json/canvas/p2" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000034.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="儀脱カ">
+					<span>儀脱カ</span>
+				</span>
+				<span xml:id="礼紙切封">
+					<span>礼紙切封</span>
+				</span>
+				<span xml:id="市来">
+					<span>市来</span>
+				</span>
+				<span xml:id="重長">
+					<span>重長</span>
+				</span>
+				<span xml:id="総">
+					<span>総</span>
+				</span>
+				<span xml:id="島津久世">
+					<span>島津久世</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+　一四一　市来家親書状
+				<lb/>
+				
+此間連〃申承候条、日来本望併令満足候、
+				<lb/>
+				
+抑荒河事、適愚身始而申沙汰仕事にて候ヘハ、先彼在所御知行候者、外
+				<lb/>
+				
+聞
+				<note corresp="#儀脱カ">実</note>
+				可目出候、此外承候在所等事、及所存、
+				<note corresp="#総">綱</note>
+				<note corresp="#島津久世">網州方</note>
+				へ可申候、尚〃
+				<lb/>
+				
+八幡・天神も御照覧候へ、於身懸浮沈可申候、少も不可有等閑之儀候、
+				<lb/>
+				
+此子細御使節申入候之間、定可被聞召候哉、恐〃謹言、
+				<lb/>
+				
+　　　八月四日　　　　　　　　　　　　　　　　
+				<note corresp="#市来">家親</note>
+				（花押）
+				<lb/>
+				
+　　
+				<note corresp="#重長">清色</note>
+				殿
+				<lb/>
+				
+　　　　　　
+				<note corresp="#礼紙切封">「</note>
+				　　」
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

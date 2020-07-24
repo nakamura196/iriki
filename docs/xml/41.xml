@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>15　 応永18年9月15日　　島津久世知行充行状（＃４１）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/41/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/41/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000026.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="重長">
+					<span>重長</span>
+				</span>
+				<span xml:id="至">
+					<span>至</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+　四一　島津久世知行充行状
+				<lb/>
+				
+薩摩之国莫祢院一曲之事、依今度志宛行所也、
+				<note corresp="#至">致</note>
+				子〃孫〃、無相違可有
+				<lb/>
+				
+御知行、仍状如件、
+				<lb/>
+				
+　　　応永十八年九月十五日
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　　　兵衛尉久世（花押）
+				<lb/>
+				
+　　　
+				<note corresp="#重長">清色</note>
+				殿
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

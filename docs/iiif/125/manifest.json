@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/iriki/iiif/125/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "125",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "related": "http://universalviewer.io/examples/uv/uv.html#?manifest=https://nakamura196.github.io/iriki/iiif/125/manifest.json",
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/iriki/iiif/125/manifest.json/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://nakamura196.github.io/iriki/iiif/125/manifest.json/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 512,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/iriki/iiif/125/manifest.json/annotation/p1-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/iriki/iiif/125/manifest.json/canvas/p1",
+                            "resource": {
+                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000009.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 512,
+                                "width": 768
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000009.jpg"
+                    },
+                    "width": 768
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": {
+        "@id": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000009.jpg"
+    },
+    "viewingDirection": "right-to-left"
+}

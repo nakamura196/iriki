@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>22　　建武元年9月8日　　_二牟礼の六郎二郎入道在家得分注文（＃１２１）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/121/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/121/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000037.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/121/manifest.json/canvas/p2" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000038.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="野稲原">
+					<span>野稲原</span>
+				</span>
+				<span xml:id="端裏書">
+					<span>端裏書</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+　一二一　二牟礼の六郎二郎入道在家得分注文
+				<lb/>
+				
+
+				<note corresp="#端裏書">「</note>
+				甲戌　きよしき殿よりふたむれのとくふんちうもん」
+				<lb/>
+				
+ふたむれの六郎二郎入道のさいけの一年中のとくふんちうもんの事
+				<lb/>
+				
+ちたう一七石七斗　　　延米とかきの定
+				<lb/>
+				
+一壱貫三〃百文　　くわ代
+				<lb/>
+				
+一五百文　　　　あい・あかねの代
+				<lb/>
+				
+一三百九十五文　ふようとう
+				<lb/>
+				
+一壱貫文　　　　くうしれう
+				<lb/>
+				
+一三百文　　　　からをのしろ
+				<lb/>
+				
+一百文　　　　　とりこのいと
+				<lb/>
+				
+一三百文　　　　そのゝはくのそたう
+				<lb/>
+				
+　　　　　　　　
+				<note corresp="#野稲原">のいねのはら</note>
+				のさいけくわう也、
+				<lb/>
+				
+一七反延米一石五斗五升のいねのはら
+				<lb/>
+				
+　せに三貫八百九十五文
+				<lb/>
+				
+　よね九石二斗五舛
+				<lb/>
+				
+　　けんむくわんねん九月八日
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　御大くわん浄慶（花押）
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

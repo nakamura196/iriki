@@ -1,0 +1,140 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>20　　(年月日欠)　　　　_渋谷重門遺状（＃１１９）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/119/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/119/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000033.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/119/manifest.json/canvas/p2" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000034.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="ひカ">
+					<span>ひカ</span>
+				</span>
+				<span xml:id="重頼">
+					<span>重頼</span>
+				</span>
+				<span xml:id="初穂">
+					<span>初穂</span>
+				</span>
+				<span xml:id="諏訪">
+					<span>諏訪</span>
+				</span>
+				<span xml:id="塔頭">
+					<span>塔頭</span>
+				</span>
+				<span xml:id="書記">
+					<span>書記</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+　一一九　渋谷重門遺状
+				<lb/>
+				
+おもひのほかに
+				<note corresp="#塔頭">たつちう</note>
+				をたて候て、かく
+				<note corresp="#書記">しよき</note>
+				を人わらハしくなさせ
+				<lb/>
+				
+給候御事、むねんにおほえて候、返〃もむねんに候、
+				<note corresp="#重頼">とら</note>
+				五郎かはゝを
+				<lb/>
+				
+そむけん、うちの物ハをんたすけ給候へく候、たゝわれと御いて候て、
+				<lb/>
+				
+かくしよきをひらにたのミ申候て、みかたつちうおとりたて候て、身か
+				<lb/>
+				
+こせをとふらハせ候て給候へく候、もしこれをそむかん人をハ、
+				<note corresp="#諏訪">すハ</note>
+				も
+				<lb/>
+				
+御しようらん候へ、七月のうちに
+				<note corresp="#初穂">はつを</note>
+				あたえ候へく候、
+				<lb/>
+				
+とら五郎かことを大事とおほしめされ候て、うちの物を御いたし候て、七
+				<lb/>
+				
+月よりうちにしよりやうを御すハ・たつちうに御きしんあるへく候、又
+				<lb/>
+				
+うちの物にをちさせ給候て、なに事もおほせ候ハん事、むねんにおほ
+				<lb/>
+				
+え候、ことにことに七月のうち、すハにしよりやうをきしんあるへく候、
+				<lb/>
+				
+によしやうのみにて候とも、なにとてかやうにきハわたらせ給候やらん、
+				<lb/>
+				
+むねんこの事に候、又みかつミハ一日きやうをさんとかゝせ給候て、う
+				<lb/>
+				
+か
+				<note corresp="#ひカ">ふ</note>
+				候へく候、尚〃すハたつちうに七月のうちに、しよりやうをきしん
+				<lb/>
+				
+あるへく候、
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　　　　しけかと（花押）
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

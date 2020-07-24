@@ -1,0 +1,186 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>6　　宝治元年8月5日　　_伴信俊同信忠同信資連署起請文（＃８１）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/81/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/81/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000015.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/81/manifest.json/canvas/p2" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000016.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="鎮守八幡">
+					<span>鎮守八幡</span>
+				</span>
+				<span xml:id="偽">
+					<span>偽</span>
+				</span>
+				<span xml:id="端裏書">
+					<span>端裏書</span>
+				</span>
+				<span xml:id="三島">
+					<span>三島</span>
+				</span>
+				<span xml:id="偏頗">
+					<span>偏頗</span>
+				</span>
+				<span xml:id="入来院">
+					<span>入来院</span>
+				</span>
+				<span xml:id="小事">
+					<span>小事</span>
+				</span>
+				<span xml:id="大事">
+					<span>大事</span>
+				</span>
+				<span xml:id="神祇">
+					<span>神祇</span>
+				</span>
+				<span xml:id="公私">
+					<span>公私</span>
+				</span>
+				<span xml:id="冥道">
+					<span>冥道</span>
+				</span>
+				<span xml:id="塔原">
+					<span>塔原</span>
+				</span>
+				<span xml:id="苧代">
+					<span>苧代</span>
+				</span>
+				<span xml:id="箱根">
+					<span>箱根</span>
+				</span>
+				<span xml:id="伊豆">
+					<span>伊豆</span>
+				</span>
+				<span xml:id="桑代">
+					<span>桑代</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+　八一　伴信俊同信忠同信資連署起請文
+				<lb/>
+				
+
+				<note corresp="#端裏書">「</note>
+				大目とも□□□□□」
+				<lb/>
+				
+　たて申きしやうもんの事
+				<lb/>
+				
+右件の元ハ、
+				<note corresp="#入来院">いりきのゐん</note>
+				のちとう御とくふんの中ニ、すいてん・はく
+				<lb/>
+				
+ち・
+				<note corresp="#苧代">おしろ</note>
+				・
+				<note corresp="#桑代">くわしろ</note>
+				・かりおかしのなかに、いちふん十たいにいた
+				<lb/>
+				
+るまて、ちとう殿の御ために、
+				<note corresp="#偏頗">へんは</note>
+				<note corresp="#偽">いつはり</note>
+				をも申、
+				<note corresp="#公私">おやけわた</note>
+				く
+				<lb/>
+				
+し、
+				<note corresp="#大事">たいし</note>
+				<note corresp="#小事">せうし</note>
+				にいたるまて、へんはおもし候ひ、御ためにうしろつ
+				<lb/>
+				
+たなくも候ひ、又かやうに給はりて候うへニ、ちとう殿おはなれまいら
+				<lb/>
+				
+せて、かみにしさいお申候ものならは、かの
+				<note corresp="#塔原">たうのハら</note>
+				をめされ候へ
+				<lb/>
+				
+し、もしこの申しやういつはりおも申候物ならは、にほんの
+				<note corresp="#鎮守八幡">ちんすはつはん</note>
+				<lb/>
+				
+大ほさつ、ことにハ、1
+				<note corresp="#入来院">1いつ</note>
+				・
+				<note corresp="#箱根">ハこね</note>
+				・
+				<note corresp="#三島">みしま</note>
+				大ミやうしん、そうし
+				<lb/>
+				
+てハ六十よしふの
+				<note corresp="#神祇">しんき</note>
+				<note corresp="#冥道">ミやうたう</note>
+				の御はつお、のふとし・のふたゝ・
+				<lb/>
+				
+のふすけまかりかふり候へし、
+				<lb/>
+				
+　　　宝治元年八月五日　　　　　　　　　　　　伴信資（花押）
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　　　　伴信忠（花押）
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　　大目伴信俊（花押）
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

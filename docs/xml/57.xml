@@ -1,0 +1,90 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>2　　嘉元3年3月10日　　_入来院市比野村名主友家証状（＃５７）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/57/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/57/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/6/00000008.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="議">
+					<span>議</span>
+				</span>
+				<span xml:id="端裏書">
+					<span>端裏書</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+　五七　入来院市比野村名主友家証状
+				<lb/>
+				
+
+				<note corresp="#端裏書">「</note>
+				市比野村名主又次郎友家状　内野事」
+				<lb/>
+				
+内野事、本自塔原にて候うへ、祖父円信并祖母信蓮号市比野の内、子細
+				<lb/>
+				
+を申事候はさりしうへハ、友家更不可申事
+				<note corresp="#議">儀</note>
+				候、定海背父母知行之例、
+				<lb/>
+				
+致非分之違乱候ける事、以外次第候間、為後日進状候、恐〃謹言、
+				<lb/>
+				
+　　　嘉元三年三月十日　　　　　　　　　　　　友家（花押）
+				<lb/>
+				
+　　　塔原地頭殿
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

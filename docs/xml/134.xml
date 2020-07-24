@@ -1,0 +1,93 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>14　　明徳元年11月14日　_今川了俊(貞世)知行充行状（＃１３４）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/134/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/134/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000022.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="重頼">
+					<span>重頼</span>
+				</span>
+				<span xml:id="院脱">
+					<span>院脱</span>
+				</span>
+				<span xml:id="貞世">
+					<span>貞世</span>
+				</span>
+				<span xml:id="久氏">
+					<span>久氏</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+　一三四　今川了俊貞世知行充行状
+				<lb/>
+				
+伊
+				<note corresp="#院脱">集</note>
+				<note corresp="#久氏">入道</note>
+				跡地頭職事、任先立預置旨、可令知行之状如件、
+				<lb/>
+				
+　　　明徳元年十一月十四日　　　　　　　　　
+				<note corresp="#貞世">沙弥</note>
+				（花押）
+				<lb/>
+				
+　　渋谷
+				<lb/>
+				
+　　　　
+				<note corresp="#重頼">清色</note>
+				とのへ
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

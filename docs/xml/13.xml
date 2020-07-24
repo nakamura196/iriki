@@ -1,0 +1,140 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>3　 (天文5年カ)6月3日　島津勝久書状（＃１３）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/13/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/13/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/2/00000005.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="マヽ">
+					<span>マヽ</span>
+				</span>
+				<span xml:id="天文五年カ">
+					<span>天文五年カ</span>
+				</span>
+				<span xml:id="重聡">
+					<span>重聡</span>
+				</span>
+				<span xml:id="端裏切封">
+					<span>端裏切封</span>
+				</span>
+				<span xml:id="入来院重朝">
+					<span>入来院重朝</span>
+				</span>
+				<span xml:id="懸紙ウハ書">
+					<span>懸紙ウハ書</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+　一三　島津勝久書状（切紙）
+				<lb/>
+				
+　　　　
+				<note corresp="#端裏切封">「</note>
+				」
+				<lb/>
+				
+先日者、従
+				<note corresp="#重聡">入来</note>
+				院殿預音信候、爰許之仕合断絶之時分、一段喜入候、併
+				<lb/>
+				
+両人故実共之故候歟、祝着候、遂本意候者、別而此礼不可忘却候、将又
+				<lb/>
+				
+雖事新敷候、
+				<note corresp="#入来院重朝">石州</note>
+				より連〃懇切之処、更難尽筆舌候、然者、以使節其礼
+				<lb/>
+				
+共雖可申候、とても両人其方へ居候上者、先〃心得可被申候、石州之事、
+				<lb/>
+				
+諸事雖満足候、今程廻船者、無挌護候間、我等於入国者、七嶋之内一
+				<lb/>
+				
+所、為此報謝可進当概候、此由可被申候、又
+				<note corresp="#マヽ">侭所</note>
+				より巨細之文共遣候、
+				<lb/>
+				
+弥此方之事、矢入之心底無他候、又東条事者、先度之読物庭訓計未事行
+				<lb/>
+				
+候、廿日比閣諸事候て越候者、可為喜悦候、同大山事、此程益房虫気ニ
+				<lb/>
+				
+候間、同心ニ越之儀、待入候、其外所用共多〃候、廿日比両人共ニ越之
+				<lb/>
+				
+義、必〃可待入候、恐〃謹言、
+				<lb/>
+				
+　　　
+				<note corresp="#天文五年カ">六月三日</note>
+				　　　　勝久（花押）
+				<lb/>
+				
+　　　　東条丹後守殿
+				<lb/>
+				
+　　　　大山源左衛門尉殿
+				<lb/>
+				
+　　　　
+				<note corresp="#懸紙ウハ書">「</note>
+				大山源左衛門尉殿　勝久
+				<lb/>
+				
+　　　　東条丹後守殿　　　」
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

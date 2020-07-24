@@ -1,0 +1,114 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>13　 応永30年8月30日　　島津存忠(久豊)起請文（＃３９）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/39/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/39/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000022.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/39/manifest.json/canvas/p2" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000023.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="重長">
+					<span>重長</span>
+				</span>
+				<span xml:id="包紙ウハ書">
+					<span>包紙ウハ書</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+　三九　島津存忠久豊起請文
+				<lb/>
+				
+　　　請文状意趣之事
+				<lb/>
+				
+一広説共度〃候けるよし承及候、山田之陣之後、今日まてにおゐて、失
+				<lb/>
+				
+申候するたくミを仕たる事なく候事、
+				<lb/>
+				
+一まきれす恨申候する子細候ハヽ、かくし申へき事にてもなく候、それ
+				<lb/>
+				
+より御意にかけられ候するにおゐて、身として於後〃も不可存等閑事、
+				<lb/>
+				
+　　此条〃偽候者、
+				<lb/>
+				
+日本国中大小神祇、別而ハ、
+				<lb/>
+				
+　正八幡大菩薩、　　諏方上下大明神、
+				<lb/>
+				
+　鵜戸、　霧嶋大権現、　　天満天神、
+				<lb/>
+				
+　稲荷、祇薗、　罰を可蒙候、　　仍請文状如件、
+				<lb/>
+				
+　　　応永卅年八月卅日　　　　　　沙弥存忠（花押）
+				<lb/>
+				
+　　　　
+				<note corresp="#重長">清色</note>
+				殿
+				<lb/>
+				
+　　　
+				<note corresp="#包紙ウハ書">「</note>
+				きてんのせいもん」
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

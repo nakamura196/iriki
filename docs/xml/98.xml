@@ -1,0 +1,444 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>6　　嘉暦4年5月99日　　_渋谷惟重遺領等注進状案（＃９８）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/98/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/98/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/9/00000008.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/98/manifest.json/canvas/p2" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/9/00000009.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/98/manifest.json/canvas/p3" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/9/00000010.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/98/manifest.json/canvas/p4" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/9/00000011.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/98/manifest.json/canvas/p5" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/9/00000012.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/98/manifest.json/canvas/p6" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/9/00000013.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/98/manifest.json/canvas/p7" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/9/00000014.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="端裏書">
+					<span>端裏書</span>
+				</span>
+				<span xml:id="下下イ">
+					<span>下下イ</span>
+				</span>
+				<span xml:id="跡所領等事イ">
+					<span>跡所領等事イ</span>
+				</span>
+				<span xml:id="上イ">
+					<span>上イ</span>
+				</span>
+				<span xml:id="裏書">
+					<span>裏書</span>
+				</span>
+				<span xml:id="ニイ">
+					<span>ニイ</span>
+				</span>
+				<span xml:id="功">
+					<span>功</span>
+				</span>
+				<span xml:id="上上イ">
+					<span>上上イ</span>
+				</span>
+				<span xml:id="古イ">
+					<span>古イ</span>
+				</span>
+				<span xml:id="中イ">
+					<span>中イ</span>
+				</span>
+				<span xml:id="丁イ">
+					<span>丁イ</span>
+				</span>
+				<span xml:id="ナシイ">
+					<span>ナシイ</span>
+				</span>
+				<span xml:id="大、下同ジ">
+					<span>大、下同ジ</span>
+				</span>
+				<span xml:id="進イ">
+					<span>進イ</span>
+				</span>
+				<span xml:id="師イ">
+					<span>師イ</span>
+				</span>
+				<span xml:id="丁イ中イ">
+					<span>丁イ中イ</span>
+				</span>
+				<span xml:id="下イ">
+					<span>下イ</span>
+				</span>
+				<span xml:id="大">
+					<span>大</span>
+				</span>
+				<span xml:id="ハイ">
+					<span>ハイ</span>
+				</span>
+				<span xml:id="ナシイ ">
+					<span>ナシイ </span>
+				</span>
+				<span xml:id="付イ">
+					<span>付イ</span>
+				</span>
+				<span xml:id="密">
+					<span>密</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+　九八　渋谷惟重遺領等注進状案
+				<lb/>
+				
+　　　　　　○コノ文書、紙継目裏毎ニ「……裏判……裏判」トアリ、次号
+				<lb/>
+				
+　　　　　　ニ同文ノ案文アリ、文字ノ異同ハ便宜傍註セリ、
+				<lb/>
+				
+
+				<note corresp="#端裏書">「</note>
+				重名所進勘返状案」
+				<lb/>
+				
+勘
+				<note corresp="#進イ">返</note>
+				<lb/>
+				
+　　渋谷孫三郎惟重遺
+				<note corresp="#跡所領等事イ">領等勘返事</note>
+				<lb/>
+				
+　　　合
+				<lb/>
+				
+一相模国吉田上庄寺尾村内
+				<lb/>
+				
+　　田地肆段
+				<lb/>
+				
+　　在家弐宇内副同山野立野壱
+				<note corresp="#丁イ">町</note>
+				<lb/>
+				
+　　　壱宇中三郎入道
+				<note corresp="#上イ">屋敷</note>
+				<lb/>
+				
+　　　壱宇後藤太郎
+				<note corresp="#下イ">屋敷</note>
+				<lb/>
+				
+　　　而如重広注文者、弐宇内壱宇地頭屋敷云〃、無跡形不実也、弐宇
+				<lb/>
+				
+　　共往代百姓屋敷也、
+				<lb/>
+				
+　　在家伍宇
+				<note corresp="#付イ">村</note>
+				山野在之、是者、自法音寺押領之、
+				<lb/>
+				
+一薩摩国入来院塔原郷
+				<lb/>
+				
+　　公田十八町七段半
+				<lb/>
+				
+　　　是
+				<note corresp="#ハイ">者</note>
+				公田許也、莫
+				<note corresp="#大、下同ジ">太</note>
+				余剰雖在之、不持下地取帳之間、不備進之、
+				<lb/>
+				
+　　於重広
+				<note corresp="#ナシイ">者</note>
+				雖令所持之、〓奸心、不進取帳之上者、被配分公田、至
+				<lb/>
+				
+　　下地余剰者、就于分限、可被領之由、可被仰下于鎮西探題御方
+				<lb/>
+				
+　　歟、
+				<lb/>
+				
+　　在家分
+				<lb/>
+				
+　　　一所　　地頭堀
+				<note corresp="#上イ">内</note>
+				<lb/>
+				
+　　　四个所城篭1
+				<note corresp="#進イ">1村</note>
+				<lb/>
+				
+　　　一宇淵
+				<note corresp="#中イ">脇</note>
+				　此内毘沙門堂并十二宮、同敷地・免田在之、
+				<lb/>
+				
+　　　二宇借屋崎　当所
+				<note corresp="#ニイ">仁</note>
+				有市庭、是則、有得分之地
+				<note corresp="#ナシイ ">也</note>
+				、尤欲有御配分、
+				<lb/>
+				
+　　　一宇藤九郎入
+				<note corresp="#中イ">道</note>
+				<lb/>
+				
+　　　二宇大
+				<note corresp="#中イ">薗</note>
+				　此内天神敷地・免田在之、
+				<lb/>
+				
+　　三个所中里
+				<note corresp="#中イ">内</note>
+				<lb/>
+				
+　　　一宇号岡六在家、　宗万房一期分也・未来仁可被定之、
+				<lb/>
+				
+　　三个所　古家薗
+				<note corresp="#下イ">内</note>
+				　一宇重名当住、此内
+				<note corresp="#ナシイ">仁</note>
+				薬
+				<note corresp="#師イ">堂</note>
+				并三嶋社、同敷地・免田在之、
+				<lb/>
+				
+　　　一宇　樺
+				<note corresp="#下イ">目</note>
+				　此内阿弥陀堂、同敷地・免田在之、
+				<lb/>
+				
+　　　一宇　中2
+				<note corresp="#跡所領等事イ">2塚</note>
+				　此内若宮敷地・免田在之、
+				<lb/>
+				
+　　　一宇　横
+				<note corresp="#下イ">枕</note>
+				<lb/>
+				
+　　　一宇　久目
+				<note corresp="#上上イ">方</note>
+				<lb/>
+				
+　　　四宇　宇津木
+				<note corresp="#上上イ">浪</note>
+				　此内権現堂、同敷地・免田在之、
+				<lb/>
+				
+　　　一宇　塚
+				<note corresp="#下イ">原</note>
+				<lb/>
+				
+Ｐ５２
+				<lb/>
+				
+　　　一宇　皮
+				<note corresp="#中イ">屋</note>
+				<lb/>
+				
+　　　三宇　田
+				<note corresp="#中イ">代</note>
+				<lb/>
+				
+　　　一宇　木
+				<note corresp="#中イ">葉</note>
+				<lb/>
+				
+　　　二宇　金
+				<note corresp="#上イ">家</note>
+				　如重広注文者、一宇云〃、争隠
+				<note corresp="#密">蜜</note>
+				之　罪科可遁之哉、
+				<lb/>
+				
+　　　弐宇　橋
+				<note corresp="#下イ">口</note>
+				<lb/>
+				
+　　　一宇　樋3
+				<note corresp="#丁イ">3脇</note>
+				<lb/>
+				
+　　　三宇　村
+				<note corresp="#古イ">子</note>
+				<note corresp="#下イ">田</note>
+				当所
+				<note corresp="#ニイ">仁</note>
+				観音堂一宇、同敷地・免田在之、
+				<lb/>
+				
+　　　二宇　前土
+				<note corresp="#下イ">古</note>
+				此内諏方社、同敷地・免田在之、
+				<lb/>
+				
+　　　一宇　柿木
+				<note corresp="#下下イ">原</note>
+				<lb/>
+				
+　　　一宇　峯
+				<note corresp="#下イ">越</note>
+				<lb/>
+				
+　　　一宇　松
+				<note corresp="#中イ">丸</note>
+				<lb/>
+				
+　　重広一向令隠畠分
+				<lb/>
+				
+　　　一宇　藤
+				<note corresp="#下イ">次</note>
+				<lb/>
+				
+　　　一宇　永吉入
+				<note corresp="#下イ">道</note>
+				<lb/>
+				
+　　　一宇　五郎太郎入
+				<note corresp="#下イ">道</note>
+				<lb/>
+				
+　　　一宇　赤崎入4
+				<note corresp="#上イ">4道</note>
+				<lb/>
+				
+　　　一宇　皆
+				<note corresp="#下イ">原</note>
+				<lb/>
+				
+　　正作分
+				<lb/>
+				
+　　　一段井
+				<note corresp="#上イ">尻</note>
+				二段月
+				<note corresp="#中イ">方</note>
+				　三段桜
+				<note corresp="#中イ">木</note>
+				<lb/>
+				
+　　　三段樺
+				<note corresp="#上イ">目</note>
+				　一
+				<note corresp="#丁イ">町</note>
+				口
+				<note corresp="#上イ">町</note>
+				　一
+				<note corresp="#丁イ中イ">町</note>
+				　頭田、此内神田在之、
+				<lb/>
+				
+　此外山野河莫
+				<note corresp="#大">太</note>
+				在之、就于分限、可被分付
+				<note corresp="#ナシイ">之</note>
+				歟、
+				<lb/>
+				
+　又在之、号楡木田、名主押領之間、相論最中也、
+				<lb/>
+				
+一筑前国早良郡下長尾庄5
+				<note corresp="#下イ">5内</note>
+				<lb/>
+				
+　　田地　二丁
+				<lb/>
+				
+　　畠　　二段
+				<lb/>
+				
+　　屋敷　一所
+				<lb/>
+				
+一筑後国三奈木庄
+				<note corresp="#下イ">内</note>
+				<lb/>
+				
+　　畠　　一丁
+				<lb/>
+				
+一伊勢国大
+				<note corresp="#功">工</note>
+				田
+				<note corresp="#上イ">内</note>
+				<lb/>
+				
+　　田　　一
+				<note corresp="#丁イ">町</note>
+				<lb/>
+				
+右、注進如件、
+				<lb/>
+				
+　　　嘉暦四年五月　日　　　　　　　　　　平重名
+				<note corresp="#裏書">「</note>
+				裏判」
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

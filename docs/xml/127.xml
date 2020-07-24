@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>6　　文明13年6月1日　　_木場重着避状（＃１２７）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/127/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/127/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000011.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="渋谷">
+					<span>渋谷</span>
+				</span>
+				<span xml:id="別紙">
+					<span>別紙</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+　一二七　木場重着避状
+				<lb/>
+				
+　　　　　　○コノ文書ノ別紙ハ、モト懸紙ウハ書ナルベシ、
+				<lb/>
+				
+
+				<note corresp="#別紙">「</note>
+				進上御使　種田図書殿　　　　木場但馬守重着」
+				<lb/>
+				
+御こゝろさしありかたく存候、よて木場但馬守重着之私領こはの原之内
+				<lb/>
+				
+の水田、平田大丸一反、野中田一反、下つる一反、以上三反、
+				<note corresp="#渋谷">重豊</note>
+				ニあけ申
+				<lb/>
+				
+候事実也、
+				<lb/>
+				
+此之外、ぬく谷ニほりま地所〃候を、私之心あて共仕候事候、於以後
+				<lb/>
+				
+も、奉憑候之外無候、仍為後日証文如件、
+				<lb/>
+				
+　　　文明十三年辛寅六月一日　　　　　　　木場但馬守重着（花押）
+				<lb/>
+				
+　　進上御使種田図書殿
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

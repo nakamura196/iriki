@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>1　 慶長19年10月16日　_島津家久条目（＃１７）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/17/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/17/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/3/00000003.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="家康">
+					<span>家康</span>
+				</span>
+				<span xml:id="家久">
+					<span>家久</span>
+				</span>
+				<span xml:id="陣">
+					<span>陣</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+　一七　島津家久条目
+				<lb/>
+				
+　　　　覚　　　　　　　　　　　　　　　
+				<note corresp="#家久">（花押）</note>
+				<lb/>
+				
+一大坂御謀叛之事、
+				<lb/>
+				
+一世上いかやうに罷成候共、此方者、関東へ一筋之御奉公ニ相定候事、
+				<lb/>
+				
+一数年　
+				<note corresp="#家康">御所</note>
+				様御厚恩、至下〃迄不可致失念事、
+				<lb/>
+				
+一大坂へ若御
+				<note corresp="#陣">陳</note>
+				於相付者、不図可為上洛候間、内〃可致其覚悟事、
+				<lb/>
+				
+一御弓箭之用意不可致油断事、
+				<lb/>
+				
+一連〃不入処花麗可為停止事、
+				<lb/>
+				
+一他国人拘間敷候、若不審之者於在之者、則可致披露事、付、境目ニ可入
+				<lb/>
+				
+　遠慮事、
+				<lb/>
+				
+　　　慶長十九年
+				<lb/>
+				
+　　　　　十月十六日
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	   
+	<teiHeader>
+		      
+		<fileDesc>
+			         
+			<titleStmt>
+				            
+				<title>9　　永和2年5月25日　　_今川了俊(貞世)書下（＃１７６）</title>
+				         
+			</titleStmt>
+			         
+			<publicationStmt>
+				            
+				<p>Publication Information</p>
+				         
+			</publicationStmt>
+			         
+			<sourceDesc>
+				            
+				<p>Information about the source</p>
+				         
+			</sourceDesc>
+			      
+		</fileDesc>
+		   
+	</teiHeader>
+	   
+	<facsimile>
+		      
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/176/manifest.json">
+			      
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/176/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/14/00000015.jpg"/>
+			</surface>
+		</surfaceGrp>
+		   
+	</facsimile>
+	   
+	<text>
+		      
+		<front>
+			         
+			<p>
+				         
+				<span xml:id="満範">
+					<span>満範</span>
+				</span>
+				<span xml:id="重頼">
+					<span>重頼</span>
+				</span>
+				<span xml:id="島津">
+					<span>島津</span>
+				</span>
+				<span xml:id="貞世">
+					<span>貞世</span>
+				</span>
+			</p>
+			      
+		</front>
+		      
+		<body>
+			<p>
+				一七六　今川了俊貞世書下（小切紙）
+				<br/>
+				
+
+				<note corresp="#島津">氏久</note>
+				心替以後、可致忠節之由被捧請文云〃、仍所差遣今川
+				<note corresp="#満範">兵部</note>
+				大輔也、
+				<br/>
+				
+属彼手可被抽戦功之状如件、
+				<br/>
+				
+　　　永和二年五月廿五日　　
+				<note corresp="#貞世">沙弥</note>
+				（花押）
+				<br/>
+				
+　　渋谷
+				<note corresp="#重頼">乕五郎</note>
+				殿
+				<br/>
+			</p>
+		</body>
+		   
+	</text>
+</TEI>

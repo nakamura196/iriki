@@ -1,51 +1,49 @@
 <?xml version="1.0" ?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-	   
+	        
 	<teiHeader>
-		      
+		            
 		<fileDesc>
-			         
+			                
 			<titleStmt>
-				            
+				                    
 				<title>7　　文保元年11月17日　_武光経兼和与状案（＃２３２）</title>
-				         
+				                
 			</titleStmt>
-			         
+			                
 			<publicationStmt>
-				            
+				                    
 				<p>Publication Information</p>
-				         
+				                
 			</publicationStmt>
-			         
+			                
 			<sourceDesc>
-				            
+				                    
 				<p>Information about the source</p>
-				         
+				                
 			</sourceDesc>
-			      
+			            
 		</fileDesc>
-		   
+		        
 	</teiHeader>
-	   
+	        
 	<facsimile>
-		      
-		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/467/manifest">
-			      
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/232/manifest.json">
+			            
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/467/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/893/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/232/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/18/00000021.jpg"/>
 			</surface>
 		</surfaceGrp>
-		   
+		        
 	</facsimile>
-	   
+	        
 	<text>
-		      
+		            
 		<front>
-			         
+			                
 			<p>
-				         
+				                
 				<span xml:id="武光">
 					<span>武光</span>
 				</span>
@@ -53,13 +51,14 @@
 					<span>重見</span>
 				</span>
 			</p>
-			      
+			            
 		</front>
-		      
+		            
 		<body>
 			<p>
 				<lb/>
-				二三二　武光経兼和与状案
+				
+　二三二　武光経兼和与状案
 				<lb/>
 				
 門四郎太郎当住屋敷事、為吉枝名牧崎内之処、為権執印妙慶被押領之
@@ -81,11 +80,12 @@
 				<lb/>
 				
 　　　文保元年十一月十七日　　　　　　　　　
-				<span corresp="#武光">伴経</span>
+				<note corresp="#武光">伴経</note>
 				兼
 				<lb/>
 			</p>
 		</body>
-		   
+		        
 	</text>
+	        
 </TEI>

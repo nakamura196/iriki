@@ -1,0 +1,3353 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>(年月日欠)　　　　_算田日記（＃２４０）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/240/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000001.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p2" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000002.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p3" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000003.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p4" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000004.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p5" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000005.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p6" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000006.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p7" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000007.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p8" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000008.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p9" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000009.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p10" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000010.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p11" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000011.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p12" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000012.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p13" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000013.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p14" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000014.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p15" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000015.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p16" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000016.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p17" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000017.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p18" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000018.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p19" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000019.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p20" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000020.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p21" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000021.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p22" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000022.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p23" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000023.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p24" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000024.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p25" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000025.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p26" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000026.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p27" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000027.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p28" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000028.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p29" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000029.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p30" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000030.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p31" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000031.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p32" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000032.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p33" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000033.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p34" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000034.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p35" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000035.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p36" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000036.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p37" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000037.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p38" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000038.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p39" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000039.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p40" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000040.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p41" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000041.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p42" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000042.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p43" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000043.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p44" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000044.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p45" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000045.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p46" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000046.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p47" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000047.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p48" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000048.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p49" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000049.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p50" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000050.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p51" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000051.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p52" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000052.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p53" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000053.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p54" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000054.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p55" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000055.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p56" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000056.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p57" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000057.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p58" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000058.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p59" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000059.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p60" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000060.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p61" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000061.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p62" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000062.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p63" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000063.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p64" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000064.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p65" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000065.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p66" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000066.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p67" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000067.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p68" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000068.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p69" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000069.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p70" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000070.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p71" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000071.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p72" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000072.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p73" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000073.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p74" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000074.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p75" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000075.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p76" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000076.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p77" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000077.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/240/manifest.json/canvas/p78" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/22/00000078.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="×三百">
+					<span>×三百</span>
+				</span>
+				<span xml:id="マヽ">
+					<span>マヽ</span>
+				</span>
+				<span xml:id="×六">
+					<span>×六</span>
+				</span>
+				<span xml:id="朱書 ">
+					<span>朱書 </span>
+				</span>
+				<span xml:id="×七">
+					<span>×七</span>
+				</span>
+				<span xml:id="重見">
+					<span>重見</span>
+				</span>
+				<span xml:id="×二">
+					<span>×二</span>
+				</span>
+				<span xml:id="×四">
+					<span>×四</span>
+				</span>
+				<span xml:id="〃脱">
+					<span>〃脱</span>
+				</span>
+				<span xml:id="×宮そ">
+					<span>×宮そ</span>
+				</span>
+				<span xml:id="×一貫">
+					<span>×一貫</span>
+				</span>
+				<span xml:id="朱書">
+					<span>朱書</span>
+				</span>
+				<span xml:id="〃脱カ">
+					<span>〃脱カ</span>
+				</span>
+				<span xml:id="朱筆">
+					<span>朱筆</span>
+				</span>
+				<span xml:id="ヽ脱">
+					<span>ヽ脱</span>
+				</span>
+				<span xml:id="×三">
+					<span>×三</span>
+				</span>
+				<span xml:id="フル">
+					<span>フル</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+　二四〇　算田日記
+				<lb/>
+				
+　　　　　　○墨付七五丁、合点ノ筆、実線ハ朱、点線ハ墨にカヽル、
+				<lb/>
+				
+（表紙）
+				<lb/>
+				
+　　算田之日記　　　　　　　　　　三十六番
+				<lb/>
+				
+　　算田之日記
+				<lb/>
+				
+一斗二舛まき　　くきのうと　御自作　　　　　　　　代五百彳
+				<lb/>
+				
+二斗三舛まき　　ゑの木田　たにのうしろ　御もち　　　八百彳
+				<lb/>
+				
+一斗三舛　　　　ふか田　同御もち　　　　　　　　　四百中
+				<lb/>
+				
+一斗三舛　　　　ゑの木田　たにの前　御もち　　　　五百彳
+				<lb/>
+				
+八舛まき　　　　ひわのくひ　三百　へたう　　　　　半彳半中
+				<lb/>
+				
+又ようの丸ニ二舛　代五十
+				<lb/>
+				
+三舛まき　　　　ちやゑんの下　あか木てん　　　　　百中
+				<lb/>
+				
+一斗六舛まき　　ゆはのうと　種田源五郎　　　　　　六百中
+				<lb/>
+				
+三斗八舛此之内五舛坂下たか木かうと　堀切助四郎殿　一貫百中
+				<lb/>
+				
+三舛　　　　　　坂本殿前　中間弥八郎　　　　　　　百彳
+				<lb/>
+				
+六斗　　　　　　五反田　御自作　　　　　　　　　　二貫五百中
+				<lb/>
+				
+三斗六舛　　　　つふき　瑠理光寺領　　　　　　　　一貫二百半彳半中
+				<lb/>
+				
+一斗一舛　　　　ようの丸　いちの地蔵田　　　　　　三百地中
+				<lb/>
+				
+六斗五舛　　　　ようの丸　よそけい水手殿もち　　　　　　　二貫四百中半彳
+				<lb/>
+				
+五斗三舛　　　　ようの丸　さこ内外長野殿もち　　　　　　　一貫八百半中半権
+				<lb/>
+				
+二斗よけの両方　ようの丸　中間助十郎　　　　　　　九百彳
+				<lb/>
+				
+七舛まき　　　　くゝめの下　又助十郎　　　　　　　三百中
+				<lb/>
+				
+三舛五合まき　　又くゝめの下御下部八郎太郎もち　　　　　　　百地中
+				<lb/>
+				
+一斗四舛まき　　あふミ　中間九郎ゑもん　　　　　　四百権
+				<lb/>
+				
+三斗五舛まき　　くゝめ　有川殿もち　　　　　　　　一貫三百中
+				<lb/>
+				
+二斗五舛まき　　くゝめのかしら　種田仁介殿　　　　七百中
+				<lb/>
+				
+Ｐ１３０
+				<lb/>
+				
+二斗七舛　　　　中野宮田　なへ田かしら　　　　　　一貫二百中
+				<lb/>
+				
+一斗六舛　　　　なへ田　ありま平二郎殿　　　　　　六百彳
+				<lb/>
+				
+三斗八舛　　　　なへ田　山手御自作　　　　　　　　一貫六百彳
+				<lb/>
+				
+一反三丁　　　　なへたのしり　　　　　　一貫二百　村尾彦七殿
+				<lb/>
+				
+六斗まき　　　　くすの木の丸　山手御自作　　　　　二貫中
+				<lb/>
+				
+一斗五舛　　　　
+				<note corresp="#フル">古</note>
+				その　はき助九郎　　　　　　　　　五百中
+				<lb/>
+				
+一斗まき　　　　むまのさこのしり二ヶ所　助九郎殿　三百中
+				<lb/>
+				
+二斗まき　　　　くすの木かさこ　まての領　　　　　八百中
+				<lb/>
+				
+四斗まき　　　　くすの木か迫の下　寿昌寺領　　　　一貫五百中
+				<lb/>
+				
+二斗五舛　　　　いちちやう作　ありま平二郎殿　　　一貫彳
+				<lb/>
+				
+四舛まき　　　　くすの木かさこ　中間弥八　　　　　百中
+				<lb/>
+				
+五舛まき　　　　むまのさこのしり　中間助十郎　　　百五十
+				<lb/>
+				
+一斗四百　　　　むまのさこのかしら　中野の門内
+				<lb/>
+				
+一石一斗まき　　むまのさこ　種田又四郎殿　　　　　四貫中彳
+				<lb/>
+				
+二斗マキ　　　　北のさこ　中のゝ門之内　　　　　　七百中
+				<lb/>
+				
+五斗三舛　　　　きたのさこ　ありま平次郎殿　　　　二貫三百彳
+				<lb/>
+				
+八舛まき　　　　井あなの口　池田太郎三郎　　　　　三百彳
+				<lb/>
+				
+三斗　　　　　　古市宮田　かち田殿作人〃〃　　　　　　一貫二百中
+				<lb/>
+				
+二斗　　　　　　古市の前　あふらき殿　　　　　　　五百地権
+				<lb/>
+				
+二斗　　　　　　古市の後　萩与二郎殿　　　　　　　八百中
+				<lb/>
+				
+二斗　　　　　　古市後　種田仁介殿　　　　　　　　一貫彳
+				<lb/>
+				
+二舛まき　　　　古市後　又下部八郎太郎
+				<lb/>
+				
+四斗六舛　　　　市口　あらき殿　　　　　　　　　　一貫三百権
+				<lb/>
+				
+一斗五舛　　　　市口　まて野きとん田　来福寺より　五百中
+				<lb/>
+				
+一斗三舛　　　　市口　はうり二郎九郎　　　　　　　四百五十中
+				<lb/>
+				
+六斗　　　　　　嶋めくり　山手御自作神五方〃〃〃　　　　二貫八百半中半彳
+				<lb/>
+				
+一斗二舛　　　　市口谷後より　　　　　　　　　　　四百中
+				<lb/>
+				
+三斗　　　　　　つふき　御自作　　　　　　　　　　一貫五百彳
+				<lb/>
+				
+三舛まき　　　　つふきの下　大工助七　　　　　　　百彳
+				<lb/>
+				
+八斗六舛　　　　ミなを田　萩与二郎殿　　　　　　　四貫彳
+				<lb/>
+				
+二斗五舛　　　　みなをた　大工助七　　　　　　　　八百中
+				<lb/>
+				
+五斗七〃〃舛　　　　みなをた　河西孫二郎殿　　　　　　二貫五百彳
+				<lb/>
+				
+五斗六舛　　　　みなをた　法雲寺領　　　　　　　　二貫五百彳少下
+				<lb/>
+				
+一斗四舛　　　　みなをた　はら殿　　　　　　　　　六百彳
+				<lb/>
+				
+四斗五舛　　　　みなをた　坂本殿　　　　　　　　　二貫中半彳
+				<lb/>
+				
+二斗四舛　　　　みなをた七杖　かちた殿　　　　　　一貫五百彳
+				<lb/>
+				
+二斗七舛　　　　井のしり　大工助九郎　　　　　　　七百権
+				<lb/>
+				
+一斗五舛　　　　その田　大工助七　　　　　　　　　五百
+				<lb/>
+				
+一斗八舛　　　　よこまくら　こは太郎五郎　　　　　八百彳
+				<lb/>
+				
+一斗六舛　　　　竹下　中間弥九郎　　　　　　　　　六百彳
+				<lb/>
+				
+四舛　　　　　　二またの上　種田殿　　　　　　　　百五十彳
+				<lb/>
+				
+六舛　　　　　　はらの後　種田殿　　　　　　　　　百五十
+				<lb/>
+				
+三舛　　　　　　はらの後　同又四郎殿　　　　　　　百
+				<lb/>
+				
+一斗　　　　　　その田　同二郎九郎　　　　　　　　四百中
+				<lb/>
+				
+一斗　　　　　　にしの原まてのそのた　ゑひすてん　　　　四百中
+				<lb/>
+				
+一斗　　　　　　にしの原　中間弥八　　　　　　　　三百権
+				<lb/>
+				
+八舛　　　　　　にしの原三ヶ所　まての領　　　　　代二百
+				<lb/>
+				
+Ｐ１３１
+				<lb/>
+				
+五舛　　　　　　にしの原わさた　種田二郎九郎　　　二百彳
+				<lb/>
+				
+一斗八舛　　　　にしの原　法雲寺領　　　　　　　　八百中
+				<lb/>
+				
+二斗四舛　　　　うはた一方　らいふくし寺領　　　　中
+				<lb/>
+				
+二斗三舛又一方さこ以上代一貫三百
+				<lb/>
+				
+三斗八舛　　　　にしの原　大工助九郎　　　　　　　一貫五百中
+				<lb/>
+				
+二斗三舛　　　　をとし作　河西孫二郎殿　　　　　　七百権
+				<lb/>
+				
+七斗三舛　　　　みなをた　村尾殿　　　　　　　　　二貫五百中
+				<lb/>
+				
+一斗三舛　　　　おきのミなをた　大工助七　　　　　四百中
+				<lb/>
+				
+一斗七舛　　　　大路そい　池田太郎三郎　　　　　　六百権
+				<lb/>
+				
+一斗七舛　　　　萩助九郎殿　　　　　　　　　　　　六百権
+				<lb/>
+				
+一斗五舛　　　　すはのまち　中間木十郎　　　　　　五百中
+				<lb/>
+				
+八舛まき　　　　古市二ヶ所　なかのとの　　　　　　三百中
+				<lb/>
+				
+二斗二舛　　　　竹下　種田仁介殿　　　　　　　　　一貫八百〃〃中
+				<lb/>
+				
+二斗二舛　　　　すはのまちふかた　中間九郎ゑもん　七百
+				<lb/>
+				
+二斗七舛　　　　さゝのさこ　中間助十郎　　　　　　九百中
+				<lb/>
+				
+三斗三舛　　　　すはのまち　法雲寺領　　　　　　　一貫中
+				<lb/>
+				
+一斗四舛　　　　すはのまちむた　大工助九郎　　　　四百権
+				<lb/>
+				
+一斗　　　　　　うさき田　来福寺領　　　　　　　　四百彳
+				<lb/>
+				
+三斗七舛　　　　すはのま地　中間助十郎　　　　　　一貫三百中
+				<lb/>
+				
+一斗一舛　　　　すはのまち　来福寺領　　　　　　　四百中
+				<lb/>
+				
+一斗五舛　　　　すはのま地　木場太郎五郎　　　　　五百中
+				<lb/>
+				
+四斗　　　　　　すはのま地　池上殿　　　　　　　　四〃百中
+				<lb/>
+				
+一石まき　　　　種田うと外かけて　種田殿　　　　　三貫五百中
+				<lb/>
+				
+一斗　　　　　　なかのゝ門之内　種田のわさ田　　　四百彳
+				<lb/>
+				
+二斗　　　　　　同門之内　しいの木のさこ　　　　　六百権
+				<lb/>
+				
+一斗八舛　　　　大さこ　中間源五　　　　　　　　　八百中
+				<lb/>
+				
+四舛　　　　　　大さこのしり三ヶ所　種田源五郎　　百
+				<lb/>
+				
+一斗　　　　　　くりのさこ　萩助九郎殿　　　　　　三百権
+				<lb/>
+				
+四斗　　　　　　すはのま地　種田源五郎　　　　　　一貫八百半彳半中
+				<lb/>
+				
+四舛　　　　　　小さかいはのさこ　木場太郎五郎　　　　百権
+				<lb/>
+				
+六舛　　　　　　小坂の下　種田又四郎殿　　　　　　二百中
+				<lb/>
+				
+八舛〃〃
+				<lb/>
+				
+一斗二舛　　　　小坂の下　萩助九郎　　　　　　　　五百中
+				<lb/>
+				
+一斗　　　　　　池田　大工助九郎
+				<lb/>
+				
+　　以上四百五十
+				<lb/>
+				
+二舛　　　　　　又さこ田　同助九郎　　　　　　　　中
+				<lb/>
+				
+二斗八舛六百　　中のゝ門之内　小坂いはの下
+				<lb/>
+				
+一斗三百　　　　古その前　木場太郎五郎　　　　　　中
+				<lb/>
+				
+四舛百　　　　　あんのさこ　今熊野領七所内　　　　中
+				<lb/>
+				
+一斗六舛六百　　上のたうめん　中のゝ門之内　　　　彳
+				<lb/>
+				
+六斗三貫　　　　前田　種田方　　　　　　　　　　　彳
+				<lb/>
+				
+四斗二貫　　　　前田　来福寺薬師たうめん　　　　　　　　彳
+				<lb/>
+				
+七舛二百　　　　門田　太郎五郎殿屋敷之前
+				<lb/>
+				
+三舛百　　　　　池田方屋敷之内
+				<lb/>
+				
+五舛百五十　　　中嶋の上　いまくまの領七所之内
+				<lb/>
+				
+一石一斗四舛五貫二百　　前田上下以上　種田又四郎殿　　　　彳
+				<lb/>
+				
+Ｐ１３２
+				<lb/>
+				
+三斗四舛一貫　　くりのさこ　同又九郎殿　　　　　　中
+				<lb/>
+				
+三斗三舛一貫　　せとの口　同源五郎　　　　　　　　中
+				<lb/>
+				
+四舛　　　　　　せとの口三ヶ所七所之内　いまくまの領
+				<lb/>
+				
+三斗七舛九百　　玉村殿之分上原御諏訪田　こつといしま　　　　　権
+				<lb/>
+				
+二舛　　　　　　〓田　種田又四郎殿
+				<lb/>
+				
+一斗八舛七百　　宮のわきよりはねた水口　祝二郎九郎　　　　　　彳
+				<lb/>
+				
+一斗七舛七百　　小竹原田　種田又九郎殿　　　　　　彳
+				<lb/>
+				
+一石六貫　　　　へし野　かち田殿　　　　　　　　　彳
+				<lb/>
+				
+四斗五舛二貫三百　宮のわきより大宮田　祝二郎九郎　　　　　　　　彳
+				<lb/>
+				
+三斗五舛一貫七百　うちやまの前田　うわやひこ九郎之内　　　　　彳
+				<lb/>
+				
+三斗一舛一貫八百　かハら田　うちやまの門之内　　　　彳
+				<lb/>
+				
+一斗七百　　　　はしの口　祝二郎九郎　　　　　　　彳
+				<lb/>
+				
+四斗二貫　　　　ふちわき　大工新さへもん　　　　　彳
+				<lb/>
+				
+五斗二貫五百　　二反田　うわや彦九郎　　　　　　　彳
+				<lb/>
+				
+二斗一貫　　　　宮のわきより古川　祝二郎九郎　　　　　　　　　彳
+				<lb/>
+				
+一石二斗六舛六貫　　つるた　種田殿　　　　　　　　　　彳
+				<lb/>
+				
+二斗一貫　　　　ろく一　うわやひこ九郎殿　　　　　中
+				<lb/>
+				
+七斗五舛三貫五百　かふと田　種田又九郎殿　　　　　　彳
+				<lb/>
+				
+二斗五舛一貫　　ゑの木田　寿昌寺領　　　　　　　　中
+				<lb/>
+				
+三斗一貫　　　　小竹原田　小中野門之内　　　　　　中
+				<lb/>
+				
+一斗八舛七百　　宮のわきよりかたたかいてん　祝二郎九郎　　　　中
+				<lb/>
+				
+二斗二舛七百　　又小竹原田　小中野門之内　　　　　中
+				<lb/>
+				
+四斗二舛二貫　　丸峯　あらきとの　　　　　　　　　彳
+				<lb/>
+				
+一石一斗五貫五百　つる田　うちやま門之内　　　　　　　彳
+				<lb/>
+				
+五斗一貫五百　　宮のわきより丸ミね　祝二郎九郎　　　　　　　　中
+				<lb/>
+				
+二舛　　　　　　ミのたのかしら　いまくまの領七所之内
+				<lb/>
+				
+六斗二貫四百　　まるミね　種田五郎二郎殿　　　　　彳
+				<lb/>
+				
+一斗九舛七百　　なかた　うちやま門之内　　　　　　中
+				<lb/>
+				
+三斗九百　　　　宮のわき四郎かうと　祝二郎九郎　　　　　　中
+				<lb/>
+				
+四斗一貫　　　　なか田　上原諏訪田　　　　　　　　権
+				<lb/>
+				
+一斗八舛七百　　ひの口　大工助七　　　　　　　　　彳
+				<lb/>
+				
+一斗二舛五百　　ひのくち　来福寺領　　　　　　　　彳
+				<lb/>
+				
+八舛まき二百　　なか田ひらき　種田との
+				<lb/>
+				
+二斗
+				<note corresp="#×三">二</note>
+				舛一貫　　若宮きやうてん　祝二郎九郎　　　　　　彳
+				<lb/>
+				
+六斗七舛三貫　　三反田　たくち二郎九郎　　　　　　彳
+				<lb/>
+				
+三舛百　　　　　長田の上二ヶ所七所之内　今熊野領
+				<lb/>
+				
+一斗一舛四百　　まてのといの上下　宮田門之内
+				<lb/>
+				
+五斗一貫五百　　かう屋のさこ　いちこさき殿　　　　権
+				<lb/>
+				
+二斗二舛七百　　まつかさこ　中野門之内　　　　　　中
+				<lb/>
+				
+一斗三百　　　　坂の下　中野之門之内　　　　　　　権
+				<lb/>
+				
+Ｐ１３３
+				<lb/>
+				
+四舛百　　　　　ほきのまた　同門之内
+				<lb/>
+				
+八舛二百五十　　ほきのまた　さこかしら門之内
+				<lb/>
+				
+一斗三百　　　　ほきのまたの下　さこかしらの内
+				<lb/>
+				
+五舛百　　　　　又ほきのまた　中野門之内
+				<lb/>
+				
+七斗七舛二貫百　川そい大丸　さこかしらの内
+				<lb/>
+				
+二斗六百　　　　大丸ミそより向　さこかしらの
+				<note corresp="#マヽ">ゝ</note>
+				内　権
+				<lb/>
+				
+二斗八舛九百　　井あなの口　中の門之内　　　　　　中
+				<lb/>
+				
+一斗三百　　　　井ての下　中のゝ門之内　　　　　　権
+				<lb/>
+				
+六斗八舛一貫五百　くすの木の丸上下　中のゝ門内　　　権
+				<lb/>
+				
+六舛年〃不　　　中かハら　中のゝ門之内
+				<lb/>
+				
+五舛百　　　　　かハちの口　中のゝ門之内
+				<lb/>
+				
+六斗五舛一貫八百　をとし　ふなせの門之内　　　　　　中
+				<lb/>
+				
+六舛百五十　　　かハちの口　ふなせ門之内
+				<lb/>
+				
+四斗八舛三貫　　みそしろ　宮田門之内　　　　　　　彳
+				<lb/>
+				
+六斗四舛三貫六百　くきつか　名嶋小太郎殿　　　　　　彳
+				<lb/>
+				
+七斗四貫二百　　その田　宮田門之内　　　　　　　　彳
+				<lb/>
+				
+三斗五舛一貫　　ほうの木のさこ　宮田門之内　　　　中
+				<lb/>
+				
+二斗八百　　　　たうめん　宮田の門之内
+				<lb/>
+				
+一石四斗五舛以上八貫七百　　前田　宮田門之内　　　　　　　　彳
+				<lb/>
+				
+六舛二百　　　　あんの下　宮田之門之内　　　　　　彳
+				<lb/>
+				
+一石二斗六舛六貫二百五十　　つかせ　宮田の門之内　　　　　　　彳
+				<lb/>
+				
+一斗七舛五百　　五本松　宮田門之内　　　　　　　　中
+				<lb/>
+				
+八舛二百　　　　かうらけてん　宮田門之内　　　　　権
+				<lb/>
+				
+二舛五十　　　　つかせの上野中　宮之田門之内　　　権
+				<lb/>
+				
+七斗三舛此之内三斗ハ四百、四斗三舛三百、以上二貫二百、　　　　ほきのまた　宮田之門之内　　　　中
+				<lb/>
+				
+八舛二百　　　　宮田の原門之内　　　　　　　　　　権
+				<lb/>
+				
+七舛百五十　　　又宮田原門之内　　　　　　　　　　権
+				<lb/>
+				
+一斗三舛四百　　古井て川はた　宮田之門之内　　　　中
+				<lb/>
+				
+一斗一舛四百　　馬越くすの木のさこ　宮田門之内　　中
+				<lb/>
+				
+八舛二百五十　　ひら田　宮田門之内　　　　　　　　中
+				<lb/>
+				
+三斗一貫二百　　むまこへ　宮田門之内　　　　　　　中
+				<lb/>
+				
+二斗五舛八百　　せの口　宮田之門之内　　　　　　　中
+				<lb/>
+				
+三斗六舛一貫二百五十　寺とこ　宮田門之内　　　　　中
+				<lb/>
+				
+七舛二百　　　　くり谷　宮田門之内　　　　　　　　中
+				<lb/>
+				
+三斗九百　　　　くり下の後　宮田門之内　　　　　　権
+				<lb/>
+				
+一斗五舛五百　　弓場のもと　宮田門之内　　　　　　中
+				<lb/>
+				
+七舛三百　　　　谷川の口　宮田門之内　　　　　　　彳
+				<lb/>
+				
+二石一斗八貫四百　大丸　宮田門之内　　　　　　　　　半彳半中
+				<lb/>
+				
+五斗二舛一貫五百　ゆるき田　宮田門之内　　　　　　　権
+				<lb/>
+				
+一斗三舛四百　　くり下の前　二迫宮田門之内　　　　　　中
+				<lb/>
+				
+一斗四舛五百　　はきのもとのうしろ　宮田門内　　　中
+				<lb/>
+				
+三斗一貫　　　　小たかゑ　宮田之門之内　　　　　　　中
+				<lb/>
+				
+Ｐ１３４
+				<lb/>
+				
+五斗七舛二貫三百　ひらき　村尾助太郎殿　　　　　　　中彳
+				<lb/>
+				
+五斗一貫五百　　たかゑ　寿昌寺領　　　　　　　　　中
+				<lb/>
+				
+二斗一貫　　　　河くほ　村尾太郎殿　　　　　　　　彳
+				<lb/>
+				
+八舛百五十　　　くり下の上三ヶ所　久まつ殿　　　　権
+				<lb/>
+				
+二石六斗十三貫　ミかふり　村尾助太郎殿　　　　　　彳
+				<lb/>
+				
+三斗五舛一貫二百　その田　くろむしや門之内　　　　　中
+				<lb/>
+				
+三斗八百　　　　宮田〃〃ちり八所田　くろむしや内　　　中
+				<lb/>
+				
+一斗五舛七百　　小わさ田　くろむしや門内　　　　　彳
+				<lb/>
+				
+四斗八舛一貫　　岩屋の口　くろむしや門之内　　　　権
+				<lb/>
+				
+九斗四貫五百　　大川のはた　くろむしや門之内　　　彳
+				<lb/>
+				
+四斗二貫　　　　井手の下　くろむしや門内　　　　　彳
+				<lb/>
+				
+二石五斗八舛十一貫五百　前田うと以上　くろむしや門内
+				<lb/>
+				
+五舛百　　　　　小いての下二ヶ所　くろむしや門内
+				<lb/>
+				
+七舛二百　　　　いはのさこ三ヶ所　くろむしや門内
+				<lb/>
+				
+四斗五舛一貫六百　山かむれ　くろむしや門之内　　　　中
+				<lb/>
+				
+一斗五舛八百　　といの口　宮田門之内　　　　　　　彳
+				<lb/>
+				
+四斗まき二貫二百　九日田　宮田門内　　　　　　　　　彳
+				<lb/>
+				
+一斗六舛八百　　川そいわさ田　宮田門内　　　　　　彳
+				<lb/>
+				
+四斗七舛二貫二百　へはるた　宮田門内　　　　　　　　彳
+				<lb/>
+				
+二斗マキ一貫　　むかい川はた　宮田門内　　　　　　彳
+				<lb/>
+				
+一斗六舛八百　　かのこ田のひら田　宮田門内　　　　彳
+				<lb/>
+				
+七斗六舛四貫　　たかといの口　宮田門之内　　　　　彳
+				<lb/>
+				
+一斗四舛四百　　かりあつまり　中野門内　　　　　　中
+				<lb/>
+				
+六舛百　　　　　又かりあつまりそは　中野門内
+				<lb/>
+				
+一斗五舛四百　　をりをのさこ　中野門之内　　　　　中
+				<lb/>
+				
+七舛二百　　　　柿木丸下　水手殿うきめん
+				<lb/>
+				
+三斗三舛一貫八百　かのこ田ひら田　水手殿　うきめん　彳
+				<lb/>
+				
+二斗八舛四百　　柿木の丸　中間弥八郎　　　　　　　権
+				<lb/>
+				
+三斗五舛一貫四百　なしの木のもと　中間弥八郎　　　　中
+				<lb/>
+				
+二斗五舛一貫　　といの口　まてのゝ天神領
+				<lb/>
+				
+五斗マキ二貫五百　かのこ田の下　ふなせ門内　　　　　彳
+				<lb/>
+				
+九斗四舛三貫百　つゝミより下　かのこ田門内　　　　中
+				<lb/>
+				
+二斗一舛五百　　池田　かのこ田門之内　　　　　　　権
+				<lb/>
+				
+五斗マキ一貫四百　野中所〃　かのこ田門之内　　　　権
+				<lb/>
+				
+六舛百　　　　　屋敷下　かのこ田門之内
+				<lb/>
+				
+六斗マキ一貫六百　又屋敷上下　かのこ田門之内　　　　権
+				<lb/>
+				
+八斗二舛三貫　　まて野　かのこ田門之内　　　　　　彳
+				<lb/>
+				
+七斗八舛四貫　　かのこ田屋敷の下　嫌杖ゑもん二郎　彳
+				<lb/>
+				
+五斗マキ一貫五百　屋敷の下　山下助八方　　　　　　中
+				<lb/>
+				
+七斗百五十　　　うしろさこ　山下助八方
+				<lb/>
+				
+三斗マキ六百此内三舛未　　一のわたせひらき　七郎五郎
+				<lb/>
+				
+二石七斗八舛十二貫　　前田　中尾門之内　　　　　　　　半彳半中
+				<lb/>
+				
+三斗八舛八舛〃〃一貫　　宮田　中尾門之内　　　　　　　　　権
+				<lb/>
+				
+四斗五舛一貫五百　はきのもと　中尾之門之内　　　　　中
+				<lb/>
+				
+Ｐ１３５
+				<lb/>
+				
+一石まき四貫　　中尾五反田　種田二郎九郎
+				<lb/>
+				
+一斗五舛四百　　せの口　竹さいく五郎九郎
+				<lb/>
+				
+五九〃斗三舛四貫六百　その田　前田五郎さへもん方
+				<lb/>
+				
+七舛三百　　　　ミかふりの上三ヶ所　種田二郎九郎
+				<lb/>
+				
+二斗八舛一貫　　井のしり
+				<note corresp="#ヽ脱">つ</note>
+				ミより下くるむしや門内　中
+				<lb/>
+				
+四斗六舛一貫三百　同つゝミより上　くるむしや門内
+				<lb/>
+				
+八舛二百　　　　屋敷より下五ヶ所　かへまつ殿
+				<lb/>
+				
+四舛百　　　　　ミそ下　種田二郎九郎殿
+				<lb/>
+				
+一斗三舛三百　　下なかのひら三ヶ所　種田二郎九郎
+				<lb/>
+				
+三舛百　　　　　たかへの内　寿昌寺領
+				<lb/>
+				
+一斗三舛三百　　うしろさこ　中間十郎ひやうへ　　　権
+				<lb/>
+				
+三斗まき九百　　前のさこ　同十郎ひやうへ　　　　　権
+				<lb/>
+				
+三斗七舛一貫七百　北ひら　しか助九郎殿　彳
+				<lb/>
+				
+四舛百　　　　　たかゑの内をりを田代　寿昌寺領　　権
+				<lb/>
+				
+九斗まき三貫六百　したらくさ　ひさまつ殿　　　　　　中
+				<lb/>
+				
+二斗六舛八百　　をりを田代　しか助九郎殿　　　　　中
+				<lb/>
+				
+二石八斗まき十貫　をりを田代以上　こむれ門之内　　　半彳半中
+				<lb/>
+				
+七斗まき二貫八百　をりを田代　あつきのさき門之内　　中
+				<lb/>
+				
+一斗九舛七百　　一の王
+				<note corresp="#マヽ">字</note>
+				　あつきのさき門之内　　　中
+				<lb/>
+				
+九舛二百　　　　中たけ　こむれ門之内　　　　　　　権
+				<lb/>
+				
+三斗六舛　　　　古川のむれ　今ハ不たて候、
+				<lb/>
+				
+四斗まき一貫五百　下田　まへとこの門之内　　　　　　中
+				<lb/>
+				
+六斗まき二貫　　こは田　まへとこの門之内　　　　　中
+				<lb/>
+				
+一斗六舛三百　　のさか　まへとこの門之内　　　　　権
+				<lb/>
+				
+七斗まき三貫五百　山口田　まへとこ門之内　　　　　　彳
+				<lb/>
+				
+一斗一舛二百五十　とくほしの門之内　の坂の下　　　　権
+				<lb/>
+				
+一斗一舛四百　　山口田　とくほしの門之内　　　　　彳
+				<lb/>
+				
+三斗四舛一貫二百　岩下　まへとこの門之内　　　　　　中
+				<lb/>
+				
+五斗まき二貫　　大丸　まへとこの門之内　　　　　　中
+				<lb/>
+				
+二斗一舛七百　　いしのうと　とくほし門之内　　　　中
+				<lb/>
+				
+二斗三舛八百　　まへとこの宮九日田　とくほしの門之内　　　　中
+				<lb/>
+				
+八斗まき三貫二百　くすの木の丸　まへ床門之内　　　　中
+				<lb/>
+				
+五舛百　　　　　まつさか　とくほしの門之内
+				<lb/>
+				
+二斗二舛八百　　七枚　長野之門之内　　　　　　　　中
+				<lb/>
+				
+一斗八舛四百　　古屋敷　とくほしの門之内　　　　　権
+				<lb/>
+				
+六舛不　　　　　とくほしいしのもと　とくほし門内
+				<lb/>
+				
+九斗まき三貫　　むめの木の丸　とくほしの門之内　　半中半権
+				<lb/>
+				
+一斗七舛六百　　山の田　長野之門之内　　　　　　　中
+				<lb/>
+				
+二斗三舛八百　　かわへのすミ　長のゝさへもん四郎うきめん　中
+				<lb/>
+				
+二斗三舛七百　　かわへのすミ　二郎三郎うきめん　　中
+				<lb/>
+				
+一斗七舛六百　　宮の谷　まへ床門之内　　　　　　　中
+				<lb/>
+				
+五斗五舛二貫　　宮ち　まへ床の門之内　　　　　　　中
+				<lb/>
+				
+八斗四舛二貫　　あまかさこ　長のゝ門内　　　　　　権
+				<lb/>
+				
+一斗五舛三百　　あまかさこ　まへ床門之内　　　　　権
+				<lb/>
+				
+四斗四舛二貫　　わさ田　長野門之内　　　　　　　　彳
+				<lb/>
+				
+Ｐ１３６
+				<lb/>
+				
+六舛まき三貫　　中嶋の前　まへ床門之内　　　　　　彳
+				<lb/>
+				
+九斗七舛五貫　　前田下のさこかけて　長野門之内　　彳
+				<lb/>
+				
+五舛百　　　　　なかのゝうと　まへ床之門之内　　　彳
+				<lb/>
+				
+五斗まき二貫　　坂の下　長野之門之内　　　　　　　中
+				<lb/>
+				
+三斗九舛二貫　　下の前田〃〃大せまち　長野門内　　　　彳
+				<lb/>
+				
+六斗まき二貫　　けうらかわち鷹子田　　　　　　　　彳
+				<lb/>
+				
+四斗二舛一貫二百　きしやの木鷹子田　　　　　　　　　中
+				<lb/>
+				
+二斗六舛三百　　きしやの木所〃　井上のゝ内　　　　権
+				<lb/>
+				
+三斗四舛一貫　　屋敷の前　井上之内　　　　　　　　中
+				<lb/>
+				
+二斗六舛五百　　谷所〃　井上之内　　　　　　　　　権
+				<lb/>
+				
+三石六斗十貫八百　まつけた　はうかのゝ門之内　　　　中
+				<lb/>
+				
+一斗年〃不　　　まつけたの内　はうかのゝ門之内
+				<lb/>
+				
+一斗五舛
+				<note corresp="#〃脱">年</note>
+				不　　たかはつき　長野之門之内
+				<lb/>
+				
+八斗年〃不　　　同　長野之門之内
+				<lb/>
+				
+四一〃斗年〃不　　　とこなミ　まへとこ門之内
+				<lb/>
+				
+一斗五舛年〃不　池のもと　とくほし門之内
+				<lb/>
+				
+一斗五舛年〃不　同　長野門之内
+				<lb/>
+				
+六舛二百　　　　かわち　はうかのゝ門之内
+				<lb/>
+				
+三斗まき八百　　わたしかくら　まへ床門内　　　　　権
+				<lb/>
+				
+四舛百　　　　　ひら田　まへ床之門之内　　　　　　権
+				<lb/>
+				
+二斗八舛一貫三百　わさ田　まへ床之門之内　　　　　　彳
+				<lb/>
+				
+一斗五舛四百　　なへ田　ひらこは門之内　　　　　　中
+				<lb/>
+				
+九舛二百　　　　ひら田所〃　ひらこは門内　　　　　権
+				<lb/>
+				
+五舛百　　　　　はうかのゝ内坂下　ひら田二ヶ所　　権
+				<lb/>
+				
+八舛三百　　　　一の坂　ひらこはの門之内　　　　　彳
+				<lb/>
+				
+五舛二百　　　　くすの木のもと　はうかのゝ門之内　彳
+				<lb/>
+				
+一石一斗六舛四貫五百　宮の前道上　ひらこは門之内　　　　過半中其外権
+				<lb/>
+				
+一斗八舛八百　　山下　ひらこはの門之内　中
+				<lb/>
+				
+六斗　　　　　　ひらこは二反田　田口孫七殿　　　　中上
+				<lb/>
+				
+一石五斗まき五貫五百　前田以上ミそをきり候、　ひらこはの門之内　　　　彳半中
+				<lb/>
+				
+四斗五舛一貫二百　といかけ　ひらこは門之内　　　　　権
+				<lb/>
+				
+一斗七舛六百　　山内　ひらこはの門之内　　　　　　中
+				<lb/>
+				
+七斗まき二貫　　ひへのさこ　あつきさこ門之内　　　中下
+				<lb/>
+				
+三斗二舛一貫二百　ひゑのさこ　長野殿　うきめん　　中
+				<lb/>
+				
+一石三斗五舛四貫　ひゑのさこ　ひらこはの門之内　　　半中半権
+				<lb/>
+				
+五舛年〃不所〃　ひゑのさこ　ひらこはの門之内
+				<lb/>
+				
+四斗五舛一貫二百　小丸　ひらこは門之内
+				<lb/>
+				
+四斗二舛一貫　　わさたの丸　田口孫七殿　　　　　　中
+				<lb/>
+				
+五斗八舛一貫六百　むきたの丸　山下助二郎殿　　　　　中
+				<lb/>
+				
+二斗八舛一貫　　天神領　村尾殿　大丸　　　　　　　中権
+				<lb/>
+				
+三舛年〃不　　　同　村尾殿
+				<lb/>
+				
+三斗八舛一貫二百　小そのゝ下　川床之門之内　　　　中
+				<lb/>
+				
+七舛四百　　　　たう地　川床之門之内　　　　　　　彳
+				<lb/>
+				
+一斗七舛八百　　川床ミそしろ　名嶋小太郎殿　　　　彳
+				<lb/>
+				
+三斗まき一貫五百　一せまち　名嶋小太郎殿　　　　　　彳
+				<lb/>
+				
+Ｐ１３７
+				<lb/>
+				
+三斗五舛一貫五百　をくらせまち　うきめん　　　　　　彳
+				<lb/>
+				
+三斗まき一貫二百　くすの木の下　中間十郎ひやうへ　　彳
+				<lb/>
+				
+二斗五舛八百　　つるの原　名嶋小太郎殿　　　　　　中
+				<lb/>
+				
+一斗二舛三百　　堀切の前　かち田殿　　　　　　　　権
+				<lb/>
+				
+二斗三舛七百　　らうかてん　村尾殿　　　　　　　　中
+				<lb/>
+				
+二舛五合　　　　堀切の内　村尾殿
+				<lb/>
+				
+一斗二舛四百　　井手の上　ひらこはの門之内　　　　中
+				<lb/>
+				
+六斗六舛二貫四百　堀切の前　村尾殿　　　　　　　　　中
+				<lb/>
+				
+六斗まき一貫八百　天神領　村尾殿　　　　　　　　　　権
+				<lb/>
+				
+二斗五舛八百　　村尾の内　助太郎殿もち
+				<lb/>
+				
+四舛百　　　　　村尾之内　川はた弥太郎方分
+				<lb/>
+				
+一斗二舛五百　　ひらき　山の口助七方　村尾之内
+				<lb/>
+				
+七舛又下ニ四舛四百　堀切前　古川の小太郎分　村尾之内
+				<lb/>
+				
+三斗七舛八百　　堀切前　うへのそのゝ門之内　　　　　権
+				<lb/>
+				
+一斗二舛二百五十　ふなこへ　川床門之内　　　　　　　権
+				<lb/>
+				
+五斗此内二舛年〃不中こはかこいの下　川床門之内
+				<lb/>
+				
+二舛　　　　　　つちゑのしり　川床門之内
+				<lb/>
+				
+二斗六舛八百　　しゐの木の丸　川床門之内　　　　　権
+				<lb/>
+				
+三斗八舛一貫　　ひらせ　川床門之内　　　　　　　　中
+				<lb/>
+				
+二斗五舛一貫　　鳥こへ　川床門之内　　　　　　　　中
+				<lb/>
+				
+二舛五十　　　　つちへの下　川床門内
+				<lb/>
+				
+二舛五十　　　　柳の丸　川床門之内
+				<lb/>
+				
+二斗四舛八百　　ひらこはの下　川床門内
+				<lb/>
+				
+二斗六舛一貫二百　くわんさんせくち　川床之門内
+				<lb/>
+				
+九八〃石一斗六舛四十三貫　前田以上下まて　川床門之内
+				<lb/>
+				
+五斗五舛一貫三百　中かハら山王田　川床門内
+				<lb/>
+				
+四舛又二舛百　　屋敷の上　中山門之内
+				<lb/>
+				
+八舛年〃不又二舛年〃不　屋敷の上　中山門之内
+				<lb/>
+				
+六舛二百　　　　屋敷の上　中山門之内
+				<lb/>
+				
+二舛年〃不　　　屋敷上　中山之門之内
+				<lb/>
+				
+二斗二舛一貫　　その田　中山門之内
+				<lb/>
+				
+一斗五舛六百　　つゝミのをもて　中山門内
+				<lb/>
+				
+一斗まき六百　　わさ田　中山之門之内
+				<lb/>
+				
+六舛百　　　　　わさ田の上　中山門之内
+				<lb/>
+				
+五舛百五十　　　ありのミのくほ　中山門之内
+				<lb/>
+				
+一斗四舛六百　　まへ田　中山門之内
+				<lb/>
+				
+一斗五舛五百　　尾さき　中山門之内
+				<lb/>
+				
+四斗六舛一貫五百　たて山　中山之門之内
+				<lb/>
+				
+四舛百　　　　　尾さき　小むれ門之内
+				<lb/>
+				
+七舛年〃不　　　尾さき　小むれのゝ内
+				<lb/>
+				
+五舛百五十　　　尾さき　あつきのさき門之内
+				<lb/>
+				
+五舛二百　　　　たて山　あつきさき門之内
+				<lb/>
+				
+一舛まき　　　　しとき田　こむれ門之内
+				<lb/>
+				
+五斗四舛二貫　　前田つゝミの上　あつきの崎門之内
+				<lb/>
+				
+五斗五舛一貫五百　田神下　あつきの崎門之内
+				<lb/>
+				
+一斗五舛三百　　前田三ヶ所　あつき崎門之内
+				<lb/>
+				
+Ｐ１３８
+				<lb/>
+				
+二舛五十　　　　前田　あつきの崎門之内
+				<lb/>
+				
+又二舛不
+				<lb/>
+				
+四舛百　　　　　尾さき　宮田門之内
+				<lb/>
+				
+一斗まき三百　　ミつあらいふちのうへ門之内此之内三舛不
+				<lb/>
+				
+五斗まき一貫六百　竹の下　あつき崎門之内
+				<lb/>
+				
+二斗まき六百　　山中　あつき崎門之内
+				<lb/>
+				
+一斗まき三百　　又山中　あつきの崎門内
+				<lb/>
+				
+三斗六舛一貫　　竹の下　ふちのうへ門内
+				<lb/>
+				
+六斗三舛一貫四百　つは木はへ　古春庵より
+				<lb/>
+				
+一斗三舛三百　　山の口　かち田殿
+				<lb/>
+				
+一斗まき二百五十　ほう原大さこ　宮田門之内
+				<lb/>
+				
+三斗二舛一貫二百　大さこふちのうへ門之内
+				<lb/>
+				
+五舛年〃不　　　大さこのしり　ふちのうへ門之内
+				<lb/>
+				
+四斗六舛一貫三百　山の口　ふちのうへの門之内
+				<lb/>
+				
+二舛五十　　　　山の口　又ふちのうへ門之内
+				<lb/>
+				
+三舛年〃不　　　山の口　ふちのうへ門之内
+				<lb/>
+				
+二斗四舛七百　　くへの下　ふちのうへ門之内
+				<lb/>
+				
+二斗まき九百　　くへの下上大のたの門之内　西牟田殿
+				<lb/>
+				
+一斗六舛五百　　くへのさこ　種田殿
+				<lb/>
+				
+二舛五十　　　　天神の上　古川之内　村尾殿
+				<lb/>
+				
+一斗五舛四百　　堀切の後　　　　　村尾殿
+				<lb/>
+				
+四斗六舛二貫五百　からこつゝミの上　をかもと殿うきめん
+				<lb/>
+				
+三斗七舛二貫　　からこつゝミの下　をかもと殿うきめん
+				<lb/>
+				
+八斗まき四貫四百　自作　をかもと殿うきめん
+				<lb/>
+				
+四斗まき二貫　　坊作　をかもと殿うきめん
+				<lb/>
+				
+六斗二舛二貫五百　松もと屋敷前　をかもと殿うきめん
+				<lb/>
+				
+二斗八舛一貫三百　師の御房作　をかもと殿うきめん
+				<lb/>
+				
+二斗二舛一貫百　犬二郎作　をかもと殿うきめん
+				<lb/>
+				
+二斗八舛一貫二百　薬師田　をかもと殿
+				<lb/>
+				
+四斗四舛一貫三百　うけの地　をかもと殿うきめん
+				<lb/>
+				
+五舛百　　　　　はなまくら　をかもと殿うきめん
+				<lb/>
+				
+一斗八舛九百　　鷹子神田　をかもと殿
+				<lb/>
+				
+三斗八舛一貫　　大丸　まへのそのゝ門内　をかもと殿
+				<lb/>
+				
+一斗四舛四百五十　一反田　まへのそのゝ門内　をかもと殿
+				<lb/>
+				
+一斗五舛此内一斗年〃不　　　　ハりこ谷　をかもと殿うきめん
+				<lb/>
+				
+四舛年〃不　　　松の下　をかもと殿　前のそのゝ門内
+				<lb/>
+				
+一斗まき二百　　竹のこは　前そのゝ門内　をかもと殿
+				<lb/>
+				
+一斗六舛九百　　わさた　をかもと殿うきめん
+				<lb/>
+				
+四舛百　　　　　せうちくち　上のそのゝ門内　をかもと殿
+				<lb/>
+				
+一斗二舛五百　　小路口　をかもと殿うきめん
+				<lb/>
+				
+四舛百　　　　　たかつき　をかもと殿うきめん
+				<lb/>
+				
+一斗四舛六百　　宮の前　まへのそのゝ門内　をかもと殿
+				<lb/>
+				
+Ｐ１３９
+				<lb/>
+				
+二斗まき八百　　宮の前　上のそのゝ門内　をかもと殿
+				<lb/>
+				
+一斗六舛二百五十　にしのさこ　上のその門内　をかもと殿
+				<lb/>
+				
+五舛百　　　　　宮の前　まへのそのゝ門内　をかもと殿
+				<lb/>
+				
+四斗まき一貫二百　田のしり　上のそのゝ門内　岡本殿
+				<lb/>
+				
+二斗まき一貫　　田のしり　前そのゝ門内　をかもと殿
+				<lb/>
+				
+一斗四舛四百五十　三杖田　をかもと殿うきめん
+				<lb/>
+				
+三斗五舛一貫　　田のしり　をかもと殿うきめん
+				<lb/>
+				
+四舛五十　　　　まわたり道の上下　かき内門内　をかもと殿
+				<lb/>
+				
+四斗まき一貫　　上かハら田　上のそのゝ門内　をかもと殿
+				<lb/>
+				
+三斗四舛一貫三百　下かハら田　上のそのゝ門内　をかもと殿
+				<lb/>
+				
+四斗二舛一貫六百　前田　上のそのゝ門内　をかもと殿
+				<lb/>
+				
+八斗三舛四貫　　しんかい　かき内門内　をかもと殿
+				<lb/>
+				
+六斗七舛二貫百五十　はしの川　かき内門内　をかもと殿
+				<lb/>
+				
+六舛百五十　　　井のしり　かき内門内　をかもと殿
+				<lb/>
+				
+一斗九舛九百　　宮の前　かき内門内　をかもと殿
+				<lb/>
+				
+一斗三舛二百　　うと田　前そのゝ門内　をかもと殿
+				<lb/>
+				
+一斗六舛三百　　坂の下　前そのゝ門内　をかもと殿
+				<lb/>
+				
+三舛四十　　　　あなの尾　をかもと殿うきめん
+				<lb/>
+				
+一舛　　　　　　きやうつかの下　をかもと殿うきめん
+				<lb/>
+				
+三舛七十　　　　けしかり　御諏訪田　をかもと殿
+				<lb/>
+				
+八舛年〃不　　　池のしりすわてん　をかもと殿
+				<lb/>
+				
+一斗二舛三百　　
+				<note corresp="#×三百">よき</note>
+				とき神田　をかもと殿
+				<lb/>
+				
+六斗二舛二貫百五十　からこの門内　かち田殿分
+				<lb/>
+				
+一石六斗二舛八貫　大丸　といの口門内
+				<lb/>
+				
+三舛百　　　　　水口　といの口門之内を井手代ニいちのゝニ遣候、下副田諏訪田
+				<lb/>
+				
+四斗まき一貫七百　前田　といの口門之内
+				<lb/>
+				
+二斗九舛九百　　井のしり　といの口門之内
+				<lb/>
+				
+一斗六舛七百五十　宮の前　といの口門之内
+				<lb/>
+				
+一斗二舛五百五十　たかつき　といの口門之内
+				<lb/>
+				
+一斗五舛七百　　かきの木の丸　といの口門之内
+				<lb/>
+				
+三斗八舛一貫九百　ゑの木田　といの口門之内
+				<lb/>
+				
+五斗五舛一貫二百　小尾　といの口の門之内
+				<lb/>
+				
+一斗三舛年〃不　あまか瀬　といの口門之内
+				<lb/>
+				
+四斗まき一貫二百　上しんかい　池の上殿給分
+				<lb/>
+				
+三斗五舛年〃不　下しんかい　うきめん
+				<lb/>
+				
+三舛五十　　　　はるの屋のかミのわき　中こはの門之内
+				<lb/>
+				
+三斗まき一貫　　はるの屋敷後　中こはの門之内
+				<lb/>
+				
+一斗まき二百　　ミその上　中こはの門之内
+				<lb/>
+				
+一斗九舛六百　　ミそ下　中こは門之内
+				<lb/>
+				
+四斗五舛二貫二百五十　しんかい中こはの門内
+				<lb/>
+				
+二斗五舛一貫二百五十　下のミそ下　中こはの門内
+				<lb/>
+				
+一斗まき四百　　あへの木の丸　中こは門内
+				<lb/>
+				
+一斗九舛一貫　　前田　中こは門之内
+				<lb/>
+				
+一石五斗二舛七貫五百　ふちの上　つゝミより東　中こはの門之内
+				<lb/>
+				
+四斗三舛一貫四百　ミその上のさこ　中こは門内
+				<lb/>
+				
+Ｐ１４０
+				<lb/>
+				
+一斗八舛五百　　ふなこへのさこ　中こは門之内
+				<lb/>
+				
+一斗九舛一貫　　いしのもと　中こは門之内
+				<lb/>
+				
+二斗二舛五百　　はをりやま　中こは門之内
+				<lb/>
+				
+一斗五舛四百五十　宮の前さこ　山王田　中こは門内
+				<lb/>
+				
+一斗八舛一貫　　宮の前　中こはの門之内
+				<lb/>
+				
+四舛百　　　　　ほつ田　中こはの門之内
+				<lb/>
+				
+二斗まき八百　　その田　中こは門之内
+				<lb/>
+				
+八舛此之内六舛年〃不　なかさき原　といの口門内
+				<lb/>
+				
+八舛二百　　　　古川　といの口門之内
+				<lb/>
+				
+六舛百五十　　　あいしやたくら　ひらこは門内
+				<lb/>
+				
+二舛五十　　　　かミの古川　といの口門内
+				<lb/>
+				
+一石五斗九舛六貫四百　すさき　中こは門内
+				<lb/>
+				
+一石一斗八舛七貫　ついかさね　中こはの門内
+				<lb/>
+				
+八舛年〃不　　　うと　中こは之門内
+				<lb/>
+				
+一斗まき三百　　しゐの木の丸　はるのそのゝ門内
+				<lb/>
+				
+一斗年〃不　　　こうしのあし　にしの門之内
+				<lb/>
+				
+一斗二舛二百　　こうしのあし　にしの門之内
+				<lb/>
+				
+二斗四舛六百　　かハら田　ひらの門之内
+				<lb/>
+				
+二舛五十　　　　つちへ　中こは門之内
+				<lb/>
+				
+三斗四舛九百此之内三舛
+				<note corresp="#〃脱カ">年</note>
+				不　　　　　山下所〃　ひらこはの門内
+				<lb/>
+				
+一斗八舛九百　　ゆの木の丸　川床之門内
+				<lb/>
+				
+三斗二舛一貫　　古川　かわ床之門之内
+				<lb/>
+				
+五斗一貫五百川床以上十一石七斗八舛歟　　　なかハい松　川床之門之内
+				<lb/>
+				
+三斗五舛一貫　　つるの子のさこ　たうそのゝ門内
+				<lb/>
+				
+三斗七舛一貫五百　つるの子のさこ　宮そのゝ門内
+				<lb/>
+				
+一斗年〃不　　　つるの子さこ　ひらの門之内
+				<lb/>
+				
+二舛五十　　　　つるの子さこ　うへのそのゝ門之内
+				<lb/>
+				
+六斗まき二貫四百　いわむれ　にしの門之内
+				<lb/>
+				
+一斗まき三百　　はちくほ　うへのそのゝ門之内
+				<lb/>
+				
+三斗三舛一貫　　いわむれ　ひらの門内
+				<lb/>
+				
+一斗五舛六百　　いわむれ　はるのそのゝ門内
+				<lb/>
+				
+二斗七舛一貫　　まつ尾　たうそのゝ門内
+				<lb/>
+				
+一斗三舛四百　　きやう太郎かうと　宮そのゝ門内
+				<lb/>
+				
+一斗六舛五百　　きやう太郎かうと　うへのそのゝ門内
+				<lb/>
+				
+三舛百　　　　　きやう太郎かうと　ひらの門内
+				<lb/>
+				
+一斗二舛四百　　きやう太郎かうと　宮そのゝ門内
+				<lb/>
+				
+一斗三舛四百五十　きやう太郎かうと　たうそのゝ門内
+				<lb/>
+				
+三斗まき一貫二百　大丸　ひらの門之内
+				<lb/>
+				
+三斗五舛一貫三百　山中　にしの門之内
+				<lb/>
+				
+五舛百　　　　　山中　ひらの門之内
+				<lb/>
+				
+二舛四十　　　　山中　たうそのゝ門之内
+				<lb/>
+				
+四舛百　　　　　山中　ひらの門之内
+				<lb/>
+				
+二斗四舛五百　　なかハいまつ　にし門之内
+				<lb/>
+				
+一斗一舛三百　　ねうれ　たうそのゝ門之内
+				<lb/>
+				
+Ｐ１４１
+				<lb/>
+				
+一斗三舛四百　　ねうれ　はるのそのゝ門之内
+				<lb/>
+				
+一斗四舛五百　　ねうれ　ひらの門之内
+				<lb/>
+				
+一斗二舛五百　　ねうれ　ひらの門之内
+				<lb/>
+				
+一斗四百　　　　ねうれ　うへのそのゝ門之内
+				<lb/>
+				
+一斗三舛五百　　ねうれ　はるのそのゝ門之内
+				<lb/>
+				
+五舛百　　　　　うわまち　にしの門之内
+				<lb/>
+				
+二舛卅　　　　　ひら田　はるのそのゝ門之内
+				<lb/>
+				
+八舛百五十　　　ひら田　ひらの門之内
+				<lb/>
+				
+五舛百　　　　　をこひら　ひらの門之内
+				<lb/>
+				
+九舛二百五十　　ひら田　はるのそのゝ門之内
+				<lb/>
+				
+二斗五舛七百五十　をこひら　ひらの門之内
+				<lb/>
+				
+三斗三舛八百　　をこひら　はるのそのゝ門内
+				<lb/>
+				
+二斗まき五百　　こひら　はるのそのゝ門内
+				<lb/>
+				
+八舛二百　　　　かめとう　たうそのゝ門内
+				<lb/>
+				
+三斗五舛一貫百　まつ尾　宮そのゝ門之内
+				<lb/>
+				
+五舛百　　　　　かまう原屋敷前　天神領　村尾殿
+				<lb/>
+				
+八舛三百　　　　かまう原　弥太郎　村尾殿
+				<lb/>
+				
+一斗七舛五百　　かな二郎作　ミやそのゝ門之内
+				<lb/>
+				
+一斗二舛四百　　かな二郎作　たうそのゝ門之内
+				<lb/>
+				
+三斗二舛一貫　　かな二郎作　うへのそのゝ門内
+				<lb/>
+				
+六舛二百　　　　かな二郎　又弥太郎殿　村尾殿
+				<lb/>
+				
+五舛百　　　　　かな二郎作　下たうその門之内
+				<lb/>
+				
+五舛百五十　　　かまう原の後　宮そのゝ門之内
+				<lb/>
+				
+一斗八舛九百　　山の下天神領　村尾殿
+				<lb/>
+				
+五斗三舛一貫五百　大さこ　村尾殿
+				<lb/>
+				
+一斗三舛三百　　とりすミ　たうそのゝ門之内
+				<lb/>
+				
+七舛二百　　　　いしさか　宮そのゝ門之内
+				<lb/>
+				
+一斗六舛四百五十　大さこ　かち田殿
+				<lb/>
+				
+二斗五舛一貫二百　はしの口　うへのそのゝ門之内
+				<lb/>
+				
+三斗まき一貫五百　はしの口　村尾殿
+				<lb/>
+				
+二斗まき一貫　　かまうハら長田　うへのそのゝ門之内
+				<lb/>
+				
+一斗六舛七百　　長田　たうそのゝ門之内
+				<lb/>
+				
+一斗四舛六百　　長田　宮そのゝ門之内
+				<lb/>
+				
+二斗二舛一貫　　長田　川はた　村尾殿
+				<lb/>
+				
+三斗まき一貫五百　寺田　にしの門之内
+				<lb/>
+				
+一斗五舛七百　　うへの長田　うへのそのゝ門之内
+				<lb/>
+				
+八舛四百　　　　上のなかた　宮そのゝ門之内
+				<lb/>
+				
+一斗一舛四百　　たうそのゝ三せまち　たうそのゝ門内
+				<lb/>
+				
+一斗三舛四百五十　三せま地　うへのそのゝ門之内
+				<lb/>
+				
+三舛百　　　　　あけのむた　宮そのゝ門之内
+				<lb/>
+				
+一斗年〃不　　　あけのむた　たうそのゝ門之内
+				<lb/>
+				
+三斗五舛一貫　　あけのむた　宮そのゝ門之内
+				<lb/>
+				
+二舛五十　　　　かこいの下　はるのそのゝ門之内
+				<lb/>
+				
+一斗八舛五百　　あけのむた　たうそのゝ門之内
+				<lb/>
+				
+一斗まき三百　　あけのむた　にしの門之内
+				<lb/>
+				
+二斗六舛　　　　あけのむた　たうそのゝ門之内
+				<lb/>
+				
+Ｐ１４２
+				<lb/>
+				
+一斗まき五百　　村尾之前　はるのそのゝ門之内
+				<lb/>
+				
+二舛五十　　　　つはきはへ　村尾之内
+				<lb/>
+				
+一斗八舛七百　　つはきはへ　天神領　村尾殿
+				<lb/>
+				
+五舛百五十　　　かこいの下　村尾殿
+				<lb/>
+				
+四舛百　　　　　かなめの木のもと　宮そのゝ門之内
+				<lb/>
+				
+一斗三舛三百　　かなめの木のもと　たうそのゝ門之内
+				<lb/>
+				
+二斗五舛一貫　　しんかいの上下　宮そのゝ門之内
+				<lb/>
+				
+二斗八舛一貫百　しんかい　たうそのゝ門之内
+				<lb/>
+				
+三斗五舛一貫五百　桑つる　ふちのうへ門之内
+				<lb/>
+				
+一斗五舛七百五十　村尾の前　宮そのゝ門之内
+				<lb/>
+				
+五舛百　　　　　小わさ田　ふちの上門之内
+				<lb/>
+				
+六舛百五十　　　くへの下　種田との
+				<lb/>
+				
+三舛百　　　　　くわつる　村尾殿
+				<lb/>
+				
+二舛百　　　　　たうの下　宮そのゝ門之内
+				<lb/>
+				
+二斗二舛一貫　　たうの前　たうそのゝ門之内　　　　彳
+				<lb/>
+				
+四斗三舛二貫二百　門田　はるのそのゝ門之内　　　　　彳
+				<lb/>
+				
+六舛二百　　　　はるのそのゝ下　古春庵領　　　　　彳
+				<lb/>
+				
+四舛二百　　　　門田　はるのそのゝ門之内
+				<lb/>
+				
+二斗八舛一貫四百　すなこ田　ひらの門之内　　　　　　彳
+				<lb/>
+				
+七斗三舛三貫　　すなこ田　にしの門之内　ひたち殿　半彳中
+				<lb/>
+				
+三斗四舛一貫四百　上ま地　にしの門之内
+				<lb/>
+				
+二斗五八〃舛一貫三百　くわつる　はるのそのゝ門之内
+				<lb/>
+				
+二斗六舛一貫　　道下　にしの門之内
+				<lb/>
+				
+二斗五五〃舛九百　　たう地　にしの門之内
+				<lb/>
+				
+二斗五舛八百　　谷の口　にしの門之内
+				<lb/>
+				
+二斗五舛八百　　谷の口　はるのそのゝ門之内
+				<lb/>
+				
+二斗まき一貫　　かいもと　にしの門之内
+				<lb/>
+				
+五舛二百　　　　かいもと　ひらの門の内
+				<lb/>
+				
+一斗五舛四百　　谷の口の上　はるのそのゝ門之内
+				<lb/>
+				
+二石六斗七舛十四貫　村尾　ひらき以上
+				<lb/>
+				
+二石六斗三舛十三貫　　古川以上
+				<lb/>
+				
+二斗三舛九百　　ふるわさた　たうそのゝ門之内あせちの前
+				<lb/>
+				
+六舛二百　　　　屋敷の下　ひらの門之内
+				<lb/>
+				
+二斗まき八百　　宮田の原　
+				<note corresp="#×宮そ">うへ</note>
+				のそのゝ門之内
+				<lb/>
+				
+五斗八舛二貫五百　山神田　宮そのゝ門之内　　　　　　彳
+				<lb/>
+				
+二斗三舛一貫　　宮田の原　宮そのゝ門之内　　　　　彳
+				<lb/>
+				
+一斗三舛七百　　はね田　たうそのゝ門之内　　　　　彳
+				<lb/>
+				
+一斗三舛七百　　うへのそのゝ門之内　　　　　　　　彳
+				<lb/>
+				
+二斗五舛一貫　　小また　にしの門之内
+				<lb/>
+				
+三斗一貫五百　　又はね田　たうそのゝ門之内　　　　　彳
+				<lb/>
+				
+四斗まき二貫　　その田　つゝミより上　うへのそのゝ門内
+				<lb/>
+				
+三斗まき一貫五百　その田　にしの門之内　　　　　　彳
+				<lb/>
+				
+三斗六舛二貫八百　その田　つゝミより下　うへのそのゝ門之内　彳
+				<lb/>
+				
+Ｐ１４３
+				<lb/>
+				
+一斗一舛四百　　あふら田　にしの門之内
+				<lb/>
+				
+一斗二舛六百　　わさた　にしの門之内
+				<lb/>
+				
+七舛二百　　　　ひら田　たうそのゝ門之内
+				<lb/>
+				
+一石九斗九貫五百　ひら田上下以上　にしの門之内
+				<lb/>
+				
+二斗五舛一貫　　宮わきよりしやうへつたう　祝次郎九郎
+				<lb/>
+				
+二斗六舛一貫三百　かきの木田　にしの門之内
+				<lb/>
+				
+三斗八舛一貫五百　あか田　はるのそのゝ門之内
+				<lb/>
+				
+一斗まき四百　　又しやうへつたうの内　祝次郎九郎
+				<lb/>
+				
+六斗三舛二貫五百　はやまのうと　にしの門之内
+				<lb/>
+				
+五斗まき二貫　　をいの口　かち田殿
+				<lb/>
+				
+四舛年〃不　　　はやまのうと　にしの門之内
+				<lb/>
+				
+三舛年〃不　　　をいの口ひら田　かちたとの
+				<lb/>
+				
+一斗まき三百　　いわ下　かち田殿
+				<lb/>
+				
+三斗二舛一貫二百　いわ下　わきのこんけん地　種田殿
+				<lb/>
+				
+一斗五舛四貫　　よけ口　にしの門之内
+				<lb/>
+				
+二斗まき六百　　といのさこ　にしの門之内
+				<lb/>
+				
+七舛二百　　　　といのさこ　かち田殿
+				<lb/>
+				
+五舛二百　　　　なかへの下いしのもと　田口との
+				<lb/>
+				
+一斗六舛八百　　をなわ代　上大の田門内　有川殿
+				<lb/>
+				
+二斗まき一貫　　たふの木下　たうそのゝ門之内
+				<lb/>
+				
+一斗八舛八百　　たふの木の下　宮そのゝ門之内
+				<lb/>
+				
+一石六舛四貫八百　あふミのほり以上　むたゝ門之内
+				<lb/>
+				
+六斗まき二貫　　まつの木田　古川の内　村尾殿
+				<lb/>
+				
+一斗四百　　　　まつの木田の上　ふちのうへ門之内
+				<lb/>
+				
+二斗五舛八百　　松の木田　上大のた門之内　西牟田殿
+				<lb/>
+				
+五舛百　　　　　松の木田のかしら　むたゝ門之内
+				<lb/>
+				
+一斗八舛九百　　弓はのもと　むたゝ門之内
+				<lb/>
+				
+一斗六舛八百　　人いし　上大のた門内　西牟田殿
+				<lb/>
+				
+六舛百　　　　　人いし　むたゝ門之内
+				<lb/>
+				
+四斗二舛一貫三百　人いし　古川　小太郎　村尾殿
+				<lb/>
+				
+一斗二舛五百　　七杖のくる　むたゝの門之内
+				<lb/>
+				
+一石三斗三貫五百　弓場のもと　有川殿　うきめん
+				<lb/>
+				
+三斗三舛一貫　　まわたり　上大のた門内　西牟田殿
+				<lb/>
+				
+一斗三百　　　　まわたり　上大のた門内　有川殿
+				<lb/>
+				
+二斗五舛六百　　したミた　たんくわてん
+				<lb/>
+				
+一石三斗二舛八貫　中とをり道より東　むたゝ門之内
+				<lb/>
+				
+五舛年〃不　　　あふミの下　むたゝの門之内
+				<lb/>
+				
+八斗二舛二貫　　なかへの後　上大のた門之内　有川殿
+				<lb/>
+				
+二斗六舛五百　　うしろひら川はた　古春庵
+				<lb/>
+				
+四斗二貫　　　　小中野若宮田　祝二郎九郎
+				<lb/>
+				
+六舛三貫　　　　道下　かち田との
+				<lb/>
+				
+二石二斗六舛十二貫　まへ〃〃その田　以上小中野ゝ門之内
+				<lb/>
+				
+一舛　　　　　　にし屋敷の下　上大の田門内　西牟田殿
+				<lb/>
+				
+Ｐ１４４
+				<lb/>
+				
+三舛五十　　　　ふとの　はるのそのゝ門之内
+				<lb/>
+				
+三舛五十　　　　ふとの　ひらの門之内
+				<lb/>
+				
+一舛年〃不　　　せうへ　ひらの門之内
+				<lb/>
+				
+七舛百五十　　　せうへ　はるのそのゝ門之内
+				<lb/>
+				
+七舛百五十　　　せうへ　たうそのゝ門之内
+				<lb/>
+				
+一斗三百　　　　せうへ　宮そのゝ門之内
+				<lb/>
+				
+一斗五舛四百　　せうへ　又宮そのゝ門之内
+				<lb/>
+				
+三舛五十　　　　せうへ　又はるのそのゝ門之内
+				<lb/>
+				
+一斗二百　　　　六舛まき　種田との
+				<lb/>
+				
+一斗二舛三百五十　池のもと　かち田との
+				<lb/>
+				
+五舛百　　　　　ふなかさこ　ひらの門之内
+				<lb/>
+				
+一斗一舛三百　　ふなかさこ　はるのそのゝ門内
+				<lb/>
+				
+一斗五舛四百　　ふなかさこ　ひらの門之内
+				<lb/>
+				
+八舛二百　　　　ふなかさこ　宮そのゝ門之内
+				<lb/>
+				
+五斗一貫五百　　ふなかさこ　ひら野ゝ門内をかもと殿
+				<lb/>
+				
+一斗八舛五百　　ふなかさこ　かち田との
+				<lb/>
+				
+二舛三十　　　　坂の下　宮そのゝ門之内
+				<lb/>
+				
+四舛百　　　　　坂の下　はるのそのゝ門之内
+				<lb/>
+				
+一斗まき二百　　坂の下　又はるのそのゝ門之内
+				<lb/>
+				
+六舛百　　　　　うなきいし　種田との
+				<lb/>
+				
+六舛百五十　　　下うなきいし　種田との
+				<lb/>
+				
+七舛百五十　　　いわわき　にしの門之内
+				<lb/>
+				
+五斗八舛二貫　　をいの口　種田との
+				<lb/>
+				
+一斗七舛四百五十　へひかさこ　ひらのゝ門之内をかもと殿
+				<lb/>
+				
+二斗六舛
+				<note corresp="#×二">一</note>
+				貫二百　わさ田の丸　ひらのゝ門之内をかもと殿
+				<lb/>
+				
+八舛三百　　　　ひらのゝわさ田の下　は〃しかの助二郎殿
+				<lb/>
+				
+一斗八舛七百　　もちの木の丸　大そのゝ門之内をかもと殿
+				<lb/>
+				
+二斗一舛七百　　しゐ木のさこ　大そのゝ門之内をかもと殿
+				<lb/>
+				
+六舛百　　　　　かしハのさこ　ひらのゝ門之内をかもと殿
+				<lb/>
+				
+二斗五百　　　　うちなし　かちたとの
+				<lb/>
+				
+二斗七舛八百五十　かまさこ　大そのゝ門内　をかもと殿
+				<lb/>
+				
+二斗六舛一貫二百五十　はちあな　はか助二郎殿
+				<lb/>
+				
+二斗八舛八百　　たう山のうと　はか助二郎殿
+				<lb/>
+				
+三斗まき八百五十此内四舛年〃不　はちあな　中間木十郎
+				<lb/>
+				
+三斗まき一貫二百五十　すけのさこ　慈光寺領
+				<lb/>
+				
+二斗三舛一貫　　はちあな　慈光寺領
+				<lb/>
+				
+三斗五舛一貫二百五十　かミのその田　慈光寺領
+				<lb/>
+				
+二斗まき八百　　つゝミのおもて　慈光寺領
+				<lb/>
+				
+九舛四百　　　　けすの木のもと　慈光寺領
+				<lb/>
+				
+四舛百　　　　　うちやま屋敷之下　田口二郎五郎殿
+				<lb/>
+				
+一舛五合五十　　うちやま屋敷之下　うちやま門之内
+				<lb/>
+				
+Ｐ１４５
+				<lb/>
+				
+七舛百此内年〃不二舛　　　　　大いしかひら　かち田殿
+				<lb/>
+				
+二舛百　　　　　くミのハき　有川殿屋敷之内
+				<lb/>
+				
+三斗五舛一貫七百　ゆの木のつる　田口二郎五郎殿　　　彳
+				<lb/>
+				
+六斗七舛三貫四百　やなかのつる　田口殿うきめん　　　彳
+				<lb/>
+				
+三斗まき一貫五百　やなかのつる　下大の田門之内　　　彳
+				<lb/>
+				
+七斗八舛四貫七百　野中　下大のた門之内　　　　　　　彳
+				<lb/>
+				
+一石九斗十一貫四百九貫四〃〃〃　野中　むたゝの門之内　　　　　　彳
+				<lb/>
+				
+七八〃斗四五〃舛三貫四百　かハちのもと　山口新左衛門殿　うきめん
+				<lb/>
+				
+五斗まき一貫五百　むたゝ前　たんくわりやう
+				<lb/>
+				
+二舛五十　　　　卅田の下　大野田之門之内
+				<lb/>
+				
+四斗五舛一貫三百　卅田　むたゝの門之内
+				<lb/>
+				
+七斗六舛一貫九百　卅田　堀切助四郎殿
+				<lb/>
+				
+三斗まき一貫　　卅田　ひらのゝ門之内　をかもと殿
+				<lb/>
+				
+七斗五舛二貫三百　をき　下大田門之内
+				<lb/>
+				
+二斗六舛一貫　　井のしり　下大のたの門之内
+				<lb/>
+				
+三斗三舛一貫　　むたゝの前　平野の門之内　をかもと殿
+				<lb/>
+				
+一斗五舛四百　　松坂の下二ヶ所　むたゝの門之内
+				<lb/>
+				
+一斗四舛五百　　ようの丸　むたゝの門之内
+				<lb/>
+				
+一石五舛三貫七百　又ようの丸　むたゝの門之内
+				<lb/>
+				
+三斗二舛一貫　　ようの丸うと　田口二郎五郎殿
+				<lb/>
+				
+三斗四舛一貫二百　ようの丸　河西孫二郎殿
+				<lb/>
+				
+二石一斗五舛十貫七百　　むたゝ田ま　いまくまの領
+				<lb/>
+				
+一斗八舛七百　　松下　地蔵田　むたゝ門之内
+				<lb/>
+				
+一石四舛五貫　　あふら田　むたゝ門之内
+				<lb/>
+				
+二斗八舛　　　　とをり　大宮田二月三日助四郎〃〃〃
+				<lb/>
+				
+三斗二舛一貫六百　又松下　むたゝの門之内まつり田
+				<lb/>
+				
+五斗五舛三貫二百　とをり　河西孫二郎殿
+				<lb/>
+				
+三斗八舛二貫四百　とをり　中間弥五
+				<lb/>
+				
+五斗まき三貫　　とをり　池田太郎三郎
+				<lb/>
+				
+1
+				<note corresp="#フル">1「</note>
+				七」
+				<note corresp="#×七">六</note>
+				斗九舛四貫七百　とをり　下大のた門之内
+				<lb/>
+				
+二石八斗十六貫八百　東の丸　むたゝ門之内
+				<lb/>
+				
+九斗七舛五貫八百　とをり上　下大のたの門之内
+				<lb/>
+				
+一石五斗八貫　　とをり五反田　山手御自作
+				<lb/>
+				
+六舛三百　　　　かいもと　むたゝの門之内
+				<lb/>
+				
+一石七斗七舛十貫六百　　かいもとより上　下大の田の門之内
+				<lb/>
+				
+八斗まき四貫八百　ほりの内　山手御自作
+				<lb/>
+				
+二斗六舛一貫三百　くミのハき　上原の御諏訪領
+				<lb/>
+				
+二石八舛十二貫四百　ほりの内　田口との
+				<lb/>
+				
+一石八舛六貫四百　くミのハき　大宮田　祝二郎九郎
+				<lb/>
+				
+二斗まき一貫　　その田　芳賀助二郎殿
+				<lb/>
+				
+六斗まき三貫　　またか田　かちたとの
+				<lb/>
+				
+一斗五舛七百　　またか田　古春庵領
+				<lb/>
+				
+五斗まき二貫五百　七杖　中そのゝ門之内
+				<lb/>
+				
+Ｐ１４６
+				<lb/>
+				
+一斗まき五百　　その田　大そのゝ門之内　をかもと殿
+				<lb/>
+				
+一石一斗五貫五百　道そい　慈光寺領
+				<lb/>
+				
+九斗まき三貫六百　かとのその　慈光寺領
+				<lb/>
+				
+八舛三百　　　　くきつかの下　しも大のた門内
+				<lb/>
+				
+一斗五舛七百　　池田　法雲寺領
+				<lb/>
+				
+八斗七舛四貫　　下つる　西牟田殿
+				<lb/>
+				
+五斗二舛二貫五百　下つる　中間仁五
+				<lb/>
+				
+二斗五舛一貫二百五十　下つる　村尾与三郎殿村尾殿より分ふん歟
+				<lb/>
+				
+三斗四舛まき一貫七百　　又下つる　西牟田殿
+				<lb/>
+				
+五斗まき二貫五百　又下つる上二ヶ所　西牟田殿
+				<lb/>
+				
+一斗五舛まき
+				<note corresp="#×七">八</note>
+				百　下つる　後藤弥七方
+				<lb/>
+				
+三斗七舛一貫八百　下つる下　源左衛門殿
+				<lb/>
+				
+四斗八舛一貫八百　下つる中　源左衛門殿
+				<lb/>
+				
+六斗まき三貫　　下つる　法雲寺領
+				<lb/>
+				
+八舛四百　　　　又下つる　法雲寺領西牟田殿もちの分
+				<lb/>
+				
+五舛まき二百　　下つる　木場殿
+				<lb/>
+				
+六斗七舛二貫七百　下つる上　源左衛門殿
+				<lb/>
+				
+二斗二舛一貫　　下つる　こはの太郎五郎殿
+				<lb/>
+				
+二斗まき一貫　　井れう　法雲寺領
+				<lb/>
+				
+二舛不　　　　　あんの下　こは殿
+				<lb/>
+				
+一石三斗六舛
+				<note corresp="#朱書">「</note>
+				自作付テ五反ニ定」六貫八百　竹下　木場殿
+				<lb/>
+				
+一石五貫　　　　のそい　むまのわたせ　ぬくミ又七殿
+				<lb/>
+				
+三斗五舛一貫八百　むまのわたせの前　岡本殿自作
+				<lb/>
+				
+二斗八舛七百五十　いとかしら　木場殿
+				<lb/>
+				
+六舛百五十　　　いとかしら　むまわたせをかもと殿
+				<lb/>
+				
+一石二斗七舛　　むまのハたせの内　ぬくミ又七殿をかもと殿もち
+				<lb/>
+				
+一斗三舛七百　　むまのわたせの内　井一の口
+				<lb/>
+				
+四舛二百　　　　小わさた　むまのわたせの内
+				<lb/>
+				
+四舛百　　　　　しときてん　むまのわたせの内
+				<lb/>
+				
+一斗〃舛一舛五百　　ふちわき　古春庵領
+				<lb/>
+				
+一斗五舛六百　　はたけの下　岩の上之内　古春庵領
+				<lb/>
+				
+一石五三〃斗二舛六貫　六反田　慈光寺領
+				<lb/>
+				
+三斗六舛八百　　四斗田　中そのゝ門之内
+				<lb/>
+				
+三斗七舛一貫五百　またか下田　有川殿
+				<lb/>
+				
+一斗二舛三百　　ぬの田　中そのゝ門之内
+				<lb/>
+				
+二斗二舛七百　　ぬの田　古春庵領
+				<lb/>
+				
+二斗八舛一貫　　たかこは　種田との
+				<lb/>
+				
+一石四斗二舛四貫二百　　ぬく谷　かち田殿
+				<lb/>
+				
+六舛百　　　　　こかわち　木場殿
+				<lb/>
+				
+六斗五舛二貫　　こかわ地　中そのゝ門之内
+				<lb/>
+				
+三斗一舛一貫　　こかわち　芳賀助二郎殿
+				<lb/>
+				
+
+				<note corresp="#×六">七</note>
+				舛二百五十　　又こかわち　こは殿分
+				<lb/>
+				
+二斗二舛七百　　こかわち　またり大そのゝ門之内　をかもと殿
+				<lb/>
+				
+Ｐ１４７
+				<lb/>
+				
+二斗二舛七百　　松原田　法雲寺領　小そのゝ門之内
+				<lb/>
+				
+四斗六舛一貫四百　又松原田　芳賀助二郎殿
+				<lb/>
+				
+四斗まき一貫六百　又松原田　法雲寺領　小そのゝ門内
+				<lb/>
+				
+六舛百五十　　　ひら田　かうかさてん　芳賀助二郎
+				<lb/>
+				
+三斗二舛一貫五百五十　　　　あふら田　慈光寺領
+				<lb/>
+				
+八舛二百　　　　ひら田　中そのゝ門之内
+				<lb/>
+				
+二石一斗二舛八貫四百　　木場田　中のはる田分　こは殿
+				<lb/>
+				
+二石四斗六舛九貫八百　　木場田　道そい　こは殿
+				<lb/>
+				
+一石二斗三舛四貫八百　　こはた　中道より東　こは殿
+				<lb/>
+				
+二斗二舛六百　　　野中　うきめん　　　もとたちま殿
+				<lb/>
+				
+二斗四舛七百　　にしむた竹下　法雲寺領
+				<lb/>
+				
+三斗一舛一貫　　たうの前　やつ殿
+				<lb/>
+				
+三斗六舛一貫八百　にしむた門田　西牟田殿
+				<lb/>
+				
+二斗五舛　　　　にしむたきやうてん　慈光寺領
+				<note corresp="#朱書">「</note>
+				こは方分歟」
+				<lb/>
+				
+四石二斗二舛此内一斗二舛不十六貫五百　　にしの原　馬わたり道より東以上　木場殿
+				<lb/>
+				
+三斗八舛一貫五百　天神領　こは殿
+				<lb/>
+				
+三舛百　　　　　ふかた　こは殿
+				<lb/>
+				
+二斗三舛八百　　むまわたり　木場殿
+				<lb/>
+				
+二斗五舛八百　　にしむた　そまいし　東門之内
+				<lb/>
+				
+七斗七舛三貫　　にしむた　そまいし　西門之内
+				<lb/>
+				
+二斗まき六百　　まいたり　にしむた殿
+				<lb/>
+				
+一斗二舛三百五十　まいたり道の上下　寿昌寺西牟田殿寄進
+				<lb/>
+				
+一斗五舛七百　　くろせ　西牟田殿
+				<lb/>
+				
+二斗七舛一貫六百　くろせの上　大宮田　木場殿
+				<lb/>
+				
+一斗三舛六百　　ふちのうへ　西牟田殿
+				<lb/>
+				
+二斗八舛一貫百　ふか田　そまいし　東門之内
+				<lb/>
+				
+七舛三百　　　　一せま地　そまいし　西の門之内
+				<lb/>
+				
+二斗五舛一貫　　ふか田　にしむた殿
+				<lb/>
+				
+四斗六舛一貫八百　くろせの上より小りんの下かけて　こは殿
+				<lb/>
+				
+七斗七舛三貫　　七杖　西牟田殿
+				<lb/>
+				
+四斗五舛一貫三百五十　　　　松かさこ　源左衛門殿
+				<lb/>
+				
+一斗五舛四百五十　　　天神領しゐの木のさこ　こは殿
+				<lb/>
+				
+二斗二舛六百五十　西牟田　そまいし　西門之内
+				<lb/>
+				
+一斗五舛四百　　とひのす　小そのゝ門内　法雲寺領
+				<lb/>
+				
+五舛百　　　　　とひのす所〃　こは殿
+				<lb/>
+				
+二斗まき三百五十　さかいて東のさこ二ヶ所　法雲寺領
+				<lb/>
+				
+六舛百五十　　　さかいてより東所〃　こは殿
+				<lb/>
+				
+一石一斗四貫四百　ぬく谷　木場殿
+				<lb/>
+				
+二斗一舛七百　　ほそ田　法雲寺領　こはたちま殿きしん
+				<lb/>
+				
+一斗三舛四百　　野中　小そのゝ門内　法雲寺領
+				<lb/>
+				
+二斗七舛八百　　ひら田　うきめん　
+				<note corresp="#朱書">「</note>
+				たちまとの」
+				<lb/>
+				
+四斗まき一貫　　ほくそ木　こは殿
+				<lb/>
+				
+Ｐ１４８
+				<lb/>
+				
+二斗まき
+				<note corresp="#×六">八</note>
+				百　　湯のもと　西牟田殿
+				<lb/>
+				
+二斗三舛一貫百五十　山王ひかんそまいし　ひかん田　西牟田殿
+				<lb/>
+				
+一斗二舛六百　　山王九日そまいし　西之門之内
+				<lb/>
+				
+一斗二舛五百　　せうへ　にしむた殿
+				<lb/>
+				
+一斗まき四百　　をりをのさこ　そまいし　東門之内
+				<lb/>
+				
+一斗一舛二百五十　ひのをのすミ　小そのゝ門内　法雲寺
+				<lb/>
+				
+二斗九舛四百　　さかいて五所さかいゐて　こはとの
+				<lb/>
+				
+一斗まき三百　　もゝの木のさこ　こは殿
+				<lb/>
+				
+二斗八舛一貫　　ひら田　うきめん
+				<note corresp="#朱書 ">「</note>
+				たちま方」
+				<lb/>
+				
+
+				<note corresp="#×四">七</note>
+				斗一舛二貫二百　野中ゆつもと　法雲寺領　小そのゝ門内
+				<lb/>
+				
+七舛二百　　　　たうねんひらき二ヶ所西牟田殿
+				<lb/>
+				
+二斗六舛七百　　山王十一月田　そまいし　東門之内
+				<lb/>
+				
+四斗六舛一貫八百　そまいし　ひら田　東之門之内
+				<lb/>
+				
+一斗〃〃三舛百　　　いちゐの木のもと　東之門之内
+				<lb/>
+				
+三斗まき一貫五百　いちゐ木のもと　そまいし　西之門内
+				<lb/>
+				
+三斗一舛一貫五百　いちゐの木のもと　寿昌寺領
+				<lb/>
+				
+一斗五舛七百五十　又いちゐの木のもと　寿昌寺領
+				<lb/>
+				
+三斗一舛一貫五百　山の田　寿昌寺領
+				<lb/>
+				
+一斗六舛
+				<note corresp="#×一貫">八百</note>
+				　　山王しときてん　そまいし　西門之内
+				<lb/>
+				
+三斗七舛一貫五百　ひら田　木場殿
+				<lb/>
+				
+七斗八舛二貫七百　いこいは以上　寿昌寺領
+				<lb/>
+				
+三斗二舛八百　　さかゐて　寿昌寺領
+				<lb/>
+				
+二六〃斗七舛七四〃百　七さこ　こは殿之内
+				<lb/>
+				
+四舛百五十　　　山中　こはとの
+				<lb/>
+				
+七舛三百　　　　小しら坂　寿昌寺領
+				<lb/>
+				
+八舛二百　　　　うさき田　寿昌寺領
+				<lb/>
+				
+三舛七十　　　　山かひら　木場殿
+				<lb/>
+				
+一斗一舛三百　　うさき田　下のひら　寿昌寺領
+				<lb/>
+				
+一斗五舛七百　　さかね田　寿昌寺領之内
+				<lb/>
+				
+二舛五十　　　　はたけの下ひらき　寿昌寺領
+				<lb/>
+				
+六舛七十　　　　山かひらの下　こは殿
+				<lb/>
+				
+一斗七舛八百　　坂之下　寿昌寺領
+				<lb/>
+				
+一石七斗八舛九貫　ほうの木の丸　法雲寺領
+				<lb/>
+				
+一石八斗四舛九貫二百　ほう木丸井れう以上　寿昌寺領
+				<lb/>
+				
+三斗三舛一貫二百　せいにた　寿昌寺領
+				<lb/>
+				
+八斗二舛二貫　　山の田　寿昌寺領
+				<lb/>
+				
+四斗二舛一貫　　入手か谷三ヶ所　寿昌寺領
+				<lb/>
+				
+五斗二舛一貫五百　はつふの口　寿昌寺領
+				<lb/>
+				
+二斗二舛此内二舛年〃不五百柳のさこ三ヶ所　寿昌寺領
+				<lb/>
+				
+七舛百　　　　　さゝのもと　寿昌寺領
+				<lb/>
+				
+一斗百　　　　　一の谷三ヶ所　寿昌寺領
+				<lb/>
+				
+三斗まき年〃不　たてやまの内　寿昌寺領
+				<lb/>
+				
+二斗一舛五百　　つちはしの道の上下　寿昌寺領
+				<lb/>
+				
+二斗六舛六百　　山しふのさこ　寿昌寺領
+				<lb/>
+				
+Ｐ１４９
+				<lb/>
+				
+二斗一舛八百　　山の口　そまいし　東之門之内
+				<lb/>
+				
+八舛三百　　　　なしの木のもと　寿昌寺領
+				<lb/>
+				
+八舛三百　　　　水かわち　そまいし　東之門之内
+				<lb/>
+				
+二斗八百　　　　なしの木のもと　そまいし　西門之内
+				<lb/>
+				
+五舛百五十　　　きしや木のもと　そまいし　東之門之内
+				<lb/>
+				
+二斗六舛一貫　　小をとし　そまいし　東之門之内
+				<lb/>
+				
+三舛百　　　　　屋敷の後　大工新さへもん
+				<lb/>
+				
+四斗七舛二貫　　その田　ふなせの門之内
+				<lb/>
+				
+二舛五十　　　　松の木ハたせ　ふなせ門之内
+				<lb/>
+				
+四斗八舛二貫四百　あか木の前　市へたう
+				<lb/>
+				
+七舛二百五十　　門之口　なりくわうし領
+				<lb/>
+				
+三斗一貫五百　　あか木の前場より上　寿昌寺領
+				<lb/>
+				
+七斗四舛此之内五舛はた三貫五百　谷の口　下のかきより上以上　寿昌寺領
+				<lb/>
+				
+七斗まき二貫五百　はらより上　まての領
+				<lb/>
+				
+二斗まき一貫　　まちの後　寿昌寺領
+				<lb/>
+				
+一斗五舛八百　　まへはら　寿昌寺領
+				<lb/>
+				
+一斗三七〃舛八百　　竹の下
+				<lb/>
+				
+六舛三百　　　　つちハしの口　寿昌寺領
+				<lb/>
+				
+一舛五合　　　　かさかけはらの上　まての領
+				<lb/>
+				
+二斗五舛一貫二百　わさたより下　まての領
+				<lb/>
+				
+二斗三舛八百　　弓場のもとより下　まての領
+				<lb/>
+				
+三斗九舛二貫　　こは田　まて野領
+				<lb/>
+				
+七舛二百　　　　ひのくち　中間助十郎
+				<lb/>
+				
+二斗四舛一貫　　ひの口　中間六郎四郎
+				<lb/>
+				
+三斗三舛一貫　　中崎　中間六郎四郎
+				<lb/>
+				
+九斗七舛五貫　　前田　寿昌寺領
+				<lb/>
+				
+一斗三舛六百　　五郎二郎作　寿昌寺領
+				<lb/>
+				
+一石五斗六舛七貫　小そのゝ前田　寿昌寺領
+				<lb/>
+				
+一斗八舛六百　　小そのゝ下つる　村尾彦七殿
+				<lb/>
+				
+二斗三舛一貫　　六一　寿昌寺領
+				<lb/>
+				
+二斗三舛一貫五十　上井　源六作　寿昌寺領
+				<lb/>
+				
+二斗三舛一貫百　上井　大工次郎さへもん　寿昌寺領
+				<lb/>
+				
+一石二斗四貫八百　のいねの原四反田　古春庵領
+				<lb/>
+				
+二斗九舛一貫五百　ゑの木田　古春庵領
+				<lb/>
+				
+三斗二舛一貫五百　ひの口　古春庵領
+				<lb/>
+				
+二斗百山口殿とより合候てもたれ候、　　　　　まるませ地  　古春庵領
+				<lb/>
+				
+五斗九舛三貫　　上井　山口かけゆ殿
+				<lb/>
+				
+二舛百古春庵より合候、　　　　　丸せま地　山口かけゆ殿
+				<lb/>
+				
+一斗七舛八百五十　ひの口　山口かけゆ殿
+				<lb/>
+				
+一斗七舛六百　　町野　天神領
+				<lb/>
+				
+四斗三舛一貫七百　上井　町野領
+				<lb/>
+				
+二斗六舛一貫　　ひの口三ヶ所以上　せゝ殿
+				<lb/>
+				
+八舛三百　　　　のいねの原いのもと　作子ひこひやうへ
+				<lb/>
+				
+Ｐ１５０
+				<lb/>
+				
+二斗まき一貫　　大工二郎さへもん　寿昌寺領
+				<lb/>
+				
+一斗七舛五百　　のいねの原ゑひすてん　へたう作
+				<lb/>
+				
+二斗一舛五百　　又いのもと　作子ひこひやうへ
+				<lb/>
+				
+五舛百　　　　　野中　中間六郎四郎
+				<lb/>
+				
+五斗まき一貫二百五十　野中　寿昌寺領
+				<lb/>
+				
+八舛二百　　　　野中の下　作子彦ひやうへ
+				<lb/>
+				
+一石三斗三舛六貫六百　四反田　　寿昌寺領
+				<lb/>
+				
+七斗四舛二貫　　ふかたより下　寿昌寺領
+				<lb/>
+				
+一斗三舛五百　　馬渡　さゝ原臺屋　りやうくてん古春庵より
+				<lb/>
+				
+二斗まき八百　　のいねの原阿弥陀田　古春庵
+				<lb/>
+				
+四斗一舛一貫　　下る野中　　寿昌寺領
+				<lb/>
+				
+五斗七舛二貫八百　森田　矢こし山之門之内
+				<lb/>
+				
+五斗まき二貫五百　森田小いとの内　たねた殿
+				<lb/>
+				
+八舛四百　　　　森田　作子ひこひやうへ
+				<lb/>
+				
+三斗三舛一貫六百　森田　うわや殿
+				<lb/>
+				
+一石九斗二舛九貫五百　のいね原五反田　寿昌寺領
+				<lb/>
+				
+二斗四舛五百　　いちゐの木のもと　かき内門之内
+				<lb/>
+				
+二斗二舛五百　　山の口　かき内之門之内
+				<lb/>
+				
+一斗一舛三百　　湯かわち　かき内門之内
+				<lb/>
+				
+二斗まき六百　　たて山四ヶ所　かき内門之内
+				<lb/>
+				
+二斗六舛一貫　　松下　かき内門之内
+				<lb/>
+				
+五斗まき一貫三百　野中二ヶ所　かき内之門之内
+				<lb/>
+				
+一斗六舛六百　　かわち　かき内之門之内
+				<lb/>
+				
+五舛百　　　　　をにかうと　かきうち門之内
+				<lb/>
+				
+二石七斗四舛十六貫七百　森田以上　かき内門之内
+				<lb/>
+				
+五斗九舛一貫　　その田　かき内の門之内
+				<lb/>
+				
+二斗七舛一貫百　その田の下　かき内之門之内
+				<lb/>
+				
+九舛二百五十　　山の内三ヶ所　かき内之門之内
+				<lb/>
+				
+五斗八舛一貫八百　ならのさこ　かき内之門之内
+				<lb/>
+				
+七斗二舛二貫百　はしの口　山口かけゆ殿
+				<lb/>
+				
+六斗四舛二貫百　なか田　大工新左衛門方
+				<lb/>
+				
+一斗五舛百五十　なか田の下　大工新さへもん方
+				<lb/>
+				
+三斗まき一貫　　山の内　作子ひこひやうへ
+				<lb/>
+				
+三舛五十　　　　山のかミのさき　うへハら諏訪坊領
+				<lb/>
+				
+六石五斗七舛三十八貫五百　本村たまつゝミより下　西福寺領
+				<lb/>
+				
+十石七斗まき六十三貫五百　六丁三反ニ定　　たま中のつゝミより上　本村殿
+				<lb/>
+				
+五斗まき三貫　三反ニ定　　　妙見田　　　本村殿之内
+				<lb/>
+				
+八斗五舛五貫　五反ニ定　　　たう地　　　本村殿之内
+				<lb/>
+				
+三斗五舛一貫四百　四つへ田　　西福寺領
+				<lb/>
+				
+五斗三舛二貫百　三反ニ定　　　しほてうと　もと村殿
+				<lb/>
+				
+Ｐ１５１
+				<lb/>
+				
+二斗一舛八百　　かハら田　　西福寺領
+				<lb/>
+				
+八舛二百　　　　ふちのうへのひら田三ヶ所　西福寺領
+				<lb/>
+				
+八斗三舛二貫四百　大うと　　西福寺領
+				<lb/>
+				
+五舛二百　　　　こうと　先しゆてん　西福寺領
+				<lb/>
+				
+四斗六舛一貫二百　小うと　西福寺領
+				<lb/>
+				
+五斗まき二貫　　しゝやき田　西福寺領
+				<lb/>
+				
+一斗八舛七百　　又しゝやき田　妙見の神田　西福寺領
+				<lb/>
+				
+一斗八舛五百　　又しゝやき田　西福寺領
+				<lb/>
+				
+一斗七舛六百　　せいわう田　西福寺領
+				<lb/>
+				
+五舛百五十　　　九郎四郎ふちの上　西福寺領
+				<lb/>
+				
+五舛百　　　　　水なし田　さいふくし領
+				<lb/>
+				
+一斗一舛三百　　又水なし田　西福寺領
+				<lb/>
+				
+一石七斗五舛八貫七百　　ふちハき　あか坂之門之内
+				<lb/>
+				
+一斗まき五百　　ふちの上　あか坂之門之内
+				<lb/>
+				
+六舛百五十　　　かと田　あか坂之門之内
+				<lb/>
+				
+一斗八舛九百　　坂の下　あか坂之門之内
+				<lb/>
+				
+二斗五舛一貫　　井手のもと　あか坂之門之内
+				<lb/>
+				
+一斗五舛六百　　ほかその　西福寺領
+				<lb/>
+				
+五舛二百　　　　とらちのもと　矢越山の門之内
+				<lb/>
+				
+二斗六百　　　　外こは　やこし山の門之内
+				<lb/>
+				
+八斗二貫四百　　内木場二ヶ所　矢越山の門之内
+				<lb/>
+				
+四斗五舛一貫八百　井の尻　矢越山の門之内
+				<lb/>
+				
+四斗一舛二貫　　わさ田　やこし山の門之内
+				<lb/>
+				
+三斗五舛一貫百　ふかさこ　矢越山の門之内
+				<lb/>
+				
+三斗四舛八百　　みそゝい　矢越山の門之内
+				<lb/>
+				
+一斗八舛六百　　上のこは　矢越山の門之内
+				<lb/>
+				
+四斗七舛一貫五百　せりか谷　矢越山の門之内
+				<lb/>
+				
+五斗一舛一貫三百　祝かさこ　矢越山門之内
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

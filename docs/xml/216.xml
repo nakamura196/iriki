@@ -1,51 +1,49 @@
 <?xml version="1.0" ?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-	   
+	        
 	<teiHeader>
-		      
+		            
 		<fileDesc>
-			         
+			                
 			<titleStmt>
-				            
+				                    
 				<title>3　　観応2年6月17日　　_足利直冬下文（＃２１６）</title>
-				         
+				                
 			</titleStmt>
-			         
+			                
 			<publicationStmt>
-				            
+				                    
 				<p>Publication Information</p>
-				         
+				                
 			</publicationStmt>
-			         
+			                
 			<sourceDesc>
-				            
+				                    
 				<p>Information about the source</p>
-				         
+				                
 			</sourceDesc>
-			      
+			            
 		</fileDesc>
-		   
+		        
 	</teiHeader>
-	   
+	        
 	<facsimile>
-		      
-		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/451/manifest">
-			      
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/216/manifest.json">
+			            
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/451/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/522/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/216/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/17/00000007.jpg"/>
 			</surface>
 		</surfaceGrp>
-		   
+		        
 	</facsimile>
-	   
+	        
 	<text>
-		      
+		            
 		<front>
-			         
+			                
 			<p>
-				         
+				                
 				<span xml:id="重見">
 					<span>重見</span>
 				</span>
@@ -53,13 +51,14 @@
 					<span>直冬</span>
 				</span>
 			</p>
-			      
+			            
 		</front>
-		      
+		            
 		<body>
 			<p>
 				<lb/>
-				二一六　足利直冬下文
+				
+　二一六　足利直冬下文
 				<lb/>
 				
 下　武光三郎重兼
@@ -84,11 +83,12 @@
 				<lb/>
 				
 　　　源
-				<span corresp="#直冬">朝臣</span>
+				<note corresp="#直冬">朝臣</note>
 				（花押）
 				<lb/>
 			</p>
 		</body>
-		   
+		        
 	</text>
+	        
 </TEI>

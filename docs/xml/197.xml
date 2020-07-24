@@ -1,56 +1,60 @@
 <?xml version="1.0" ?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-	   
+	        
 	<teiHeader>
-		      
+		            
 		<fileDesc>
-			         
+			                
 			<titleStmt>
-				            
+				                    
 				<title>30　　(永和2年)9月4日　　今川了俊(貞世)書状（＃１９７）</title>
-				         
+				                
 			</titleStmt>
-			         
+			                
 			<publicationStmt>
-				            
+				                    
 				<p>Publication Information</p>
-				         
+				                
 			</publicationStmt>
-			         
+			                
 			<sourceDesc>
-				            
+				                    
 				<p>Information about the source</p>
-				         
+				                
 			</sourceDesc>
-			      
+			            
 		</fileDesc>
-		   
+		        
 	</teiHeader>
-	   
+	        
 	<facsimile>
-		      
-		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/433/manifest">
-			      
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/197/manifest.json">
+			            
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/433/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/848/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/197/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/14/00000035.jpg"/>
 			</surface>
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/433/canvas/p2" url="https://diyhistory.org/public/omekas12/iiif-img/849/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/197/manifest.json/canvas/p2" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/14/00000036.jpg"/>
 			</surface>
 		</surfaceGrp>
-		   
+		        
 	</facsimile>
-	   
+	        
 	<text>
-		      
+		            
 		<front>
-			         
+			                
 			<p>
-				         
+				                
+				<span xml:id="今川満範">
+					<span>今川満範</span>
+				</span>
 				<span xml:id="重頼">
 					<span>重頼</span>
+				</span>
+				<span xml:id="島津">
+					<span>島津</span>
 				</span>
 				<span xml:id="永和二年">
 					<span>永和二年</span>
@@ -58,24 +62,19 @@
 				<span xml:id="懸紙ウハ書">
 					<span>懸紙ウハ書</span>
 				</span>
-				<span xml:id="今川満範">
-					<span>今川満範</span>
-				</span>
-				<span xml:id="島津">
-					<span>島津</span>
-				</span>
 			</p>
-			      
+			            
 		</front>
-		      
+		            
 		<body>
 			<p>
 				<lb/>
-				一九七　今川了俊貞世書状（切紙）
+				
+　一九七　今川了俊貞世書状（切紙）
 				<lb/>
 				
 
-				<span corresp="#島津">伊久</span>
+				<note corresp="#島津">伊久</note>
 				可参陣之由申候間、成御教書候処、結句長尾城ニ馳向候云〃、御一
 				<lb/>
 				
@@ -83,7 +82,7 @@
 				<lb/>
 				
 とめ候ましきと承候之間、
-				<span corresp="#今川満範">兵部</span>
+				<note corresp="#今川満範">兵部</note>
 				大輔も進て候しに、如此猶かれらか下ニ
 				<lb/>
 				
@@ -103,21 +102,22 @@
 				<lb/>
 				
 　　　
-				<span corresp="#永和二年">九月四日</span>
+				<note corresp="#永和二年">九月四日</note>
 				　　　了俊（花押）
 				<lb/>
 				
 　　　渋谷
-				<span corresp="#重頼">清敷</span>
+				<note corresp="#重頼">清敷</note>
 				殿
 				<lb/>
 				
 　　
-				<span corresp="#懸紙ウハ書">「</span>
+				<note corresp="#懸紙ウハ書">「</note>
 				清敷殿　　了俊」
 				<lb/>
 			</p>
 		</body>
-		   
+		        
 	</text>
+	        
 </TEI>

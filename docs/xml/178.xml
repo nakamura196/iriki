@@ -1,49 +1,49 @@
 <?xml version="1.0" ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-	   
+	        
 	<teiHeader>
-		      
+		            
 		<fileDesc>
-			         
+			                
 			<titleStmt>
-				            
+				                    
 				<title>11　　永和2年4月20日　　_今川了俊(貞世)挙状（＃１７８）</title>
-				         
+				                
 			</titleStmt>
-			         
+			                
 			<publicationStmt>
-				            
+				                    
 				<p>Publication Information</p>
-				         
+				                
 			</publicationStmt>
-			         
+			                
 			<sourceDesc>
-				            
+				                    
 				<p>Information about the source</p>
-				         
+				                
 			</sourceDesc>
-			      
+			            
 		</fileDesc>
-		   
+		        
 	</teiHeader>
-	   
+	        
 	<facsimile>
-		      
+		            
 		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/178/manifest.json">
-			      
+			            
 			<surface>
 				<graphic n="https://nakamura196.github.io/iriki/iiif/178/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/14/00000016.jpg"/>
 			</surface>
 		</surfaceGrp>
-		   
+		        
 	</facsimile>
-	   
+	        
 	<text>
-		      
+		            
 		<front>
-			         
+			                
 			<p>
-				         
+				                
 				<span xml:id="重頼">
 					<span>重頼</span>
 				</span>
@@ -51,28 +51,31 @@
 					<span>貞世</span>
 				</span>
 			</p>
-			      
+			            
 		</front>
-		      
+		            
 		<body>
 			<p>
-				一七八　今川了俊貞世挙状（切紙）
-				<br/>
+				<lb/>
+				
+　一七八　今川了俊貞世挙状（切紙）
+				<lb/>
 				
 掃部允所望事、可挙申京都之状如件、
-				<br/>
+				<lb/>
 				
 　　　永和二年卯月廿日　　
 				<note corresp="#貞世">沙弥</note>
 				（花押）
-				<br/>
+				<lb/>
 				
 　　渋谷
 				<note corresp="#重頼">乕五郎</note>
 				殿
-				<br/>
+				<lb/>
 			</p>
 		</body>
-		   
+		        
 	</text>
+	        
 </TEI>

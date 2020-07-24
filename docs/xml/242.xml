@@ -1,83 +1,82 @@
 <?xml version="1.0" ?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-	   
+	        
 	<teiHeader>
-		      
+		            
 		<fileDesc>
-			         
+			                
 			<titleStmt>
-				            
+				                    
 				<title>(年月日欠)　　　　_坪付注文断簡（＃２４２）</title>
-				         
+				                
 			</titleStmt>
-			         
+			                
 			<publicationStmt>
-				            
+				                    
 				<p>Publication Information</p>
-				         
+				                
 			</publicationStmt>
-			         
+			                
 			<sourceDesc>
-				            
+				                    
 				<p>Information about the source</p>
-				         
+				                
 			</sourceDesc>
-			      
+			            
 		</fileDesc>
-		   
+		        
 	</teiHeader>
-	   
+	        
 	<facsimile>
-		      
-		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/475/manifest">
-			      
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/242/manifest.json">
+			            
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/475/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/722/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/242/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/24/00000001.jpg"/>
 			</surface>
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/475/canvas/p2" url="https://diyhistory.org/public/omekas12/iiif-img/723/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/242/manifest.json/canvas/p2" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/24/00000002.jpg"/>
 			</surface>
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/475/canvas/p3" url="https://diyhistory.org/public/omekas12/iiif-img/724/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/242/manifest.json/canvas/p3" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/24/00000003.jpg"/>
 			</surface>
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/475/canvas/p4" url="https://diyhistory.org/public/omekas12/iiif-img/725/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/242/manifest.json/canvas/p4" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/24/00000004.jpg"/>
 			</surface>
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/475/canvas/p5" url="https://diyhistory.org/public/omekas12/iiif-img/726/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/242/manifest.json/canvas/p5" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/24/00000005.jpg"/>
 			</surface>
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/475/canvas/p6" url="https://diyhistory.org/public/omekas12/iiif-img/727/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/242/manifest.json/canvas/p6" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/24/00000006.jpg"/>
 			</surface>
 		</surfaceGrp>
-		   
+		        
 	</facsimile>
-	   
+	        
 	<text>
-		      
+		            
 		<front>
-			         
+			                
 			<p>
-				         
-				<span xml:id="朱書">
-					<span>朱書</span>
+				                
+				<span xml:id="るカ">
+					<span>るカ</span>
 				</span>
 				<span xml:id="共カ">
 					<span>共カ</span>
 				</span>
-				<span xml:id="るカ">
-					<span>るカ</span>
+				<span xml:id="朱書">
+					<span>朱書</span>
 				</span>
 			</p>
-			      
+			            
 		</front>
-		      
+		            
 		<body>
 			<p>
 				<lb/>
-				二四二　坪付注文断簡
+				
+　二四二　坪付注文断簡
 				<lb/>
 				
 　　　松下方之分
@@ -96,7 +95,7 @@
 				<lb/>
 				
 
-				<span corresp="#朱書">「</span>
+				<note corresp="#朱書">「</note>
 				此分二反ハ、カチノヲトヽノ四郎五郎出作ニ
 				<lb/>
 				
@@ -143,7 +142,7 @@
 				<lb/>
 				
 
-				<span corresp="#朱書">「</span>
+				<note corresp="#朱書">「</note>
 				今ハ四郎五郎出作ニ仕候、」
 				<lb/>
 				
@@ -169,7 +168,7 @@
 				<lb/>
 				
 　水田一反　居屋敷
-				<span corresp="#共カ">□</span>
+				<note corresp="#共カ">□</note>
 				<lb/>
 				
 　畠二舛まき　ほりその
@@ -221,7 +220,7 @@
 				<lb/>
 				
 三反　　　　　は
-				<span corresp="#るカ">□</span>
+				<note corresp="#るカ">□</note>
 				<lb/>
 				
 二丁　　　　　竹の下
@@ -279,7 +278,7 @@
 				<lb/>
 				
 
-				<span corresp="#朱書">「</span>
+				<note corresp="#朱書">「</note>
 				今ハ自作ニ加候、」
 				<lb/>
 				
@@ -320,6 +319,7 @@
 				<lb/>
 			</p>
 		</body>
-		   
+		        
 	</text>
+	        
 </TEI>

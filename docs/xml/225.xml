@@ -1,54 +1,52 @@
 <?xml version="1.0" ?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-	   
+	        
 	<teiHeader>
-		      
+		            
 		<fileDesc>
-			         
+			                
 			<titleStmt>
-				            
+				                    
 				<title>12　　応永3年11月16日　　島津久哲(伊久)名字書出（＃２２５）</title>
-				         
+				                
 			</titleStmt>
-			         
+			                
 			<publicationStmt>
-				            
+				                    
 				<p>Publication Information</p>
-				         
+				                
 			</publicationStmt>
-			         
+			                
 			<sourceDesc>
-				            
+				                    
 				<p>Information about the source</p>
-				         
+				                
 			</sourceDesc>
-			      
+			            
 		</fileDesc>
-		   
+		        
 	</teiHeader>
-	   
+	        
 	<facsimile>
-		      
-		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/460/manifest">
-			      
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/225/manifest.json">
+			            
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/460/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/938/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/225/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/17/00000018.jpg"/>
 			</surface>
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/460/canvas/p2" url="https://diyhistory.org/public/omekas12/iiif-img/939/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/225/manifest.json/canvas/p2" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/17/00000019.jpg"/>
 			</surface>
 		</surfaceGrp>
-		   
+		        
 	</facsimile>
-	   
+	        
 	<text>
-		      
+		            
 		<front>
-			         
+			                
 			<p>
-				         
+				                
 				<span xml:id="重見">
 					<span>重見</span>
 				</span>
@@ -56,13 +54,14 @@
 					<span>懸紙ウハ書</span>
 				</span>
 			</p>
-			      
+			            
 		</front>
-		      
+		            
 		<body>
 			<p>
 				<lb/>
-				二二五　島津久哲伊久名字書出
+				
+　二二五　島津久哲伊久名字書出
 				<lb/>
 				
 　　三郎太郎伊兼
@@ -75,11 +74,12 @@
 				<lb/>
 				
 
-				<span corresp="#懸紙ウハ書">「</span>
+				<note corresp="#懸紙ウハ書">「</note>
 				武光三郎太郎殿　　久哲」
 				<lb/>
 			</p>
 		</body>
-		   
+		        
 	</text>
+	        
 </TEI>

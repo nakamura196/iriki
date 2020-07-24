@@ -1,89 +1,88 @@
 <?xml version="1.0" ?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-	   
+	        
 	<teiHeader>
-		      
+		            
 		<fileDesc>
-			         
+			                
 			<titleStmt>
-				            
+				                    
 				<title>2　　応長2年6月17日　　_武光法忍(師兼)同日一筆譲状（＃２２７）</title>
-				         
+				                
 			</titleStmt>
-			         
+			                
 			<publicationStmt>
-				            
+				                    
 				<p>Publication Information</p>
-				         
+				                
 			</publicationStmt>
-			         
+			                
 			<sourceDesc>
-				            
+				                    
 				<p>Information about the source</p>
-				         
+				                
 			</sourceDesc>
-			      
+			            
 		</fileDesc>
-		   
+		        
 	</teiHeader>
-	   
+	        
 	<facsimile>
-		      
-		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/462/manifest">
-			      
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/227/manifest.json">
+			            
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/462/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/885/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/227/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/18/00000008.jpg"/>
 			</surface>
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/462/canvas/p2" url="https://diyhistory.org/public/omekas12/iiif-img/886/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/227/manifest.json/canvas/p2" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/18/00000009.jpg"/>
 			</surface>
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/462/canvas/p3" url="https://diyhistory.org/public/omekas12/iiif-img/887/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/227/manifest.json/canvas/p3" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/18/00000010.jpg"/>
 			</surface>
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/462/canvas/p4" url="https://diyhistory.org/public/omekas12/iiif-img/888/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/227/manifest.json/canvas/p4" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/18/00000011.jpg"/>
 			</surface>
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/462/canvas/p5" url="https://diyhistory.org/public/omekas12/iiif-img/889/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/227/manifest.json/canvas/p5" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/18/00000012.jpg"/>
 			</surface>
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/462/canvas/p6" url="https://diyhistory.org/public/omekas12/iiif-img/890/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/227/manifest.json/canvas/p6" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/18/00000013.jpg"/>
 			</surface>
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/462/canvas/p7" url="https://diyhistory.org/public/omekas12/iiif-img/891/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/227/manifest.json/canvas/p7" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/18/00000014.jpg"/>
 			</surface>
 		</surfaceGrp>
-		   
+		        
 	</facsimile>
-	   
+	        
 	<text>
-		      
+		            
 		<front>
-			         
+			                
 			<p>
-				         
-				<span xml:id="法忍">
-					<span>法忍</span>
+				                
+				<span xml:id="追筆">
+					<span>追筆</span>
 				</span>
 				<span xml:id="重見">
 					<span>重見</span>
 				</span>
-				<span xml:id="追筆">
-					<span>追筆</span>
+				<span xml:id="法忍">
+					<span>法忍</span>
 				</span>
 				<span xml:id="〓">
 					<span>〓</span>
 				</span>
 			</p>
-			      
+			            
 		</front>
-		      
+		            
 		<body>
 			<p>
 				<lb/>
-				二二七　武光法忍師兼同日一筆譲状
+				
+　二二七　武光法忍師兼同日一筆譲状
 				<lb/>
 				
 　　　　　　○コノ文書、紙継目裏毎（※印ノ部分）ニ法忍ノ花押アリ、
@@ -162,7 +161,7 @@
 				<lb/>
 				
 　吉枝名内　
-				<span corresp="#〓">〓</span>
+				<note corresp="#〓">〓</note>
 				丸六段　保佐田五段付上　牧崎当時細工作薗壱所
 				<lb/>
 				
@@ -170,12 +169,12 @@
 				<lb/>
 				
 　在庁給五段元五町内
-				<span corresp="#追筆">「</span>
+				<note corresp="#追筆">「</note>
 				勲功御領筑前国七隈郷内袴田伍五〃段　件田者、
 				<lb/>
 				
 　　　　　　　　　書落六月十七日譲状之間、重所譲也、
-				<span corresp="#法忍">（花押）</span>
+				<note corresp="#法忍">（花押）</note>
 				」
 				<lb/>
 				
@@ -285,6 +284,7 @@
 				<lb/>
 			</p>
 		</body>
-		   
+		        
 	</text>
+	        
 </TEI>

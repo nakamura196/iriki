@@ -1,51 +1,49 @@
 <?xml version="1.0" ?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-	   
+	        
 	<teiHeader>
-		      
+		            
 		<fileDesc>
-			         
+			                
 			<titleStmt>
-				            
+				                    
 				<title>8　　応長2年6月17日　　_武光法忍(師兼)同日一筆譲状（＃２２１）</title>
-				         
+				                
 			</titleStmt>
-			         
+			                
 			<publicationStmt>
-				            
+				                    
 				<p>Publication Information</p>
-				         
+				                
 			</publicationStmt>
-			         
+			                
 			<sourceDesc>
-				            
+				                    
 				<p>Information about the source</p>
-				         
+				                
 			</sourceDesc>
-			      
+			            
 		</fileDesc>
-		   
+		        
 	</teiHeader>
-	   
+	        
 	<facsimile>
-		      
-		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/456/manifest">
-			      
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/221/manifest.json">
+			            
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/456/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/819/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/221/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/17/00000013.jpg"/>
 			</surface>
 		</surfaceGrp>
-		   
+		        
 	</facsimile>
-	   
+	        
 	<text>
-		      
+		            
 		<front>
-			         
+			                
 			<p>
-				         
+				                
 				<span xml:id="重見">
 					<span>重見</span>
 				</span>
@@ -56,17 +54,18 @@
 					<span>端裏書</span>
 				</span>
 			</p>
-			      
+			            
 		</front>
-		      
+		            
 		<body>
 			<p>
 				<lb/>
-				二二一　武光法忍師兼同日一筆譲状
+				
+　二二一　武光法忍師兼同日一筆譲状
 				<lb/>
 				
 　　
-				<span corresp="#端裏書">「</span>
+				<note corresp="#端裏書">「</note>
 				さへもんのせうふん」
 				<lb/>
 				
@@ -104,7 +103,7 @@
 				<lb/>
 				
 右件於所職以下田薗等者、限永代所譲与也、但、所譲与自餘子孫
-				<span corresp="#マヽ">也</span>
+				<note corresp="#マヽ">也</note>
 				等中
 				<lb/>
 				
@@ -118,6 +117,7 @@
 				<lb/>
 			</p>
 		</body>
-		   
+		        
 	</text>
+	        
 </TEI>

@@ -1,125 +1,124 @@
 <?xml version="1.0" ?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-	   
+	        
 	<teiHeader>
-		      
+		            
 		<fileDesc>
-			         
+			                
 			<titleStmt>
-				            
+				                    
 				<title>文明5年10月18日　　坪付注文帳（＃２４１）</title>
-				         
+				                
 			</titleStmt>
-			         
+			                
 			<publicationStmt>
-				            
+				                    
 				<p>Publication Information</p>
-				         
+				                
 			</publicationStmt>
-			         
+			                
 			<sourceDesc>
-				            
+				                    
 				<p>Information about the source</p>
-				         
+				                
 			</sourceDesc>
-			      
+			            
 		</fileDesc>
-		   
+		        
 	</teiHeader>
-	   
+	        
 	<facsimile>
-		      
-		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/474/manifest">
-			      
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/241/manifest.json">
+			            
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/474/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/744/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/241/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/23/00000001.jpg"/>
 			</surface>
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/474/canvas/p2" url="https://diyhistory.org/public/omekas12/iiif-img/745/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/241/manifest.json/canvas/p2" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/23/00000002.jpg"/>
 			</surface>
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/474/canvas/p3" url="https://diyhistory.org/public/omekas12/iiif-img/746/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/241/manifest.json/canvas/p3" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/23/00000003.jpg"/>
 			</surface>
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/474/canvas/p4" url="https://diyhistory.org/public/omekas12/iiif-img/747/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/241/manifest.json/canvas/p4" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/23/00000004.jpg"/>
 			</surface>
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/474/canvas/p5" url="https://diyhistory.org/public/omekas12/iiif-img/748/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/241/manifest.json/canvas/p5" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/23/00000005.jpg"/>
 			</surface>
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/474/canvas/p6" url="https://diyhistory.org/public/omekas12/iiif-img/749/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/241/manifest.json/canvas/p6" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/23/00000006.jpg"/>
 			</surface>
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/474/canvas/p7" url="https://diyhistory.org/public/omekas12/iiif-img/750/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/241/manifest.json/canvas/p7" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/23/00000007.jpg"/>
 			</surface>
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/474/canvas/p8" url="https://diyhistory.org/public/omekas12/iiif-img/751/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/241/manifest.json/canvas/p8" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/23/00000008.jpg"/>
 			</surface>
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/474/canvas/p9" url="https://diyhistory.org/public/omekas12/iiif-img/752/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/241/manifest.json/canvas/p9" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/23/00000009.jpg"/>
 			</surface>
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/474/canvas/p10" url="https://diyhistory.org/public/omekas12/iiif-img/753/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/241/manifest.json/canvas/p10" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/23/00000010.jpg"/>
 			</surface>
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/474/canvas/p11" url="https://diyhistory.org/public/omekas12/iiif-img/754/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/241/manifest.json/canvas/p11" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/23/00000011.jpg"/>
 			</surface>
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/474/canvas/p12" url="https://diyhistory.org/public/omekas12/iiif-img/755/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/241/manifest.json/canvas/p12" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/23/00000012.jpg"/>
 			</surface>
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/474/canvas/p13" url="https://diyhistory.org/public/omekas12/iiif-img/756/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/241/manifest.json/canvas/p13" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/23/00000013.jpg"/>
 			</surface>
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/474/canvas/p14" url="https://diyhistory.org/public/omekas12/iiif-img/757/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/241/manifest.json/canvas/p14" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/23/00000014.jpg"/>
 			</surface>
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/474/canvas/p15" url="https://diyhistory.org/public/omekas12/iiif-img/758/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/241/manifest.json/canvas/p15" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/23/00000015.jpg"/>
 			</surface>
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/474/canvas/p16" url="https://diyhistory.org/public/omekas12/iiif-img/759/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/241/manifest.json/canvas/p16" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/23/00000016.jpg"/>
 			</surface>
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/474/canvas/p17" url="https://diyhistory.org/public/omekas12/iiif-img/760/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/241/manifest.json/canvas/p17" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/23/00000017.jpg"/>
 			</surface>
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/474/canvas/p18" url="https://diyhistory.org/public/omekas12/iiif-img/761/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/241/manifest.json/canvas/p18" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/23/00000018.jpg"/>
 			</surface>
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/474/canvas/p19" url="https://diyhistory.org/public/omekas12/iiif-img/762/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/241/manifest.json/canvas/p19" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/23/00000019.jpg"/>
 			</surface>
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/474/canvas/p20" url="https://diyhistory.org/public/omekas12/iiif-img/763/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/241/manifest.json/canvas/p20" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/23/00000020.jpg"/>
 			</surface>
 		</surfaceGrp>
-		   
+		        
 	</facsimile>
-	   
+	        
 	<text>
-		      
+		            
 		<front>
-			         
+			                
 			<p>
-				         
-				<span xml:id="重見">
-					<span>重見</span>
+				                
+				<span xml:id="坂本">
+					<span>坂本</span>
 				</span>
 				<span xml:id="ミ">
 					<span>ミ</span>
 				</span>
-				<span xml:id="坂本">
-					<span>坂本</span>
+				<span xml:id="重見">
+					<span>重見</span>
 				</span>
 			</p>
-			      
+			            
 		</front>
-		      
+		            
 		<body>
 			<p>
 				<lb/>
-				二四一　坪付注文帳（横帳仮綴）
+				
+　二四一　坪付注文帳（横帳仮綴）
 				<lb/>
 				
 　　　一番
@@ -933,7 +932,7 @@
 				<lb/>
 				
 　七反　　　　　つゝ
-				<span corresp="#ミ">□</span>
+				<note corresp="#ミ">□</note>
 				口
 				<lb/>
 				
@@ -1346,7 +1345,7 @@
 				<lb/>
 				
 一上手榎木田之門之分
-				<span corresp="#坂本">□□</span>
+				<note corresp="#坂本">□□</note>
 				□□の買□
 				<lb/>
 				
@@ -1414,6 +1413,7 @@
 				<lb/>
 			</p>
 		</body>
-		   
+		        
 	</text>
+	        
 </TEI>

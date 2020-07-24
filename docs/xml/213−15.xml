@@ -1,0 +1,350 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>18　　(年月日欠)　　　　_渋谷為重陳状（＃２１３−１５）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/213−15/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/213−15/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/16/00000003.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/213−15/manifest.json/canvas/p2" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/16/00000005.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/213−15/manifest.json/canvas/p3" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/16/00000005.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/213−15/manifest.json/canvas/p4" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/16/00000006.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/213−15/manifest.json/canvas/p5" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/16/00000007.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/213−15/manifest.json/canvas/p6" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/16/00000008.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/213−15/manifest.json/canvas/p7" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/16/00000009.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/213−15/manifest.json/canvas/p8" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/16/00000009.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/213−15/manifest.json/canvas/p9" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/16/00000010.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/213−15/manifest.json/canvas/p10" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/16/00000010.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/213−15/manifest.json/canvas/p11" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/16/00000011.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/213−15/manifest.json/canvas/p12" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/16/00000004.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/213−15/manifest.json/canvas/p13" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/16/00000011.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/213−15/manifest.json/canvas/p14" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/16/00000004.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/213−15/manifest.json/canvas/p15" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/16/00000004.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/213−15/manifest.json/canvas/p16" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/16/00000012.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/213−15/manifest.json/canvas/p17" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/16/00000013.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/213−15/manifest.json/canvas/p18" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/16/00000014.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/213−15/manifest.json/canvas/p19" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/16/00000015.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/213−15/manifest.json/canvas/p20" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/16/00000016.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/213−15/manifest.json/canvas/p21" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/16/00000017.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/213−15/manifest.json/canvas/p22" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/16/00000018.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/213−15/manifest.json/canvas/p23" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/16/00000019.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/213−15/manifest.json/canvas/p24" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/16/00000020.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/213−15/manifest.json/canvas/p25" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/16/00000021.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/213−15/manifest.json/canvas/p26" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/16/00000022.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="代">
+					<span>代</span>
+				</span>
+				<span xml:id="脱アルカ">
+					<span>脱アルカ</span>
+				</span>
+				<span xml:id="競望">
+					<span>競望</span>
+				</span>
+				<span xml:id="臨終">
+					<span>臨終</span>
+				</span>
+				<span xml:id="藉">
+					<span>藉</span>
+				</span>
+				<span xml:id="端裏書">
+					<span>端裏書</span>
+				</span>
+				<span xml:id="仮令">
+					<span>仮令</span>
+				</span>
+				<span xml:id="藉、下同ジ">
+					<span>藉、下同ジ</span>
+				</span>
+				<span xml:id="重通">
+					<span>重通</span>
+				</span>
+				<span xml:id="殿">
+					<span>殿</span>
+				</span>
+				<span xml:id="折">
+					<span>折</span>
+				</span>
+				<span xml:id="河会">
+					<span>河会</span>
+				</span>
+				<span xml:id="北条義政">
+					<span>北条義政</span>
+				</span>
+				<span xml:id="木島道覚">
+					<span>木島道覚</span>
+				</span>
+				<span xml:id="端書">
+					<span>端書</span>
+				</span>
+				<span xml:id="待">
+					<span>待</span>
+				</span>
+				<span xml:id="建治三年">
+					<span>建治三年</span>
+				</span>
+				<span xml:id="×ら">
+					<span>×ら</span>
+				</span>
+				<span xml:id="島津久経">
+					<span>島津久経</span>
+				</span>
+				<span xml:id="懲">
+					<span>懲</span>
+				</span>
+				<span xml:id="時宗">
+					<span>時宗</span>
+				</span>
+				<span xml:id="波">
+					<span>波</span>
+				</span>
+				<span xml:id="時村">
+					<span>時村</span>
+				</span>
+				<span xml:id="×せ">
+					<span>×せ</span>
+				</span>
+				<span xml:id="時国">
+					<span>時国</span>
+				</span>
+				<span xml:id="副">
+					<span>副</span>
+				</span>
+				<span xml:id="重時">
+					<span>重時</span>
+				</span>
+				<span xml:id="重通 ">
+					<span>重通 </span>
+				</span>
+				<span xml:id="重員">
+					<span>重員</span>
+				</span>
+				<span xml:id="真性">
+					<span>真性</span>
+				</span>
+				<span xml:id="渋谷">
+					<span>渋谷</span>
+				</span>
+				<span xml:id="粛">
+					<span>粛</span>
+				</span>
+				<span xml:id="頼重">
+					<span>頼重</span>
+				</span>
+				<span xml:id="硫黄島">
+					<span>硫黄島</span>
+				</span>
+				<span xml:id="時頼">
+					<span>時頼</span>
+				</span>
+				<span xml:id="よ一">
+					<span>よ一</span>
+				</span>
+				<span xml:id="半分">
+					<span>半分</span>
+				</span>
+				<span xml:id="通">
+					<span>通</span>
+				</span>
+				<span xml:id="竹鶴">
+					<span>竹鶴</span>
+				</span>
+				<span xml:id="寺尾">
+					<span>寺尾</span>
+				</span>
+				<span xml:id="上庄">
+					<span>上庄</span>
+				</span>
+				<span xml:id="重経">
+					<span>重経</span>
+				</span>
+				<span xml:id="北条時宗">
+					<span>北条時宗</span>
+				</span>
+				<span xml:id="マヽ">
+					<span>マヽ</span>
+				</span>
+				<span xml:id="〓示">
+					<span>〓示</span>
+				</span>
+				<span xml:id="等申">
+					<span>等申</span>
+				</span>
+				<span xml:id="大功田">
+					<span>大功田</span>
+				</span>
+				<span xml:id="×さ">
+					<span>×さ</span>
+				</span>
+				<span xml:id="妙蓮">
+					<span>妙蓮</span>
+				</span>
+				<span xml:id="定仏">
+					<span>定仏</span>
+				</span>
+				<span xml:id="弥毛原">
+					<span>弥毛原</span>
+				</span>
+				<span xml:id="り脱">
+					<span>り脱</span>
+				</span>
+				<span xml:id="安堵">
+					<span>安堵</span>
+				</span>
+				<span xml:id="二階堂行綱">
+					<span>二階堂行綱</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+　　１　将軍家政所下文案
+				<lb/>
+				
+　
+				<note corresp="#端裏書">「</note>
+				具書案」
+				<lb/>
+				
+
+				<note corresp="#端書">「</note>
+				渋谷五郎四郎入道給安堵御下文」
+				<lb/>
+				
+将軍家政所下　　　　　　平重経
+				<lb/>
+				
+　可令早領知相模国吉田上庄号渋谷内寺尾村、伊勢国箕田大功田除女子乙分壱町
+				<lb/>
+				
+美作国河会郷十町村河北、薩摩国入来院内塔原郷以上四至堺各載譲状等地頭職
+				<lb/>
+				
+事
+				<lb/>
+				
+右、任亡父五郎房定心寛元四年三月廿九日、建長三年八月廿四日譲状、
+				<lb/>
+				
+為彼職、守先例可致沙汰之状、所仰如件、以下、
+				<lb/>
+				
+　　　建長七年六月五日　　　　　　　　　　　　案主清原
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　　　　知家事清原
+				<lb/>
+				
+令左衛門少尉藤原
+				<lb/>
+				
+別当陸奥守平
+				<note corresp="#重時">朝臣</note>
+				御判
+				<lb/>
+				
+　　相模守平
+				<note corresp="#時頼">朝臣</note>
+				御判
+				<lb/>
+				
+
+
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

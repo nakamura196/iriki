@@ -1,54 +1,52 @@
 <?xml version="1.0" ?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-	   
+	        
 	<teiHeader>
-		      
+		            
 		<fileDesc>
-			         
+			                
 			<titleStmt>
-				            
+				                    
 				<title>2　　元弘3年7月20日　　_後醍醐天皇綸旨（＃２１５）</title>
-				         
+				                
 			</titleStmt>
-			         
+			                
 			<publicationStmt>
-				            
+				                    
 				<p>Publication Information</p>
-				         
+				                
 			</publicationStmt>
-			         
+			                
 			<sourceDesc>
-				            
+				                    
 				<p>Information about the source</p>
-				         
+				                
 			</sourceDesc>
-			      
+			            
 		</fileDesc>
-		   
+		        
 	</teiHeader>
-	   
+	        
 	<facsimile>
-		      
-		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/450/manifest">
-			      
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/215/manifest.json">
+			            
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/450/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/493/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/215/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/17/00000005.jpg"/>
 			</surface>
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/450/canvas/p2" url="https://diyhistory.org/public/omekas12/iiif-img/494/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/215/manifest.json/canvas/p2" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/17/00000006.jpg"/>
 			</surface>
 		</surfaceGrp>
-		   
+		        
 	</facsimile>
-	   
+	        
 	<text>
-		      
+		            
 		<front>
-			         
+			                
 			<p>
-				         
+				                
 				<span xml:id="懸紙ウハ書">
 					<span>懸紙ウハ書</span>
 				</span>
@@ -56,17 +54,18 @@
 					<span>重兼</span>
 				</span>
 			</p>
-			      
+			            
 		</front>
-		      
+		            
 		<body>
 			<p>
 				<lb/>
-				二一五　後醍醐天皇論旨（宿紙）
+				
+　二一五　後醍醐天皇論旨（宿紙）
 				<lb/>
 				
 薩摩国武光
-				<span corresp="#重兼">三郎</span>
+				<note corresp="#重兼">三郎</note>
 				知行分領、任先規不可有相違者、
 				<lb/>
 				
@@ -80,11 +79,12 @@
 				<lb/>
 				
 　　
-				<span corresp="#懸紙ウハ書">「</span>
+				<note corresp="#懸紙ウハ書">「</note>
 				武光三郎舘　　　」
 				<lb/>
 			</p>
 		</body>
-		   
+		        
 	</text>
+	        
 </TEI>

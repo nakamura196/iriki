@@ -1,51 +1,49 @@
 <?xml version="1.0" ?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-	   
+	        
 	<teiHeader>
-		      
+		            
 		<fileDesc>
-			         
+			                
 			<titleStmt>
-				            
+				                    
 				<title>24　　(年未詳)4月21日　　今川了俊(貞世)書状（＃１９１）</title>
-				         
+				                
 			</titleStmt>
-			         
+			                
 			<publicationStmt>
-				            
+				                    
 				<p>Publication Information</p>
-				         
+				                
 			</publicationStmt>
-			         
+			                
 			<sourceDesc>
-				            
+				                    
 				<p>Information about the source</p>
-				         
+				                
 			</sourceDesc>
-			      
+			            
 		</fileDesc>
-		   
+		        
 	</teiHeader>
-	   
+	        
 	<facsimile>
-		      
-		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/427/manifest">
-			      
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/191/manifest.json">
+			            
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/427/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/934/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/191/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/14/00000028.jpg"/>
 			</surface>
 		</surfaceGrp>
-		   
+		        
 	</facsimile>
-	   
+	        
 	<text>
-		      
+		            
 		<front>
-			         
+			                
 			<p>
-				         
+				                
 				<span xml:id="重頼">
 					<span>重頼</span>
 				</span>
@@ -53,17 +51,18 @@
 					<span>端裏切封</span>
 				</span>
 			</p>
-			      
+			            
 		</front>
-		      
+		            
 		<body>
 			<p>
 				<lb/>
-				一九一　今川了俊貞世書状（切紙）
+				
+　一九一　今川了俊貞世書状（切紙）
 				<lb/>
 				
 　　　　
-				<span corresp="#端裏切封">「</span>
+				<note corresp="#端裏切封">「</note>
 				　　」
 				<lb/>
 				
@@ -83,11 +82,12 @@
 				<lb/>
 				
 　　　渋谷
-				<span corresp="#重頼">乕五郎</span>
+				<note corresp="#重頼">乕五郎</note>
 				殿
 				<lb/>
 			</p>
 		</body>
-		   
+		        
 	</text>
+	        
 </TEI>

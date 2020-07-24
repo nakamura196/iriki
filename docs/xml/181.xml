@@ -1,49 +1,49 @@
 <?xml version="1.0" ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-	   
+	        
 	<teiHeader>
-		      
+		            
 		<fileDesc>
-			         
+			                
 			<titleStmt>
-				            
+				                    
 				<title>14　　永和3年9月15日　　_今川了俊(貞世)書状（＃１８１）</title>
-				         
+				                
 			</titleStmt>
-			         
+			                
 			<publicationStmt>
-				            
+				                    
 				<p>Publication Information</p>
-				         
+				                
 			</publicationStmt>
-			         
+			                
 			<sourceDesc>
-				            
+				                    
 				<p>Information about the source</p>
-				         
+				                
 			</sourceDesc>
-			      
+			            
 		</fileDesc>
-		   
+		        
 	</teiHeader>
-	   
+	        
 	<facsimile>
-		      
+		            
 		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/181/manifest.json">
-			      
+			            
 			<surface>
 				<graphic n="https://nakamura196.github.io/iriki/iiif/181/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/14/00000017.jpg"/>
 			</surface>
 		</surfaceGrp>
-		   
+		        
 	</facsimile>
-	   
+	        
 	<text>
-		      
+		            
 		<front>
-			         
+			                
 			<p>
-				         
+				                
 				<span xml:id="重頼">
 					<span>重頼</span>
 				</span>
@@ -51,31 +51,34 @@
 					<span>貞世</span>
 				</span>
 			</p>
-			      
+			            
 		</front>
-		      
+		            
 		<body>
 			<p>
-				一八一　今川了俊貞世書下（小切紙）
-				<br/>
+				<lb/>
+				
+　一八一　今川了俊貞世書下（小切紙）
+				<lb/>
 				
 不日可令参陣云〃、然者本領知行分等事、如元不可有相違状、依仰執達
-				<br/>
+				<lb/>
 				
 如件、
-				<br/>
+				<lb/>
 				
 　　　永和三年九月十五日　　
 				<note corresp="#貞世">沙弥</note>
 				（花押）
-				<br/>
+				<lb/>
 				
 　　　　渋谷
 				<note corresp="#重頼">乕五郎</note>
 				殿
-				<br/>
+				<lb/>
 			</p>
 		</body>
-		   
+		        
 	</text>
+	        
 </TEI>

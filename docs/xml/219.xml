@@ -1,51 +1,52 @@
 <?xml version="1.0" ?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-	   
+	        
 	<teiHeader>
-		      
+		            
 		<fileDesc>
-			         
+			                
 			<titleStmt>
-				            
+				                    
 				<title>6　　建武4年2月12日　　_足利直義御判御教書（＃２１９）</title>
-				         
+				                
 			</titleStmt>
-			         
+			                
 			<publicationStmt>
-				            
+				                    
 				<p>Publication Information</p>
-				         
+				                
 			</publicationStmt>
-			         
+			                
 			<sourceDesc>
-				            
+				                    
 				<p>Information about the source</p>
-				         
+				                
 			</sourceDesc>
-			      
+			            
 		</fileDesc>
-		   
+		        
 	</teiHeader>
-	   
+	        
 	<facsimile>
-		      
-		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/454/manifest">
-			      
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/219/manifest.json">
+			            
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/454/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/941/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/219/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/17/00000010.jpg"/>
 			</surface>
 		</surfaceGrp>
-		   
+		        
 	</facsimile>
-	   
+	        
 	<text>
-		      
+		            
 		<front>
-			         
+			                
 			<p>
-				         
+				                
+				<span xml:id="重兼">
+					<span>重兼</span>
+				</span>
 				<span xml:id="重見">
 					<span>重見</span>
 				</span>
@@ -55,24 +56,22 @@
 				<span xml:id="直義">
 					<span>直義</span>
 				</span>
-				<span xml:id="重兼">
-					<span>重兼</span>
-				</span>
 			</p>
-			      
+			            
 		</front>
-		      
+		            
 		<body>
 			<p>
 				<lb/>
-				二一九　足利直義御判御教書
+				
+　二一九　足利直義御判御教書
 				<lb/>
 				
 度〃合戦候間、自身并郎従被疵之条、尤神妙也、於恩賞者、追可有其沙
 				<lb/>
 				
 汰、将又敦賀城凶徒誅伐事、嶋津
-				<span corresp="#頼久">孫三郎</span>
+				<note corresp="#頼久">孫三郎</note>
 				相共馳向彼戦場、可抽軍忠之状
 				<lb/>
 				
@@ -80,15 +79,16 @@
 				<lb/>
 				
 　　　建武四年二月十二日　　　　　　　　　　　
-				<span corresp="#直義">（花押）</span>
+				<note corresp="#直義">（花押）</note>
 				<lb/>
 				
 　　　武光
-				<span corresp="#重兼">三郎</span>
+				<note corresp="#重兼">三郎</note>
 				殿
 				<lb/>
 			</p>
 		</body>
-		   
+		        
 	</text>
+	        
 </TEI>

@@ -1,84 +1,83 @@
 <?xml version="1.0" ?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-	   
+	        
 	<teiHeader>
-		      
+		            
 		<fileDesc>
-			         
+			                
 			<titleStmt>
-				            
+				                    
 				<title>5　　(至徳2年カ)8月10日_今川了俊(貞世)自筆書状（＃２０１）</title>
-				         
+				                
 			</titleStmt>
-			         
+			                
 			<publicationStmt>
-				            
+				                    
 				<p>Publication Information</p>
-				         
+				                
 			</publicationStmt>
-			         
+			                
 			<sourceDesc>
-				            
+				                    
 				<p>Information about the source</p>
-				         
+				                
 			</sourceDesc>
-			      
+			            
 		</fileDesc>
-		   
+		        
 	</teiHeader>
-	   
+	        
 	<facsimile>
-		      
-		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/437/manifest">
-			      
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/201/manifest.json">
+			            
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/437/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/491/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/201/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/15/00000011.jpg"/>
 			</surface>
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/437/canvas/p2" url="https://diyhistory.org/public/omekas12/iiif-img/492/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/201/manifest.json/canvas/p2" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/15/00000012.jpg"/>
 			</surface>
 		</surfaceGrp>
-		   
+		        
 	</facsimile>
-	   
+	        
 	<text>
-		      
+		            
 		<front>
-			         
+			                
 			<p>
-				         
+				                
 				<span xml:id="義">
 					<span>義</span>
-				</span>
-				<span xml:id="島津">
-					<span>島津</span>
-				</span>
-				<span xml:id="重頼">
-					<span>重頼</span>
-				</span>
-				<span xml:id="懸紙ウハ書">
-					<span>懸紙ウハ書</span>
-				</span>
-				<span xml:id="至徳二年カ">
-					<span>至徳二年カ</span>
 				</span>
 				<span xml:id="端裏切封">
 					<span>端裏切封</span>
 				</span>
+				<span xml:id="至徳二年カ">
+					<span>至徳二年カ</span>
+				</span>
+				<span xml:id="重頼">
+					<span>重頼</span>
+				</span>
+				<span xml:id="島津">
+					<span>島津</span>
+				</span>
+				<span xml:id="懸紙ウハ書">
+					<span>懸紙ウハ書</span>
+				</span>
 			</p>
-			      
+			            
 		</front>
-		      
+		            
 		<body>
 			<p>
 				<lb/>
-				二〇一　今川了俊貞世自筆書状（切紙）
+				
+　二〇一　今川了俊貞世自筆書状（切紙）
 				<lb/>
 				
 　　　
-				<span corresp="#端裏切封">「</span>
+				<note corresp="#端裏切封">「</note>
 				　　」
 				<lb/>
 				
@@ -86,7 +85,7 @@
 				<lb/>
 				
 之候、仰候ハヽ公方ニ取申へく候、　抑薩州事、
-				<span corresp="#島津">伊久</span>
+				<note corresp="#島津">伊久</note>
 				振舞ニよりて、今
 				<lb/>
 				
@@ -100,7 +99,7 @@
 				<lb/>
 				
 
-				<span corresp="#義">儀</span>
+				<note corresp="#義">儀</note>
 				候ハすとも、我〃か子共うちころし候ハんと仕候時ハ、一度ハ御合力
 				<lb/>
 				
@@ -120,21 +119,22 @@
 				<lb/>
 				
 　　　
-				<span corresp="#至徳二年カ">八月十日</span>
+				<note corresp="#至徳二年カ">八月十日</note>
 				　　　　了俊（花押）
 				<lb/>
 				
 　　　渋谷
-				<span corresp="#重頼">五郎</span>
+				<note corresp="#重頼">五郎</note>
 				殿御返事
 				<lb/>
 				
 　　
-				<span corresp="#懸紙ウハ書">「</span>
+				<note corresp="#懸紙ウハ書">「</note>
 				渋谷五郎殿御返事　　　　了俊」
 				<lb/>
 			</p>
 		</body>
-		   
+		        
 	</text>
+	        
 </TEI>

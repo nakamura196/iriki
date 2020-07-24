@@ -1,83 +1,82 @@
 <?xml version="1.0" ?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-	   
+	        
 	<teiHeader>
-		      
+		            
 		<fileDesc>
-			         
+			                
 			<titleStmt>
-				            
+				                    
 				<title>1　　正和3年10月3日　　_藤原親郷等勘渡文書目録（＃２２６）</title>
-				         
+				                
 			</titleStmt>
-			         
+			                
 			<publicationStmt>
-				            
+				                    
 				<p>Publication Information</p>
-				         
+				                
 			</publicationStmt>
-			         
+			                
 			<sourceDesc>
-				            
+				                    
 				<p>Information about the source</p>
-				         
+				                
 			</sourceDesc>
-			      
+			            
 		</fileDesc>
-		   
+		        
 	</teiHeader>
-	   
+	        
 	<facsimile>
-		      
-		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/461/manifest">
-			      
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/226/manifest.json">
+			            
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/461/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/894/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/226/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/18/00000003.jpg"/>
 			</surface>
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/461/canvas/p2" url="https://diyhistory.org/public/omekas12/iiif-img/895/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/226/manifest.json/canvas/p2" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/18/00000004.jpg"/>
 			</surface>
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/461/canvas/p3" url="https://diyhistory.org/public/omekas12/iiif-img/896/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/226/manifest.json/canvas/p3" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/18/00000005.jpg"/>
 			</surface>
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/461/canvas/p4" url="https://diyhistory.org/public/omekas12/iiif-img/897/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/226/manifest.json/canvas/p4" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/18/00000006.jpg"/>
 			</surface>
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/461/canvas/p5" url="https://diyhistory.org/public/omekas12/iiif-img/898/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/226/manifest.json/canvas/p5" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/18/00000007.jpg"/>
 			</surface>
 		</surfaceGrp>
-		   
+		        
 	</facsimile>
-	   
+	        
 	<text>
-		      
+		            
 		<front>
-			         
+			                
 			<p>
-				         
-				<span xml:id="重見">
-					<span>重見</span>
-				</span>
-				<span xml:id="議">
-					<span>議</span>
-				</span>
+				                
 				<span xml:id="×通">
 					<span>×通</span>
+				</span>
+				<span xml:id="重見">
+					<span>重見</span>
 				</span>
 				<span xml:id="状脱カ">
 					<span>状脱カ</span>
 				</span>
+				<span xml:id="議">
+					<span>議</span>
+				</span>
 			</p>
-			      
+			            
 		</front>
-		      
+		            
 		<body>
 			<p>
 				<lb/>
-				二二六　藤原親郷等勘渡文書目録
+				
+　二二六　藤原親郷等勘渡文書目録
 				<lb/>
 				
 　　　　　　○コノ文書、紙継目裏毎（※印ノ部分）ニ藤原親郷ノ花押アリ、
@@ -99,7 +98,7 @@
 				<lb/>
 				
 一通　師高
-				<span corresp="#状脱カ">譲</span>
+				<note corresp="#状脱カ">譲</note>
 				案文　貞応元年八月日
 				<lb/>
 				
@@ -185,7 +184,7 @@
 				<lb/>
 				
 一
-				<span corresp="#×通">巻</span>
+				<note corresp="#×通">巻</note>
 				　車内証文并地頭与領家相論訴陳状・具書等案文、皆封裏進之、
 				<lb/>
 				
@@ -214,7 +213,7 @@
 				<lb/>
 				
 者、随見出而可進之、不思
-				<span corresp="#議">儀</span>
+				<note corresp="#議">儀</note>
 				仁天毛彼名并在庁職証文等、他人帯持之由承
 				<lb/>
 				
@@ -246,6 +245,7 @@
 				<lb/>
 			</p>
 		</body>
-		   
+		        
 	</text>
+	        
 </TEI>

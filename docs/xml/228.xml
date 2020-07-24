@@ -1,87 +1,86 @@
 <?xml version="1.0" ?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-	   
+	        
 	<teiHeader>
-		      
+		            
 		<fileDesc>
-			         
+			                
 			<titleStmt>
-				            
+				                    
 				<title>3　　正応元年10月3日　　蒙古合戦勲功賞配分状（＃２２８）</title>
-				         
+				                
 			</titleStmt>
-			         
+			                
 			<publicationStmt>
-				            
+				                    
 				<p>Publication Information</p>
-				         
+				                
 			</publicationStmt>
-			         
+			                
 			<sourceDesc>
-				            
+				                    
 				<p>Information about the source</p>
-				         
+				                
 			</sourceDesc>
-			      
+			            
 		</fileDesc>
-		   
+		        
 	</teiHeader>
-	   
+	        
 	<facsimile>
-		      
-		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/463/manifest">
-			      
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/228/manifest.json">
+			            
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/463/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/487/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/228/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/18/00000015.jpg"/>
 			</surface>
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/463/canvas/p2" url="https://diyhistory.org/public/omekas12/iiif-img/488/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/228/manifest.json/canvas/p2" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/18/00000016.jpg"/>
 			</surface>
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/463/canvas/p3" url="https://diyhistory.org/public/omekas12/iiif-img/489/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/228/manifest.json/canvas/p3" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/18/00000017.jpg"/>
 			</surface>
 		</surfaceGrp>
-		   
+		        
 	</facsimile>
-	   
+	        
 	<text>
-		      
+		            
 		<front>
-			         
+			                
 			<p>
-				         
-				<span xml:id="重見">
-					<span>重見</span>
-				</span>
-				<span xml:id="少弐経資">
-					<span>少弐経資</span>
-				</span>
+				                
 				<span xml:id="大友頼泰">
 					<span>大友頼泰</span>
-				</span>
-				<span xml:id="筑後">
-					<span>筑後</span>
 				</span>
 				<span xml:id="端裏書">
 					<span>端裏書</span>
 				</span>
+				<span xml:id="重見">
+					<span>重見</span>
+				</span>
+				<span xml:id="筑後">
+					<span>筑後</span>
+				</span>
+				<span xml:id="少弐経資">
+					<span>少弐経資</span>
+				</span>
 			</p>
-			      
+			            
 		</front>
-		      
+		            
 		<body>
 			<p>
 				<lb/>
-				二二八　蒙古合戦勲功賞配分状
+				
+　二二八　蒙古合戦勲功賞配分状
 				<lb/>
 				
 　　　　　　○コノ文書、上部ニ五条ノ罫線ヲ引キタリ、
 				<lb/>
 				
 
-				<span corresp="#端裏書">「</span>
+				<note corresp="#端裏書">「</note>
 				七」
 				<lb/>
 				
@@ -134,7 +133,7 @@
 				<lb/>
 				
 　　
-				<span corresp="#筑後">長淵</span>
+				<note corresp="#筑後">長淵</note>
 				庄内
 				<lb/>
 				
@@ -154,16 +153,17 @@
 				<lb/>
 				
 　　　　　　　　　　　　　　　　　　　　　　
-				<span corresp="#少弐経資">沙　弥</span>
+				<note corresp="#少弐経資">沙　弥</note>
 				（花押）
 				<lb/>
 				
 　　　　　　　　　　　　　　　　　　　　　　
-				<span corresp="#大友頼泰">沙　弥</span>
+				<note corresp="#大友頼泰">沙　弥</note>
 				（花押）
 				<lb/>
 			</p>
 		</body>
-		   
+		        
 	</text>
+	        
 </TEI>

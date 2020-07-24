@@ -1,0 +1,2446 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>(年月日欠)　　　　_大隅蒲生内平松水田坪付帳（＃２３７）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/237/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000001.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p2" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000002.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p3" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000003.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p4" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000004.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p5" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000005.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p6" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000006.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p7" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000007.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p8" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000008.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p9" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000009.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p10" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000010.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p11" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000011.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p12" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000012.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p13" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000013.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p14" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000014.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p15" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000015.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p16" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000016.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p17" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000017.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p18" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000018.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p19" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000019.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p20" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000020.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p21" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000021.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p22" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000022.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p23" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000023.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p24" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000024.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p25" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000025.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p26" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000026.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p27" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000027.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p28" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000028.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p29" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000029.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p30" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000030.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p31" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000031.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p32" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000032.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p33" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000033.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p34" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000034.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p35" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000035.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p36" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000036.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p37" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000037.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p38" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000038.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p39" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000039.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p40" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000040.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p41" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000041.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p42" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000042.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p43" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000043.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p44" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000044.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p45" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000045.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p46" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000046.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p47" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000047.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p48" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000048.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p49" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000049.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p50" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000050.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p51" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000051.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p52" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000052.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p53" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000053.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p54" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000054.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p55" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000055.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p56" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000056.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p57" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000057.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/237/manifest.json/canvas/p58" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/19/00000058.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="重見">
+					<span>重見</span>
+				</span>
+				<span xml:id="小林庵">
+					<span>小林庵</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+　二三七　大隅蒲生内平松水田坪付帳
+				<lb/>
+				
+　　　　　　○墨付五五丁、合点ノ筆、実線ハ朱、点線ハ墨ニカヽル、
+				<lb/>
+				
+（表紙）
+				<lb/>
+				
+　　平松水田坪付帳　　　　　　　　三十三番
+				<lb/>
+				
+　　　　平松水田坪付
+				<lb/>
+				
+　　　上つるの門
+				<lb/>
+				
+一反　　　　　　　　　　　とひ山
+				<lb/>
+				
+二反　　　　　　　　　　　上とひ山
+				<lb/>
+				
+一町五反　　　　　　　　　なか田
+				<lb/>
+				
+一反　　　　　　　　　　　池の大王　又なか田
+				<lb/>
+				
+二反　　　　　　　　　　　たてかミ大明神霜月祭田　とひ山
+				<lb/>
+				
+一反　　　　　　　　　　　池の大王の霜月祭田　いけのわう
+				<lb/>
+				
+二反　　　　　　　　　　　つてんさこ
+				<lb/>
+				
+三反　　　　　　　　　　　柳のもと
+				<lb/>
+				
+一反　　　　　　　　　　　たふの木の下
+				<lb/>
+				
+一反三丁此内三丁年〃不　　柳田
+				<lb/>
+				
+三丁　　　　　　　　　　　あふ木のもと
+				<lb/>
+				
+二丁　　　　　　　　　　　ふろのうと
+				<lb/>
+				
+　　　已上水田三町三丁
+				<lb/>
+				
+一ヶ所六舛まき　　　　　　門居屋敷
+				<lb/>
+				
+一ヶ所二舛　　　　　　　　外その
+				<lb/>
+				
+二町四反　　　　　　　　　まへ
+				<lb/>
+				
+三反　　　　　　　　　　　竹の下
+				<lb/>
+				
+五反　　　　　　　　　　　下つる
+				<lb/>
+				
+一反　　　　　　　　　　　つる
+				<lb/>
+				
+　　　以上畠地三町三反
+				<lb/>
+				
+　定田数二町八反　　与二反三丁
+				<lb/>
+				
+　　　はるくちの門
+				<lb/>
+				
+一反二丁　　　　　　　　　古川
+				<lb/>
+				
+三反二丁　　　　　　　　　あらひら
+				<lb/>
+				
+四反　　　　　　　　　　　さこ田
+				<lb/>
+				
+　　　已上水田八反四丁
+				<lb/>
+				
+一ヶ所三舛まき　　　　　　門居屋敷
+				<lb/>
+				
+一反　　　　　　　　　　　さし柳
+				<lb/>
+				
+三反　本ハ田也、　　　　　又さし柳
+				<lb/>
+				
+二丁　　　　　　　　　　　北村のうしろ
+				<lb/>
+				
+Ｐ１０１
+				<lb/>
+				
+一反二丁　　　　　　　　　うしこめ
+				<lb/>
+				
+一反　地蔵あふらめん　　　まへ
+				<lb/>
+				
+一町七反　　　　　　　　　堀のうち
+				<lb/>
+				
+四反　　　　　　　　　　　まへのその
+				<lb/>
+				
+八反　　　　　　　　　　　後のさこ
+				<lb/>
+				
+二反　　　　　　　　　　　北のその
+				<lb/>
+				
+三丁　　　　　　　　　　　堀のうち
+				<lb/>
+				
+　　　以上畠地三町八反二丁
+				<lb/>
+				
+　定田数七反四丁　　与一反
+				<lb/>
+				
+　　　かり屋の門
+				<lb/>
+				
+一反丁　　　　　　　　　　借屋の下
+				<lb/>
+				
+二反　　　　　　　　　　　古川　　川ナリ
+				<lb/>
+				
+二反　　　　　　　　　　　かミ柳
+				<lb/>
+				
+一町　　　　　　　　　　　をミとり
+				<lb/>
+				
+二反　　　　　　　　　　　竹の下
+				<lb/>
+				
+三反　　　　　　　　　　　あらひら
+				<lb/>
+				
+一反　　　　　　　　　　　よしき田
+				<lb/>
+				
+　　　已上水田二町一反丁
+				<lb/>
+				
+一ヶ所五舛まき　　　　　　門居屋敷
+				<lb/>
+				
+二反　　　　　　　　　　　ほかその
+				<lb/>
+				
+九反　　　　　　　　　　　まへ
+				<lb/>
+				
+七反　　　　　　　　　　　堀のうち
+				<lb/>
+				
+一町一反　　　　　　　　　古屋敷
+				<lb/>
+				
+五反　　　　　　　　　　　つる
+				<lb/>
+				
+一反　　　　　　　　　　　井の上
+				<lb/>
+				
+　　　以上畠地三町五反
+				<lb/>
+				
+　定田数一町九反　　与二反丁
+				<lb/>
+				
+　　　坂の上の門
+				<lb/>
+				
+四反　　　　　　　　　　　古川
+				<lb/>
+				
+三反三丁　　　　　　　　　なか山
+				<lb/>
+				
+二丁　　　　　　　　　　　川そひ
+				<lb/>
+				
+二反　　　　　　　　　　　しやうのその
+				<lb/>
+				
+一反　　　　　　　　　　　川くほ
+				<lb/>
+				
+二反　　　　　　　　　　　なか田
+				<lb/>
+				
+　　　已上水田一町三反
+				<lb/>
+				
+一ヶ所三舛まき　　　　　　門居屋敷
+				<lb/>
+				
+二反　　　　　　　　　　　なか嶋
+				<lb/>
+				
+六反　　　　　　　　　　　向のその
+				<lb/>
+				
+一町　　　　　　　　　　　外薗
+				<lb/>
+				
+　　　以上畠地一町八反
+				<lb/>
+				
+　定田数一町一反　　与二反
+				<lb/>
+				
+　　　山の口の門
+				<lb/>
+				
+二反　　　　　　　　　　　古川
+				<lb/>
+				
+二反三丁　　　　　　　　　二せまち
+				<lb/>
+				
+三反三丁　　　　　　　　　ほとけのまへ
+				<lb/>
+				
+Ｐ１０２
+				<lb/>
+				
+三丁　　　　　　　　　　　かミさき
+				<lb/>
+				
+二丁　　　　　　　　　　　大路そひ
+				<lb/>
+				
+三反　　　　　　　　　　　なか山
+				<lb/>
+				
+二反　　　　　　　　　　　あらひら
+				<lb/>
+				
+三丁　　　　　　　　　　　柳のもと
+				<lb/>
+				
+三反　　　　　　　　　　　かきのうち
+				<lb/>
+				
+一反二丁　　　　　　　　　半の丸
+				<lb/>
+				
+二反　　　　　　　　　　　又ほとけのまへ
+				<lb/>
+				
+一反　　　　　　　　　　　くちのつほ
+				<lb/>
+				
+二丁中　　　　　　　　　　かり川
+				<lb/>
+				
+一反　　　　　　　　　　　谷くち
+				<lb/>
+				
+三丁　　　　　　　　　　　くろ石の尾
+				<lb/>
+				
+三反三丁　　　　　　　　　さし柳
+				<lb/>
+				
+　　　已上水田二町七反四丁中
+				<lb/>
+				
+一ヶ所二舛まき　　　　　　門居屋敷
+				<lb/>
+				
+二反　　　　　　　　　　　かミさき
+				<lb/>
+				
+一反　　　　　　　　　　　まへ
+				<lb/>
+				
+二反　　　　　　　　　　　田かた
+				<lb/>
+				
+一ヶ所二舛　　　　　　　　谷くちニ有
+				<lb/>
+				
+一反　　　　　　　　　　　宮のまへ
+				<lb/>
+				
+七反　　　　　　　　　　　かり川
+				<lb/>
+				
+二反　　　　　　　　　　　堂のまへ
+				<lb/>
+				
+　　　以上畠地一町五反
+				<lb/>
+				
+　定田数二町六反　　与一反四丁中
+				<lb/>
+				
+　　　下きやうてんの門
+				<lb/>
+				
+二反　　　　　　　　　　　古川
+				<lb/>
+				
+一反丁　　　　　　　　　　こみねか崎
+				<lb/>
+				
+二反丁　　　　　　　　　　あらひら
+				<lb/>
+				
+一反三丁　　　　　　　　　谷くち
+				<lb/>
+				
+二反　　　　　　　　　　　宮のまへ
+				<lb/>
+				
+五反　　　　　　　　　　　なか池
+				<lb/>
+				
+三丁　　　　　　　　　　　又なか池
+				<lb/>
+				
+　　　已上水田一町四反三丁
+				<lb/>
+				
+一ヶ所　　　　　　　　　　門居屋敷
+				<lb/>
+				
+一反　　　　　　　　　　　宮のまへ
+				<lb/>
+				
+三反　　　　　　　　　　　堂のまへ
+				<lb/>
+				
+二反　山野分　　　　　　　くほのその
+				<lb/>
+				
+　　　以上畠地六反
+				<lb/>
+				
+　定田数一町三反　　与一反三丁
+				<lb/>
+				
+　　　まかりさこの門
+				<lb/>
+				
+一反　　　　　　　　　　　つる
+				<lb/>
+				
+一反　　　　　　　　　　　古川　　川ナリ
+				<lb/>
+				
+五反　　　　　　　　　　　たけのまへ
+				<lb/>
+				
+一反　　　　　　　　　　　いなり田
+				<lb/>
+				
+六反　　　　　　　　　　　内まかと
+				<lb/>
+				
+二反　　　　　　　　　　　坂もと
+				<lb/>
+				
+二反　　　　　　　　　　　いなむれのまへ
+				<lb/>
+				
+Ｐ１０３
+				<lb/>
+				
+二丁　　　　　　　　　　　たつはミの本
+				<lb/>
+				
+　　　以上水田一町八反二丁
+				<lb/>
+				
+一ヶ所三舛まき　　　　　　門居屋敷
+				<lb/>
+				
+二町一反　　　　　　　　　つる
+				<lb/>
+				
+一反　　　　　　　　　　　くるまた
+				<lb/>
+				
+三町二反　　　　　　　　　馬場しり
+				<lb/>
+				
+九反　　　　　　　　　　　寺のまへ
+				<lb/>
+				
+三丁　　　　　　　　　　　まかと
+				<lb/>
+				
+一反　　　　　　　　　　　たつはミの本
+				<lb/>
+				
+一ヶ所三舛　　　　　　　　たつはミニ有
+				<lb/>
+				
+　　　以上畠地六町四反三丁
+				<lb/>
+				
+　定田数一町七反　　与一反二丁
+				<lb/>
+				
+　　　中村の門
+				<lb/>
+				
+二反　　　　　　　　　　　河くほ
+				<lb/>
+				
+二反　　　　　　　　　　　いはつるき田
+				<lb/>
+				
+四反　　　　　　　　　　　池のわう
+				<lb/>
+				
+二反　　　　　　　　　　　片ひら田
+				<lb/>
+				
+三反三丁　　　　　　　　　ひき山
+				<lb/>
+				
+三反　　　　　　　　　　　しろかね
+				<lb/>
+				
+二反　　　　　　　　　　　竹の下
+				<lb/>
+				
+二反　　　　　　　　　　　なか池
+				<lb/>
+				
+四反　　　　　　　　　　　まへ田
+				<lb/>
+				
+　　　已上水田二町四反三丁
+				<lb/>
+				
+一ヶ所一斗まき　　　　　　門居屋敷
+				<lb/>
+				
+二町　　　　　　　　　　　中村その
+				<lb/>
+				
+一反　　　　　　　　　　　古屋敷
+				<lb/>
+				
+九反　　　　　　　　　　　はか
+				<lb/>
+				
+一反　あミためん　　　　　宮のまへ
+				<lb/>
+				
+　　　以上畠地三町一反
+				<lb/>
+				
+　定田数二町二反　　与二反三丁
+				<lb/>
+				
+　　　北村の門
+				<lb/>
+				
+一反二丁　　　　　　　　　こ岩の下
+				<lb/>
+				
+一町一反　　　　　　　　　楠の木の丸
+				<lb/>
+				
+三反　ミつかミ田　　　　　かいもと
+				<lb/>
+				
+三反　六ヶ所祭田　　　　　ミや田
+				<lb/>
+				
+二丁　　　　　　　　　　　　竹の下
+				<lb/>
+				
+丁　　　　　　　　　　　　ふる川　　川ナリ
+				<lb/>
+				
+　　　已上水田一町九反
+				<lb/>
+				
+一ヶ所　　　　　　　　　　門居屋敷
+				<lb/>
+				
+一反　　　　　　　　　　　つる
+				<lb/>
+				
+二反　　　　　　　　　　　くほ
+				<lb/>
+				
+三町四反　　　　　　　　　かミさき
+				<lb/>
+				
+　　　以上畠三町七反
+				<lb/>
+				
+　定田数一町七反　　与二反
+				<lb/>
+				
+　　　大そのゝ門
+				<lb/>
+				
+Ｐ１０４
+				<lb/>
+				
+一反　　　　　　　　　　　ちうしやう作
+				<lb/>
+				
+二反二丁　　　　　　　　　山下
+				<lb/>
+				
+七反　　　　　　　　　　　さこ田
+				<lb/>
+				
+三丁　　　　　　　　　　　　ひらき
+				<lb/>
+				
+三反　　　　　　　　　　　めくし
+				<lb/>
+				
+二反　　　　　　　　　　　しろかね
+				<lb/>
+				
+　　　已上水田一町六反
+				<lb/>
+				
+一ヶ所五舛まき　　　　　　門居屋敷
+				<lb/>
+				
+一反　　　　　　　　　　　山した
+				<lb/>
+				
+二町六反　　　　　　　　　そのはたけ
+				<lb/>
+				
+　　　以上二町七反
+				<lb/>
+				
+　定田数一町五反　　与一反
+				<lb/>
+				
+　　　しやうせの門
+				<lb/>
+				
+四反二丁　　　　　　　　　山した
+				<lb/>
+				
+一反丁　こんけん霜月祭田　又山した
+				<lb/>
+				
+一反　　　　　　　　　　　谷のくち
+				<lb/>
+				
+一反丁　　　　　　　　　　中の堀町
+				<lb/>
+				
+二反　　　　　　　　　　　くろ石か尾
+				<lb/>
+				
+　　　已上水田九反四丁
+				<lb/>
+				
+一ヶ所三舛まき　　　　　　門居屋敷
+				<lb/>
+				
+二反　　　　　　　　　　　つる
+				<lb/>
+				
+五反　　　　　　　　　　　くほ
+				<lb/>
+				
+　　　以上畠地七反
+				<lb/>
+				
+　定田数八反　　与一反四丁
+				<lb/>
+				
+　　　ほし原の門
+				<lb/>
+				
+三反　　　　　　　　　　　一宮田　宮田
+				<lb/>
+				
+二反　　　　　　　　　　　ひら田
+				<lb/>
+				
+四反　　　　　　　　　　　梅の木か丸
+				<lb/>
+				
+六反　　　　　　　　　　　さし柳
+				<lb/>
+				
+一反丁　　　　　　　　　　またさし柳
+				<lb/>
+				
+四反　　　　　　　　　　　その田
+				<lb/>
+				
+　　　已上水田二反丁
+				<lb/>
+				
+一ヶ所　　　　　　　　　　門居屋敷
+				<lb/>
+				
+三町　　　　　　　　　　　ほしハら
+				<lb/>
+				
+　　　以上畠地三町
+				<lb/>
+				
+　定田数一町八反　　与二反丁
+				<lb/>
+				
+　　　上きやうてんの門
+				<lb/>
+				
+四反三丁　　　　　　　　　　しんかい
+				<lb/>
+				
+丁　　　　　　　　　　　　しやうのその
+				<lb/>
+				
+一反　　　　　　　　　　　ゑこ
+				<lb/>
+				
+七反　此内一反年〃不　　　かり川
+				<lb/>
+				
+一反　　　　　　　　　　　わきの丸
+				<lb/>
+				
+四丁　　　　　　　　　　　　宮のまへ
+				<lb/>
+				
+　　　已上水田一町四反三丁
+				<lb/>
+				
+一ヶ所二反　　　　　　　　門居屋敷
+				<lb/>
+				
+Ｐ１０５
+				<lb/>
+				
+一反丁　　　　　　　　　　さかもと
+				<lb/>
+				
+八反　　　　　　　　　　　後ニ有
+				<lb/>
+				
+九反　　　　　　　　　　　又後ニ有
+				<lb/>
+				
+一町四反　　　　　　　　　宮の後
+				<lb/>
+				
+七反　　　　　　　　　　　堀のうち
+				<lb/>
+				
+四反　　　　　　　　　　　まへ
+				<lb/>
+				
+一町四反　山野分　　　　　きやうてんの原
+				<lb/>
+				
+四反　　　　　　　　　　　松の原
+				<lb/>
+				
+一反　　　　　　　　　　　すわの原
+				<lb/>
+				
+　　　以上畠地六町二反丁
+				<lb/>
+				
+　定田数一町三反　　与一反三丁
+				<lb/>
+				
+　　　たて野ゝ門
+				<lb/>
+				
+二反　　　　　　　　　　　山した
+				<lb/>
+				
+一反三丁　　　　　　　　　屋敷の下
+				<lb/>
+				
+二丁　　　　　　　　　　　しろかねの口
+				<lb/>
+				
+二反　　　　　　　　　　　はしの口
+				<lb/>
+				
+三丁　　　　　　　　　　　かに田
+				<lb/>
+				
+一反　こんけん田　　　　　池嶋
+				<lb/>
+				
+八反　　　　　　　　　　　又池嶋
+				<lb/>
+				
+丁　　　　　　　　　　　　かりかわ
+				<lb/>
+				
+二反二丁　　　　　　　　　さし柳
+				<lb/>
+				
+　　　已上水田一町八反丁
+				<lb/>
+				
+一ヶ所三舛まき　　　　　　門居屋敷
+				<lb/>
+				
+一反丁　　　　　　　　　　堀のくち
+				<lb/>
+				
+一反　　　　　　　　　　　しろかねの口
+				<lb/>
+				
+一町三反　　　　　　　　　うしろその
+				<lb/>
+				
+二反　　　　　　　　　　　田かた
+				<lb/>
+				
+二反　　　　　　　　　　　かり川
+				<lb/>
+				
+一反　本ハ田也、　　　　　さし柳
+				<lb/>
+				
+四反　　　　　　　　　　　山野分有
+				<lb/>
+				
+　　　以上畠地二町四反丁
+				<lb/>
+				
+　定田数一町七反　　与一反丁
+				<lb/>
+				
+　　　不動堂免
+				<lb/>
+				
+二反二丁　　　　　　　　　大路そひ
+				<lb/>
+				
+一反丁　　　　　　　　　　坂のくち
+				<lb/>
+				
+二反　　　　　　　　　　　口のつほ
+				<lb/>
+				
+丁　　　　　　　　　　　　堂のわき
+				<lb/>
+				
+一反　　　　　　　　　　　かり川
+				<lb/>
+				
+一反二丁　　　　　　　　　こみねか崎
+				<lb/>
+				
+　　　已上水田八反丁
+				<lb/>
+				
+一ヶ所三舛まき　　　　　　借川の屋敷
+				<lb/>
+				
+五反　　　　　　　　　　　うしろ
+				<lb/>
+				
+三反　　　　　　　　　　　しやうのその
+				<lb/>
+				
+丁　　　　　　　　　　　　つる
+				<lb/>
+				
+　　　以上畠地八反丁
+				<lb/>
+				
+Ｐ１０６
+				<lb/>
+				
+　　　さんそゐん領
+				<lb/>
+				
+九反　　　　　　　　　　　六反田
+				<lb/>
+				
+一町　　　　　　　　　　　七反田
+				<lb/>
+				
+六反　　　　　　　　　　　観音　堂地
+				<lb/>
+				
+一反　　　　　　　　　　　せい作
+				<lb/>
+				
+三反　　　　　　　　　　　ふろのうと
+				<lb/>
+				
+　　　已上水田二町九反
+				<lb/>
+				
+一ヶ所三舛　　　　　　　　梅田の屋敷
+				<lb/>
+				
+一町一反　　　　　　　　　むめ田
+				<lb/>
+				
+三反　　　　　　　　　　　中嶋
+				<lb/>
+				
+七反　　　　　　　　　　　たうのわき
+				<lb/>
+				
+二反　　　　　　　　　　　ほかその
+				<lb/>
+				
+一ヶ所　　　　　　　　　　門前
+				<lb/>
+				
+一ヶ所三舛　　　　　　　　又門前
+				<lb/>
+				
+　　　以上二町三反　　屋敷三ヶ所
+				<lb/>
+				
+　　　大土仁五郎か分
+				<lb/>
+				
+一反二丁　　　　　　　　　くわ原田
+				<lb/>
+				
+四丁　　　　　　　　　　　くるまた　川ナリ
+				<lb/>
+				
+三反　　　　　　　　　　　さし柳
+				<lb/>
+				
+　　　以上水田五反丁
+				<lb/>
+				
+一ヶ所七舛まき　　　　　　居屋敷
+				<lb/>
+				
+二反二丁　　　　　　　　　井の上
+				<lb/>
+				
+四反　　　　　　　　　　　くるまた
+				<lb/>
+				
+　　　以上畠地六反二丁
+				<lb/>
+				
+　　　賀嶋三郎さへもんか分
+				<lb/>
+				
+二反二丁　　　　　　　　　とき田
+				<lb/>
+				
+一反二丁　　　　　　　　　又とき田
+				<lb/>
+				
+　　　已上水田三反四丁
+				<lb/>
+				
+一ヶ所一斗まき田丁　　　　居屋敷
+				<lb/>
+				
+一反　　　　　　　　　　　すわの原
+				<lb/>
+				
+二反　　　　　　　　　　　又すわの原
+				<lb/>
+				
+三反　　　　　　　　　　　堀の内
+				<lb/>
+				
+　　　以上畠地六反
+				<lb/>
+				
+　　　沙汰人前原平衛門か分
+				<lb/>
+				
+一反　　　　　　　　　　　とひ山
+				<lb/>
+				
+一反二丁　　　　　　　　　こみねか崎
+				<lb/>
+				
+一反　　　　　　　　　　　くわの木つる
+				<lb/>
+				
+一反　　　　　　　　　　　まへ原
+				<lb/>
+				
+一反　　　　　　　　　　　をミとり
+				<lb/>
+				
+丁中　　　　　　　　　　　ひき山
+				<lb/>
+				
+　　　已上水田五反三丁中
+				<lb/>
+				
+一ヶ所五舛まき　　　　　　居屋敷
+				<lb/>
+				
+一ヶ所二舛　　　　　　　　谷くち
+				<lb/>
+				
+一反　　　　　　　　　　　まへハら
+				<lb/>
+				
+一反　　　　　　　　　　　中嶋
+				<lb/>
+				
+Ｐ１０７
+				<lb/>
+				
+一反　　　　　　　　　　　しんさこ田
+				<lb/>
+				
+一反　　　　　　　　　　　たうのまへ
+				<lb/>
+				
+一反　　　　　　　　　　　北のさこ
+				<lb/>
+				
+一反三丁　　　　　　　　　又まへ原
+				<lb/>
+				
+一ヶ所六舛　茶少　　　　　おり口
+				<lb/>
+				
+　　　以上六反三丁　屋敷三ヶ所
+				<lb/>
+				
+　　　ミや嶋の屋敷付
+				<lb/>
+				
+一反丁　　　　　　　　　　中しやう作　　川ナリ
+				<lb/>
+				
+一反二丁　　　　　　　　　　宮のわき
+				<lb/>
+				
+二丁中　　　　　　　　　　　わきの丸
+				<lb/>
+				
+一反丁　　　　　　　　　　かり川
+				<lb/>
+				
+　　　已上水田四反丁中
+				<lb/>
+				
+一ヶ所一斗まき　　　　　　居屋敷
+				<lb/>
+				
+一町一反　　　　　　　　　うしろ
+				<lb/>
+				
+三丁　　　　　　　　　　　　山野分いけ嶋
+				<lb/>
+				
+二反　　　　　　　　　　　馬場のその
+				<lb/>
+				
+　　　以上はくち一町三反三丁
+				<lb/>
+				
+　　　かり屋のそのゝ屋敷付　二階堂殿持
+				<lb/>
+				
+一反　　　　　　　　　　　いけ田
+				<lb/>
+				
+一反　　　　　　　　　　　くわ原田
+				<lb/>
+				
+一反　　　　　　　　　　　なか池
+				<lb/>
+				
+一ヶ所三舛まき　　　　　　居屋敷
+				<lb/>
+				
+一反　　　　　　　　　　　うしろニ
+				<lb/>
+				
+一反　　　　　　　　　　　古川
+				<lb/>
+				
+一反二丁　　　　　　　　　くほ
+				<lb/>
+				
+　　　以上畠地三反二丁
+				<lb/>
+				
+　　　たくミ彦四郎か分
+				<lb/>
+				
+一反二丁　　　　　　　　　とき田
+				<lb/>
+				
+一反　　　　　　　　　　　ふろのうと
+				<lb/>
+				
+　　　以上水田二反二丁
+				<lb/>
+				
+一ヶ所四舛まき　　　　　　居屋敷
+				<lb/>
+				
+二反此内一反ハ年〃不　　　はしの口
+				<lb/>
+				
+　　　以上畠地二反
+				<lb/>
+				
+　　　たてのゝ屋敷付今ハ孫太郎持也、〃〃〃〃〃〃〃
+				<lb/>
+				
+二反二丁　　　　　　　　　ときてん
+				<lb/>
+				
+一反丁　　　　　　　　　　しろかね田
+				<lb/>
+				
+丁中　　　　　　　　　　　山の下
+				<lb/>
+				
+　　　以上水田三反四丁中
+				<lb/>
+				
+一ヶ所四舛　　　　　　　　居屋敷
+				<lb/>
+				
+二反三丁　　　　　　　　　まへ
+				<lb/>
+				
+一反　　　　　　　　　　　田しり
+				<lb/>
+				
+　　　以上畠地三反三丁
+				<lb/>
+				
+Ｐ１０８
+				<lb/>
+				
+　　　むる屋のそのゝ屋敷付
+				<lb/>
+				
+三反　　　　　　　　　　　なか山
+				<lb/>
+				
+二反　　　　　　　　　　　なか池
+				<lb/>
+				
+　　　已上水田五反
+				<lb/>
+				
+一ヶ所三舛まき　　　　　　居屋敷
+				<lb/>
+				
+一町二反　　　　　　　　　うしろ
+				<lb/>
+				
+二丁　　　　　　　　　　　又うしろ
+				<lb/>
+				
+二反　　　　　　　　　　　山野分くほ
+				<lb/>
+				
+　　　以上はくち一町四反二丁
+				<lb/>
+				
+　　　たてかミの屋敷付
+				<lb/>
+				
+一反　　　　　　　　　　　あらひら
+				<lb/>
+				
+丁　　　　　　　　　　　　たてかミ
+				<lb/>
+				
+二反　■■　　　　　　　　山下
+				<lb/>
+				
+丁　たてかミ神領　　　　　ふろのうと
+				<lb/>
+				
+　　　已上水田三反二丁
+				<lb/>
+				
+一ヶ所五舛　　　　　　　　居屋敷
+				<lb/>
+				
+四反此内一反たてかミ大明神五月五日祭　　たてかミのまへ
+				<lb/>
+				
+　　　以上四反
+				<lb/>
+				
+　　　すわの原の屋敷付
+				<lb/>
+				
+一反以上水田　　　　　　　あらひら
+				<lb/>
+				
+一ヶ所一斗まき　　　　　　居屋敷
+				<lb/>
+				
+一反　　　　　　　　　　　すわの原
+				<lb/>
+				
+一反　　　　　　　　　　　又すわの原
+				<lb/>
+				
+　　　以上畠地二反
+				<lb/>
+				
+　　　まとはの屋敷上野持也、〃〃〃
+				<lb/>
+				
+二反　以上水田　　　　　　あらひら
+				<lb/>
+				
+一ヶ所二舛まき　　　　　　居屋敷
+				<lb/>
+				
+二反四丁以上畠地　　　　　　まとはその
+				<lb/>
+				
+　　　なかさほの屋敷せい五郎持也、
+				<lb/>
+				
+二反　　　　　　　　　　　くちのつほ
+				<lb/>
+				
+一反丁　　　　　　　　　　ゑの木田
+				<lb/>
+				
+丁　　　　　　　　　　　　水とりくほ
+				<lb/>
+				
+一反丁　　　　　　　　　　なかいけ
+				<lb/>
+				
+　　　以上水田四反三丁
+				<lb/>
+				
+一ヶ所一斗まき　　　　　　居屋敷
+				<lb/>
+				
+三反　　　　　　　　　　　外その
+				<lb/>
+				
+一反　　　　　　　　　　　又外その
+				<lb/>
+				
+一反　　　　　　　　　　　北のその
+				<lb/>
+				
+　　　以上畠地五反
+				<lb/>
+				
+　　　川路の屋敷
+				<lb/>
+				
+一反丁　　　　　　　　　　かミ柳
+				<lb/>
+				
+Ｐ１０９
+				<lb/>
+				
+二反　　　　　　　　　　　ふか田
+				<lb/>
+				
+二丁　　　　　　　　　　　なか池
+				<lb/>
+				
+一反　　　　　　　　　　　又なか池
+				<lb/>
+				
+四反　　　　　　　　　　　よしき田
+				<lb/>
+				
+　　　以上水田八反三丁
+				<lb/>
+				
+一ヶ所　　　　　　　　　　居屋敷
+				<lb/>
+				
+三反　　　　　　　　　　　たうのまへ
+				<lb/>
+				
+一反　　　　　　　　　　　馬場のその
+				<lb/>
+				
+二反　山野分　　　　　　　はしの口
+				<lb/>
+				
+　　　以上畠地六反
+				<lb/>
+				
+　　　こそのゝ屋敷
+				<lb/>
+				
+四反　　　　　　　　　　　よしき田
+				<lb/>
+				
+三丁　　　　　　　　　　　竹の下
+				<lb/>
+				
+二反不　　　　　　　　　　ひる田
+				<lb/>
+				
+　　　已上水田六反三丁
+				<lb/>
+				
+一ヶ所二舛　　　　　　　　居屋敷
+				<lb/>
+				
+二反　　　　　　　　　　　たうのまへ
+				<lb/>
+				
+二反　　　　　　　　　　　山野はしの口
+				<lb/>
+				
+丁　　　　　　　　　　　　馬場の本
+				<lb/>
+				
+　　　以上畠地四反丁
+				<lb/>
+				
+　　　石原の屋敷
+				<lb/>
+				
+二反　　　　　　　　　　　水かミ
+				<lb/>
+				
+三丁　　　　　　　　　　　川くほ
+				<lb/>
+				
+丁中　　　　　　　　　　　山の下
+				<lb/>
+				
+二反　　　　　　　　　　　しろかね
+				<lb/>
+				
+　　　以上水田四反四丁中
+				<lb/>
+				
+一ヶ所三舛まき　　　　　　居屋敷
+				<lb/>
+				
+三反　　　　　　　　　　　まへ
+				<lb/>
+				
+一反二丁　　　　　　　　　堀の口
+				<lb/>
+				
+　　　以上四反二丁
+				<lb/>
+				
+　　　〓そのゝ屋敷かいた持也、
+				<lb/>
+				
+一反丁　　　　　　　　　　なか池
+				<lb/>
+				
+四丁　　　　　　　　　　　くへわたり
+				<lb/>
+				
+　　　以上水田二反
+				<lb/>
+				
+一ヶ所　　　　　　　　　　居屋敷
+				<lb/>
+				
+四反　　　　　　　　　　　〓のその
+				<lb/>
+				
+　　　以上畠地
+				<lb/>
+				
+　　　田かたの屋敷
+				<lb/>
+				
+丁中　　　　　　　　　　　宮のまへ
+				<lb/>
+				
+　　　以上水田
+				<lb/>
+				
+一ヶ所　　　　　　　　　　居屋敷
+				<lb/>
+				
+四反　　　　　　　　　　　まへ
+				<lb/>
+				
+　　　以上畠地
+				<lb/>
+				
+Ｐ１１０
+				<lb/>
+				
+　　　祝九郎太郎か分
+				<lb/>
+				
+二反　すわのうちの祭田　　水かミ
+				<lb/>
+				
+丁　　　　　　　　　　　　屋敷の下
+				<lb/>
+				
+　　　已上水田二反丁
+				<lb/>
+				
+一ヶ所一斗まき　　　　　　居屋敷
+				<lb/>
+				
+一反二丁　　　　　　　　　外その
+				<lb/>
+				
+　　　以上
+				<lb/>
+				
+　　　祝助二郎か分
+				<lb/>
+				
+二反　天神霜月祭田　　　　かミ柳
+				<lb/>
+				
+一ヶ所　　　　　　　　　　居屋敷
+				<lb/>
+				
+一反三丁　　　　　　　　　石原のまへ
+				<lb/>
+				
+一反　　　　　　　　　　　すわの原
+				<lb/>
+				
+　　　以上二反三丁
+				<lb/>
+				
+　　　ないし分
+				<lb/>
+				
+一反丁　　　　　　　　　　かミ柳
+				<lb/>
+				
+一ヶ所六舛まき　　　　　　居屋敷
+				<lb/>
+				
+塩屋たけきか水、ゑもん太郎分　水田一反ゑの木田　トイ付畠一反きたのその
+				<lb/>
+				
+　　　塩屋又兵衛か分
+				<lb/>
+				
+二反　妙見田　　　　　　　しろかね田
+				<lb/>
+				
+丁　　　　　　　　　　　　とい付はたけそひ
+				<lb/>
+				
+丁　　　　　　　　　　　　とい付はしの口
+				<lb/>
+				
+一反　　　　　　　　　　　とい付又しろかね田
+				<lb/>
+				
+　　　已上水田三反二丁
+				<lb/>
+				
+畠地三反　　　　　　　　　とい付ありの木のその
+				<lb/>
+				
+三丁　　　　　　　　　　　はまのその
+				<lb/>
+				
+六反　　　　　　　　　　　出くち
+				<lb/>
+				
+　　　以上九反三丁
+				<lb/>
+				
+　　　かり屋の十郎〃〃〃前原平さへもんか分
+				<lb/>
+				
+一反　　　　　　　　　　　しろかね田
+				<lb/>
+				
+一反三丁　　　　　　　　　又しろかね田
+				<lb/>
+				
+　　　已上水田二反三丁
+				<lb/>
+				
+二反　　　　　　　　　　　田かた
+				<lb/>
+				
+四反　　　　　　　　　　　ひわはたけ
+				<lb/>
+				
+丁　　　　　　　　　　　　つち取くほ
+				<lb/>
+				
+一反二丁　　　　　　　　　つほ
+				<lb/>
+				
+　　　以上畠地七反三丁
+				<lb/>
+				
+　　　塩屋二郎さへもんか分
+				<lb/>
+				
+二丁　　　　　　　　　　　片ひら田
+				<lb/>
+				
+一反　　　　　　　　　　　しろかね田
+				<lb/>
+				
+一反丁　　　　　　　　　　ひらき
+				<lb/>
+				
+Ｐ１１１
+				<lb/>
+				
+一反　　　　　　　　　　　なか池
+				<lb/>
+				
+　　　已上水田三反三丁
+				<lb/>
+				
+四反　　　　　　　　　　　田かた
+				<lb/>
+				
+一反　　　　　　　　　　　さほ
+				<lb/>
+				
+一反　　　　　　　　　　　はしの口
+				<lb/>
+				
+　　　以上畠地六反
+				<lb/>
+				
+　　　塩屋二郎兵衛か分
+				<lb/>
+				
+三丁　　　　　　　　　　　とゝろ
+				<lb/>
+				
+一反丁　　　　　　　　　　はしの口
+				<lb/>
+				
+　　　已上水田一反四丁
+				<lb/>
+				
+一反三丁　　　　　　　　　とゝろ
+				<lb/>
+				
+丁　　　　　　　　　　　　はまのその
+				<lb/>
+				
+丁　　　　　　　　　　　　はしの口
+				<lb/>
+				
+二反二丁　　　　　　　　　田かた
+				<lb/>
+				
+三反　　　　　　　　　　　山野分ミたう原
+				<lb/>
+				
+三丁　　　　　　　　　　　又はしの口
+				<lb/>
+				
+　　　以上畠地八反
+				<lb/>
+				
+　　　網屋ひやうへ三郎か分
+				<lb/>
+				
+三反　　　　　　　　　　　しろかね田
+				<lb/>
+				
+　　　以上水田
+				<lb/>
+				
+四反　　　　　　　　　　　はまのその
+				<lb/>
+				
+二反　　　　　　　　　　　つち取くほ
+				<lb/>
+				
+丁　　　　　　　　　　　　こいて出くち
+				<lb/>
+				
+三丁　　　　　　　　　　　中原
+				<lb/>
+				
+　　　已上畠地六反四丁
+				<lb/>
+				
+　　　塩屋さへもん太郎か分
+				<lb/>
+				
+二丁　　　　　　　　　　　とゝろ
+				<lb/>
+				
+　　　以上水田
+				<lb/>
+				
+二反　　　　　　　　　　　ありの木のその
+				<lb/>
+				
+三反　　　　　　　　　　　田かた
+				<lb/>
+				
+三反　　　　　　　　　　　中ハら
+				<lb/>
+				
+二反　　　　　　　　　　　出くち
+				<lb/>
+				
+一反二丁　　　　　　　　　山野ミたうか原
+				<lb/>
+				
+　　　以上畠地一町一反二丁
+				<lb/>
+				
+　　　あミ屋けゝうか分
+				<lb/>
+				
+一反　　　　　　　　　　　しろかね田
+				<lb/>
+				
+　　　已上水田
+				<lb/>
+				
+二反　　　　　　　　　　　ミたうか原
+				<lb/>
+				
+三反　　　　　　　　　　　田かた
+				<lb/>
+				
+　　　以上畠地五反
+				<lb/>
+				
+　　　白浜塩屋太郎衛門孫三郎〃〃〃か分
+				<lb/>
+				
+三反白浜大明神霜月祭田とい付〃〃〃　しろかね田
+				<lb/>
+				
+　　　以上水田
+				<lb/>
+				
+Ｐ１１２
+				<lb/>
+				
+　　　あミや　五郎ひやうへか分
+				<lb/>
+				
+一反　　　　　　　　　　　はしの口
+				<lb/>
+				
+二丁　　　　　　　　　　　又はしの口
+				<lb/>
+				
+　　　已上水田一反二丁
+				<lb/>
+				
+三反　　　　　　　　　　　塩屋の後
+				<lb/>
+				
+五反　　　　　　　　　　　浜のその
+				<lb/>
+				
+一反　　　　　　　　　　　山野はしの口
+				<lb/>
+				
+三丁　　　　　　　　　　　こいて又はしの口
+				<lb/>
+				
+一反三丁　　　　　　　　　こいて又はしの口
+				<lb/>
+				
+一反　　　　　　　　　　　こいて中ハら
+				<lb/>
+				
+五反三丁　　　　　　　　　又浜のその
+				<lb/>
+				
+　　　以上畠地一町七反四丁
+				<lb/>
+				
+　　　しほ屋　孫さへもんか分
+				<lb/>
+				
+三反〃〃　白浜大明神霜月〃〃〃〃〃〃〃祭田〃〃とい付〃〃〃　しろかね〃〃〃〃
+				<lb/>
+				
+一反　　　　　　　　　　　とい付ひらき
+				<lb/>
+				
+三反　しろかね田
+				<lb/>
+				
+　　　已上水田四反
+				<lb/>
+				
+一反　　　　　　　　　　　田かた
+				<lb/>
+				
+四反　　　　　　　　　　　さほ
+				<lb/>
+				
+二丁　　　　　　　　　　　とい付中ハら
+				<lb/>
+				
+三反　　　　　　　　　　　ミたうか原
+				<lb/>
+				
+二反　　　　　　　　　　　にいさこ田
+				<lb/>
+				
+　　　以上畠地一町二丁
+				<lb/>
+				
+　　　あミ屋　太郎さへもんか分
+				<lb/>
+				
+三丁　　　　　　　　　　　はしの口
+				<lb/>
+				
+一反　　　　　　　　　　　なか池
+				<lb/>
+				
+　　　已上水田一反三丁
+				<lb/>
+				
+四反　　　　　　　　　　　浜のその
+				<lb/>
+				
+四反　　　　　　　　　　　又はまのその
+				<lb/>
+				
+二反　　　　　　　　　　　こいてはしの口
+				<lb/>
+				
+一反丁　　　　　　　　　　中ハら
+				<lb/>
+				
+二丁　　　　　　　　　　　つち取くほ
+				<lb/>
+				
+　　　以上畠地一町一反三丁
+				<lb/>
+				
+　　　あミや　平三郎か分
+				<lb/>
+				
+一反丁　　　　　　　　　　はしの口
+				<lb/>
+				
+　　　以上水田
+				<lb/>
+				
+三反　　　　　　　　　　　田かた
+				<lb/>
+				
+　　　以上畠地
+				<lb/>
+				
+　　　網屋　さへもん三郎か分
+				<lb/>
+				
+二反二丁　　　　　　　　　はしの口
+				<lb/>
+				
+　　　已上水田
+				<lb/>
+				
+八反　　　　　　　　　　　さほ
+				<lb/>
+				
+一反　　　　　　　　　　　中ハら
+				<lb/>
+				
+二反三丁　　　　　　　　　浜のその
+				<lb/>
+				
+　　　以上畠地一町一反三丁
+				<lb/>
+				
+Ｐ１１３
+				<lb/>
+				
+　　　中間八良太郎か分
+				<lb/>
+				
+一反　　　　　　　　　　　しろかね田
+				<lb/>
+				
+　　　以上水田
+				<lb/>
+				
+三反　　　　　　　　　　　田かた
+				<lb/>
+				
+　　　以上畠地
+				<lb/>
+				
+　　　あミ屋　五郎四郎か分
+				<lb/>
+				
+丁　水田　　　　　　　　　はし口
+				<lb/>
+				
+四反　　　　　　　　　　　わしハ川
+				<lb/>
+				
+一反三丁　　　　　　　　　浜のその
+				<lb/>
+				
+二反　　　　　　　　　　　こいてはしの口
+				<lb/>
+				
+丁中　　　　　　　　　　　中ハら
+				<lb/>
+				
+　　　以上畠地七反四丁中
+				<lb/>
+				
+　　　きやうし衛門五郎か分
+				<lb/>
+				
+一反三丁　　　　　　　　　なか池
+				<lb/>
+				
+一ヶ所　　　　　　　　　　ふる野
+				<lb/>
+				
+一ヶ所八舛まき　　　　　　いなむれのまへ
+				<lb/>
+				
+　　　かミすき六郎四郎か分
+				<lb/>
+				
+一反　　　　　　　　　　　ふなもと
+				<lb/>
+				
+　　　水田
+				<lb/>
+				
+一ヶ所三舛まき　　　　　　馬場のその
+				<lb/>
+				
+二丁　　　　　　　　　　　北のその
+				<lb/>
+				
+二反　　　　　　　　　　　すわの原
+				<lb/>
+				
+　　　以上二反二丁
+				<lb/>
+				
+　　　こうかき二郎太郎か分
+				<lb/>
+				
+一反水田　　　　　　　　　ふろのうと
+				<lb/>
+				
+一ヶ所一斗まき　　　　　　おりくち
+				<lb/>
+				
+三反本ハ田にて候、　　　　柳の丸
+				<lb/>
+				
+二反　　　　　　　　　　　はしの口
+				<lb/>
+				
+　　　以上畠地五反
+				<lb/>
+				
+　　　かちの分
+				<lb/>
+				
+二反今ハ勢五郎水田　　　　ふろのもと
+				<lb/>
+				
+一ヶ所三舛まき　　　　　　馬場のその
+				<lb/>
+				
+三反　　　　　　　　　　　北のその
+				<lb/>
+				
+一反四丁　　　　　　　　　すわの原
+				<lb/>
+				
+　　　以上畠地四反四丁
+				<lb/>
+				
+　　　平五郎か分
+				<lb/>
+				
+Ｐ１１４
+				<lb/>
+				
+二反　　　　　　　　　　　すわの原
+				<lb/>
+				
+　　　畠地也、
+				<lb/>
+				
+　　　
+				<note corresp="#小林庵">しやうりんあん</note>
+				の分
+				<lb/>
+				
+　　水田也、　　　　　　　あんのまへ
+				<lb/>
+				
+二反　　　　　　　　　　　薬師めんひさきの木の本
+				<lb/>
+				
+丁　　　　　　　　　　　　薬師めんしやうのうち
+				<lb/>
+				
+二反　　　　　　　　　　　すわの原
+				<lb/>
+				
+丁　　　　　　　　　　　　やくしたうの下
+				<lb/>
+				
+　　　以上畠地四反二丁
+				<lb/>
+				
+一ヶ所今ハ人ゐす候、　　　まかと
+				<lb/>
+				
+　　　浜孫太郎か分
+				<lb/>
+				
+四反畠　　　　　　　　　　浜のその
+				<lb/>
+				
+五反　　　　　　　　　　　こいてさほ
+				<lb/>
+				
+　　　已上畠地九反
+				<lb/>
+				
+　　　浜ひやうへ二郎か分
+				<lb/>
+				
+二丁畠　　　　　　　　　　田かた
+				<lb/>
+				
+　　　浜平九郎か分
+				<lb/>
+				
+三丁畠　　　　　　　　　　市は
+				<lb/>
+				
+　　　浜源六か分
+				<lb/>
+				
+一反　畠已上　　　　　　　北のその
+				<lb/>
+				
+一ヶ所六舛まき　　　　　　かきうち
+				<lb/>
+				
+一ヶ所三舛　　　　　　　　城の下　孫九郎
+				<lb/>
+				
+一ヶ所茶有　外ニ三舛　　　しやうの下　衛門六　弥九郎かゐ候、
+				<lb/>
+				
+一ヶ所三舛まき　　　　　　おり口　彦三郎　勢五郎方ゐ候、
+				<lb/>
+				
+一ヶ所一斗まき　　　　　　垣内　新二郎　中間小五郎居候、
+				<lb/>
+				
+一ヶ所五舛　　　　　　　　薬師堂のまへ
+				<lb/>
+				
+一ヶ所二舛　茶ハ手持　　　茶ゑんその　太郎へもん
+				<lb/>
+				
+一ヶ所一斗まき　　　　　　白坂の下　三郎九郎　上野方居候、
+				<lb/>
+				
+一ヶ所三舛　　　　　　　　白坂の下　平五郎
+				<lb/>
+				
+一ヶ所三舛　　　　　　　　白坂の下　孫四郎
+				<lb/>
+				
+一ヶ所七舛まき　　　　　　白坂の下　五郎三郎　久松方ゐ候、
+				<lb/>
+				
+一ヶ所一舛まき　　　　　　城の下　小五郎
+				<lb/>
+				
+　　　浮免
+				<lb/>
+				
+自作之分二町　　　　　　　しんかい
+				<lb/>
+				
+九反　　　　　　　　　　　いけ田
+				<lb/>
+				
+七反　　　　　　　　　　　井のしり
+				<lb/>
+				
+三反　　　　　　　　　　　中しやう作
+				<lb/>
+				
+二反カコ嶋カリヤ　　　　　くわの木つる
+				<lb/>
+				
+三反　　　　　　　　　　　又池田
+				<lb/>
+				
+二反　　　　　　　　　　　ふる川
+				<lb/>
+				
+一反タケキカ水、シヲヤニツケ候、　　ゑの木田
+				<lb/>
+				
+　　　鹿児嶋二階堂殿之分
+				<lb/>
+				
+二反　　　　　　　　　　　よしき田
+				<lb/>
+				
+Ｐ１１５
+				<lb/>
+				
+三反　　　　　　　　　　　まへ田
+				<lb/>
+				
+かち屋のその屋敷付
+				<lb/>
+				
+一反　　　　　　　　　　　いけ田
+				<lb/>
+				
+一反　　　　　　　　　　　くわハら田
+				<lb/>
+				
+一反　　　　　　　　　　　なか池
+				<lb/>
+				
+　　　已上水田三反
+				<lb/>
+				
+一ヶ所　　　　　　　　　　居屋敷
+				<lb/>
+				
+一反　　　　　　　　　　　うしろ
+				<lb/>
+				
+一反　　　　　　　　　　　ふる川
+				<lb/>
+				
+一反二丁　　　　　　　　　くほ
+				<lb/>
+				
+　　　已上水田八反　畠地三反二丁
+				<lb/>
+				
+　　　上野右京亮方
+				<lb/>
+				
+三反　　　　　　　　　　　くちのつほ
+				<lb/>
+				
+一反　　　　　　　　　　　ふる川
+				<lb/>
+				
+二反三郎五郎持候、　　　　こしんかい
+				<lb/>
+				
+二反　　　　　　　　　　　まへ田
+				<lb/>
+				
+一ヶ所　　　　　　　　　　居屋敷
+				<lb/>
+				
+一ヶ所　　　　　　　　　　まとはの屋敷
+				<lb/>
+				
+水田二反　　　　　　　　　あらひら屋敷付
+				<lb/>
+				
+畠二反四丁　　　　　　　　屋敷付
+				<lb/>
+				
+同二反　　　　　　　　　　すわの原うきめん
+				<lb/>
+				
+　　　已上水田一町　畠地四反四丁
+				<lb/>
+				
+　　　久松方之分
+				<lb/>
+				
+二反たゝミもち候、　　　　ふろのうと
+				<lb/>
+				
+一反　藤六　　　　　　　　とひ山
+				<lb/>
+				
+二反此一反御すわニ一反ハ藤六　　　　まへ田
+				<lb/>
+				
+一反　藤六　　　　　　　　ふる川
+				<lb/>
+				
+一ヶ所　　　　　　　　　　居屋敷
+				<lb/>
+				
+畠三反　　　　　　　　　　すわの原
+				<lb/>
+				
+一反　　　　　　　　　　　馬場のその
+				<lb/>
+				
+　　　水田六反　畠地四反　以上浮免
+				<lb/>
+				
+　　　下つる平次郎方之分
+				<lb/>
+				
+三反　　　　　　　　　　　小丸
+				<lb/>
+				
+一反　　　　　　　　　　　とひ山
+				<lb/>
+				
+一反　　　　　　　　　　　中しやう作
+				<lb/>
+				
+一ヶ所　　　　　　　　　　居屋敷
+				<lb/>
+				
+畠二反　　　　　　　　　　すわの原
+				<lb/>
+				
+　　　水田五反　畠地二反
+				<lb/>
+				
+　　　上野せい五郎方之分
+				<lb/>
+				
+二反　　　　　　　　　　　まへ田
+				<lb/>
+				
+一反　　　　　　　　　　　かいもと
+				<lb/>
+				
+一反二丁　　　　　　　　　あらひら
+				<lb/>
+				
+一反此二反二丁カハ引候、　　　ゑの木田
+				<lb/>
+				
+一ヶ所　　　　　　　　　　居屋敷
+				<lb/>
+				
+Ｐ１１６
+				<lb/>
+				
+畠三反　　　　　　　　　　すわの原
+				<lb/>
+				
+　　　水田五反三丁　畠地三反
+				<lb/>
+				
+　　　種田紀伊介方之分　今ハかち太郎四郎持候、
+				<lb/>
+				
+二反　　　　　　　　　　　しろかね
+				<lb/>
+				
+一反　　　　　　　　　　　ひき山
+				<lb/>
+				
+　　　二木九郎次郎方之分
+				<lb/>
+				
+一一〃反三丁　　　　　　　　　谷くち
+				<lb/>
+				
+一反　　　　　　　　　　　ひき山
+				<lb/>
+				
+　　　中間弥九郎か分
+				<lb/>
+				
+三反　　　　　　　　　　　いてのくち
+				<lb/>
+				
+二反　　　　　　　　　　　かいもと
+				<lb/>
+				
+一反　　　　　　　　　　　こしんかい
+				<lb/>
+				
+一反　　　　　　　　　　　まへ田
+				<lb/>
+				
+　　　水田七反
+				<lb/>
+				
+一ヶ所　　　　　　　　　　居屋敷
+				<lb/>
+				
+三反　　　　　　　　　　　せとのその
+				<lb/>
+				
+一反　　　　　　　　　　　梅田のむかへ
+				<lb/>
+				
+　　　畠地四反
+				<lb/>
+				
+　　　中間小五郎か分
+				<lb/>
+				
+一反　　　　　　　　　　　こしんかい
+				<lb/>
+				
+二反　　　　　　　　　　　まへ田
+				<lb/>
+				
+一ヶ所　　　　　　　　　　居屋敷
+				<lb/>
+				
+一反三丁　　　　　　　　　馬場
+				<lb/>
+				
+　　　きやうし衛門五郎給分
+				<lb/>
+				
+二反きやうし分の外也、水田　　　あらひら
+				<lb/>
+				
+大宮大明神きしん一反　　　しろかね
+				<lb/>
+				
+自作畠地一反二丁　　　　　中嶋
+				<lb/>
+				
+三反　　　　　　　　　　　つる
+				<lb/>
+				
+二反　　　　　　　　　　　又つる
+				<lb/>
+				
+三反　　　　　　　　　　　堂のまへ
+				<lb/>
+				
+二反　　　　　　　　　　　北のその一反ハタケキカ水、シヲヤにツケ候、
+				<lb/>
+				
+一反　　　　　　　　　　　うるし計有
+				<lb/>
+				
+　　　以上畠地一町二反二丁
+				<lb/>
+				
+　　　村尾又八方
+				<lb/>
+				
+水田二反一反御すわニ　　　ひき山
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

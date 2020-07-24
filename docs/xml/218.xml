@@ -1,83 +1,83 @@
 <?xml version="1.0" ?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-	   
+	        
 	<teiHeader>
-		      
+		            
 		<fileDesc>
-			         
+			                
 			<titleStmt>
-				            
+				                    
 				<title>5　　貞和7年5月29日　　_足利直冬御判御教書（＃２１８）</title>
-				         
+				                
 			</titleStmt>
-			         
+			                
 			<publicationStmt>
-				            
+				                    
 				<p>Publication Information</p>
-				         
+				                
 			</publicationStmt>
-			         
+			                
 			<sourceDesc>
-				            
+				                    
 				<p>Information about the source</p>
-				         
+				                
 			</sourceDesc>
-			      
+			            
 		</fileDesc>
-		   
+		        
 	</teiHeader>
-	   
+	        
 	<facsimile>
-		      
-		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/453/manifest">
-			      
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/218/manifest.json">
+			            
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/453/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/935/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/218/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/17/00000009.jpg"/>
 			</surface>
 		</surfaceGrp>
-		   
+		        
 	</facsimile>
-	   
+	        
 	<text>
-		      
+		            
 		<front>
-			         
+			                
 			<p>
-				         
+				                
 				<span xml:id="重見">
 					<span>重見</span>
-				</span>
-				<span xml:id="直冬">
-					<span>直冬</span>
 				</span>
 				<span xml:id="重兼">
 					<span>重兼</span>
 				</span>
+				<span xml:id="直冬">
+					<span>直冬</span>
+				</span>
 			</p>
-			      
+			            
 		</front>
-		      
+		            
 		<body>
 			<p>
 				<lb/>
-				二一八　足利直冬御判御教書
+				
+　二一八　足利直冬御判御教書
 				<lb/>
 				
 馳参之条、尤神妙也、弥可抽戦功之状如件、
 				<lb/>
 				
 　　　貞和七年五月廿九日　　　　　　　　　　　
-				<span corresp="#直冬">（花押）</span>
+				<note corresp="#直冬">（花押）</note>
 				<lb/>
 				
 　　　武光
-				<span corresp="#重兼">三郎</span>
+				<note corresp="#重兼">三郎</note>
 				とのへ
 				<lb/>
 			</p>
 		</body>
-		   
+		        
 	</text>
+	        
 </TEI>

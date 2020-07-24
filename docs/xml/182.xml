@@ -1,79 +1,82 @@
 <?xml version="1.0" ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-	   
+	        
 	<teiHeader>
-		      
+		            
 		<fileDesc>
-			         
+			                
 			<titleStmt>
-				            
+				                    
 				<title>15　　(年未詳)10月19日　_今川了俊(貞世)書状（＃１８２）</title>
-				         
+				                
 			</titleStmt>
-			         
+			                
 			<publicationStmt>
-				            
+				                    
 				<p>Publication Information</p>
-				         
+				                
 			</publicationStmt>
-			         
+			                
 			<sourceDesc>
-				            
+				                    
 				<p>Information about the source</p>
-				         
+				                
 			</sourceDesc>
-			      
+			            
 		</fileDesc>
-		   
+		        
 	</teiHeader>
-	   
+	        
 	<facsimile>
-		      
+		            
 		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/182/manifest.json">
-			      
+			            
 			<surface>
 				<graphic n="https://nakamura196.github.io/iriki/iiif/182/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/14/00000017.jpg"/>
 			</surface>
 		</surfaceGrp>
-		   
+		        
 	</facsimile>
-	   
+	        
 	<text>
-		      
+		            
 		<front>
-			         
+			                
 			<p>
-				         
+				                
 				<span xml:id="重頼">
 					<span>重頼</span>
 				</span>
 			</p>
-			      
+			            
 		</front>
-		      
+		            
 		<body>
 			<p>
-				一八二　今川了俊貞世書状（小切紙）
-				<br/>
+				<lb/>
+				
+　一八二　今川了俊貞世書状（小切紙）
+				<lb/>
 				
 為御方可被致忠節之由其聞候、殊以目出候、定京都御教書可到来候歟、
-				<br/>
+				<lb/>
 				
 一向憑入候、何様就御注進重可申候、於此堺事者、不可有子細候、可御
-				<br/>
+				<lb/>
 				
 心安候、恐〃謹言、
-				<br/>
+				<lb/>
 				
 　　十月十九日　　　　了俊（花押）
-				<br/>
+				<lb/>
 				
 　　　渋谷
 				<note corresp="#重頼">乕五郎</note>
 				殿
-				<br/>
+				<lb/>
 			</p>
 		</body>
-		   
+		        
 	</text>
+	        
 </TEI>

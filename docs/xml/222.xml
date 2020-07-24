@@ -1,59 +1,54 @@
 <?xml version="1.0" ?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-	   
+	        
 	<teiHeader>
-		      
+		            
 		<fileDesc>
-			         
+			                
 			<titleStmt>
-				            
+				                    
 				<title>9　　応安元年10月25日　_武光心呈(重兼)譲状（＃２２２）</title>
-				         
+				                
 			</titleStmt>
-			         
+			                
 			<publicationStmt>
-				            
+				                    
 				<p>Publication Information</p>
-				         
+				                
 			</publicationStmt>
-			         
+			                
 			<sourceDesc>
-				            
+				                    
 				<p>Information about the source</p>
-				         
+				                
 			</sourceDesc>
-			      
+			            
 		</fileDesc>
-		   
+		        
 	</teiHeader>
-	   
+	        
 	<facsimile>
-		      
-		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/457/manifest">
-			      
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/222/manifest.json">
+			            
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/457/canvas/p1" url="https://diyhistory.org/public/omekas12/iiif-img/855/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/222/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/17/00000014.jpg"/>
 			</surface>
 			<surface>
-				<graphic n="https://diyhistory.org/public/omekas12/iiif/457/canvas/p2" url="https://diyhistory.org/public/omekas12/iiif-img/856/full/full/0/default.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/222/manifest.json/canvas/p2" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/17/00000015.jpg"/>
 			</surface>
 		</surfaceGrp>
-		   
+		        
 	</facsimile>
-	   
+	        
 	<text>
-		      
+		            
 		<front>
-			         
+			                
 			<p>
-				         
+				                
 				<span xml:id="重見">
 					<span>重見</span>
-				</span>
-				<span xml:id="島津">
-					<span>島津</span>
 				</span>
 				<span xml:id="右裏書">
 					<span>右裏書</span>
@@ -61,14 +56,18 @@
 				<span xml:id="重兼">
 					<span>重兼</span>
 				</span>
+				<span xml:id="島津">
+					<span>島津</span>
+				</span>
 			</p>
-			      
+			            
 		</front>
-		      
+		            
 		<body>
 			<p>
 				<lb/>
-				二二二　武光心呈重兼譲状
+				
+　二二二　武光心呈重兼譲状
 				<lb/>
 				
 譲与　小三郎兼氏所
@@ -108,21 +107,22 @@
 				<lb/>
 				
 　　　応安元年十月廿五日　　　　　　　　　　　沙弥
-				<span corresp="#重兼">心呈</span>
+				<note corresp="#重兼">心呈</note>
 				（花押）
 				<lb/>
 				
 　　　
-				<span corresp="#右裏書">「</span>
+				<note corresp="#右裏書">「</note>
 				　任此譲状之旨、知行所不可有相違也、
 				<lb/>
 				
 　　　応安元年十一月三日　　　　　　　　　　　
-				<span corresp="#島津">伊久</span>
+				<note corresp="#島津">伊久</note>
 				（花押）」
 				<lb/>
 			</p>
 		</body>
-		   
+		        
 	</text>
+	        
 </TEI>

@@ -58,9 +58,8 @@
 				<persName corresp="#入来院重基">渋谷新平</persName>二入道<lb facs="#zone_qb2_lky_r2b"/>
 				<persName corresp="#入来院重基">定円</persName> 当知行地、不可<lb facs="#zone_mkn_lky_r2b"/>有相違者、
 					<lb facs="#zone_hnw_lky_r2b"/> 天気如此、悉之以状、<lb/> 　　　<span facs="#zone_rwf_mky_r2b"
-						><date when="1333-12-16" sameAs="http://datetime.hutime.org/date/1333-12-16"
-						>元弘三年十一月九日</date></span>　　　　　　　　　<span facs="#zone_hmw_mky_r2b"><name
-						corresp="http://ja.dbpedia.org/resource/式部省">式部大丞</name></span><span
+						><date when="1333-12-24">元弘三年十一月九日</date></span>　　　　　　　　　<span facs="#zone_hmw_mky_r2b"><name
+						corresp="http://dbpedia.org/resource/Shikibu-shō">式部大丞</name></span><span
 					facs="#zone_nst_nky_r2b">（花押）</span>
 				<lb/>
 			</p>

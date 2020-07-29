@@ -1,0 +1,193 @@
+<?xml version="1.0" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>(年月日欠)　　　　_坪付注文断簡（＃２４２）</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>Publication Information</p>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Information about the source</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/475/manifest">
+			<surface>
+				<graphic
+					url="https://diyhistory.org/public/omekas12/iiif-img/722/full/full/0/default.jpg"
+					n="https://diyhistory.org/public/omekas12/iiif/475/canvas/p1"/>
+				<zone xml:id="zone_llx_jlx_r2b" lry="323" lrx="682" uly="117" ulx="641"/>
+				<zone xml:id="zone_r1m_klx_r2b" lry="344" lrx="654" uly="118" ulx="603"/>
+				<zone xml:id="zone_elz_klx_r2b" lry="338" lrx="613" uly="125" ulx="554"/>
+				<zone xml:id="zone_qr3_llx_r2b" lry="350" lrx="566" uly="126" ulx="507"/>
+				<zone xml:id="zone_h4t_llx_r2b" lry="359" lrx="514" uly="130" ulx="461"/>
+				<zone xml:id="zone_q5c_mlx_r2b" lry="373" lrx="475" uly="130" ulx="425"/>
+				<zone xml:id="zone_jqn_mlx_r2b" lry="362" lrx="426" uly="128" ulx="373"/>
+				<zone xml:id="zone_cpx_mlx_r2b" lry="366" lrx="378" uly="127" ulx="323"/>
+				<zone xml:id="zone_jgh_nlx_r2b" lry="339" lrx="324" uly="170" ulx="286"/>
+				<zone xml:id="zone_zjp_nlx_r2b" lry="330" lrx="230" uly="165" ulx="171"/>
+				<zone xml:id="zone_xkw_nlx_r2b" lry="374" lrx="177" uly="127" ulx="129"/>
+				<zone xml:id="zone_yzd_4lx_r2b" lry="374" lrx="129" uly="127" ulx="88"/>
+				<zone xml:id="zone_qbn_4lx_r2b" lry="362" lrx="88" uly="127" ulx="52"/>
+			</surface>
+			<surface>
+				<graphic
+					url="https://diyhistory.org/public/omekas12/iiif-img/723/full/full/0/default.jpg"
+					n="https://diyhistory.org/public/omekas12/iiif/475/canvas/p2"/>
+				<zone xml:id="zone_jkd_grx_r2b" lry="324" lrx="707" uly="169" ulx="667"/>
+				<zone xml:id="zone_ons_grx_r2b" lry="292" lrx="679" uly="134" ulx="647"/>
+				<zone xml:id="zone_ykb_hrx_r2b" lry="343" lrx="595" uly="160" ulx="544"/>
+				<zone xml:id="zone_r5n_hrx_r2b" lry="370" lrx="549" uly="135" ulx="499"/>
+				<zone xml:id="zone_vrw_hrx_r2b" lry="370" lrx="499" uly="135" ulx="457"/>
+				<zone xml:id="zone_ux3_3rx_r2b" lry="377" lrx="466" uly="135" ulx="411"/>
+				<zone xml:id="zone_hh1_jrx_r2b" lry="373" lrx="419" uly="133" ulx="367"/>
+				<zone xml:id="zone_b5q_jrx_r2b" lry="387" lrx="367" uly="131" ulx="324"/>
+				<zone xml:id="zone_kp1_krx_r2b" lry="371" lrx="324" uly="131" ulx="279"/>
+				<zone xml:id="zone_kfn_krx_r2b" lry="389" lrx="290" uly="131" ulx="236"/>
+				<zone xml:id="zone_kcx_krx_r2b" lry="389" lrx="236" uly="131" ulx="186"/>
+				<zone xml:id="zone_ssn_lrx_r2b" lry="396" lrx="172" uly="130" ulx="138"/>
+				<zone xml:id="zone_iwx_g5x_r2b" lry="408" lrx="162" uly="296" ulx="124"/>
+				<zone xml:id="zone_hjd_mrx_r2b" lry="383" lrx="124" uly="129" ulx="82"/>
+			</surface>
+			<surface>
+				<graphic
+					url="https://diyhistory.org/public/omekas12/iiif-img/724/full/full/0/default.jpg"
+					n="https://diyhistory.org/public/omekas12/iiif/475/canvas/p3"/>
+				<zone xml:id="zone_hxc_d3x_r2b" lry="344" lrx="688" uly="179" ulx="634"/>
+				<zone xml:id="zone_uln_d3x_r2b" lry="394" lrx="652" uly="131" ulx="595"/>
+				<zone xml:id="zone_y3c_23x_r2b" lry="394" lrx="612" uly="131" ulx="548"/>
+				<zone xml:id="zone_tl5_23x_r2b" lry="312" lrx="562" uly="168" ulx="512"/>
+				<zone xml:id="zone_ij2_f3x_r2b" lry="400" lrx="535" uly="123" ulx="477"/>
+				<zone xml:id="zone_s1w_f3x_r2b" lry="404" lrx="477" uly="122" ulx="447"/>
+				<zone xml:id="zone_jpn_h3x_r2b" lry="378" lrx="447" uly="121" ulx="418"/>
+				<zone xml:id="zone_zw3_33x_r2b" lry="405" lrx="389" uly="168" ulx="344"/>
+				<zone xml:id="zone_wqf_j3x_r2b" lry="391" lrx="345" uly="140" ulx="307"/>
+				<zone xml:id="zone_bkv_j3x_r2b" lry="391" lrx="307" uly="140" ulx="267"/>
+				<zone xml:id="zone_n3k_k3x_r2b" lry="379" lrx="266" uly="140" ulx="214"/>
+				<zone xml:id="zone_uwz_k3x_r2b" lry="372" lrx="214" uly="140" ulx="169"/>
+				<zone xml:id="zone_rgp_l3x_r2b" lry="314" lrx="169" uly="170" ulx="131"/>
+				<zone xml:id="zone_sb1_m3x_r2b" lry="384" lrx="144" uly="132" ulx="100"/>
+				<zone xml:id="zone_zcn_m3x_r2b" lry="394" lrx="104" uly="132" ulx="63"/>
+			</surface>
+			<surface>
+				<graphic
+					url="https://diyhistory.org/public/omekas12/iiif-img/725/full/full/0/default.jpg"
+					n="https://diyhistory.org/public/omekas12/iiif/475/canvas/p4"/>
+				<zone xml:id="zone_i2r_kjx_r2b" lry="407" lrx="691" uly="175" ulx="643"/>
+				<zone xml:id="zone_vcj_ljx_r2b" lry="391" lrx="655" uly="146" ulx="598"/>
+				<zone xml:id="zone_cj5_ljx_r2b" lry="401" lrx="598" uly="146" ulx="560"/>
+				<zone xml:id="zone_yd2_mjx_r2b" lry="340" lrx="558" uly="173" ulx="508"/>
+				<zone xml:id="zone_fcs_mjx_r2b" lry="409" lrx="511" uly="141" ulx="463"/>
+				<zone xml:id="zone_mrd_njx_r2b" lry="352" lrx="466" uly="138" ulx="426"/>
+				<zone xml:id="zone_bwm_njx_r2b" lry="375" lrx="353" uly="182" ulx="303"/>
+				<zone xml:id="zone_qdv_njx_r2b" lry="395" lrx="302" uly="145" ulx="248"/>
+				<zone xml:id="zone_ltc_4jx_r2b" lry="380" lrx="248" uly="146" ulx="204"/>
+				<zone xml:id="zone_kpn_4jx_r2b" lry="373" lrx="203" uly="146" ulx="162"/>
+				<zone xml:id="zone_vzw_4jx_r2b" lry="299" lrx="163" uly="177" ulx="117"/>
+				<zone xml:id="zone_vtj_pjx_r2b" lry="399" lrx="132" uly="149" ulx="83"/>
+			</surface>
+			<surface>
+				<graphic
+					url="https://diyhistory.org/public/omekas12/iiif-img/726/full/full/0/default.jpg"
+					n="https://diyhistory.org/public/omekas12/iiif/475/canvas/p5"/>
+				<zone xml:id="zone_hb3_2kx_r2b" lry="380" lrx="696" uly="268" ulx="663"/>
+				<zone xml:id="zone_w3x_2kx_r2b" lry="397" lrx="646" uly="168" ulx="606"/>
+				<zone xml:id="zone_xvj_fkx_r2b" lry="397" lrx="606" uly="175" ulx="565"/>
+				<zone xml:id="zone_osz_fkx_r2b" lry="371" lrx="372" uly="170" ulx="332"/>
+				<zone xml:id="zone_jnm_gkx_r2b" lry="368" lrx="331" uly="136" ulx="289"/>
+				<zone xml:id="zone_iqw_gkx_r2b" lry="362" lrx="288" uly="136" ulx="245"/>
+				<zone xml:id="zone_jlg_hkx_r2b" lry="376" lrx="245" uly="136" ulx="202"/>
+				<zone xml:id="zone_mrv_hkx_r2b" lry="387" lrx="202" uly="135" ulx="159"/>
+				<zone xml:id="zone_bz2_3kx_r2b" lry="392" lrx="159" uly="136" ulx="111"/>
+				<zone xml:id="zone_pqs_3kx_r2b" lry="358" lrx="111" uly="136" ulx="69"/>
+			</surface>
+			<surface>
+				<graphic
+					url="https://diyhistory.org/public/omekas12/iiif-img/727/full/full/0/default.jpg"
+					n="https://diyhistory.org/public/omekas12/iiif/475/canvas/p6"/>
+				<zone xml:id="zone_ecx_qkx_r2b" lry="367" lrx="710" uly="136" ulx="644"/>
+				<zone xml:id="zone_yxq_rkx_r2b" lry="355" lrx="644" uly="136" ulx="606"/>
+				<zone xml:id="zone_xkb_skx_r2b" lry="308" lrx="597" uly="172" ulx="565"/>
+				<zone xml:id="zone_ofk_skx_r2b" lry="388" lrx="568" uly="138" ulx="523"/>
+				<zone xml:id="zone_mvt_tkx_r2b" lry="374" lrx="523" uly="136" ulx="474"/>
+				<zone xml:id="zone_t53_5kx_r2b" lry="346" lrx="419" uly="176" ulx="373"/>
+				<zone xml:id="zone_tnw_5kx_r2b" lry="395" lrx="373" uly="142" ulx="329"/>
+				<zone xml:id="zone_lwh_vkx_r2b" lry="348" lrx="323" uly="143" ulx="288"/>
+				<zone xml:id="zone_ekw_vkx_r2b" lry="377" lrx="287" uly="145" ulx="236"/>
+				<zone xml:id="zone_iwf_wkx_r2b" lry="377" lrx="236" uly="145" ulx="196"/>
+				<zone xml:id="zone_csp_wkx_r2b" lry="320" lrx="196" uly="166" ulx="155"/>
+				<zone xml:id="zone_k11_xkx_r2b" lry="395" lrx="155" uly="136" ulx="109"/>
+			</surface>
+		</surfaceGrp>
+	</facsimile>
+	<text>
+		<front>
+			<p>
+				<span xml:id="朱書">
+					<span>朱書</span>
+				</span>
+				<span xml:id="共カ">
+					<span>共カ</span>
+				</span>
+				<span xml:id="るカ">
+					<span>るカ</span>
+				</span>
+			</p>
+		</front>
+		<body>
+			<p>
+				<lb facs="#zone_hxc_d3x_r2b"/> 　　　松下方之分 <lb facs="#zone_uln_d3x_r2b"/> 一反二丁　　　中津町
+					<lb facs="#zone_y3c_23x_r2b"/> 二反　　　　　くきの木もと <lb facs="#zone_tl5_23x_r2b"/>
+				　　　水田三反二丁 <lb facs="#zone_ij2_f3x_r2b"/> 一ヶ所三舛　　居屋敷 <lb facs="#zone_s1w_f3x_r2b"/>
+				<span corresp="#朱書">「</span> 此分二反ハ、カチノヲトヽノ四郎五郎出作ニ <lb facs="#zone_jpn_h3x_r2b"/>
+				モチ候、一反二丁ハ自作ニ仕候也、　　」 <lb facs="#zone_zw3_33x_r2b"/> 　へ牟木八郎五郎方之分 <lb
+					facs="#zone_wqf_j3x_r2b"/> 一反　　　　　をかのもと <lb facs="#zone_bkv_j3x_r2b"/>
+				二丁　　　　　屋敷のまへ <lb facs="#zone_n3k_k3x_r2b"/> 一反三丁此内三丁ハ年〃不　　　　尾さき <lb
+					facs="#zone_uwz_k3x_r2b"/> 丁　　　　　　高二郎 <lb facs="#zone_rgp_l3x_r2b"/> 　　　水田三反丁
+					<lb facs="#zone_sb1_m3x_r2b"/> 一ヶ所一斗　　居屋敷 <lb facs="#zone_zcn_m3x_r2b"/>
+				一ヶ所二舛　　井のはなの屋敷 <lb facs="#zone_i2r_kjx_r2b"/> 　へ牟木源三郎方之分 <lb
+					facs="#zone_vcj_ljx_r2b"/> 一反所〃ニ有　あミか谷 <lb facs="#zone_cj5_ljx_r2b"/>
+				一反三丁　　　こむまのさき <lb facs="#zone_yd2_mjx_r2b"/> 　　　水田三反三丁 <lb facs="#zone_fcs_mjx_r2b"
+				/> 一ヶ所八舛　　居屋敷 <lb facs="#zone_mrd_njx_r2b"/>
+				<span corresp="#朱書">「</span> 今ハ四郎五郎出作ニ仕候、」 <lb facs="#zone_bwm_njx_r2b"/> 　前田又七方之分
+					<lb facs="#zone_qdv_njx_r2b"/> 一反　　　　　下のかうはり山 <lb facs="#zone_ltc_4jx_r2b"/>
+				一反　　　　　とひのす <lb facs="#zone_kpn_4jx_r2b"/> 一反　　　　　ひらき <lb facs="#zone_vzw_4jx_r2b"/>
+				　　　水田三反 <lb facs="#zone_vtj_pjx_r2b"/> 一ヶ所二舛　居屋敷 <lb facs="#zone_hb3_2kx_r2b"/>
+				　　　　　　はきのもと <lb facs="#zone_w3x_2kx_r2b"/> 　水田一反　居屋敷 <span corresp="#共カ">□</span>
+				<lb facs="#zone_xvj_fkx_r2b"/> 　畠二舛まき　ほりその <lb facs="#zone_osz_fkx_r2b"/> 　薗田七郎三郎方
+					<lb facs="#zone_jnm_gkx_r2b"/> 一反　　　　　はやし <lb facs="#zone_iqw_gkx_r2b"/>
+				二丁　　　　　川ち <lb facs="#zone_jlg_hkx_r2b"/> 三丁　　　　　山のくち <lb facs="#zone_mrv_hkx_r2b"/>
+				二反　　　　　つゐちの内 <lb facs="#zone_bz2_3kx_r2b"/> 丁　　　　　　蒲牟田の平 <lb
+					facs="#zone_pqs_3kx_r2b"/> 一舛まき　　　さかり <lb facs="#zone_ecx_qkx_r2b"/>
+				一反　　　　　きやうしふん須米田 <lb facs="#zone_yxq_rkx_r2b"/> 丁　　　　　　きやうしふんうと <lb
+					facs="#zone_xkb_skx_r2b"/> 　　　水田五反二丁 <lb facs="#zone_ofk_skx_r2b"/> 一ヶ所四舛　　居屋敷
+					<lb facs="#zone_mvt_tkx_r2b"/> 畠四舛　　　　　きやうしふん萩のもと <lb facs="#zone_t53_5kx_r2b"/>
+				　　竹下方之分 <lb facs="#zone_tnw_5kx_r2b"/> 一舛まき　　　くすまきハら <lb facs="#zone_lwh_vkx_r2b"/>
+				三反　　　　　は <span corresp="#るカ">□</span>
+				<lb facs="#zone_ekw_vkx_r2b"/> 二丁　　　　　竹の下 <lb facs="#zone_iwf_wkx_r2b"/> 丁　　　　　　大さこ
+					<lb facs="#zone_csp_wkx_r2b"/> 　　　水田三反三丁 <lb facs="#zone_k11_xkx_r2b"/>
+				一ヶ所二舛　　松尾の屋敷 <lb facs="#zone_llx_jlx_r2b"/> 一反丁　　　　屋所 <lb facs="#zone_r1m_klx_r2b"/>
+				三反二丁　　　まへた <lb facs="#zone_elz_klx_r2b"/> 二丁　　　　　かう田 <lb facs="#zone_qr3_llx_r2b"/>
+				三丁　　　　　松さこ <lb facs="#zone_h4t_llx_r2b"/> 二丁　　　　　かたしろ <lb facs="#zone_q5c_mlx_r2b"/>
+				丁　　　　　　薬師田ふろのもと <lb facs="#zone_jqn_mlx_r2b"/> 丁中　　　　　三月三日祭妙見田 <lb
+					facs="#zone_cpx_mlx_r2b"/> 三丁　　　　　又薬師田はたかつか <lb facs="#zone_jgh_nlx_r2b"/>
+				　　　水田九反丁中 <lb facs="#zone_zjp_nlx_r2b"/> 　　　玉泉庵領 <lb facs="#zone_xkw_nlx_r2b"/>
+				二反丁　　　　はたけ田 <lb facs="#zone_yzd_4lx_r2b"/> 一反二丁　　　やました <lb facs="#zone_qbn_4lx_r2b"
+				/> 三反　　　　　ミねもと <lb facs="#zone_jkd_grx_r2b"/> 　　　水田六反三丁 <lb facs="#zone_ons_grx_r2b"/>
+				<span corresp="#朱書">「</span> 今ハ自作ニ加候、」 <lb facs="#zone_ykb_hrx_r2b"/> 　祝太郎兵衛 <lb
+					facs="#zone_r5n_hrx_r2b"/> 二反　　　　　天神霜月二日祭山の口 <lb facs="#zone_vrw_hrx_r2b"/>
+				一反　　　　　かまむた <lb facs="#zone_ux3_3rx_r2b"/> 一反丁　　　　天神八月田しやうの原 <lb
+					facs="#zone_hh1_jrx_r2b"/> 一反　　　　　天神五月田 <lb facs="#zone_b5q_jrx_r2b"/>
+				二反　　　　　九月田をか大明神領 <lb facs="#zone_kp1_krx_r2b"/> 一反　　　　　をか大明神修理田 <lb
+					facs="#zone_kfn_krx_r2b"/> 一反　　　　　天神のまへ <lb facs="#zone_kcx_krx_r2b"/>
+				一反　　　　　ひちはうかた <lb facs="#zone_ssn_lrx_r2b"/> 　　　水田九反一町〃〃丁 <lb
+					facs="#zone_iwx_g5x_r2b"/> 一ヶ所すわのはら　　　　　居屋敷 <lb facs="#zone_hjd_mrx_r2b"/>
+				一ヶ所　　　　同外その </p>
+		</body>
+	</text>
+</TEI>

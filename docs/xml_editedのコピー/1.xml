@@ -16,9 +16,11 @@
 		</fileDesc>
 	</teiHeader>
 	<facsimile>
-		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/1/manifest.json">
+		<surfaceGrp facs="https://diyhistory.org/public/omekas12/iiif/242/manifest">
 			<surface>
-				<graphic n="https://nakamura196.github.io/iriki/iiif/1/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/1/00000002.jpg"/>
+				<graphic
+					url="https://diyhistory.org/public/omekas12/iiif-img/927/full/full/0/default.jpg"
+					n="https://diyhistory.org/public/omekas12/iiif/242/canvas/p1"/>
 				<zone xml:id="zone_tvt_kky_r2b" lry="476" lrx="615" uly="59" ulx="523"/>
 				<zone xml:id="zone_qb2_lky_r2b" lry="497" lrx="515" uly="77" ulx="439"/>
 				<zone xml:id="zone_mkn_lky_r2b" lry="312" lrx="430" uly="84" ulx="366"/>
@@ -41,12 +43,12 @@
 		</front>
 		<body>
 			<p>
-				<lb facs="#zone_tvt_kky_r2b"/> <persName>渋谷新平</persName>二入道<lb facs="#zone_qb2_lky_r2b"/>
-				<persName corresp="#入来院重基">定円</persName> 当知行地、不可<lb facs="#zone_mkn_lky_r2b"/>有相違者、 <lb
+				<lb facs="#zone_tvt_kky_r2b"/> 渋谷新平二入道<lb facs="#zone_qb2_lky_r2b"/>
+				<span corresp="#入来院重基">定円</span> 当知行地、不可<lb facs="#zone_mkn_lky_r2b"/>有相違者、 <lb
 					facs="#zone_hnw_lky_r2b"/> 天気如此、悉之以状、<lb/> 　　　<span facs="#zone_rwf_mky_r2b"
 						><date when="1333-12-16" sameAs="http://datetime.hutime.org/date/1333-12-16"
 						>元弘三年十一月九日</date></span>　　　　　　　　　<span facs="#zone_hmw_mky_r2b"
-					><name corresp="https://ja.wikipedia.org/wiki/式部省">式部大丞</name></span><span facs="#zone_nst_nky_r2b">（花押）</span>
+					>式部大丞</span><span facs="#zone_nst_nky_r2b">（花押）</span>
 				<lb/>
 			</p>
 		</body>

@@ -1,24 +1,37 @@
 <?xml version="1.0" ?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
 				<title>1　 元弘3年11月9日　　_後醍醐天皇綸旨（＃１）</title>
+			
+			<respStmt>
+				<resp when="2020-06-19">TEI Encoding</resp>
+				<name>Satoru Nakamura</name>
+			</respStmt>
 			</titleStmt>
 			<publicationStmt>
-				<p>Publication Information</p>
+				<distributor>東京大学史料編纂所</distributor>
+				<availability>
+					<p>
+						<ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0
+							Universal (CC0 1.0) Public Domain Dedication</ref>
+					</p>
+				</availability>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Information about the source</p>
+				<bibl>
+					<title>入来院家文書</title>
+					<publisher>東京大学史料編纂所</publisher>
+				</bibl>
 			</sourceDesc>
 		</fileDesc>
 	</teiHeader>
 	<facsimile>
 		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/1/manifest.json">
 			<surface>
-				<graphic n="https://nakamura196.github.io/iriki/iiif/1/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/1/00000002.jpg"/>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/1/manifest.json/canvas/p1"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/1/00000002.jpg"/>
 				<zone xml:id="zone_tvt_kky_r2b" lry="476" lrx="615" uly="59" ulx="523"/>
 				<zone xml:id="zone_qb2_lky_r2b" lry="497" lrx="515" uly="77" ulx="439"/>
 				<zone xml:id="zone_mkn_lky_r2b" lry="312" lrx="430" uly="84" ulx="366"/>
@@ -41,12 +54,14 @@
 		</front>
 		<body>
 			<p>
-				<lb facs="#zone_tvt_kky_r2b"/> <persName>渋谷新平</persName>二入道<lb facs="#zone_qb2_lky_r2b"/>
-				<persName corresp="#入来院重基">定円</persName> 当知行地、不可<lb facs="#zone_mkn_lky_r2b"/>有相違者、 <lb
-					facs="#zone_hnw_lky_r2b"/> 天気如此、悉之以状、<lb/> 　　　<span facs="#zone_rwf_mky_r2b"
+				<lb facs="#zone_tvt_kky_r2b"/>
+				<persName corresp="#入来院重基">渋谷新平</persName>二入道<lb facs="#zone_qb2_lky_r2b"/>
+				<persName corresp="#入来院重基">定円</persName> 当知行地、不可<lb facs="#zone_mkn_lky_r2b"/>有相違者、
+					<lb facs="#zone_hnw_lky_r2b"/> 天気如此、悉之以状、<lb/> 　　　<span facs="#zone_rwf_mky_r2b"
 						><date when="1333-12-16" sameAs="http://datetime.hutime.org/date/1333-12-16"
-						>元弘三年十一月九日</date></span>　　　　　　　　　<span facs="#zone_hmw_mky_r2b"
-					><name corresp="https://ja.wikipedia.org/wiki/式部省">式部大丞</name></span><span facs="#zone_nst_nky_r2b">（花押）</span>
+						>元弘三年十一月九日</date></span>　　　　　　　　　<span facs="#zone_hmw_mky_r2b"><name
+						corresp="http://ja.dbpedia.org/resource/式部省">式部大丞</name></span><span
+					facs="#zone_nst_nky_r2b">（花押）</span>
 				<lb/>
 			</p>
 		</body>

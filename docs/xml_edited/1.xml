@@ -55,7 +55,7 @@
 		<body>
 			<p>
 				<lb facs="#zone_tvt_kky_r2b"/> 渋谷新平二入道<lb facs="#zone_qb2_lky_r2b"/>
-				<persName corresp="#入来院重基">定円</persName> 当知行地、不可<lb facs="#zone_mkn_lky_r2b"/>有相違者、
+				<persName corresp="#入来院重基">定円</persName> <name corresp="https://www.wikidata.org/wiki/Q11487841">当知行</name>地、不可<lb facs="#zone_mkn_lky_r2b"/>有相違者、
 					<lb facs="#zone_hnw_lky_r2b"/> 天気如此、悉之以状、<lb/> 　　　<span facs="#zone_rwf_mky_r2b"
 						><date when="1333-12-16">元弘三年十一月九日</date></span>　　　　　　　　　<span
 					facs="#zone_hmw_mky_r2b"><name corresp="http://www.wikidata.org/entity/Q3727885"
@@ -65,9 +65,9 @@
 
 			<p>
 				<lb/>"<note n="To-chi-gyo chi, land in actual holding.">THE land in actual holding</note> of Shibuya Shin-hei-zhi nyu-do <note n="This is Shigemoto, the fourth lord of the Iriki-in.">Jo-Yen</note>
-				shall not <lb/>be disturbed. The Imperial pleasure is hereby conveyed. <lb/>"Gen-ko
-				3 y. 11 m. 9 d. [16 December 1333]. <note n="One who bore the official title dai-zho in the shiki-bu department. He transmits the imperial
-					decree.">Shiki-bu dai-zho</note>, (monogram)." </p>
+				shall not <lb/>be disturbed. The Imperial pleasure is hereby conveyed. <lb/>"<date when="1333-12-16">Gen-ko
+				3 y. 11 m. 9 d. [16 December 1333]</date>. <note n="One who bore the official title dai-zho in the shiki-bu department. He transmits the imperial
+					decree.">Shiki-bu dai-zho</note>, <span facs="#zone_nst_nky_r2b">(monogram)</span>." </p>
 		</body>
 	</text>
 </TEI>

@@ -4,11 +4,11 @@
 		<fileDesc>
 			<titleStmt>
 				<title>1　 元弘3年11月9日　　_後醍醐天皇綸旨（＃１）</title>
-			
-			<respStmt>
-				<resp when="2020-06-19">TEI Encoding</resp>
-				<name>Satoru Nakamura</name>
-			</respStmt>
+
+				<respStmt>
+					<resp when="2020-06-19">TEI Encoding</resp>
+					<name>Satoru Nakamura</name>
+				</respStmt>
 			</titleStmt>
 			<publicationStmt>
 				<distributor>東京大学史料編纂所</distributor>
@@ -54,15 +54,20 @@
 		</front>
 		<body>
 			<p>
-				<lb facs="#zone_tvt_kky_r2b"/>
-				<persName corresp="#入来院重基">渋谷新平</persName>二入道<lb facs="#zone_qb2_lky_r2b"/>
+				<lb facs="#zone_tvt_kky_r2b"/> 渋谷新平二入道<lb facs="#zone_qb2_lky_r2b"/>
 				<persName corresp="#入来院重基">定円</persName> 当知行地、不可<lb facs="#zone_mkn_lky_r2b"/>有相違者、
 					<lb facs="#zone_hnw_lky_r2b"/> 天気如此、悉之以状、<lb/> 　　　<span facs="#zone_rwf_mky_r2b"
-						><date when="1333-12-24">元弘三年十一月九日</date></span>　　　　　　　　　<span facs="#zone_hmw_mky_r2b"><name
-						corresp="http://www.wikidata.org/entity/Q3727885">式部大丞</name></span><span
-					facs="#zone_nst_nky_r2b">（花押）</span>
+						><date when="1333-12-16">元弘三年十一月九日</date></span>　　　　　　　　　<span
+					facs="#zone_hmw_mky_r2b"><name corresp="http://www.wikidata.org/entity/Q3727885"
+						>式部大丞</name></span><span facs="#zone_nst_nky_r2b">（花押）</span>
 				<lb/>
 			</p>
+
+			<p>
+				<lb/>"<note n="To-chi-gyo chi, land in actual holding.">THE land in actual holding</note> of Shibuya Shin-hei-zhi nyu-do <note n="This is Shigemoto, the fourth lord of the Iriki-in.">Jo-Yen</note>
+				shall not <lb/>be disturbed. The Imperial pleasure is hereby conveyed. <lb/>"Gen-ko
+				3 y. 11 m. 9 d. [16 December 1333]. <note n="One who bore the official title dai-zho in the shiki-bu department. He transmits the imperial
+					decree.">Shiki-bu dai-zho</note>, (monogram)." </p>
 		</body>
 	</text>
 </TEI>

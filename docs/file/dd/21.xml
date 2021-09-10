@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+	<teiHeader>
+
+		<fileDesc>
+
+			<titleStmt>
+
+				<title>5　 (年未詳)12月21日　_島津忠治書状（＃２１）</title>
+
+			</titleStmt>
+
+			<publicationStmt>
+
+				<p>Publication Information</p>
+
+			</publicationStmt>
+
+			<notesStmt>
+				<note>
+					<span xml:id="礼紙切封ウハ書">
+						<span>礼紙切封ウハ書</span>
+					</span>
+					<span xml:id="重聡">
+						<span>重聡</span>
+					</span>
+				</note>
+			</notesStmt>
+
+			<sourceDesc>
+
+				<p>Information about the source</p>
+
+			</sourceDesc>
+
+		</fileDesc>
+		
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<persName>島津忠治</persName>
+				</correspAction>
+				<correspAction type="received">
+					<persName>渋谷重聡</persName>
+				</correspAction>
+			</correspDesc>
+		</profileDesc>
+
+	</teiHeader>
+
+	<facsimile>
+
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/21/manifest.json">
+
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/21/manifest.json/canvas/p1"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/3/00000009.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/21/manifest.json/canvas/p2"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/3/00000010.jpg"/>
+			</surface>
+		</surfaceGrp>
+
+	</facsimile>
+
+	<text>
+
+		<body>
+			<p>
+				<pb/>
+				<lb/> 先度松図所まて、有方物語之子細、逐一内儀承候、誠以不知所謝候、以
+				<lb/> 面如申候、悉皆諸篇憑存候由申候之上者、世間之人菟角可申扱儀者、被
+				<lb/> 免我〃、弥不閣意見可承事、祝着本望不可過之候、次此間者、御気分不
+				<lb/> 甲斐之由承候、迷惑無申計候、能〃養生偏可為我等為候、何様来春者、
+				<lb/> 目出早〃参会申、心事満足之儀候、恐〃謹言、
+				<lb/> 　　　十二月廿一日　　　　　　　　<persName corresp="#島津忠治">忠治</persName>（花押） <pb/>
+				<lb/> 　　　<persName corresp="#渋谷重聡">渋谷 <note corresp="#重聡">弾正</note> 少弼入道</persName>殿 </p>
+			<div type="礼紙切封ウハ書">
+				<p>
+					<lb/> 　　　 <note corresp="#礼紙切封ウハ書">「</note>
+					<lb/> 　　　　<persName corresp="#渋谷重聡">渋谷弾正少弼入道</persName>殿　　<persName corresp="#島津忠治">忠治</persName>」 </p>
+			</div>
+		</body>
+
+	</text>
+
+</TEI>

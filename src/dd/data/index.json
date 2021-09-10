@@ -1,0 +1,68 @@
+[
+    {
+        "agential": [
+            "島津義弘",
+            "入来院重高"
+        ],
+        "collection": [
+            "入来院家文書 三"
+        ],
+        "date": [
+            "1600"
+        ],
+        "fulltext": "20, 島津維新(義弘)知行充行状, 4, 1600, 入来院家文書 三, 1巻, 家久公御袖判ヨリ龍伯公御状迄　拾通　十壱番, 島津義弘, 入来院重高, <body>\n<p>\n<lb/> 今度美濃国開か原之合戦致粉骨、従其伊勢・近江・伊賀・大和・河内・\n\t\t\t\t<lb/> 和泉ニ至り、帰国之路次伝、片時も側を不相離、被抽奉公之段、神妙之\n\t\t\t\t<lb/> 至、尤感入候、仍知行弐佰石遺之候也、\n\t\t\t\t<lb/> 　　<date when=\"1600\">慶長五</date>\n<lb/> 　　　　拾月十日　　　　　　　　　　　　　　　<persName corresp=\"#島津義弘\">維新</persName>　（墨印）\n\t\t\t\t<lb/> 　　　　　　 <persName corresp=\"#入来院重高\">頴娃弥市郎</persName> 殿\n\t\t\t</p>\n</body>, 島津義弘, 入来院重高",
+        "label": "島津維新(義弘)知行充行状",
+        "no": [
+            "4"
+        ],
+        "objectID": "20",
+        "received": [
+            "入来院重高"
+        ],
+        "sent": [
+            "島津義弘"
+        ],
+        "vol": [
+            "1巻"
+        ],
+        "xml": [
+            "<body>\n<p>\n<lb/> 今度美濃国開か原之合戦致粉骨、従其伊勢・近江・伊賀・大和・河内・\n\t\t\t\t<lb/> 和泉ニ至り、帰国之路次伝、片時も側を不相離、被抽奉公之段、神妙之\n\t\t\t\t<lb/> 至、尤感入候、仍知行弐佰石遺之候也、\n\t\t\t\t<lb/> 　　<date when=\"1600\">慶長五</date>\n<lb/> 　　　　拾月十日　　　　　　　　　　　　　　　<persName corresp=\"#島津義弘\">維新</persName>　（墨印）\n\t\t\t\t<lb/> 　　　　　　 <persName corresp=\"#入来院重高\">頴娃弥市郎</persName> 殿\n\t\t\t</p>\n</body>"
+        ],
+        "外題": [
+            "家久公御袖判ヨリ龍伯公御状迄　拾通　十壱番"
+        ]
+    },
+    {
+        "agential": [
+            "島津忠治",
+            "渋谷重聡"
+        ],
+        "fulltext": "21, 5　 (年未詳)12月21日　_島津忠治書状（＃２１）, 島津忠治, 渋谷重聡, <body>\n<p>\n<pb/>\n<lb/> 先度松図所まて、有方物語之子細、逐一内儀承候、誠以不知所謝候、以\n\t\t\t\t<lb/> 面如申候、悉皆諸篇憑存候由申候之上者、世間之人菟角可申扱儀者、被\n\t\t\t\t<lb/> 免我〃、弥不閣意見可承事、祝着本望不可過之候、次此間者、御気分不\n\t\t\t\t<lb/> 甲斐之由承候、迷惑無申計候、能〃養生偏可為我等為候、何様来春者、\n\t\t\t\t<lb/> 目出早〃参会申、心事満足之儀候、恐〃謹言、\n\t\t\t\t<lb/> 　　　十二月廿一日　　　　　　　　<persName corresp=\"#島津忠治\">忠治</persName>（花押） <pb/>\n<lb/> 　　　<persName corresp=\"#渋谷重聡\">渋谷 <note corresp=\"#重聡\">弾正</note> 少弼入道</persName>殿 </p>\n<div type=\"礼紙切封ウハ書\">\n<p>\n<lb/> 　　　 <note corresp=\"#礼紙切封ウハ書\">「</note>\n<lb/> 　　　　<persName corresp=\"#渋谷重聡\">渋谷弾正少弼入道</persName>殿　　<persName corresp=\"#島津忠治\">忠治</persName>」 </p>\n</div>\n</body>, 島津忠治, 渋谷重聡",
+        "label": "5　 (年未詳)12月21日　_島津忠治書状（＃２１）",
+        "objectID": "21",
+        "received": [
+            "渋谷重聡"
+        ],
+        "sent": [
+            "島津忠治"
+        ],
+        "xml": [
+            "<body>\n<p>\n<pb/>\n<lb/> 先度松図所まて、有方物語之子細、逐一内儀承候、誠以不知所謝候、以\n\t\t\t\t<lb/> 面如申候、悉皆諸篇憑存候由申候之上者、世間之人菟角可申扱儀者、被\n\t\t\t\t<lb/> 免我〃、弥不閣意見可承事、祝着本望不可過之候、次此間者、御気分不\n\t\t\t\t<lb/> 甲斐之由承候、迷惑無申計候、能〃養生偏可為我等為候、何様来春者、\n\t\t\t\t<lb/> 目出早〃参会申、心事満足之儀候、恐〃謹言、\n\t\t\t\t<lb/> 　　　十二月廿一日　　　　　　　　<persName corresp=\"#島津忠治\">忠治</persName>（花押） <pb/>\n<lb/> 　　　<persName corresp=\"#渋谷重聡\">渋谷 <note corresp=\"#重聡\">弾正</note> 少弼入道</persName>殿 </p>\n<div type=\"礼紙切封ウハ書\">\n<p>\n<lb/> 　　　 <note corresp=\"#礼紙切封ウハ書\">「</note>\n<lb/> 　　　　<persName corresp=\"#渋谷重聡\">渋谷弾正少弼入道</persName>殿　　<persName corresp=\"#島津忠治\">忠治</persName>」 </p>\n</div>\n</body>"
+        ]
+    },
+    {
+        "agential": [
+            "島津忠治",
+            "渋谷重聡"
+        ],
+        "date": [
+            "1495-12-19"
+        ],
+        "fulltext": "22, 6　 明応4年11月24日　　島津忠治書状（＃２２）, <body>\n<p>\n<lb/> 其のちハ申うけたまわらす候、御ゆかしくこそ候へ、まつまついよいよ\n\t\t\t\t<lb/> たのミ申へきために、ひろいかきにて申候、さてもさつまこほり、すてに\n\t\t\t\t<lb/> やふれ候つるところに、それのはからひによりしつまり候事、くれくれ\n\t\t\t\t<lb/> かしこまり入候、なををもつて、こゝもとゆミやになり候ハぬやうに、く\n\t\t\t\t<lb/> にをしつめたく候、しかれハなにことも申たむし、たのミ申へきよりほか\n\t\t\t\t<lb/> へちにも候ハす候、恐〃謹言、\n\t\t\t\t<lb/> 　　　 <note corresp=\"#明応四年\"><date when=\"1495-12-19\">十一月廿四日</date></note>\n\t\t\t\t\t　　　　　　　　<persName corresp=\"#島津忠治\">忠治</persName>（花押）\n\t\t\t\t<lb/> 　　　 <persName corresp=\"#渋谷重聡\">渋谷</persName> 殿 </p>\n<div type=\"懸紙ウハ書\">\n<p>\n<lb/> 　　　 <note corresp=\"#懸紙ウハ書\">「</note> 渋谷殿　　忠治」 </p>\n</div>\n</body>, 1495-12-19, 島津忠治, 渋谷重聡",
+        "label": "6　 明応4年11月24日　　島津忠治書状（＃２２）",
+        "objectID": "22",
+        "xml": [
+            "<body>\n<p>\n<lb/> 其のちハ申うけたまわらす候、御ゆかしくこそ候へ、まつまついよいよ\n\t\t\t\t<lb/> たのミ申へきために、ひろいかきにて申候、さてもさつまこほり、すてに\n\t\t\t\t<lb/> やふれ候つるところに、それのはからひによりしつまり候事、くれくれ\n\t\t\t\t<lb/> かしこまり入候、なををもつて、こゝもとゆミやになり候ハぬやうに、く\n\t\t\t\t<lb/> にをしつめたく候、しかれハなにことも申たむし、たのミ申へきよりほか\n\t\t\t\t<lb/> へちにも候ハす候、恐〃謹言、\n\t\t\t\t<lb/> 　　　 <note corresp=\"#明応四年\"><date when=\"1495-12-19\">十一月廿四日</date></note>\n\t\t\t\t\t　　　　　　　　<persName corresp=\"#島津忠治\">忠治</persName>（花押）\n\t\t\t\t<lb/> 　　　 <persName corresp=\"#渋谷重聡\">渋谷</persName> 殿 </p>\n<div type=\"懸紙ウハ書\">\n<p>\n<lb/> 　　　 <note corresp=\"#懸紙ウハ書\">「</note> 渋谷殿　　忠治」 </p>\n</div>\n</body>"
+        ]
+    }
+]

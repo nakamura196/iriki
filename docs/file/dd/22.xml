@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+	<teiHeader>
+
+		<fileDesc>
+
+			<titleStmt>
+
+				<title>6　 明応4年11月24日　　島津忠治書状（＃２２）</title>
+
+			</titleStmt>
+
+
+
+			<publicationStmt>
+
+				<p>Publication Information</p>
+
+			</publicationStmt>
+
+			<notesStmt>
+				<note>
+					<span xml:id="懸紙ウハ書">
+						<span>懸紙ウハ書</span>
+					</span>
+					<span xml:id="明応四年">
+						<span>明応四年</span>
+					</span>
+					<span xml:id="重聡">
+						<span>重聡</span>
+					</span>
+				</note>
+			</notesStmt>
+
+			<sourceDesc>
+
+				<p>Information about the source</p>
+
+			</sourceDesc>
+
+
+
+		</fileDesc>
+
+	</teiHeader>
+
+
+	<facsimile>
+
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/22/manifest.json">
+
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/22/manifest.json/canvas/p1"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/3/00000011.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/22/manifest.json/canvas/p2"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/3/00000012.jpg"/>
+			</surface>
+		</surfaceGrp>
+
+	</facsimile>
+
+	<text>
+
+		<body>
+			<p>
+				<lb/> 其のちハ申うけたまわらす候、御ゆかしくこそ候へ、まつまついよいよ
+				<lb/> たのミ申へきために、ひろいかきにて申候、さてもさつまこほり、すてに
+				<lb/> やふれ候つるところに、それのはからひによりしつまり候事、くれくれ
+				<lb/> かしこまり入候、なををもつて、こゝもとゆミやになり候ハぬやうに、く
+				<lb/> にをしつめたく候、しかれハなにことも申たむし、たのミ申へきよりほか
+				<lb/> へちにも候ハす候、恐〃謹言、
+				<lb/> 　　　 <note corresp="#明応四年"><date when="1495-12-19">十一月廿四日</date></note>
+					　　　　　　　　<persName corresp="#島津忠治">忠治</persName>（花押）
+				<lb/> 　　　 <persName corresp="#渋谷重聡">渋谷</persName> 殿 </p>
+			<div type="懸紙ウハ書">
+				<p>
+					<lb/> 　　　 <note corresp="#懸紙ウハ書">「</note> 渋谷殿　　忠治」 </p>
+
+			</div>
+		</body>
+
+	</text>
+
+</TEI>

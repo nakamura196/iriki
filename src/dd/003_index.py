@@ -46,13 +46,18 @@ for i in range(len(files)):
     actions = soup.find_all("correspAction")
     for action in actions:
         field = action.get("type")
-        value = action.text
+        value = action.find("persName").text
         item[field] = [value.strip()]
 
     ### body
     body = soup.find("body")
 
     item["xml"] = [str(body)]
+    item["text"] = [body.text]
+
+    ### image
+    item["thumbnail"] = soup.find("graphic")["url"]
+    item["manifest"] = soup.find("surfaceGrp").get("facs")
 
     ### date
     dates = body.find_all("date")
@@ -72,7 +77,11 @@ for i in range(len(files)):
         },
         {
             "tag": "placeName",
-            "label": "agential"
+            "label": "spatial"
+        },
+        {
+            "tag": "name",
+            "label": "about"
         }
     ]
 

@@ -25,7 +25,8 @@
 					</span>
 				</note>
 				<note type="no">4</note>
-				<note type="date">慶長5年10月10日</note>
+				<note type="jcdate">慶長5年10月10日</note>
+				<note type="date">1600</note>
 				<note type="collection">入来院家文書 三</note>
 				<note type="vol">1巻</note>
 				<note type="外題">家久公御袖判ヨリ龍伯公御状迄　拾通　十壱番</note>
@@ -72,8 +73,11 @@
 
 		<body>
 			<p>
-				<lb/> 今度美濃国開か原之合戦致粉骨、従其伊勢・近江・伊賀・大和・河内・
-				<lb/> 和泉ニ至り、帰国之路次伝、片時も側を不相離、被抽奉公之段、神妙之
+				<lb/> 今度<placeName corresp="#美濃国">美濃国</placeName><name
+					corresp="#関ヶ原の戦い" type="keyword">開か原之合戦</name>致粉骨、従其<placeName corresp="#伊勢国">伊勢</placeName>・<placeName
+						corresp="#近江国">近江</placeName>・<placeName corresp="#伊賀国">伊賀</placeName>・<placeName
+							corresp="#大和国">大和</placeName>・<placeName corresp="#河内国">河内</placeName>・
+				<lb/> <placeName corresp="#和泉国">和泉</placeName>ニ至り、帰国之路次伝、片時も側を不相離、被抽奉公之段、神妙之
 				<lb/> 至、尤感入候、仍知行弐佰石遺之候也、
 				<lb/> 　　<date when="1600">慶長五</date>
 				<lb/> 　　　　拾月十日　　　　　　　　　　　　　　　<persName corresp="#島津義弘">維新</persName>　（墨印）

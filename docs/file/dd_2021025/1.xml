@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>後醍醐天皇綸旨</title>
+
+				<respStmt>
+					<resp when="2021-09-06">TEI Encoding</resp>
+					<name>Satoru Nakamura</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>東京大学史料編纂所</distributor>
+				<availability>
+					<p>
+						<ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0
+							Universal (CC0 1.0) Public Domain Dedication</ref>
+					</p>
+				</availability>
+			</publicationStmt>
+			
+			<notesStmt>
+				<note type="no">1</note>
+				<note type="jcdate">元弘三年十一月九日</note>
+				<note type="date">1333-12-16</note>
+				<note type="collection">入来院家文書 一</note>
+				<note type="vol">1帖</note>
+				<note type="外題">御綸旨御下文御感状御教書　九通　九番</note>
+			</notesStmt>
+			
+			<sourceDesc>
+				<bibl>
+					<title>入来院家文書</title>
+					<publisher>東京大学史料編纂所</publisher>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile source="https://nakamura196.github.io/iriki/iiif/1/manifest.json">
+		
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/1/manifest.json">
+			
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/1/manifest.json/canvas/p1"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/1/00000002.jpg"/>
+			</surface>
+		</surfaceGrp>
+
+		<surface source="https://nakamura196.github.io/iriki/iiif/1/manifest.json/canvas/p1">
+			<graphic url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/1/00000002.jpg"/>
+			<zone xml:id="zone_tvt_kky_r2b" lry="476" lrx="615" uly="59" ulx="523"/>
+			<zone xml:id="zone_qb2_lky_r2b" lry="497" lrx="515" uly="77" ulx="439"/>
+			<zone xml:id="zone_mkn_lky_r2b" lry="312" lrx="430" uly="84" ulx="366"/>
+			<zone xml:id="zone_hnw_lky_r2b" lry="493" lrx="344" uly="83" ulx="274"/>
+			<zone xml:id="zone_rwf_mky_r2b" lry="344" lrx="239" uly="128" ulx="164"/>
+			<zone xml:id="zone_hmw_mky_r2b" lry="452" lrx="238" uly="343" ulx="164"/>
+			<zone xml:id="zone_nst_nky_r2b" lry="494" lrx="257" uly="433" ulx="163"/>
+		</surface>
+
+	</facsimile>
+	<text>
+		<front>
+			<p>
+				<listPerson>
+					<person xml:id="入来院重基">
+						<persName ref="http://www.wikidata.org/entity/Q11388920">入来院重基</persName>
+					</person>
+				</listPerson>
+			</p>
+		</front>
+		<body>
+			<div type="original">
+				<p>
+					<lb facs="#zone_tvt_kky_r2b"/> 渋谷新平二入道
+					<lb facs="#zone_qb2_lky_r2b"/>
+					<persName corresp="#入来院重基">定円</persName>
+					<name corresp="https://www.wikidata.org/wiki/Q11487841" type="keyword"
+						>当知行</name>地、不可
+					<lb facs="#zone_mkn_lky_r2b"/>有相違者、
+					<lb facs="#zone_hnw_lky_r2b"/> 天気如此、悉之以状、
+					<lb/> 　　　<seg facs="#zone_rwf_mky_r2b"><date when="1333-12-16"
+						>元弘三年十一月九日</date></seg>　　　　　　　　　<seg facs="#zone_hmw_mky_r2b"><name
+							corresp="#式部大丞" type="keyword" ref="http://www.wikidata.org/entity/Q3727885">式部大丞</name></seg><seg
+						facs="#zone_nst_nky_r2b">（花押）</seg>
+					<lb/>
+				</p>
+			</div>
+			<div type="english">
+
+				<p>
+					<lb/><seg xml:id="noteEn1-1-1">THE land in actual holding</seg> of Shibuya
+					Shin-hei-zhi <emph rend="italic">nyu-do</emph>
+					<persName corresp="#入来院重基"><seg xml:id="noteEn1-1-2">Jo-Yen</seg></persName> shall not be disturbed. The Imperial
+					pleasure is hereby conveyed.
+					<lb/><date when="1333-12-16">Gen-ko 3 y. 11 m. 9 d. [16 December 1333]</date>.
+						<emph rend="italic"><seg xml:id="noteEn1-1-3">Shiki-bu dai-zho</seg></emph>,
+						<span facs="#zone_nst_nky_r2b">(monogram)</span>.</p>
+
+				<note target="#noteEn1-1-1" type="translatorsNotes">To-chi-gyo chi, land in actual
+					holding.</note>
+
+				<note target="#noteEn1-1-2" type="translatorsNotes">This is Shigemoto, the fourth
+					lord of the Iriki-in.</note>
+				<note target="#noteEn1-1-3" type="translatorsNotes">One who bore the official title
+					dai-zho in the shiki-bu department. He transmits the imperial decree.</note>
+			</div>
+		</body>
+	</text>
+</TEI>

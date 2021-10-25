@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>8　　元応元年11月14日　_薩摩入来院塔原領家方夏物年貢請取状（＃１２９）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/129/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/129/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000013.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="小">
+					<span>小</span>
+				</span>
+				<span xml:id="端裏書">
+					<span>端裏書</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+
+				<note corresp="#端裏書">「</note>
+				りやうけの御うけとり」
+				<lb/>
+				
+				　納　<placeName corresp="#薩摩国" ref="https://ja.wikipedia.org/wiki/%E8%96%A9%E6%91%A9%E5%9B%BD">薩摩国</placeName>入来院<placeName>塔原</placeName>領家方元応元年夏物御年貢色〃事
+				<lb/>
+				
+　　合
+				<lb/>
+				
+一綿伍拾四両壱分之内当進肆拾陸両弐分者、未進七両参分歟、
+				<lb/>
+				
+一太糸拾肆両之内当進陸両云〃、未進捌両、但請合糸未進、
+				<lb/>
+				
+一花紙伍帖之内当進弐帖、未進参帖、
+				<lb/>
+				
+一苧伍拾両全未進、
+				<lb/>
+				
+一麦代
+				<note corresp="#小">少</note>
+				袖絹壱全未進、
+				<lb/>
+				
+一白布壱切全未進、
+				<lb/>
+				
+右、且所納之状如件、
+				<lb/>
+				
+				　　　<date when="1319-12-26">元応元年十一月十四日</date>　　　　　　　　　<persName>尼真理</persName>（花押）
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

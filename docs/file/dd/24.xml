@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>8　 (年未詳)10月3日　　島津義久書状礼紙書（＃２４）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/24/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/24/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/3/00000016.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="入来院重時">
+					<span>入来院重時</span>
+				</span>
+				<span xml:id="礼紙切封ウハ書">
+					<span>礼紙切封ウハ書</span>
+				</span>
+				<span xml:id="数寄">
+					<span>数寄</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+　二四　<persName>島津義久</persName>書状礼紙書
+				<lb/>
+				
+不可過祝着之候、御浦山敷哉と存計候、此ハ一色おもて方を心かけ候へ
+				<lb/>
+				
+共、さらニ
+				<note corresp="#数寄">すき</note>
+				御さなきニより、いたつらニ冬日暮事、口惜存候、謹
+				<lb/>
+				
+言、
+				<lb/>
+				
+　　　神無月三日　　　　　　　　　<persName corresp="#島津義久">義久</persName>（花押）
+				<lb/>
+				
+　　　
+				<note corresp="#礼紙切封ウハ書">「</note>
+				<lb/>
+				
+　　　
+				<note corresp="#入来院重時"><persName corresp="#入来院重時">又六郎</persName>殿</note>
+				　　　　　　義久」
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

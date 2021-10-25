@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>5　　延慶4年3月4日　　　入来院塔原領家文書代用途免除状（＃１２６）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/126/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/126/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000010.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="武光師兼">
+					<span>武光師兼</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+入来院領家文書代用途内<placeName>塔原</placeName>御分四十五貫余、別以御志奉免許候畢、若
+				<lb/>
+				
+自余村〃無沙汰候者、各別之契約を可申候、仍状如件、
+				<lb/>
+				
+				　　　<date when="1311-03-24">延慶四年三月四日</date>
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　　　　
+				<persName corresp="#武光師兼">法忍</persName>
+				（花押）
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

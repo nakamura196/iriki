@@ -7,8 +7,8 @@
 
 			<titleStmt>
 
-				<!-- <title>4　 正平19年2月1日　　_後村上天皇綸旨（＃４）</title>-->
-				<title>後村上天皇綸旨</title>
+				<title>4　 正平19年2月1日　　_後村上天皇綸旨（＃４）</title>
+
 			</titleStmt>
 
 			<publicationStmt>
@@ -16,32 +16,6 @@
 				<p>Publication Information</p>
 
 			</publicationStmt>
-			
-			<notesStmt>
-				<note>
-					<span xml:id="致_下同ジ">
-						<span>致、下同ジ</span>
-					</span>
-					<span xml:id="西園寺実秀">
-						<span>西園寺実秀</span>
-					</span>
-					<span xml:id="致">
-						<span>致</span>
-					</span>
-					<span xml:id="重門">
-						<span>重門</span>
-					</span>
-					<span xml:id="不脱カ">
-						<span>不脱カ</span>
-					</span>
-				</note>
-				<note type="no">4</note>
-				<note type="jcdate">正平19年2月1日</note>
-				<note type="date">1365-03-05</note>
-				<note type="collection">入来院家文書 一</note>
-				<note type="vol">1帖</note>
-				<note type="外題">御綸旨御下文御感状御教書　九通　九番</note>
-			</notesStmt>
 
 			<sourceDesc>
 
@@ -50,18 +24,6 @@
 			</sourceDesc>
 
 		</fileDesc>
-		
-		<profileDesc>
-			<correspDesc>
-				<correspAction type="sent">
-					<persName>西園寺実秀</persName>
-					<date when="1365-03-05">正平十九年二月一日</date>
-				</correspAction>
-				<correspAction type="received">
-					<persName>渋谷重門</persName>
-				</correspAction>
-			</correspDesc>
-		</profileDesc>
 
 	</teiHeader>
 
@@ -79,19 +41,35 @@
 
 	<text>
 
-		<body>
-			<div type="宿紙">
+		<front>
+
 			<p>
-				<!-- <lb/> 　四　<persName corresp="#後村上天皇">後村上天皇</persName>綸旨（宿紙）-->
-				<lb/> 参御方、相語一族、 <note corresp="#致、下同ジ">至</note> 軍忠者、於本領 <note corresp="#不脱カ"
-					>可</note> 有子細、 <note corresp="#致">至</note> 忠節者、恩賞之事
-				<lb/> 者、不可有子細也、
-				<lb/> 天気如此、悉之以状、
-				<lb/> 　　　<date when="1365-03-05">正平十九年二月一日</date>　　　　　　　　　<persName corresp="#西園寺実秀">
-					左 中将</persName>（花押）
-				<lb/> 　<persName corresp="#渋谷重門">渋谷 能登 守</persName>舘
+				<span xml:id="致、下同ジ">
+					<span>致、下同ジ</span>
+				</span>
+				<span xml:id="西園寺実秀">
+					<span>西園寺実秀</span>
+				</span>
+				<span xml:id="致">
+					<span>致</span>
+				</span>
+				<span xml:id="重門">
+					<span>重門</span>
+				</span>
+				<span xml:id="不脱カ">
+					<span>不脱カ</span>
+				</span>
 			</p>
-			</div>
+
+		</front>
+
+		<body>
+			<p>
+				<lb/> 　四　<persName corresp="#後村上天皇">後村上天皇</persName>綸旨（宿紙） <lb/> 参御方、相語一族、 <note corresp="#致、下同ジ">至</note> 軍忠者、於本領 <note
+					corresp="#不脱カ">可</note> 有子細、 <note corresp="#致">至</note> 忠節者、恩賞之事 <lb/>
+				者、不可有子細也、 <lb/> 天気如此、悉之以状、 <lb/> 　　　<date when="1365-03-05">正平十九年二月一日</date>　　　　　　　　　<persName corresp="#西園寺実秀"> <note corresp="#西園寺実秀"
+					>左</note> 中将</persName>（花押） <lb/> 　<persName corresp="#渋谷重門">渋谷 <note corresp="#重門">能登</note> 守</persName>舘 <lb/>
+			</p>
 		</body>
 
 	</text>

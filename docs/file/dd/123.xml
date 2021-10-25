@@ -1,0 +1,268 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+	<teiHeader>
+
+		<fileDesc>
+
+			<titleStmt>
+
+				<title>2　　(年月日欠)　　　　_渋谷為重重陳状（＃１２３）</title>
+
+			</titleStmt>
+
+			<publicationStmt>
+
+				<p>Publication Information</p>
+
+			</publicationStmt>
+
+			<sourceDesc>
+
+				<p>Information about the source</p>
+
+			</sourceDesc>
+
+		</fileDesc>
+
+	</teiHeader>
+
+	<facsimile>
+
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/123/manifest.json">
+
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/123/manifest.json/canvas/p1"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000004.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/123/manifest.json/canvas/p2"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000005.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/123/manifest.json/canvas/p3"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000006.jpg"/>
+			</surface>
+		</surfaceGrp>
+
+	</facsimile>
+
+	<text>
+
+		<front>
+
+			<p>
+				<span xml:id="第下同ジ">
+					<span>第、下同ジ</span>
+				</span>
+				<span xml:id="第">
+					<span>第</span>
+				</span>
+				<span xml:id="為重">
+					<span>為重</span>
+				</span>
+				<span xml:id="妙蓮">
+					<span>妙蓮</span>
+				</span>
+				<span xml:id="重貞">
+					<span>重貞</span>
+				</span>
+				<span xml:id="事カ">
+					<span>事カ</span>
+				</span>
+				<span xml:id="重経">
+					<span>重経</span>
+				</span>
+			</p>
+
+		</front>
+
+		<body>
+			<p>
+				<lb/>
+				
+　　　　　　○コノ文書、紙継目裏毎ニ花押（少弐貞経？）アリ、
+				
+				<lb/>
+				
+堵申之間支申云〃、取詮、
+				
+				<lb/>
+				
+　此条、就甥
+				<persName corresp="#渋谷重貞" ref="https://ja.wikipedia.org/wiki/%E5%85%A5%E6%9D%A5%E9%99%A2%E6%B0%8F">広化</persName>
+				自筆避状、令知行之間、令申安堵之処、惟重猥支申安
+				
+				<lb/>
+				
+堵之間、於当御奉行、被経御沙汰之処、構出今案之由、載陳状之条、
+				
+				<lb/>
+				
+不足言也、広化自筆顕然之上者、争今案之由可掠申哉、是三
+				
+				<lb/>
+				
+Ｐ６１
+				
+				<lb/>
+				
+				如同状者、<date when="1317">文保元年</date>以来、於押領之段者、
+				<persName corresp="#渋谷為重">善阿</persName>
+				自称之上者、尤欲被行其
+				
+				<lb/>
+				
+咎云〃、取詮、
+				
+				<lb/>
+				
+　此条、如先段言上、就広化自筆避状、令知行之処、何押領之由可掠申
+				
+				<lb/>
+				
+				哉、而彼避状之内<placeName corresp="#薩摩国" ref="https://ja.wikipedia.org/wiki/%E8%96%A9%E6%91%A9%E5%9B%BD">薩摩国</placeName>入来院塔原前土古仲三郎跡田畠在家等、広化
+				
+				<lb/>
+				
+				死去<date when="1315-08">正和四年七月</date>、以後、<persName corresp="#渋谷惟重">惟重</persName>於押領之段者、承伏之上者、云下地、云年〃得
+				
+				<lb/>
+				
+分物、欲糺給、是四
+				
+				<lb/>
+				
+如同状者、於善阿備進広化去状者、眼前奸曲也云〃、取詮、
+				
+				<lb/>
+				
+　此条、於避状者、惟重不及一口論令承伏畢、為自筆顕然之上者、蒙御
+				
+				<lb/>
+				
+成敗之後、於惟重押領之罪科者、任被定置之旨、欲被召行罪科、是五
+				
+				<lb/>
+				
+如同状者、善阿者為亡父
+				<persName corresp="#渋谷重経">渋谷四郎</persName>
+				次郎入道定仏不孝之仁、於彼跡者、雖
+				
+				<lb/>
+				
+為段歩、不可知行、背本主素意、可去与之哉、於他人所帯地哉云〃、取詮、
+				
+				<lb/>
+				
+　此条、亡父定仏不孝由事、無跡形不実也、爰定仏為善阿、雖認置譲状、
+				
+				<lb/>
+				<persName corresp="#妙蓮">継母</persName>
+				令抑留之間、先日令言上畢、継母抑留之条、一門他門皆以令存知
+				
+				<lb/>
+				
+者也、而彼跡段歩不可知行之由、偽申之条、眼前虚言也、次本主素意
+				
+				<lb/>
+				
+由事、素意何事哉、胸臆申状非御沙汰之限、次他人所帯地事、先段言
+				
+				<lb/>
+				
+上之間不能重説、是六
+				
+				<lb/>
+				
+如同状者、善阿備進状、条〃違目多之云〃、取詮、
+				
+				<lb/>
+				
+　此条、状条〃違目不差申色目、任雅意違目由申之条、眼前奸謀也、是七
+				
+				<lb/>
+				
+如同状者、以他人知行之内去与之由云〃取詮、
+				
+				<lb/>
+				
+　此条載先段之間、不能重説、是八
+				
+				<lb/>
+				
+一惟重不可知行広化之跡事
+				
+				<lb/>
+				
+　惟重為訴人於広化之跡
+				<note corresp="#事カ">寺</note>
+				、致非拠訴訟、令和与、以彼和与状、於当御
+				
+				<lb/>
+				
+奉行可下給御下知之由雖申之、不及御許容之上者、争可令知行広化跡
+				
+				<lb/>
+				
+哉、而以次
+				<note corresp="#第、下同ジ">弟</note>
+				相承文書、令知行之由、令偽陳之条奸謀也、広化子息僧
+				
+				<lb/>
+				
+明一房、舎弟僧真良房、亡父跡田在家等当知行之上者、閣子息等次
+				<note corresp="#第">弟</note>
+				相
+				
+				<lb/>
+				
+承文書、舎弟惟重争可帯哉、尤欲被召出、是九
+				
+				<lb/>
+				
+一惟重奸謀事
+				
+				<lb/>
+				
+　於<placeName>薩摩国塔原</placeName>在家等、同国在国司<persName>三郎左衛門入道道与</persName>、同国住人<persName>武光掃
+				
+				<lb/>
+				
+部左衛門尉</persName><persName>飛駄弥四郎兵衛入道随願</persName>并<persName>井上左衛門二郎朝有</persName>等、以広化
+				
+				<lb/>
+				
+永代沽却地、惟重任雅意致押領、窃令和与、以烏帽子親渋谷次郎三郎
+				
+				<lb/>
+				
+祐重、申付問状御教書、掠給安堵之条奸謀至也、然早被召出彼和与状
+				
+				<lb/>
+				
+以下証文安堵御下文、欲被召行罪科、是十
+				
+				<lb/>
+				
+以前条〃大概如斯、　所詮、於広化避状者、惟重承伏之上者、欲蒙御成
+				
+				<lb/>
+				
+敗、且押領承伏之上者、云下地、云年〃押領物、被糺返之、於罪科者、
+				
+				<lb/>
+				
+任被定置之旨、欲被召行、且彼避状惟重存知事、期問荅之時、仍重粗言
+				
+				<lb/>
+				
+上如件、
+				
+				<lb/>
+			</p>
+		</body>
+
+	</text>
+
+</TEI>

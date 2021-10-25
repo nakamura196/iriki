@@ -1,0 +1,144 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+	<teiHeader>
+
+		<fileDesc>
+
+			<titleStmt>
+
+				<title>7　　建保5年8月　日　　_源宗久愁状（＃１２８）</title>
+
+			</titleStmt>
+
+			<publicationStmt>
+
+				<p>Publication Information</p>
+
+			</publicationStmt>
+
+			<sourceDesc>
+
+				<p>Information about the source</p>
+
+			</sourceDesc>
+
+		</fileDesc>
+
+	</teiHeader>
+
+	<facsimile>
+
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/128/manifest.json">
+
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/128/manifest.json/canvas/p1"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000012.jpg"/>
+			</surface>
+		</surfaceGrp>
+
+	</facsimile>
+
+	<text>
+
+		<front>
+
+			<p>
+				<span xml:id="外題">
+					<span>外題</span>
+				</span>
+				<span xml:id="伴">
+					<span>伴</span>
+				</span>
+				<span xml:id="度">
+					<span>度</span>
+				</span>
+			</p>
+
+		</front>
+
+		<body>
+			<p>
+				<lb/>
+				
+　　
+				<note corresp="#外題">「</note>
+				件村事、如申状者、尤有其謂、早任相伝道理、無違乱、
+				
+				<lb/>
+				
+　　　宗久可令領知之状、所仰如件、
+				
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　右衛門尉<persName>藤原朝臣</persName>（花押）」
+				
+				<lb/>
+				<persName>源宗久</persName>解　　　申進　　　　申文事
+				
+				<lb/>
+				
+　請被殊蒙　恩裁、且依重代相伝証文等理、且任代代知行実御裁許、嶋
+				
+				<lb/>
+				
+　津御庄領薩洲方<placeName>薩摩郡</placeName>内山田村名頭職子細愁状
+				
+				<lb/>
+				
+　副進　　調
+				<note corresp="#度">渡</note>
+				証文等
+				
+				<lb/>
+				
+右、謹検案内、彼村者、是<persName>宗久</persName>妻女之先祖相伝所領地也、而高祖父
+				<persName><note corresp="#伴">信</note>
+				房</persName>
+				
+				<lb/>
+				
+奉行之時、為薩洲住人<persName>忠景</persName>、企謀叛一国惣領之時、暫程押領許歟、而以
+				
+				<lb/>
+				
+彼非例、称<persName>兼宗</persName>庄方弁済使職、彼所押領之程、越中前司庄務之時、為曾
+				
+				<lb/>
+				
+祖父<persName>信明</persName>令上件子細言上之日、任文書之道理、如本蒙裁判、領掌顕然
+				
+				<lb/>
+				
+也、随又<persName>宗久</persName>妻女之父故<persName>種信</persName>相継領掌畢き、而種信死去之後、同無妨領
+				
+				<lb/>
+				
+知之程、庄国課役難堪之故、代官真清男迯脱之尅、為弁済使<persName>友久</persName>、寄事
+				
+				<lb/>
+				
+於左右令押領、此五六箇年之間、中絶許也、望請　　恩裁、任重代相伝
+				
+				<lb/>
+				
+譲状理、停止友久之自由押領、蒙御裁判、如本令領掌、為庄国之公役勤
+				
+				<lb/>
+				
+仕、勒子細言上如件、　以解、
+				
+				<lb/>
+				
+　　　<date when="1217-09">建保五年八月　日</date>
+				<lb/>
+				
+				　　　　　　　　　　　　　　　　　　　　　　　<persName>源宗久</persName>上
+				
+				<lb/>
+			</p>
+		</body>
+
+	</text>
+
+</TEI>

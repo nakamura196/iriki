@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+	<teiHeader>
+
+		<fileDesc>
+
+			<titleStmt>
+
+				<title>8　 応永10年12月7日　　島津守久知行充行状（＃３４）</title>
+
+			</titleStmt>
+
+			<publicationStmt>
+
+				<p>Publication Information</p>
+
+			</publicationStmt>
+
+			<sourceDesc>
+
+				<p>Information about the source</p>
+
+			</sourceDesc>
+
+		</fileDesc>
+
+	</teiHeader>
+
+	<facsimile>
+
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/34/manifest.json">
+
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/34/manifest.json/canvas/p1"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000012.jpg"/>
+			</surface>
+		</surfaceGrp>
+
+	</facsimile>
+
+	<text>
+
+		<front>
+
+			<p>
+				<span xml:id="重頼">
+					<span>重頼</span>
+				</span>
+				<span xml:id="河">
+					<span>河</span>
+				</span>
+			</p>
+
+		</front>
+
+		<body>
+			<p>
+				<lb/> 　三四　<persName>島津守久</persName>知行充行状 <lb/> 薩摩国山門院西方之事、并薩摩郡之内荒 <note corresp="#河"
+					>皮</note> ・羽嶋之事、可有御忠節之由、 <lb/> 承候之間、所置進之也、任先例可有知行之状如件、 <lb/> 　　　<date
+					when="1404-01-19">応永拾年十二月七日</date>　　　　　　　　　　　<persName corresp="#島津守久"
+					>守久</persName>（花押） <lb/> 　　　<persName corresp="#渋谷重頼">渋谷　 <note corresp="#重頼">弾正</note> 少弼</persName>殿 <lb/>
+			</p>
+		</body>
+
+	</text>
+
+</TEI>

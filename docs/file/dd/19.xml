@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>3　 元亨2年8月22日　　_薩摩守護島津貞久請文（＃１９）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/19/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/19/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/3/00000005.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/19/manifest.json/canvas/p2" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/3/00000006.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="端裏書">
+					<span>端裏書</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+　一九　薩摩守護<persName>島津貞久</persName>請文
+				<lb/>
+				
+
+				<note corresp="#端裏書">「</note>
+				下野三郎左衛門尉請文」
+				<lb/>
+				
+永利如性掠申、薩摩国山田村山口新開田畠在家等事、去月廿二日御教書
+				<lb/>
+				
+案并今月十七日御催促状、同十九日到来、謹拝見候畢、
+				<lb/>
+				
+抑此事為令明申候、代官暁道令参上候、可有御披露候、恐惶謹言、
+				<lb/>
+				
+　　　<date when="1322">元享二年</date>八月廿二日　　　　　　　<persName corresp="島津貞久">左衛門尉貞久</persName>請文（裏花押）
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

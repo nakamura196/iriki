@@ -7,7 +7,7 @@
 
 			<titleStmt>
 
-				<title>後村上天皇綸旨</title>
+				<title>5　 正平22年2月10日　　後村上天皇綸旨（＃５）</title>
 
 			</titleStmt>
 
@@ -16,29 +16,6 @@
 				<p>Publication Information</p>
 
 			</publicationStmt>
-			
-			<notesStmt>
-				<note>
-					<span xml:id="少">
-						<span>少</span>
-					</span>
-					<span xml:id="懸紙ウハ書">
-						<span>懸紙ウハ書</span>
-					</span>
-					<span xml:id="少_下同ジ">
-						<span>少、下同ジ</span>
-					</span>
-					<span xml:id="重門">
-						<span>重門</span>
-					</span>
-				</note>
-				<note type="no">5</note>
-				<note type="jcdate">正平22年2月10日</note>
-				<note type="date">1367-03-11</note>
-				<note type="collection">入来院家文書 一</note>
-				<note type="vol">1帖</note>
-				<note type="外題">御綸旨御下文御感状御教書　九通　九番</note>
-			</notesStmt>
 
 			<sourceDesc>
 
@@ -47,18 +24,6 @@
 			</sourceDesc>
 
 		</fileDesc>
-		
-		<profileDesc>
-			<correspDesc>
-				<correspAction type="sent">
-					<persName>右衛門権佐</persName>
-					<date when="1367-03-11">正平22年2月10日</date>
-				</correspAction>
-				<correspAction type="received">
-					<persName>入来院重門</persName>
-				</correspAction>
-			</correspDesc>
-		</profileDesc>
 
 	</teiHeader>
 
@@ -76,25 +41,34 @@
 
 	<text>
 
-		<body>
-			<div>
+		<front>
+
 			<p>
-				<!-- <lb/> 　五　<persName corresp="#後村上天皇">後村上天皇</persName>綸旨（白紙、小切紙）-->
-				<lb/> 致軍忠之由被聞食了、尤以神妙者、
-				<lb/> 天気如此、悉之以状、
-				<lb/> 　　　<date when="1367-03-11">正平廿二年二月十日</date>　　右衛門権佐（花押）
-				<lb/> 　<persName corresp="#入来院重門">渋谷 弾正
-					<note corresp="#少、下同ジ">小</note> 弼</persName>館
+				<span xml:id="少">
+					<span>少</span>
+				</span>
+				<span xml:id="懸紙ウハ書">
+					<span>懸紙ウハ書</span>
+				</span>
+				<span xml:id="少、下同ジ">
+					<span>少、下同ジ</span>
+				</span>
+				<span xml:id="重門">
+					<span>重門</span>
+				</span>
 			</p>
-			</div>
-				<div type="懸紙ウハ書">
-					<p>
-				<lb/> 　 <note corresp="#懸紙ウハ書">「</note>
-				<persName corresp="#入来院重門">渋谷<name type="keyword" corresp="#弾正少弼"
-						ref="https://kotobank.jp/word/%E5%B0%91%E5%BC%BC-533058">弾正 <note
-							corresp="#少">小</note> 弼</name></persName>館　右衛門権佐（花押）」
-					</p>
-				</div>
+
+		</front>
+
+		<body>
+			<p>
+				<lb/> 　五　<persName corresp="#後村上天皇">後村上天皇</persName>綸旨（白紙、小切紙） <lb/> 致軍忠之由被聞食了、尤以神妙者、 <lb/> 天気如此、悉之以状、 <lb/>
+				　　　<date when="1367-03-11">正平廿二年二月十日</date>　　右衛門権佐（花押） <lb/> 　<persName corresp="#入来院重門">渋谷 <note corresp="#重門">弾正</note>
+				<note corresp="#少、下同ジ">小</note> 弼</persName>館 <lb/> 　 <note corresp="#懸紙ウハ書">「</note> <persName corresp="#入来院重門">渋谷<name
+					type="keyword" corresp="#弾正少弼"
+					ref="https://kotobank.jp/word/%E5%B0%91%E5%BC%BC-533058">弾正 <note corresp="#少"
+						>小</note> 弼</name></persName>館　右衛門権佐（花押）」 <lb/>
+			</p>
 		</body>
 
 	</text>

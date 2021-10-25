@@ -1,0 +1,108 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+	<teiHeader>
+
+		<fileDesc>
+
+			<titleStmt>
+
+				<title>5　　至徳元年8月23日　　薩摩入来院最禅寺住持惠棟譲状（＃１０４）</title>
+
+			</titleStmt>
+
+			<publicationStmt>
+
+				<p>Publication Information</p>
+
+			</publicationStmt>
+
+			<sourceDesc>
+
+				<p>Information about the source</p>
+
+			</sourceDesc>
+
+		</fileDesc>
+
+	</teiHeader>
+
+	<facsimile>
+
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/104/manifest.json">
+
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/104/manifest.json/canvas/p1"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000007.jpg"/>
+			</surface>
+		</surfaceGrp>
+
+	</facsimile>
+
+	<text>
+
+		<front>
+
+			<p>
+				<span xml:id="村カ">
+					<span>村カ</span>
+				</span>
+				<span xml:id="副">
+					<span>副</span>
+				</span>
+				<span xml:id="端裏書">
+					<span>端裏書</span>
+				</span>
+			</p>
+
+		</front>
+
+		<body>
+			<p>
+				<lb/>
+				<note corresp="#端裏書">「</note>
+				譲状」
+				
+				
+				
+				<lb/>
+				
+薩州入来院南方本
+				<note corresp="#村カ">持</note>
+				萬寿山最禅寺住持職事
+				
+				
+				
+				<lb/>
+				
+右、此所者雖為寺領、重代相伝本領也、　然相
+				<note corresp="#副">制</note>
+				本文書、限永代譲与慧
+				
+				
+				
+				<lb/>
+				
+瑞侍者也、仍譲状如件、
+				
+				
+				
+				<lb/>
+				
+				　　　<date when="1384-09-09">至徳元年甲子八月二十三日</date>
+				
+				
+				
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　　　　<persName>住持惠棟</persName>（花押）
+				
+				
+				
+				<lb/>
+			</p>
+		</body>
+
+	</text>
+
+</TEI>

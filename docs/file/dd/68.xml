@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>13　　貞和2年11月26日　　渋谷定円(重基)譲状（＃６８）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/68/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/68/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/6/00000020.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="重基">
+					<span>重基</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+譲与　　所領等事
+				<lb/>
+				
+　　<persName corresp="#渋谷重勝">平次五郎重勝</persName>所
+				<lb/>
+				
+一所　<placeName corresp="#相模国">相模国</placeName>渋谷庄内<persName>清太入道</persName>西在家壱宇
+				<lb/>
+				
+　　　同藤意内立野伍町　但、四至堺者見本証文、
+				<lb/>
+				
+一所　<placeName corresp="#美作国">美作国</placeName>河会郷内<placeName>下森上山村</placeName>
+				<lb/>
+				
+一所　<placeName corresp="#筑前国">筑前国</placeName>佐波良郡内長尾并比伊郷内<placeName>柏原両村</placeName>定円知行分
+				<lb/>
+				
+一所　<placeName corresp="#筑前国">筑前国</placeName>長淵庄畠地
+				<lb/>
+				
+一所　<placeName corresp="#薩摩国">薩摩国</placeName>入来院内<placeName>清色郷</placeName>五分三北方
+				<lb/>
+				
+右、於所〃者、<persName corresp="#渋谷重基">定円</persName>重代相伝所領也、然間、相副御下文并次第手継証文
+				<lb/>
+				
+等、限永代<persName corresp="#渋谷重勝">重勝</persName>所譲与也、於有限御公事者、守先例可致沙汰、仍譲状如
+				<lb/>
+				
+件、
+				<lb/>
+				
+　　　<date when="1346-12-28">貞和弐年十一月廿六日</date>　　　　　　　　　　沙弥
+				<persName corresp="#渋谷重基">定円</persName>
+				（花押）
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

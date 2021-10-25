@@ -1,0 +1,128 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+	<teiHeader>
+
+		<fileDesc>
+
+			<titleStmt>
+
+				<title>16　　元弘3年11月10日　　渋谷重棟同重利連署去状包紙（＃６７）</title>
+
+			</titleStmt>
+
+			<publicationStmt>
+
+				<p>Publication Information</p>
+
+			</publicationStmt>
+
+			<sourceDesc>
+
+				<p>Information about the source</p>
+
+			</sourceDesc>
+
+		</fileDesc>
+
+	</teiHeader>
+
+	<facsimile>
+
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/67/manifest.json">
+
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/67/manifest.json/canvas/p1"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/6/00000019.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/67/manifest.json/canvas/p2"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/6/00000023.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/67/manifest.json/canvas/p3"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/6/00000019.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/67/manifest.json/canvas/p4"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/6/00000023.jpg"/>
+			</surface>
+		</surfaceGrp>
+
+	</facsimile>
+
+	<text>
+
+		<front>
+
+			<p>
+				<span xml:id="包紙">
+					<span>包紙</span>
+				</span>
+			</p>
+
+		</front>
+
+		<body>
+			<p>
+				<lb/>
+				
+去渡
+				
+				<lb/>
+				
+　<placeName corresp="#薩摩国">薩摩国</placeName>祁荅院与入来院堺<placeName>一野</placeName><placeName>河床</placeName><placeName>中木庭村</placeName>等事
+				
+				<lb/>
+				
+右所者、以去<date when="1302-01-24">正安三年十二月廿五日</date>、<persName corresp="#s渋谷重利">重利</persName>曾祖父<persName>渋谷次郎太郎入道妙行</persName>預
+				
+				<lb/>
+				
+鎮西御下知訖、仍相伝当知行之地也、而<persName>渋谷六郎房静重</persName>今者死去、捧越訴状
+				
+				<lb/>
+				
+就致訴訟、多年雖及其沙汰、所詮一族相論事、非本意之間、於彼一野・
+				
+				<lb/>
+				
+河床・中木庭村者、相副妙行所給御下知、永代所去渡<persName corresp="#渋谷重勝">渋谷平二五郎重勝</persName>
+				
+				<lb/>
+				
+也、且為後証、<persName corresp="#渋谷重棟">渋谷左衛門尉重棟</persName>加判形訖、向後不可有違乱変改之儀、
+				
+				<lb/>
+				
+仍去状如件、
+				
+				<lb/>
+				
+				　　　<date when="1333-12-17">元弘三年十一月十日</date>　　　　　　　　　<persName corresp="#渋谷重利">平　　　重利</persName>（花押）
+				
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　　<persName corresp="#渋谷重棟">左衛門尉重棟</persName>（花押）
+				
+				<lb/>
+				
+　　　
+				<note corresp="#包紙">「</note>
+				いちのゝ・かわとこ
+				
+				<lb/>
+				
+　　　　　中こは・けたういん　　并くろき中津河
+				
+				<lb/>
+				
+　　　　　入来院さかいの事　　　　　　　判　形」
+				
+				<lb/>
+			</p>
+		</body>
+
+	</text>
+
+</TEI>

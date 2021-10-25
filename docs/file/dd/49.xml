@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+	<teiHeader>
+
+		<fileDesc>
+
+			<titleStmt>
+
+				<title>9　　正応元年10月3日　　蒙古合戦勲功賞配分状（＃４９）</title>
+
+			</titleStmt>
+
+			<publicationStmt>
+
+				<p>Publication Information</p>
+
+			</publicationStmt>
+
+			<sourceDesc>
+
+				<p>Information about the source</p>
+
+			</sourceDesc>
+
+		</fileDesc>
+
+	</teiHeader>
+
+	<facsimile>
+
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/49/manifest.json">
+
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/49/manifest.json/canvas/p1"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/5/00000011.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/49/manifest.json/canvas/p2"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/5/00000012.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/49/manifest.json/canvas/p3"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/5/00000013.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/49/manifest.json/canvas/p4"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/5/00000014.jpg"/>
+			</surface>
+		</surfaceGrp>
+
+	</facsimile>
+
+	<text>
+
+		<front>
+
+			<p>
+				<span xml:id="少弐経資">
+					<span>少弐経資</span>
+				</span>
+				<span xml:id="大友頼泰">
+					<span>大友頼泰</span>
+				</span>
+			</p>
+
+		</front>
+
+		<body>
+			<p>
+				<lb/> 　四九　蒙古合戦勲功賞配分状 <lb/> 　　　　　　○コノ文書、上部ニ五条ノ罫線ヲ引キタリ、 <lb/>
+				<date when="1281">弘安四年</date>蒙古合戦勲功賞筑前国早良郡比伊郷地頭職配分事 <lb/>
+				一人<persName corresp="#渋谷有重">渋谷平四郎有重</persName>法師跡孫子亀王・亀〓、養子平次公重法師後家、 <lb/> 　田地拾町 <lb/> 　　行武名 <lb/> 　　横枕一所一反半 <lb/>
+				　　松本一所九反 <lb/> 　　一所九十歩 <lb/> 　　月田一所三反 <lb/> 　　下河原田一所二反大 <lb/> 　　柿田一所一丁一反 <lb/>
+				　　坂本一所五反半 <lb/> 　　タウシタ一所二反大 <lb/> 　　打越北一所半 <lb/> 　　打越一所三反 <lb/> 　　同上一所五十歩 <lb/>
+				　　今山入道薗一所六十歩 <lb/> 　　若国名内 <lb/> 　　打越一所三反 <lb/> 　　同上一所三百歩 <lb/> 　　フル道一所小 <lb/>
+				　　ヤカタカ浦一所四反 <lb/> 　　同所一所一反小 <lb/> 　　ナソエ一所半 <lb/> 　　キハナ一所二反 <lb/> 　　カキソイ一所半 <lb/>
+				　　門田一所二反 <lb/> 　　河原田一所三反 <lb/> 　　坂本一所六反 <lb/> 　　フル河一所小 <lb/> 　　フツ原一所六十歩 <lb/>
+				　　墓本一所一反小 <lb/> Ｐ１５ <lb/> 　　ツカミカ下一所一丁三反 <lb/> 　　中ヲサ田一所八反 <lb/> 　　石崎一所三反 <lb/>
+				　　春田一所二反小 <lb/> 　　西大手田一所三反 <lb/> 　　麦田一所三反 <lb/> 　　柳田一所八反半内二反三百歩東依 <lb/> 　屋敷四ヶ所 <lb/>
+				　　行武名内 <lb/> 　　一宇　　　　　　　　惣検校入道 <lb/> 　　一宇　　　　　　　　六郎 <lb/> 　長淵庄内 <lb/>
+				　　弥藤三一宇　　　　　　　　米光名 <lb/> 　　一宇　　　　　　　　同名 <lb/> 　畠地一所八段 <lb/> 　　若国名内 <lb/> 　　中嶋一所四反
+				<lb/> 　　ヤカタカ浦一所二反 <lb/> 　長淵庄内 <lb/> 　　南田一所七反一丈元八反内西依　金丸 <lb/> 　　一所四反四丈元丁内東依　　元下河原
+				<lb/> 右、就孔子配分如此、有限仏神事・本所年貢、守先例不可有懈怠之状如 <lb/> 件、 <lb/> 　　<date when="1288-10-29">正応元年十月三日</date> <lb/>
+				　　　　　　　　　　　　　　　　　　　　　　 <note corresp="#少弐経資"><persName corresp="#少弐経資">沙弥</persName></note> （花押） <lb/>
+				　　　　　　　　　　　　　　　　　　　　　　 <note corresp="#大友頼泰"><persName corresp="#大友頼泰">沙弥</persName></note> （花押） <lb/>
+			</p>
+		</body>
+
+	</text>
+
+</TEI>

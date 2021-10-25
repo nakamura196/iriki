@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+	<teiHeader>
+
+		<fileDesc>
+
+			<titleStmt>
+
+				<title>10　 (応永10年)12月13日_島津元久書状（＃３６）</title>
+
+			</titleStmt>
+
+			<publicationStmt>
+
+				<p>Publication Information</p>
+
+			</publicationStmt>
+
+			<sourceDesc>
+
+				<p>Information about the source</p>
+
+			</sourceDesc>
+
+		</fileDesc>
+
+	</teiHeader>
+
+	<facsimile>
+
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/36/manifest.json">
+
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/36/manifest.json/canvas/p1"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000014.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/36/manifest.json/canvas/p2"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000015.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/36/manifest.json/canvas/p3"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000016.jpg"/>
+			</surface>
+		</surfaceGrp>
+
+	</facsimile>
+
+	<text>
+
+		<front>
+
+			<p>
+				<span xml:id="応永十年">
+					<span>応永十年</span>
+				</span>
+				<span xml:id="封紙切封">
+					<span>封紙切封</span>
+				</span>
+				<span xml:id="播">
+					<span>播</span>
+				</span>
+				<span xml:id="追筆">
+					<span>追筆</span>
+				</span>
+				<span xml:id="重頼">
+					<span>重頼</span>
+				</span>
+				<span xml:id="島津守久播、下同ジ">
+					<span>島津守久播、下同ジ</span>
+				</span>
+				<span xml:id="少">
+					<span>少</span>
+				</span>
+				<span xml:id="懸紙ウハ書">
+					<span>懸紙ウハ書</span>
+				</span>
+			</p>
+
+		</front>
+
+		<body>
+			<p>
+				<lb/> 　三六　<persName>島津元久</persName>書状 <lb/> 　　　　　　○封紙ハ、モトコノ文書ノモノナリヤ疑ナキニアラズ、今成巻 <lb/>
+				　　　　　　ノ順序ニ従ヒテコヽニ収ム、 <lb/> 今度之刻、依御志自 <note corresp="#島津守久播、下同ジ"><persName
+						corresp="#島津守久">幡州方</persName></note> 、山門西方并荒河・羽嶋被進之候、其旨存知 <lb/> 仕候き、縦 <note
+					corresp="#播"><persName corresp="#島津守久">幡</persName></note>
+				州雖不慮之子細被申候、身之沙汰して、彼在所事共可申談 <lb/> 候、恐〃謹言、 <lb/> 　　　 <note corresp="#応永十年"><date
+						when="1403-01-25">十二月十三日</date></note> 　　　　　　　　　　　<persName corresp="#島津元久"
+					>陸奥守元久</persName>（花押） <lb/> 　　謹上　<persName corresp="#渋谷重頼">渋谷 <note corresp="#重頼">弾正</note>
+				<note corresp="#少">小</note> 弼</persName>殿 <lb/> 　　　　　　 <note corresp="#封紙切封">「</note> 　　」 <lb/>
+				<note corresp="#懸紙ウハ書">「</note>
+				<note corresp="#追筆">やまとにしかた・あら川・はしま判きやう</note>
+				<lb/> 　謹上　渋谷弾正 <note corresp="#少">小</note> 弼殿　　　　陸奥守元久」 <lb/>
+			</p>
+		</body>
+
+	</text>
+
+</TEI>

@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>17　　明徳5年4月25日　　_今川了俊(貞世)感状（＃１３７）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/137/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/137/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000025.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="渋谷重継カ">
+					<span>渋谷重継カ</span>
+				</span>
+				<span xml:id="薩摩">
+					<span>薩摩</span>
+				</span>
+				<span xml:id="×敵方">
+					<span>×敵方</span>
+				</span>
+				<span xml:id="貞世">
+					<span>貞世</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+去月五日於
+				<placeName corresp="#薩摩" ref="https://ja.wikipedia.org/wiki/%E8%96%A9%E6%91%A9%E5%9B%BD">山門</placeName>
+				城、自身太刀打
+				<note corresp="#×敵方">凶徒</note>
+				打取云〃、殊感悦之至也、上洛之上
+				<lb/>
+				
+者、此趣可注進之状如件、
+				<lb/>
+				
+				　　　<date when="1394-05-25">明徳五年四月廿五日</date>
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　　　　
+				<persName corresp="#今川了俊貞世" ref="https://ja.wikipedia.org/wiki/%E4%BB%8A%E5%B7%9D%E8%B2%9E%E4%B8%96">沙弥</persName>
+				（花押）
+				<lb/>
+				
+　　　　
+				<persName corresp="#渋谷重継カ">清色美濃</persName>
+				守殿
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

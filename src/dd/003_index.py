@@ -13,6 +13,13 @@ index = []
 
 #######################
 
+path = "data/metadata.json"
+
+with open(path) as f:
+ metadata = json.load(f)
+
+#######################
+
 files = glob.glob("../../docs/file/dd/*.xml")
 files = sorted(files)
 
@@ -35,12 +42,21 @@ for i in range(len(files)):
         "_updated": format(today, '%Y-%m-%d'),
     }
 
+    if id in metadata:
+        obj = metadata[id]
+        for key in obj:
+            item[key] = obj[key]
+
     #### note
-    notes = soup.find("notesStmt").find_all("note")
-    for note in notes:
-        field = note.get("type")
-        if field:
-            item[field] = [note.text]
+    notesStmt = soup.find("notesStmt")
+    if notesStmt:
+        notes = notesStmt.find_all("note")
+        for note in notes:
+            field = note.get("type")
+            if field:
+                item[field] = [note.text]
+    else:
+        print("no notesStmt", id)
 
     #### corresp
     actions = soup.find_all("correspAction")
@@ -94,13 +110,16 @@ for i in range(len(files)):
                 value = corresp.replace("#", "")
                 if value not in values:
                     values.append(value)
+            else:
+                value = tag.text
+                values.append(value)
 
         if len(values) > 0:
             item[entity["label"]] = values
 
     ####
 
-    fw = open("/Users/nakamurasatoru/git/d_hi_tei/engishiki/static/data/item/"+id+".json", 'w')
+    fw = open("/Users/nakamurasatoru/git/d_hi_tei/iriki/static/data/item/"+id+".json", 'w')
     json.dump(item, fw, ensure_ascii=False, indent=4,
             sort_keys=True, separators=(',', ': '))
 
@@ -120,7 +139,7 @@ for i in range(len(files)):
 #######################
 
 # fw = open("data/index.json", 'w')
-fw = open("/Users/nakamurasatoru/git/d_hi_tei/engishiki/static/data/index.json", 'w')
+fw = open("/Users/nakamurasatoru/git/d_hi_tei/iriki/static/data/index.json", 'w')
 json.dump(index, fw, ensure_ascii=False, indent=4,
         sort_keys=True, separators=(',', ': '))
 

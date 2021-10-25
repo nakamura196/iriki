@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+	<teiHeader>
+
+		<fileDesc>
+
+			<titleStmt>
+
+				<title>6　　貞和5年閏6月23日　_渋谷重勝譲状案（＃４８−１）</title>
+
+			</titleStmt>
+
+			<publicationStmt>
+
+				<p>Publication Information</p>
+
+			</publicationStmt>
+
+			<sourceDesc>
+
+				<p>Information about the source</p>
+
+			</sourceDesc>
+
+		</fileDesc>
+
+	</teiHeader>
+
+	<facsimile>
+
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/48−1/manifest.json">
+
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/48−1/manifest.json/canvas/p1"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/5/00000009.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/48−1/manifest.json/canvas/p2"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/5/00000009.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/48−1/manifest.json/canvas/p3"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/5/00000008.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/48−1/manifest.json/canvas/p4"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/5/00000008.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/48−1/manifest.json/canvas/p5"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/5/00000007.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/48−1/manifest.json/canvas/p6"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/5/00000007.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/48−1/manifest.json/canvas/p7"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/5/00000010.jpg"/>
+			</surface>
+		</surfaceGrp>
+
+	</facsimile>
+
+	<text>
+
+		<front>
+
+			<p>
+				<span xml:id="会">
+					<span>会</span>
+				</span>
+				<span xml:id="渋谷重棟">
+					<span>渋谷重棟</span>
+				</span>
+				<span xml:id="重継">
+					<span>重継</span>
+				</span>
+				<span xml:id="度">
+					<span>度</span>
+				</span>
+			</p>
+
+		</front>
+
+		<body>
+			<p>
+				<lb/> 　　１　<persName>渋谷重勝</persName>譲状案 <lb/> 一所ひせんの国佐加下御領よしまつのありしけ内 <lb/>
+				　田地弐町并屋敷一所ときりかそのゝかハり <lb/> 　同国さかの下御領中よたかり一丁廿六つほ <lb/> 　かのへおほたかり八反十二つほ等事 <lb/>
+				右所領等者、祖父 <note corresp="#渋谷重棟"><persName corresp="#渋谷重棟">宗真</persName></note>
+				并母堂尼宗女か永代相伝ノ所領也、而重勝か譲得 <lb/> 之間、仍 <note corresp="#重継"><persName corresp="#渋谷重継"
+						>乕一</persName></note> 丸ゆつりあたふところ也、為後日譲状如件、 <lb/>
+				　　<date when="1349-08-07">貞和五閏六月廿三日</date>　　　　　　　　　　　　平重勝在判 <lb/>
+				<lb/>
+			</p>
+		</body>
+
+	</text>
+
+</TEI>

@@ -1,0 +1,197 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+	<teiHeader>
+
+		<fileDesc>
+
+			<titleStmt>
+
+				<title>8　　建徳2年10月15日　　渋谷重門譲状（＃８３）</title>
+
+			</titleStmt>
+
+			<publicationStmt>
+
+				<p>Publication Information</p>
+
+			</publicationStmt>
+
+			<sourceDesc>
+
+				<p>Information about the source</p>
+
+			</sourceDesc>
+
+		</fileDesc>
+
+	</teiHeader>
+
+	<facsimile>
+
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/83/manifest.json">
+
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/83/manifest.json/canvas/p1"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000020.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/83/manifest.json/canvas/p2"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000021.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/83/manifest.json/canvas/p3"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000022.jpg"/>
+			</surface>
+		</surfaceGrp>
+
+	</facsimile>
+
+	<text>
+
+		<front>
+
+			<p>
+				<span xml:id="第">
+					<span>第</span>
+				</span>
+				<span xml:id="住">
+					<span>住</span>
+				</span>
+				<span xml:id="会">
+					<span>会</span>
+				</span>
+				<span xml:id="重頼">
+					<span>重頼</span>
+				</span>
+				<span xml:id="斐">
+					<span>斐</span>
+				</span>
+				<span xml:id="度">
+					<span>度</span>
+				</span>
+			</p>
+
+		</front>
+
+		<body>
+			<p>
+				<lb/>
+				
+　　　　　　○コノ文書、紙継目裏下端部（※印ノ部分）ニ重門ノ花押アリ、
+				
+				<lb/>
+				
+　譲与
+				
+				<lb/>
+				
+　　所　子息
+				<persName corresp="#渋谷重頼">乕五郎</persName>
+				丸
+				
+				<lb/>
+				
+一所　<placeName corresp="#薩摩国">薩摩国</placeName>入来院内清色北方
+				
+				<lb/>
+				
+一所　北方内上<placeName>副田村</placeName>
+				
+				<lb/>
+				
+一所　<placeName>市比野村</placeName>半分地頭職并下地
+				
+				<lb/>
+				
+一所　南方内<placeName>清色村</placeName>
+				
+				<lb/>
+				
+一所　<placeName>塔原村</placeName>
+				
+				<lb/>
+				
+一所　<placeName>中村</placeName>
+				
+				<lb/>
+				
+一所　<placeName>楠本村</placeName>
+				
+				<lb/>
+				
+一所　<placeName>倉野村</placeName>
+				
+				<lb/>
+				
+一所　<placeName>久
+				<note corresp="#住">中</note>
+				村</placeName>
+				
+				<lb/>
+				
+一所　<placeName>柏嶋村</placeName>
+				
+				<lb/>
+				
+一所　<placeName corresp="#筑前国">筑前国</placeName>柏原水田屋敷
+				
+				<lb/>
+				
+一所　<placeName corresp="#筑後国">筑後国</placeName>永淵屋敷、同国みな木の屋敷
+				
+				<lb/>
+				
+一所　<placeName corresp="#甲斐国">甲
+				<note corresp="#斐">双</note>
+				国</placeName>西嶋内葦入在家田畠※
+				
+				<lb/>
+				
+一所　<placeName corresp="#美作国">美作国</placeName>河
+				<note corresp="#会">絵</note>
+				庄内下森上山大足
+				
+				<lb/>
+				
+一所　<placeName corresp="相模国">相模国</placeName>渋谷曾司郷内ふちこゝろの屋敷立野等事
+				
+				<lb/>
+				
+右、於所領等、<persName corresp="#渋谷重門">重門</persName>重代相伝所領也、仍乕五郎丸仁相副次
+				<note corresp="#第">弟</note>
+				調
+				<note corresp="#度">渡</note>
+				手継
+				
+				<lb/>
+				
+証文等、限永代所譲与也、於御公事者、任先例可致支配者也、次重門以
+				
+				<lb/>
+				
+後所領之事、雖有数輩兄弟、守其器用、惣領一人仁一所ヲモ不残可譲
+				
+				<lb/>
+				
+与之也、若背此旨、所領ヲ於分与数子之輩者、不可有重門之子孫云云、
+				
+				<lb/>
+				
+如此定置上者、若万一ニモ所領ヲ雖分譲、任此状之旨、於惣領一人之
+				
+				<lb/>
+				
+計、押而可令知行者、且為後証、所書載置文之趣也、仍譲状如件、
+				
+				<lb/>
+				
+				　　　<date when="1371-11-22">建徳二年十月十五日</date>　　　　　　　　　<persName corresp="#渋谷重門">弾正少弼重門</persName>（花押）
+				
+				<lb/>
+			</p>
+		</body>
+
+	</text>
+
+</TEI>

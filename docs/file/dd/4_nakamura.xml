@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+	<teiHeader>
+
+		<fileDesc>
+
+			<titleStmt>
+
+				<title>4　 正平19年2月1日　　_後村上天皇綸旨（＃４）</title>
+
+			</titleStmt>
+
+			<publicationStmt>
+
+				<p>Publication Information</p>
+
+			</publicationStmt>
+
+			<sourceDesc>
+
+				<p>Information about the source</p>
+
+			</sourceDesc>
+
+		</fileDesc>
+
+	</teiHeader>
+
+	<facsimile>
+
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/4/manifest.json">
+
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/4/manifest.json/canvas/p1"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/1/00000005.jpg"/>
+			</surface>
+		</surfaceGrp>
+
+	</facsimile>
+
+	<text>
+
+		<front>
+
+			<p>
+				<span xml:id="致、下同ジ">
+					<span>致、下同ジ</span>
+				</span>
+				<span xml:id="西園寺実秀">
+					<span>西園寺実秀</span>
+				</span>
+				<span xml:id="致">
+					<span>致</span>
+				</span>
+				<span xml:id="重門">
+					<span>重門</span>
+				</span>
+				<span xml:id="不脱カ">
+					<span>不脱カ</span>
+				</span>
+			</p>
+
+		</front>
+
+		<body>
+			<p>
+				<lb/> 　四　<persName corresp="#後村上天皇" ref="https://ja.wikipedia.org/wiki/%E5%BE%8C%E6%9D%91%E4%B8%8A%E5%A4%A9%E7%9A%87">後村上天皇</persName>綸旨（宿紙） <lb/> 参御方、相語一族、 <note corresp="#致、下同ジ">至</note> 軍忠者、於本領 <note
+					corresp="#不脱カ">可</note> 有子細、 <note corresp="#致">至</note> 忠節者、恩賞之事 <lb/>
+				者、不可有子細也、 <lb/> 天気如此、悉之以状、 <lb/> 　　　<date when="1364-03-05">正平十九年二月一日</date>　　　　　　　　　 <persName corresp="#西園寺実秀"><note corresp="#西園寺実秀"
+					>左</note> 中将</persName>（花押） <lb/> 　<persName xml:id="渋谷重門">渋谷 <note corresp="#重門">能登</note></persName> 守舘 <lb/>
+			</p>
+		</body>
+
+	</text>
+
+</TEI>

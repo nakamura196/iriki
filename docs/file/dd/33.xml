@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+	<teiHeader>
+
+		<fileDesc>
+
+			<titleStmt>
+
+				<title>7　 (年未詳)2月19日　　島津師久去状（＃３３）</title>
+
+			</titleStmt>
+
+			<publicationStmt>
+
+				<p>Publication Information</p>
+
+			</publicationStmt>
+
+			<sourceDesc>
+
+				<p>Information about the source</p>
+
+			</sourceDesc>
+
+		</fileDesc>
+
+	</teiHeader>
+
+	<facsimile>
+
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/33/manifest.json">
+
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/33/manifest.json/canvas/p1"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000011.jpg"/>
+			</surface>
+		</surfaceGrp>
+
+	</facsimile>
+
+	<text>
+
+		<front>
+
+			<p>
+				<span xml:id="重継">
+					<span>重継</span>
+				</span>
+			</p>
+
+		</front>
+
+		<body>
+			<p>
+				<lb/> 　三三　<persName>島津師久</persName>去状 <lb/> 凶徒<persName corresp="#国分友重">国分平次郎友重</persName>・同永利又太郎入道祖性両人跡田薗事、善悪共令中 <lb/>
+				分、半分所去申候也、迄于御子〃孫〃、聊不可成違乱之煩候、此上者、 <lb/> 於公方可挙申候、恐〃謹言、 <lb/> Ｐ９ <lb/>
+				　　　<date when="1358-09-15">二月十九日</date>　　　　　　　　　　　　<persName corresp="#島津師久">左衛門少尉師久</persName>（花押） <lb/> 　謹上　<persName corresp="#渋谷重継">渋谷 <note corresp="#重継">美濃</note> 五郎左衛門尉</persName>殿
+				<lb/>
+			</p>
+		</body>
+
+	</text>
+
+</TEI>

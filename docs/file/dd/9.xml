@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>9　 観応2年7月30日　　_足利直冬下文（＃９）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/9/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/9/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/1/00000010.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="直冬">
+					<span>直冬</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+　九　<persName>足利直冬</persName>下文
+				<lb/>
+				
+　下　<persName corresp="#渋谷重勝">渋谷平次五郎重勝</persName>
+				<lb/>
+				
+　　可令早領知美作国河曾郷下村、薩摩国入来院清色郷五分弐参、筑前
+				<lb/>
+				
+　　国下長尾田畠屋敷地頭職事
+				<lb/>
+				
+右、任亡母尼顕心<date when="1344-04-29">康永三年三月十八日</date>、亡父重基法師法名定円、<date when="1346-12-28">貞和二年十
+				<lb/>
+				
+一月廿六日</date>譲状等、可令領掌之状如件、
+				<lb/>
+				
+　　　<date when="1351-08-22">観応二年七月卅日</date>
+				<lb/>
+				
+源
+				<note corresp="#直冬"><persName corresp="#足利直冬">朝臣</persName></note>
+				（花押）
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

@@ -1,0 +1,125 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+	<teiHeader>
+
+		<fileDesc>
+
+			<titleStmt>
+
+				<title>4　　貞和5年閏6月23日　_渋谷重勝同日一筆譲状（＃５９）</title>
+
+			</titleStmt>
+
+			<publicationStmt>
+
+				<p>Publication Information</p>
+
+			</publicationStmt>
+
+			<sourceDesc>
+
+				<p>Information about the source</p>
+
+			</sourceDesc>
+
+		</fileDesc>
+
+	</teiHeader>
+
+	<facsimile>
+
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/59/manifest.json">
+
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/59/manifest.json/canvas/p1"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/6/00000010.jpg"/>
+			</surface>
+		</surfaceGrp>
+
+	</facsimile>
+
+	<text>
+
+		<front>
+
+			<p>
+				<span xml:id="会">
+					<span>会</span>
+				</span>
+				<span xml:id="重門">
+					<span>重門</span>
+				</span>
+			</p>
+
+		</front>
+
+		<body>
+			<p>
+				<lb/>
+				
+譲与
+				
+				<lb/>
+				
+　　所　子息
+				<persName corresp="#渋谷重門">乕松</persName>
+				丸
+				
+				<lb/>
+				
+一所　<placeName corresp="#美作国">美作国</placeName>河
+				<note corresp="#会">絵</note>
+				庄内<placeName>下森</placeName><placeName>上山</placeName><placeName>大足</placeName>
+				
+				<lb/>
+				
+　　　此内一期分所僧二人跡<persName>静重</persName>後家分金子村
+				
+				<lb/>
+				
+一所　<placeName corresp="#薩摩国">薩摩国</placeName>入来院内一野・河床等事
+				
+				<lb/>
+				
+右、任親父<persName>重知</persName>譲状、舎弟<persName>九郎重与</persName>与子息<persName>乕松丸</persName>半分津〃可令知行、而
+				
+				<lb/>
+				
+於<persName>定円</persName>・<persName>重知</persName>跡関所者、一向<persName>乕松丸</persName>可知行、仍巨細見置文、為後譲状
+				
+				<lb/>
+				
+如件、
+				
+				<lb/>
+				
+				　　　<date when="1349-08-07">貞和五年閏六月廿三日</date>　　　　　　　　　　<persName corresp="#渋谷重勝">平重勝</persName>（花押）
+				
+				<lb/>
+				
+一所　入来院内<placeName>市比野</placeName>地頭職
+				
+				<lb/>
+				
+一所　入来院内<placeName>倉野村</placeName>
+				
+				<lb/>
+				
+一所　同<placeName>九重村</placeName>　　　一所　入来院内<placeName>柏嶋</placeName>四分壱
+				
+				<lb/>
+				
+Ｐ２２
+				
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　　　　<persName corresp="#渋谷重勝">重勝</persName>（花押）
+				
+				<lb/>
+			</p>
+		</body>
+
+	</text>
+
+</TEI>

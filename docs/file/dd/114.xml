@@ -1,0 +1,106 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>15　　(至徳3年カ)5月23日_宮内大輔守政書状（＃１１４）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/114/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/114/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000026.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/114/manifest.json/canvas/p2" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000027.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="礼紙切封ウハ書">
+					<span>礼紙切封ウハ書</span>
+				</span>
+				<span xml:id="至徳三年カ">
+					<span>至徳三年カ</span>
+				</span>
+				<span xml:id="渋谷重光">
+					<span>渋谷重光</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+　　　下村殿伺申候、可有御物語候哉
+				<lb/>
+				
+去比、柏原方使者僧帰参之時、自入道方状等令進候、定参着候哉、就其
+				<lb/>
+				
+去十八日夜、前山城同桜崎城二ヶ書落候云〃、目出候、未定説なく候間、
+				<lb/>
+				
+態不申候、方〃より治定之由、承及候間、喜存候、定御同心哉、彼境対
+				<lb/>
+				
+治、近日之由承候間、目出度存候、将又承候間事、入道方よりしたゝめ
+				<lb/>
+				
+進之候由承候、返〃目出候、仍愚身も一通したゝめ進之候、又すたか給
+				<lb/>
+				
+候へく候、方〃より所望候間、如此申候、恐〃謹言、
+				<lb/>
+				
+　　　
+				<note corresp="#至徳三年カ"><date when="1386-06-20">五月廿三日</date></note>
+				　　　　　　　　　　　　　　　　<persName>守政</persName>（花押）
+				<lb/>
+				
+　　　
+				<note corresp="#礼紙切封ウハ書">「</note>
+				<lb/>
+				
+　　　　　
+				<persName corresp="#渋谷重光">左馬佐</persName>
+				殿　　　　」
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

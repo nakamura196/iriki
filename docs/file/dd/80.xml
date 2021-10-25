@@ -1,0 +1,343 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>5　　寛元3年5月11日　　_渋谷定心置文（＃８０）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/80/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/80/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000009.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/80/manifest.json/canvas/p2" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000010.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/80/manifest.json/canvas/p3" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000011.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/80/manifest.json/canvas/p4" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000012.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/80/manifest.json/canvas/p5" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000013.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/80/manifest.json/canvas/p6" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000014.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="博奕">
+					<span>博奕</span>
+				</span>
+				<span xml:id="深谷">
+					<span>深谷</span>
+				</span>
+				<span xml:id="重賢">
+					<span>重賢</span>
+				</span>
+				<span xml:id="端裏書">
+					<span>端裏書</span>
+				</span>
+				<span xml:id="以下十一行異筆">
+					<span>以下十一行異筆</span>
+				</span>
+				<span xml:id="弟">
+					<span>弟</span>
+				</span>
+				<span xml:id="屋地">
+					<span>屋地</span>
+				</span>
+				<span xml:id="具">
+					<span>具</span>
+				</span>
+				<span xml:id="修理">
+					<span>修理</span>
+				</span>
+				<span xml:id="明重">
+					<span>明重</span>
+				</span>
+				<span xml:id="打〓">
+					<span>打〓</span>
+				</span>
+				<span xml:id="藤意">
+					<span>藤意</span>
+				</span>
+				<span xml:id="重純">
+					<span>重純</span>
+				</span>
+				<span xml:id="償">
+					<span>償</span>
+				</span>
+				<span xml:id="定心">
+					<span>定心</span>
+				</span>
+				<span xml:id="重経">
+					<span>重経</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+　　　　　　○コノ文書、紙継目裏毎ニ定心ノ花押アリ、
+				<lb/>
+				
+
+				<note corresp="#端裏書">「</note>
+				おきふミ」
+				<lb/>
+				
+　　　
+				<persName corresp="#渋谷明重">三郎</persName>
+				　
+				<persName corresp="#渋谷重経">四郎</persName>
+				　
+				<persName corresp="#渋谷重賢">五郎</persName>
+				　
+				<persName corresp="#渋谷重純">二郎三郎</persName>
+				　譲状他筆也、
+				<persName corresp="#渋谷定心">（花押）</persName>
+				<lb/>
+				
+
+				<note corresp="#以下十一行異筆">「</note>
+				定置　公事并付諸事子息等可存知子細状
+				<lb/>
+				
+一公事田数事
+				<lb/>
+				
+　河会郷本田数参拾壱町弐段配分也、
+				<lb/>
+				
+Ｐ４２
+				<lb/>
+				
+一三郎分拾七町河会　又大類分玖町　加打毛地利壱三〃町
+				<lb/>
+				
+　　但、公事定田玖拾〃町
+				<lb/>
+				
+一四郎分弐丁参段河会　大功田拾町肆段
+				<lb/>
+				
+　　但、公事定田四丁参段
+				<lb/>
+				
+一五郎分肆町河会
+				<lb/>
+				
+　　但、公事定田壱町陸段
+				<lb/>
+				
+一二郎三郎分七町五段河会　北打毛地利六参〃丁
+				<lb/>
+				
+　　但、公事定田肆参〃丁五段
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　（紙継目）
+				<lb/>
+				
+已上田数者五十六丁六段
+				<lb/>
+				
+　　但、自故入道殿所宛給公事田数拾玖丁四段也、依之色〃公事等、
+				<lb/>
+				
+　以此田数、年来所勤来也、然者、検宛彼田数定之畢、
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　（紙継目）
+				<lb/>
+				
+一京都大番事、子息等四人か公事の田数分限ニしたかひてつとむへし、
+				<lb/>
+				
+一鎌倉御神事の時とねりをいたしたつる事、一向ニ三郎かいとなみにて
+				<lb/>
+				
+あるへし、
+				<lb/>
+				
+一<placeName corresp="#鎌倉">鎌倉</placeName>より人夫をめさるゝ時、
+				<placeName corresp="#打〓">うちもちり</placeName>
+				・
+				<placeName corresp="#深谷">ふかや</placeName>
+				・
+				<placeName corresp="#藤意">ふちこゝろ</placeName>
+				やしきた
+				<lb/>
+				
+はたけのほとをハからひてあつへし、人夫あまたあたらん時ハ、女子
+				<lb/>
+				
+のふんにもさたすへし、三度ニ二とハうちもちりよりまいらすへし、
+				<lb/>
+				
+一大ゆかの番ハ、五ニ二をハ三郎つとむへし、いま三をハ三人してつとむ
+				<lb/>
+				
+へし、おちあひの殿ハらよりあふ事也、
+				<lb/>
+				
+一大庭御まきをひかん時ハ、ふかや・ふち心のさいけニしたかひて、一
+				<lb/>
+				
+人もらさす百文のせにをはからひあてゝ、おちあひ・しもふかやの二百
+				<lb/>
+				
+文のせにゝ
+				<note corresp="#具">く</note>
+				して、三百文にて人夫のいとまをハうけとゝむるなり、
+				<lb/>
+				
+そのむねを存すへし、
+				<lb/>
+				
+一五所宮御まつりの時もしハ御1
+				<note corresp="#明重">1すり</note>
+				のあらん時ハ、せんれいをたつね
+				<lb/>
+				
+て、ほとにしたかひてそのやくをつとむへし、たいかんすへからす、
+				<lb/>
+				
+一かまくらの
+				<note corresp="#屋地">やち</note>
+				ハ三郎ニとらす、たゝし、ゐこんなからん
+				<note corresp="#弟">をとゝ</note>
+				にハす
+				<lb/>
+				
+くせさすへし、他人をハやとせとも、をとゝにハかさぬ事多くミると
+				<lb/>
+				
+ころ也、をやのめいをそむく事也、きひしくせいしせハ上に申すへし、
+				<lb/>
+				
+一下人らのあひたの事、かねて申つけ了、又せけむのくそくせうせうあ
+				<lb/>
+				
+らんをハ、こけあまニ申あハせてそのはからひにしたかうへし、
+				<lb/>
+				
+一女子ニゆつるさいけ田畠ハ、件女子はうニすきたるふたうあらん時ハ、
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　（紙継目）
+				<lb/>
+				
+子息よりあひてこの事ハ一定かとよくよくたつねて、もし一定ならハ
+				<lb/>
+				
+件やしきを上まて申さすとん、おしとりて子息等はいふんしてしるへ
+				<lb/>
+				
+し、件女子のこなんとにとらする事あるへからす、
+				<lb/>
+				
+一子息等中ニいかなる事ありとん、よるましき人のもとへより、はちを
+				<lb/>
+				
+かへりミすふるまう事あらハ、のこりの兄弟同心ニなりて、件やしき
+				<lb/>
+				
+をハ、上まて申さすとん、はいふんしてしるへし、
+				<lb/>
+				
+一をやのためにほうこうありて、心さしあらんものを、おや死去之の
+				<lb/>
+				
+ち、いつしかとかをいゐつけて、さんさんとあたる事、ゆめゆめある
+				<lb/>
+				
+ましき事也、
+				<lb/>
+				
+一をやのために仏事するよしいゐて、そのようとれうニ、とかなからん
+				<lb/>
+				
+人をせめてものをとりて、仏事する事あるへからす、くとくニならぬ
+				<lb/>
+				
+事也、
+				<lb/>
+				
+一子息同まこらか中ニ、やしきなんとを
+				<note corresp="#博奕">はくやう</note>
+				ニもうちいれて
+				<note corresp="#償">しまとう</note>
+				<lb/>
+				
+Ｐ４３
+				<lb/>
+				
+事あらハ、おのおのよりあひて、一とハひきたすけ、いまよりのち
+				<lb/>
+				
+にハさる事候ましと、きしやうをかゝせてをくへし、なほその心あり
+				<lb/>
+				
+てくるう事あらハ、そのやしきをハ、をやの申たる事なれハとて、を
+				<lb/>
+				
+のをのわけてしるへし、
+				<lb/>
+				
+右、このうへにハさのミ申へきやうなし、この状をハ上下万人ひか事と
+				<lb/>
+				
+ハ候ましき也、一事といふとんゆめゆめたかふへからす、あなかしこ、
+				<lb/>
+				
+				　　　<date when="1245-06-06">寛元三年乙巳五月十一日</date>
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　
+				<persName corresp="#渋谷定心">僧</persName>
+				（花押）
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

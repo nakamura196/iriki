@@ -1,0 +1,90 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>14　　明徳元年11月14日　_今川了俊(貞世)知行充行状（＃１３４）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/134/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/134/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000022.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="重頼">
+					<span>重頼</span>
+				</span>
+				<span xml:id="院脱">
+					<span>院脱</span>
+				</span>
+				<span xml:id="貞世">
+					<span>貞世</span>
+				</span>
+				<span xml:id="久氏">
+					<span>久氏</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+
+				<persName corresp="#伊集院久氏" ref="https://ja.wikipedia.org/wiki/%E4%BC%8A%E9%9B%86%E9%99%A2%E4%B9%85%E6%B0%8F"><note corresp="#院脱">伊集入道</note></persName>
+				
+				跡地頭職事、任先立預置旨、可令知行之状如件、
+				<lb/>
+				
+				　　　<date when="1390-12-20">明徳元年十一月十四日</date>　　　　　　　　　
+				<persName corresp="#今川貞世" ref="https://ja.wikipedia.org/wiki/%E4%BB%8A%E5%B7%9D%E8%B2%9E%E4%B8%96">沙弥</persName>
+				（花押）
+				<lb/>
+				
+　　渋谷
+				<lb/>
+				
+　　　　
+				<persName corresp="#渋谷重頼" ref="https://ja.wikipedia.org/wiki/%E5%85%A5%E6%9D%A5%E9%99%A2%E9%87%8D%E9%A0%BC">清色</persName>
+				とのへ
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

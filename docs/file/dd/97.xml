@@ -1,0 +1,225 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+	<teiHeader>
+
+		<fileDesc>
+
+			<titleStmt>
+
+				<title>5　　明徳3年　　　　　　渋谷重頼（？）起請文案（＃９７）</title>
+
+			</titleStmt>
+
+			<publicationStmt>
+
+				<p>Publication Information</p>
+
+			</publicationStmt>
+
+			<sourceDesc>
+
+				<p>Information about the source</p>
+
+			</sourceDesc>
+
+		</fileDesc>
+
+	</teiHeader>
+
+	<facsimile>
+
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/97/manifest.json">
+
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/97/manifest.json/canvas/p1"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/9/00000007.jpg"/>
+			</surface>
+		</surfaceGrp>
+
+	</facsimile>
+
+	<text>
+
+		<front>
+
+			<p>
+				<span xml:id="義、下同ジ">
+					<span>義、下同ジ</span>
+				</span>
+				<span xml:id="義">
+					<span>義</span>
+				</span>
+				<span xml:id="端裏書">
+					<span>端裏書</span>
+				</span>
+				<span xml:id=" ×ハ">
+					<span> ×ハ</span>
+				</span>
+				<span xml:id="伊久">
+					<span>伊久</span>
+				</span>
+				<span xml:id="氏久">
+					<span>氏久</span>
+				</span>
+				<span xml:id="今川貞世">
+					<span>今川貞世</span>
+				</span>
+				<span xml:id="前頼">
+					<span>前頼</span>
+				</span>
+				<span xml:id="義満">
+					<span>義満</span>
+				</span>
+				<span xml:id="致">
+					<span>致</span>
+				</span>
+				<span xml:id="衍カ">
+					<span>衍カ</span>
+				</span>
+				<span xml:id="もカ">
+					<span>もカ</span>
+				</span>
+				<span xml:id="懐良親王">
+					<span>懐良親王</span>
+				</span>
+				<span xml:id="肥後">
+					<span>肥後</span>
+				</span>
+			</p>
+
+		</front>
+
+		<body>
+			<p>
+				<lb/>
+				<note corresp="#端裏書">「</note>
+				案文」
+				
+				<lb/>
+				
+嶋津
+				<persName corresp="#島津伊久">上総</persName>
+				介并
+				<persName corresp="#島津氏久">又三郎</persName>
+				事、依為凶徒、別して　
+				<persName corresp="#足利義満">将軍</persName>
+				家を守申へき故に、
+				
+				<lb/>
+				
+任
+				<persName corresp="#今川貞世">探題方</persName>
+				御教書旨、守護人ニ同心の儀を止了、雖然、自去年
+				<note corresp="#肥後"><placeName>八代</placeName></note>
+				御退
+				
+				<lb/>
+				
+治以後、両嶋津参御方云〃、但、於両国ふるまひ、猶以
+				<persName corresp="#懐良親王">宮方</persName>
+				のともか
+				
+				<lb/>
+				
+ら
+				<persName corresp="#相良前頼">相良</persName>
+				以下為一躰歟、然者　将軍家の御ため、又ハ公方を仰申ともか
+				
+				<lb/>
+				
+らのため、始終可有其煩歟、所詮、面〃の力を一にして身をまたくし
+				
+				<lb/>
+				
+て、　公方を可守申也、若嶋津方以私之儀、可及乱之儀者、一同に
+				
+				<lb/>
+				
+公方になけき申さんかために、一味せらるへき哉、
+				
+				<lb/>
+				
+一此間嶋津方ニ同道の人〃事、これ
+				<note corresp="# ×ハ">又</note>
+				、定て　将軍家を守申さるゝ歟、
+				
+				<lb/>
+				
+然者守護人不
+				<note corresp="#義、下同ジ">儀</note>
+				の時ハ、おのおの　公方をまほり申さるへき条勿論
+				
+				<lb/>
+				
+歟、若又守護人無為を存て、諸事　公方の御成敗をまほり申さハ、か
+				
+				<lb/>
+				
+れといひこれと云、乱之儀あるへからさる上ハ、あなかち此一揆の人
+				
+				<lb/>
+				
+〃も又不
+				<note corresp="#義">儀</note>
+				を存へからす、たゝおのおの理をうしなハす忠をうしなハ
+				
+				<lb/>
+				
+すして、子〃孫〃ニいたるまて、軍役をまたくし知行分をまたくせん
+				
+				<lb/>
+				
+かため、又ハあひたかひニ其理非を　公方にまかせたてまつるへきほ
+				
+				<lb/>
+				
+と、身をまたくせんかために、一揆をむすふ所也、若国のため、又
+				
+				<lb/>
+				
+将軍家の御ためニ、不忠不
+				<note corresp="#義">儀</note>
+				のために此一味を存事あらハ、此契約の旨
+				
+				<lb/>
+				
+Ｐ５１
+				
+				<lb/>
+				
+を可破也、しかしなから、
+				<note corresp="#衍カ">以</note>
+				此旨ハ定者也〃〃〃両嶋津方、或ハ
+				<note corresp="#致">至</note>
+				無理、或ハ
+				
+				<lb/>
+				
+事を左右によせて、ミたりのさたあらハ、身をたすけて　公方をの〃御成
+				
+				<lb/>
+				
+敗待申すへきため也、しかる間、両国の人
+				<note corresp="#もカ">□</note>
+				今〓して如此同心あるへ
+				
+				<lb/>
+				
+き乎、
+				
+				<lb/>
+				
+若、此条〃存偽者、　日本国中諸神ヽヽヽ
+				
+				<lb/>
+				
+				　　　<date when="1392">明徳三年</date>ヽヽヽヽヽ
+				
+				<lb/>
+			</p>
+		</body>
+
+	</text>
+
+</TEI>

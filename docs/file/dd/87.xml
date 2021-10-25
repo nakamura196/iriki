@@ -1,0 +1,178 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+	<teiHeader>
+
+		<fileDesc>
+
+			<titleStmt>
+
+				<title>12　　応永30年8月16日　　渋谷重長譲状（＃８７）</title>
+
+			</titleStmt>
+
+			<publicationStmt>
+
+				<p>Publication Information</p>
+
+			</publicationStmt>
+
+			<sourceDesc>
+
+				<p>Information about the source</p>
+
+			</sourceDesc>
+
+		</fileDesc>
+
+	</teiHeader>
+
+	<facsimile>
+
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/87/manifest.json">
+
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/87/manifest.json/canvas/p1"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000031.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/87/manifest.json/canvas/p2"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000032.jpg"/>
+			</surface>
+		</surfaceGrp>
+
+	</facsimile>
+
+	<text>
+
+		<front>
+
+			<p>
+				<span xml:id="会">
+					<span>会</span>
+				</span>
+				<span xml:id="重茂">
+					<span>重茂</span>
+				</span>
+				<span xml:id="度">
+					<span>度</span>
+				</span>
+			</p>
+
+		</front>
+
+		<body>
+			<p>
+				<lb/>
+				
+　譲与
+				
+				<lb/>
+				
+　　所　子息
+				<persName corresp="#渋谷重茂">初五郎</persName>
+				丸
+				
+				<lb/>
+				
+				一所　<placeName corresp="#薩摩国">薩摩国</placeName>入来院内<placeName>清色</placeName>北方
+				
+				<lb/>
+				
+一所　北方内上<placeName>副田村</placeName>
+				
+				<lb/>
+				
+一所　<placeName>市比野村</placeName>半分地頭職并下地
+				
+				<lb/>
+				
+一所　南方内<placeName>清色村</placeName>
+				
+				<lb/>
+				
+一所　<placeName>塔原村</placeName>
+				
+				<lb/>
+				
+一所　<placeName>中村</placeName>
+				
+				<lb/>
+				
+一所　<placeName>楠本村</placeName>
+				
+				<lb/>
+				
+一所　<placeName>倉野村</placeName>
+				
+				<lb/>
+				
+一所　<placeName>久住村</placeName>
+				
+				<lb/>
+				
+一所　<placeName>柏嶋村</placeName>
+				
+				<lb/>
+				
+				一所　<placeName corresp="#薩摩国">薩摩国</placeName>薩摩郡内勧童・永利名
+				
+				<lb/>
+				
+				一所　<placeName corresp="#筑前国">筑前国</placeName>柏原水田屋敷
+				
+				<lb/>
+				
+				一所　<placeName corresp="#筑後国">筑後国</placeName>永淵屋敷、同国みな木の屋敷
+				
+				<lb/>
+				
+				一所　<placeName corresp="#甲斐国">甲斐国</placeName>西嶋内葦入在家田畠
+				
+				<lb/>
+				
+				一所　<placeName corresp="#美作国">美作国</placeName>河
+				<note corresp="#会">絵</note>
+				庄内下森上山大足
+				
+				<lb/>
+				
+				一所　<placeName corresp="#相模国">相模国</placeName>渋谷曾司郷内ふちこゝろの屋敷立野等事
+				
+				<lb/>
+				
+右、於所領等者、重長重代相伝所領也、仍初五郎丸仁相副次第調
+				<note corresp="#度">渡</note>
+				手継
+				
+				<lb/>
+				
+証文等、限永代所譲与也、於御公事者、任先例可致支配者也、次重長以
+				
+				<lb/>
+				
+後所領事、雖有数輩之兄弟、守其器用、惣領一人仁一所ヲモ不残可譲与
+				
+				<lb/>
+				
+之也、若背此旨、所領ヲ於分与数子之輩者、不可有重長之子孫云云、如
+				
+				<lb/>
+				
+此定置上者、若万一ニモ所領ヲ雖分譲、任此状之旨、於惣領一人之計、
+				
+				<lb/>
+				
+押而可令知行者也、且為後証所書載置文之趣也、仍譲状如件、
+				
+				<lb/>
+				
+				　　　<date when="1423-09-20">応永卅年八月十六日</date>　　　　　　　　　　　　<persName corresp="#渋谷重長">重長</persName>（花押）
+				
+				<lb/>
+			</p>
+		</body>
+
+	</text>
+
+</TEI>

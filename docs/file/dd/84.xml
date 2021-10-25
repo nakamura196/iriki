@@ -1,0 +1,338 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+	<teiHeader>
+
+		<fileDesc>
+
+			<titleStmt>
+
+				<title>9　　嘉暦3年12月21日　　渋谷惟重遺領注進状案（＃８４）</title>
+
+			</titleStmt>
+
+			<publicationStmt>
+
+				<p>Publication Information</p>
+
+			</publicationStmt>
+
+			<sourceDesc>
+
+				<p>Information about the source</p>
+
+			</sourceDesc>
+
+		</fileDesc>
+
+	</teiHeader>
+
+	<facsimile>
+
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/84/manifest.json">
+
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/84/manifest.json/canvas/p1"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000023.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/84/manifest.json/canvas/p2"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000024.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/84/manifest.json/canvas/p3"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000025.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/84/manifest.json/canvas/p4"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000026.jpg"/>
+			</surface>
+		</surfaceGrp>
+
+	</facsimile>
+
+	<text>
+
+		<front>
+
+			<p>
+				<span xml:id="異筆">
+					<span>異筆</span>
+				</span>
+				<span xml:id="功">
+					<span>功</span>
+				</span>
+				<span xml:id="端裏書">
+					<span>端裏書</span>
+				</span>
+			</p>
+
+		</front>
+
+		<body>
+			<p>
+				<lb/>
+				<note corresp="#端裏書">「</note>
+				所領注進　手文」
+				
+				<lb/>
+				
+　注進
+				
+				<lb/>
+				
+　　　<persName corresp="#渋谷惟重">渋谷孫三郎惟重</persName>跡所領事
+				
+				<lb/>
+				
+　　　　合
+				
+				<lb/>
+				
+一<placeName corresp="相模国">相模国</placeName>渋谷上庄<placeName>寺尾村</placeName>内
+				
+				<lb/>
+				
+　　田地肆段
+				
+				<lb/>
+				
+　　在家弐宇内
+				
+				<lb/>
+				
+　　　壱宇地頭屋敷　同山野立野壱町
+				
+				<lb/>
+				
+　　在家伍宇　付山野在之、
+				
+				<lb/>
+				
+　　　　　　　　　　
+				<note corresp="#異筆">「</note>
+				恩」
+				
+				<lb/>
+				
+　　　　　　　是者法音〃寺院主宗万房押妨之、
+				
+				<lb/>
+				
+一<placeName corresp="#薩摩国">薩摩国</placeName>入来院内<placeName>塔原</placeName>郷
+				
+				<lb/>
+				
+　　公田拾捌町七段半内　付山河荒野
+				
+				<lb/>
+				
+　　　　　　
+				
+				<lb/>
+				
+　　　地頭屋敷壱所
+				<note corresp="#異筆">「</note>
+				赤崎宮内入道　永吉仲入道　五郎太郎入道」　了禅　　　観勝　　西念等居住之、
+				
+				<lb/>
+				
+　　　　　　　　　　　樺目田三段有此内
+				
+				<lb/>
+				
+　　　在家四拾弐宇
+				
+				<lb/>
+				
+Ｐ４５
+				
+				<lb/>
+				
+　城篭村　在家四宇　河縁入道　弥四郎入道　平四郎　彦三郎入道
+				
+				<lb/>
+				
+　淵脇ニ　　壱宇　　無作人
+				
+				<lb/>
+				
+　借屋崎ニ　弐宇内　山口二郎　刑部入道
+				
+				<lb/>
+				
+　　　　　　　　有市庭
+				
+				<lb/>
+				
+　大薗ニ　　弐宇　　又二郎入道　一宇無作人
+				
+				<lb/>
+				
+　藤九郎入道跡　壱宇　無作人
+				
+				<lb/>
+				
+　中里ニ　　参宇　　六郎四郎　又二郎
+				
+				<lb/>
+				
+　古家薗　　参宇　　岡六是者宗万房一期知行　後藤六入道跡　皮作入道跡　土器作
+				
+				<lb/>
+				
+　加波目　　壱宇　　弥藤太入道
+				
+				<lb/>
+				
+　中塚　　　壱宇　　紀四郎入道
+				
+				<lb/>
+				
+　横枕　　　壱宇　　定使
+				
+				<lb/>
+				
+　久目方　　壱宇　　源大夫入道
+				
+				<lb/>
+				
+　宇津木浪　四宇　　平入道　平大夫入道　太郎大夫入道　西原無作人
+				
+				<lb/>
+				
+　塚原　　　壱宇　　藤三郎
+				
+				<lb/>
+				
+　皮屋　　　壱宇　　四郎入道
+				
+				<lb/>
+				
+　田代　　　参宇　　三郎大夫跡　道法跡　無作人
+				
+				<lb/>
+				
+　木葉　　　壱宇　　又五郎
+				
+				<lb/>
+				
+　金家　　　壱宇　　弥三郎大夫入道半
+				
+				<lb/>
+				
+　　　　　　　　　　四分一藤次　四分一六郎二郎
+				
+				<lb/>
+				
+　橋口　　　弐宇　　九郎二郎　左近入道
+				
+				<lb/>
+				
+　樋脇　　　壱宇　　後藤大夫入道
+				
+				<lb/>
+				
+　村古田　　参宇　　二宇無作人　一宇五郎太郎入道
+				
+				<lb/>
+				
+　前土古　　弐宇　　師二郎入道　藤七入道
+				
+				<lb/>
+				
+　柿木原　　壱宇　　弥四郎
+				
+				<lb/>
+				
+　峯越　　　壱宇　　石王
+				
+				<lb/>
+				
+　松丸　　　壱宇　　皮細工又太郎入道
+				
+				<lb/>
+				
+　楡木田　　但、此内弐町者、名主押妨之間沙汰最中也、
+				
+				<lb/>
+				
+　　当正作分
+				
+				<lb/>
+				
+　　　玖段内井尻一段　桜木三段　月方二段　樺目三段　地頭屋敷付
+				
+				<lb/>
+				
+　　口町　　壱町
+				
+				<lb/>
+				
+　　頭田　　壱町
+				
+				<lb/>
+				
+一<placeName corresp="#筑前国">筑前国</placeName>早良郡下長尾庄
+				
+				<lb/>
+				
+　　田地拾町内
+				
+				<lb/>
+				
+　　　　弐町　　　当知行分
+				
+				<lb/>
+				
+　　　　畠弐段　　当知行分
+				
+				<lb/>
+				
+　　屋敷四ヶ所内
+				
+				<lb/>
+				
+　　　　当知行分
+				
+				<lb/>
+				
+　　　　一所　検校次郎
+				
+				<lb/>
+				
+一<placeName corresp="#筑後国">筑後国</placeName>三奈木庄冨永名内
+				
+				<lb/>
+				
+　　及杖河原畠壱町　名主自
+				
+				<lb/>
+				
+一<placeName corresp="#伊勢国">伊勢国</placeName>大
+				<note corresp="#功">工</note>
+				田内在美田
+				
+				<lb/>
+				
+　　　田地壱町
+				
+				<lb/>
+				
+右、注進如件、
+				
+				<lb/>
+				
+Ｐ４６
+				
+				<lb/>
+				
+				　　<date when="1329-01-21">嘉暦三年十二月廿一日</date>　　　　　　　　　　　<persName>平重広</persName>判
+				
+				<lb/>
+			</p>
+		</body>
+
+	</text>
+
+</TEI>

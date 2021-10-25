@@ -1,0 +1,604 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+	<teiHeader>
+
+		<fileDesc>
+
+			<titleStmt>
+
+				<title>1　　（永伝元年カ）　　_田畠薗地并屋敷注文（＃７１）</title>
+
+			</titleStmt>
+
+			<publicationStmt>
+
+				<p>Publication Information</p>
+
+			</publicationStmt>
+
+			<sourceDesc>
+
+				<p>Information about the source</p>
+
+			</sourceDesc>
+
+		</fileDesc>
+
+	</teiHeader>
+
+	<facsimile>
+
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/71/manifest.json">
+
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/71/manifest.json/canvas/p1"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/7/00000003.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/71/manifest.json/canvas/p2"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/7/00000004.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/71/manifest.json/canvas/p3"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/7/00000005.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/71/manifest.json/canvas/p4"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/7/00000006.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/71/manifest.json/canvas/p5"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/7/00000007.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/71/manifest.json/canvas/p6"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/7/00000008.jpg"/>
+			</surface>
+		</surfaceGrp>
+
+	</facsimile>
+
+	<text>
+
+		<front>
+
+			<p>
+				<span xml:id="延徳二年">
+					<span>延徳二年</span>
+				</span>
+				<span xml:id="異筆">
+					<span>異筆</span>
+				</span>
+				<span xml:id="マヽ">
+					<span>マヽ</span>
+				</span>
+			</p>
+
+		</front>
+
+		<body>
+			<p>
+				<lb/>
+				
+一上原西之門
+				
+				
+				
+				<lb/>
+				
+一みな原之門
+				
+				
+				
+				<lb/>
+				
+一上副田西薗之門
+				
+				
+				
+				<lb/>
+				
+一倉野田中之門
+				
+				
+				
+				<lb/>
+				
+一中村下坂本之門
+				
+				
+				
+				<lb/>
+				
+一くすもと上江河之門
+				
+				
+				
+				<lb/>
+				
+一山田諏訪薗門夫足ハカリ、年貢ハ神物ニ仕候、
+				
+				
+				
+				<lb/>
+				
+一草原田中門
+				
+				
+				
+				<lb/>
+				
+一田崎うへの薗門
+				
+				
+				
+				<lb/>
+				
+一天辰東門
+				
+				
+				
+				<lb/>
+				
+　　　御自作　　　
+				<note corresp="#延徳二年"><date when="1490">永伝元年</date></note>
+				カノヘイヌ之年ノイ子カス
+				
+				
+				
+				<lb/>
+				
+二反二丁　　　みなを田つふき百弐十参は也、　　<persName>中間十郎二郎与次郎</persName>
+				
+				
+				
+				<lb/>
+				
+五反　　　　　くら野つゝミ田
+				
+				
+				
+				<lb/>
+				
+五反　　　　　倉野ゝつる
+				
+				
+				
+				<lb/>
+				
+一反二丁中　　倉野さこ田
+				
+				
+				
+				<lb/>
+				
+四反二丁　　　中村山本
+				
+				
+				
+				<lb/>
+				
+四反　　　　　中村かわち田
+				
+				
+				
+				<lb/>
+				
+Ｐ２６
+				
+				
+				
+				<lb/>
+				
+四反丁　　　　同まへ田
+				
+				
+				
+				<lb/>
+				
+二反　　　　　くすもとのつく田
+				
+				
+				
+				<lb/>
+				
+三反三丁　　　くすもとの三反田
+				
+				
+				
+				<lb/>
+				
+三丁　　　　　同一せまち
+				
+				
+				
+				<lb/>
+				
+一反二丁中　　同くわはた
+				
+				
+				
+				<lb/>
+				
+一反二丁　　　同てらさこ
+				
+				
+				
+				<lb/>
+				
+二反　　　　　上副田原田
+				
+				
+				
+				<lb/>
+				
+一反　　　　　同桑の木丸
+				
+				
+				
+				<lb/>
+				
+六反　　　　　山田鳥越
+				
+				
+				
+				<lb/>
+				
+一町二反　　　同ちか田
+				
+				
+				
+				<lb/>
+				
+四反　　　　　同みたう井
+				
+				
+				
+				<lb/>
+				
+三反二丁　　　同山した
+				
+				
+				
+				<lb/>
+				
+五反　　　　　同ときてん
+				
+				
+				
+				<lb/>
+				
+一反　　　　　同うちわさ田
+				
+				
+				
+				<lb/>
+				
+一町一反
+				<note corresp="#異筆">「</note>
+				三町一反二丁」　　天辰こなてしま
+				
+				
+				
+				<lb/>
+				<note corresp="#マヽ">一</note>
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　（紙継目）
+				
+				
+				
+				<lb/>
+				
+　　畠地自作分
+				
+				
+				
+				<lb/>
+				
+五反　　　　　中村いけつる
+				
+				
+				
+				<lb/>
+				
+二丁　　　　　同山本のうち
+				
+				
+				
+				<lb/>
+				
+二丁　　　　　同なかれより
+				
+				
+				
+				<lb/>
+				
+四丁　　　　　倉野山下
+				
+				
+				
+				<lb/>
+				
+二反　　　　　同又山下
+				
+				
+				
+				<lb/>
+				
+一反二丁　　　同宮のわき
+				
+				
+				
+				<lb/>
+				
+五反　　　　　同大その
+				
+				
+				
+				<lb/>
+				
+二反三丁　　　同あせち
+				
+				
+				
+				<lb/>
+				
+二丁　　　　　同田のうへ
+				
+				
+				
+				<lb/>
+				
+一反　　　　　同つる
+				
+				
+				
+				<lb/>
+				
+一反　　　　　同田しま
+				
+				
+				
+				<lb/>
+				
+一ヶ所　　　　同こきたの屋敷
+				
+				
+				
+				<lb/>
+				
+一ヶ所　　　　下久住もとハ上屋殿被持候也、
+				
+				
+				
+				<lb/>
+				
+四反　　　　　中村上つる
+				
+				
+				
+				<lb/>
+				
+三反丁　　　　同ふなかハら
+				
+				
+				
+				<lb/>
+				
+三丁　　　　　くすもと堂のまへ
+				
+				
+				
+				<lb/>
+				
+一反三丁　　　同くほその
+				
+				
+				
+				<lb/>
+				
+二反　　　　　天辰みたちその
+				
+				
+				
+				<lb/>
+				
+茶薗　　　　　たうの原しまゑん
+				
+				
+				
+				<lb/>
+				
+茶薗　　　　　くめかた
+				
+				
+				
+				<lb/>
+				
+大茶薗　　　　くら野
+				
+				
+				
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　（紙継目）
+				
+				
+				
+				<lb/>
+				
+　　屋敷者
+				
+				
+				
+				<lb/>
+				
+<persName>くら野ゝ三郎右衛門</persName>　　　　　田一反中一ヶ所一反三丁
+				
+				
+				
+				<lb/>
+				
+同<persName>八郎次郎</persName>　　　　　　　　　　田二反四丁一ヶ所畠地一反四丁
+				
+				
+				
+				<lb/>
+				
+同<persName>太郎四郎</persName>　　　　　　　　　　田一反四丁一ヶ所畠地三反二丁
+				
+				
+				
+				<lb/>
+				
+同<persName>九郎太郎</persName>　　　　　　　　　　田一反丁一ヶ所畠地一反
+				
+				
+				
+				<lb/>
+				
+同<persName>助九郎</persName>　　　　　　　　　　　田一反中一ヶ所畠地一反四丁
+				
+				
+				
+				<lb/>
+				
+Ｐ２７
+				
+				
+				
+				<lb/>
+				
+同<persName>勢三郎</persName>　　　　　　　　　　　田二反三丁一ヶ所畠地四丁
+				
+				
+				
+				<lb/>
+				
+<persName>くす本助四郎　</persName>　　　　　　　　田三反二丁中一ヶ所畠地二反丁
+				
+				
+				
+				<lb/>
+				
+同<persName>助六</persName>　　　　　　　　　　　　田一反二丁一ヶ所畠地二反四丁
+				
+				
+				
+				<lb/>
+				
+同<persName>四郎五郎</persName>　　　　　　　　　　一ヶ所畠地二反
+				
+				
+				
+				<lb/>
+				
+同<persName>三郎四郎</persName>　　　　　　　　　　一ヶ所畠地一反丁
+				
+				
+				
+				<lb/>
+				
+同<persName>孫平次</persName>　　　　　　　　　　　一ヶ所ハカリ
+				
+				
+				
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　（紙継目）
+				
+				
+				
+				<lb/>
+				
+<persName>副田孫太郎</persName>　　　　　　　　　　田一反四丁一ヶ所畠地二丁
+				
+				
+				
+				<lb/>
+				
+同<persName>五郎四郎</persName>　　　　　　　　　　田四丁中一ヶ所畠地三丁
+				
+				
+				
+				<lb/>
+				
+同<persName>六郎四郎</persName>　　　　　　　　　　田一反四丁一ヶ所畠地一反
+				
+				
+				
+				<lb/>
+				
+同<persName>平五郎</persName>　　　　　　　　　　　田一反一ヶ所
+				
+				
+				
+				<lb/>
+				
+同<persName>二郎右衛門</persName>　　　　　　　　　一ヶ所茶薗畠二反
+				
+				
+				
+				<lb/>
+				
+<persName>山田作子彦九郎</persName>　　　　　　　　田二反一ヶ所畠地六反
+				
+				
+				
+				<lb/>
+				
+同<persName>彦三郎</persName>　　　　　　　　　　　一ヶ所畠地五反
+				
+				
+				
+				<lb/>
+				
+同<persName>彦五郎</persName>　　　　　　　　　　　一ヶ所畠地二反
+				
+				
+				
+				<lb/>
+				
+　　畠地自作分　　　　　　　　副田
+				
+				
+				
+				<lb/>
+				
+一反　　　　　　　　　　　　　同原口
+				
+				
+				
+				<lb/>
+				
+二反　　　　　　　　　　　　　同森木の本
+				
+				
+				
+				<lb/>
+				
+一反　　　　　　　　　　　　　同つふき田のうへ
+				
+				
+				
+				<lb/>
+				
+〓　　　　　　　　　　　　　　同ゐなりの前
+				
+				
+				
+				<lb/>
+				
+茶薗　　　　　上副田之分如何之、
+				
+				
+				
+				<lb/>
+			</p>
+		</body>
+
+	</text>
+
+</TEI>

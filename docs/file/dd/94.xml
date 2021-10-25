@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>19　　正平22年1月29日　　渋谷重門置文（＃９４）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/94/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/94/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000039.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="マヽ">
+					<span>マヽ</span>
+				</span>
+				<span xml:id="期">
+					<span>期</span>
+				</span>
+				<span xml:id="端裏書">
+					<span>端裏書</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+
+				<note corresp="#端裏書">「</note>
+				置文」
+				<lb/>
+				
+　定
+				<lb/>
+				
+　　依合戦忠節料所可沙汰条〃事
+				<lb/>
+				
+一其忠有抽出事者、可有常一倍之沙汰也、
+				<lb/>
+				
+一討死跡事、有子息者、本知行之上、重料所出来之時、可有其沙汰也、
+				<lb/>
+				
+次於女子者、本知行半分事、一
+				<note corresp="#期">後</note>
+				之間、不可有子細之也、次於後家
+				<lb/>
+				
+者、可為女子同篇之沙汰、但、別男被相具者、不可有知行之也、
+				<lb/>
+				
+一其跡無子孫者、田地一反永代可有寄進寺家也、
+				<lb/>
+				
+右、此之趣、至子〃孫〃、於背此之旨之輩者、不可有重門之子孫
+				<note corresp="#マヽ">之</note>
+				也、
+				<lb/>
+				
+仍為後日所定置如件、
+				<lb/>
+				
+				　　　<date when="1367-02-28">正平廿二年正月廿九日</date>　　　　　　　　　　<persName corresp="#渋谷重門">重門</persName>（花押）
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

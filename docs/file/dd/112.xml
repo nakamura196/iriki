@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+	<teiHeader>
+
+		<fileDesc>
+
+			<titleStmt>
+
+				<title>13　　延文5年4月19日　　_渋谷重門寄進状（＃１１２）</title>
+
+			</titleStmt>
+
+			<publicationStmt>
+
+				<p>Publication Information</p>
+
+			</publicationStmt>
+
+			<sourceDesc>
+
+				<p>Information about the source</p>
+
+			</sourceDesc>
+
+		</fileDesc>
+
+	</teiHeader>
+
+	<facsimile>
+
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/112/manifest.json">
+
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/112/manifest.json/canvas/p1"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000023.jpg"/>
+			</surface>
+		</surfaceGrp>
+
+	</facsimile>
+
+	<text>
+
+		<front>
+
+			<p>
+				<span xml:id="端裏書">
+					<span>端裏書</span>
+				</span>
+			</p>
+
+		</front>
+
+		<body>
+			<p>
+				<lb/>
+				<note corresp="#端裏書">「</note>
+				楠本寄進状正文　庚子歳」
+				
+				<lb/>
+				
+奉　寄進
+				
+				<lb/>
+				
+				<placeName corresp="#薩摩国">薩摩国</placeName>入来院楠本内坂口在家田畠之事
+				
+				<lb/>
+				
+右、彼於在家田畠者、寿昌寺之方丈通法和尚、限永代所令進候也、若於
+				
+				<lb/>
+				
+				有彼所違乱之輩者、<persName corresp="#渋谷重門">重門</persName>跡お不可知行、仍為後日寄進之状如件、
+				
+				<lb/>
+				
+				　　　<date when="1360-05-04">延文五年卯月十九日</date>　　　　　　　　　　　　<persName corresp="#渋谷重門">平重門</persName>（花押）
+				
+				<lb/>
+			</p>
+		</body>
+
+	</text>
+
+</TEI>

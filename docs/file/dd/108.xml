@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>9　　応永7年12月21日　　渋谷重茂避状（＃１０８）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/108/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/108/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000019.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="重見">
+					<span>重見</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+祁答院内<placeName>中津川</placeName>名并<placeName>黒木村</placeName>事者、　<persName corresp="#渋谷重茂">重茂</persName>雖為由緒、依申談子細候、避進
+				<lb/>
+				
+所実也、仍為後日之状如件、
+				<lb/>
+				
+				　　<date when="1401-01-05">応永七年十二月廿一日</date>　　　　　　　　　　　<persName corresp="#渋谷重茂">重茂</persName>（花押）
+				<lb/>
+				
+　　清敷殿
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

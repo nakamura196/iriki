@@ -1,0 +1,98 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+	<teiHeader>
+
+		<fileDesc>
+
+			<titleStmt>
+
+				<title>10　　嘉暦2年9月28日　　_鎮西御教書（＃１０９）</title>
+
+			</titleStmt>
+
+			<publicationStmt>
+
+				<p>Publication Information</p>
+
+			</publicationStmt>
+
+			<sourceDesc>
+
+				<p>Information about the source</p>
+
+			</sourceDesc>
+
+		</fileDesc>
+
+	</teiHeader>
+
+	<facsimile>
+
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/109/manifest.json">
+
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/109/manifest.json/canvas/p1"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000020.jpg"/>
+			</surface>
+		</surfaceGrp>
+
+	</facsimile>
+
+	<text>
+
+		<front>
+
+			<p>
+				<span xml:id="為重">
+					<span>為重</span>
+				</span>
+				<span xml:id="重幸">
+					<span>重幸</span>
+				</span>
+				<span xml:id="英時">
+					<span>英時</span>
+				</span>
+			</p>
+
+		</front>
+
+		<body>
+			<p>
+				<lb/>
+				
+永利如性与山田八郎二郎道−能字有憚相論、<placeName corresp="#薩摩国">薩摩国</placeName><placeName>石上村</placeName>堺打越事、被裁許
+				
+				<lb/>
+				
+如性訖、守下知状可打渡由、被仰之処、不事行云〃、太無謂、任先度催
+				
+				<lb/>
+				
+促之旨、不日致沙汰、可被注申候、仍執達如件、
+				
+				<lb/>
+				
+				　　　<date when="1327-10-13">嘉暦二年閏九月廿八日</date>　　　　　　　　　　
+				<persName corresp="#北条英時">修理</persName>
+				亮（花押）
+				
+				<lb/>
+				
+　　　　
+				<persName corresp="#渋谷重幸">渋谷又二郎</persName>
+				入道殿
+				
+				<lb/>
+				
+　　　　
+				<persName corresp="#渋谷為重">渋谷弥平三</persName>
+				入道殿
+				
+				<lb/>
+			</p>
+		</body>
+
+	</text>
+
+</TEI>

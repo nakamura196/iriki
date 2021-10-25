@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+	<teiHeader>
+
+		<fileDesc>
+
+			<titleStmt>
+
+				<title>13　　延文2年正月20日　　渋谷重勝寄進状（＃１３３）</title>
+
+			</titleStmt>
+
+			<publicationStmt>
+
+				<p>Publication Information</p>
+
+			</publicationStmt>
+
+			<sourceDesc>
+
+				<p>Information about the source</p>
+
+			</sourceDesc>
+
+		</fileDesc>
+
+	</teiHeader>
+
+	<facsimile>
+
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/133/manifest.json">
+
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/133/manifest.json/canvas/p1"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000021.jpg"/>
+			</surface>
+		</surfaceGrp>
+
+	</facsimile>
+
+	<text>
+
+		<front>
+
+			<p>
+				<span xml:id="追筆">
+					<span>追筆</span>
+				</span>
+				<span xml:id="端裏書">
+					<span>端裏書</span>
+				</span>
+			</p>
+
+		</front>
+
+		<body>
+			<p>
+				<lb/>
+				
+　
+				<note corresp="#端裏書">「</note>
+				馬渡瀬寄進状正文
+				<note corresp="#追筆">『</note>
+				乙酉歳也』」
+				
+				<lb/>
+				
+今日衣鉢御布施之事
+				
+				<lb/>
+				
+清色北方馬渡瀬竹下記名四郎作壱段、手作弐段、寿昌寺方丈令進候、聊
+				
+				<lb/>
+				
+違乱妨不可有申仁候、仍為後証状如件、
+				
+				<lb/>
+				
+				　　　<date when="1357-02-09">延文二年正月廿日</date>　　　　　　　　　　<persName corresp="#入来院重勝" ref="https://ja.wikipedia.org/wiki/%E5%85%A5%E6%9D%A5%E9%99%A2%E6%B0%8F" >美濃守重勝</persName>（花押）
+				
+				<lb/>
+			</p>
+		</body>
+
+	</text>
+
+</TEI>

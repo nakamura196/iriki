@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>10　 康永2年4月12日　　_足利直義軍勢催促状（＃１０）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/10/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/10/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/1/00000011.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="直義">
+					<span>直義</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+　一〇　<persName>足利直義</persName>軍勢催促状
+				<lb/>
+				
+参御方、可致軍忠之状如件、
+				<lb/>
+				
+　　　<date when="1343">康永二年</date>四月十二日　　　　　　　　　　
+				<note corresp="#直義"><persName corresp="#足利直義">（花押）</persName></note>
+				<lb/>
+				
+　　<persName>渋谷孫次郎（重広）</persName>殿
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

@@ -1,0 +1,381 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+	<teiHeader>
+
+		<fileDesc>
+
+			<titleStmt>
+
+				<title>2　　元亨4年12月16日　　鎮西裁許状２／３（＃１３０）</title>
+
+			</titleStmt>
+
+			<publicationStmt>
+
+				<p>Publication Information</p>
+
+			</publicationStmt>
+
+			<sourceDesc>
+
+				<p>Information about the source</p>
+
+			</sourceDesc>
+
+		</fileDesc>
+
+	</teiHeader>
+
+	<facsimile>
+
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/130/manifest.json">
+
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/130/manifest.json/canvas/p1"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000014.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/130/manifest.json/canvas/p2"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000015.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/130/manifest.json/canvas/p3"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000016.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/130/manifest.json/canvas/p4"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000017.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/130/manifest.json/canvas/p5"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/13/00000005.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/130/manifest.json/canvas/p6"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/13/00000006.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/130/manifest.json/canvas/p7"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000018.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/130/manifest.json/canvas/p8"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000014.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/130/manifest.json/canvas/p9"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000015.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/130/manifest.json/canvas/p10"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000016.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/130/manifest.json/canvas/p11"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000017.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/130/manifest.json/canvas/p12"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/13/00000005.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/130/manifest.json/canvas/p13"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/13/00000006.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/130/manifest.json/canvas/p14"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000018.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/130/manifest.json/canvas/p15"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000014.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/130/manifest.json/canvas/p16"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000015.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/130/manifest.json/canvas/p17"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000016.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/130/manifest.json/canvas/p18"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000017.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/130/manifest.json/canvas/p19"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/13/00000005.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/130/manifest.json/canvas/p20"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/13/00000006.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/130/manifest.json/canvas/p21"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000018.jpg"/>
+			</surface>
+		</surfaceGrp>
+
+	</facsimile>
+
+	<text>
+
+		<front>
+
+			<p>
+				<span xml:id="験">
+					<span>験</span>
+				</span>
+				<span xml:id="英時">
+					<span>英時</span>
+				</span>
+				<span xml:id="黙">
+					<span>黙</span>
+				</span>
+				<span xml:id="抄">
+					<span>抄</span>
+				</span>
+			</p>
+
+		</front>
+
+		<body>
+			<p>
+				<lb/>
+				
+　　　　　　○コノ文書全四紙ヨリ成ル、ソノ第三紙ハ紙継目ヨリ剥落シ、
+				
+				
+				
+				<lb/>
+				
+　　　　　　誤ツテ第廿一巻第一五六号ノ後に貼リ継ガレタリ、今コレヲ
+				
+				
+				
+				<lb/>
+				
+　　　　　　訂シテコヽニ収ム、猶各紙ノ終リヲ」印ヲ以テ示セリ、紙継
+				
+				
+				
+				<lb/>
+				
+				　　　　　　目裏毎ニ花押（<persName corresp="#北条師頼" ref="https://ja.wikipedia.org/wiki/%E5%8C%97%E6%9D%A1%E5%B8%AB%E9%A0%BC" >桜田師頼</persName>？）アリ、
+				
+				
+				
+				<lb/>
+				
+				　永利如性与山田八郎次郎道政本名道能相論、<placeName corresp="#薩摩国" ref="https://ja.wikipedia.org/wiki/%E8%96%A9%E6%91%A9%E5%9B%BD">薩摩国</placeName>薩摩郡内石上村、草帳
+				
+				
+				
+				<lb/>
+				
+名堺荒野事
+				
+				
+				
+				<lb/>
+				
+右、訴陳状具書枝葉雖多、所詮、如性則当郡者、建久七年立券之時、云
+				
+				
+				
+				<lb/>
+				
+如性所領若松名内石上村、云道政分領草帳名号薩摩迫、堺分明也、所謂如彼
+				
+				
+				
+				<lb/>
+				
+抄帳者、石上村四至、東本御領加那毛、西羽太、南馬渡并榎迫西、草帳東
+				
+				
+				
+				<lb/>
+				
+迫、北公田云云、薩摩迫四至、東石神畠、西大路、南田渡横大路、北川云云、
+				
+				
+				
+				<lb/>
+				
+而道政相語守護代阿忍、切上往古堺馬渡路、自元応元年令押領石上」村
+				
+				
+				
+				<lb/>
+				
+Ｐ６４
+				
+				
+				
+				<lb/>
+				
+南依荒野之上者、仰使節非検見堺、可被付打越分限之由訴之、道政亦時
+				
+				
+				
+				<lb/>
+				
+吉内草帳名者、武家進止之地也、石上村者、本所領弁済使名勧童丸内也、
+				
+				
+				
+				<lb/>
+				
+於本公
+				<note corresp="#験">検</note>
+				者、時吉名惣領主在国司入道道雄所持之間、不能備進、如性指
+				
+				
+				
+				<lb/>
+				
+申四至堺、為草帳名之条明鏡也、如性押領件荒野内畠地屋敷等之間、雖
+				
+				
+				
+				<lb/>
+				
+含愁訴、依為無力、
+				<note corresp="#黙">点</note>
+				止之処、遮自科致奸訴歟、於馬渡路并榎迫等者古
+				
+				
+				
+				<lb/>
+				
+跡也、遂検見、被召絵図、可被糺明本跡之条、尤令庶幾之旨、陳之者、
+				
+				
+				
+				<lb/>
+				
+石上村南堺者、為馬渡・榎迫之条、道政無異論、仍彼荒野者、為石上村
+				
+				
+				
+				<lb/>
+				
+内歟、為草帳名内否、莅論所、遂検見、以絵図可注進之旨、被仰渋谷弥
+				
+				
+				
+				<lb/>
+				
+平三為重、同又次郎重幸等之」処、如今年六月十二日為重請文者、莅件
+				
+				
+				
+				<lb/>
+				
+論所、遂検見之処、道能令出対于彼論所、号往古堺馬渡・榎迫、如差申
+				
+				
+				
+				<lb/>
+				
+者、無其証跡、此上者、任立券帳、件論所為石上村内之旨見候、仍進上
+				
+				
+				
+				<lb/>
+				
+絵図云云、如同十八日重幸請文者、如性所立申之馬渡者、在所分明候、
+				
+				
+				
+				<lb/>
+				
+道能差申之馬渡・榎迫者、無証跡候之間、為石上内之由存候、仍絵図進
+				
+				
+				
+				<lb/>
+				
+上云云、各起請詞在之、如為重等所進之絵図者馬渡・榎迫者、為論所荒野以南
+				
+				
+				
+				<lb/>
+				
+歟、随而、令苻合于如性所進建久
+				<note corresp="#抄">杪</note>
+				帳等畢、加之、為如性被押領田畠之
+				
+				
+				
+				<lb/>
+				
+由、道政自称之間、還顕如性知行証跡歟、但、道政者、当村為本所領勧
+				
+				
+				
+				<lb/>
+				
+童丸内之由、雖称之、不備進支証、如性者、依殺害不実、先年被収公所
+				
+				
+				
+				<lb/>
+				
+帯、」菊池三郎以下為勲功賞令拝領畢、而於当村者、守護令勘落于闕所注
+				
+				
+				
+				<lb/>
+				
+文之間、漏御下文之刻、新給人就訴申、被尋問証人等之刻、為如性私領
+				
+				
+				
+				<lb/>
+				
+若松名内之条、依無相違、欲被裁許之最中、如性還補之間、如元知行畢、
+				
+				
+				
+				<lb/>
+				
+而又道政相語阿忍、立還押領之由、如性令申之処、道政不帯支証、只寄
+				
+				
+				
+				<lb/>
+				
+事於本所、以胸臆擬遁申之条、非無奸曲歟、然則、於件堺荒野者、守建
+				
+				
+				
+				<lb/>
+				
+久立券抄帳、為若松石上村内、可令如性領知者、依仰下知如件、
+				
+				
+				
+				<lb/>
+				
+				　　　<date when="1325-01-01">元亨四年十二月十六日</date>
+				
+				
+				
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　　修理亮
+				<persName corresp="#北条英時" ref="https://ja.wikipedia.org/wiki/%E5%8C%97%E6%9D%A1%E8%8B%B1%E6%99%82">平朝臣</persName>
+				（花押）
+				
+				
+				
+				<lb/>
+			</p>
+		</body>
+
+	</text>
+
+</TEI>

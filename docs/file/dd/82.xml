@@ -1,0 +1,153 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>7　　建長2年4月28日　　_関東裁許状案（＃８２）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/82/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/82/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000017.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/82/manifest.json/canvas/p2" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000018.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/82/manifest.json/canvas/p3" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000019.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="常胤">
+					<span>常胤</span>
+				</span>
+				<span xml:id="端裏書">
+					<span>端裏書</span>
+				</span>
+				<span xml:id="頼朝">
+					<span>頼朝</span>
+				</span>
+				<span xml:id="時頼">
+					<span>時頼</span>
+				</span>
+				<span xml:id="重時">
+					<span>重時</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+　　　　　　○コノ文書、紙継目裏下端部（※印ノ部分）ニ花押アリ、
+				<lb/>
+				
+
+				<note corresp="#端裏書">「</note>
+				御下知状塔原事」
+				<lb/>
+				
+　<placeName corresp="#薩摩国">薩摩国</placeName>入来院内<placeName>塔原</placeName>名主<persName>寄田弥太郎信忠</persName>与地頭<persName>渋谷五郎房定心</persName>相論名
+				<lb/>
+				
+主職事
+				<lb/>
+				
+右、対決之処、如ノブ信忠申者、当職者父<persName>信俊</persName>重代職也、当国御家人雖不帯
+				<lb/>
+				
+御下文、知行所領之条、為傍例之間、故
+				<persName corresp="#源頼朝">右</persName>
+				大将家御時、
+				<persName corresp="#千葉常胤">千葉</persName>
+				介雖給惣地
+				<lb/>
+				
+				頭、至名主職者、無相違之処、<date when="1246">寛元四年</date><persName corresp="#千葉秀胤">上総介秀胤</persName>蒙御勘気之刻、名主
+				<lb/>
+				
+等為訪下向之時、信忠称不訪、被押領所職畢、仍欲言上事由之処、当地
+				<lb/>
+				
+頭定心可和与之由依令申、書与起請文畢、而定心変和与、令濫妨云〃、
+				<lb/>
+				
+如定心申者、件名主職者、為地頭進止之間、秀胤之時、信忠自代官之手、
+				<lb/>
+				
+雖令補任之、同時又被改易畢、爰定心拝領件院之日、信忠出来書起請文
+				<lb/>
+				
+				之間、令還補畢、而依成向背、令改易畢云〃、爰如定心所進<date when="1254">宝治元年</date>八
+				<lb/>
+				
+月五日信忠起請文者、入来院地頭得分不可対捍、又如此宛給之上、背地
+				<lb/>
+				
+頭、不可申子細於上云〃者、非地頭進止之由、信忠雖申之、秀胤押領之
+				<lb/>
+				
+時、不致訴訟、没収之後、書与起請文於当地頭定心、令還補之間、可為
+				<lb/>
+				
+地頭進止之由、定心之所申、有其謂歟、然則、於彼名主職者、且任※秀胤
+				<lb/>
+				
+時例、且依信忠起請文、可為地頭進退之状、依鎌倉殿仰、下知如件、
+				<lb/>
+				
+				　　　<date when="1250-05-20">建長二年四月廿八日</date>
+				<lb/>
+				
+Ｐ４４
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　　相模守平
+				<persName corresp="#北条時頼">朝臣</persName>
+				（花押）
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　　陸奥守平
+				<persName corresp="#北条重時">朝臣</persName>
+				（花押）
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

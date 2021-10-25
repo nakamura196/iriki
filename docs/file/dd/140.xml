@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	        
+	<teiHeader>
+		            
+		<fileDesc>
+			                
+			<titleStmt>
+				                    
+				<title>20　　(年未詳)正月　日　_渋谷重長請文案（＃１４０）</title>
+				                
+			</titleStmt>
+			                
+			<publicationStmt>
+				                    
+				<p>Publication Information</p>
+				                
+			</publicationStmt>
+			                
+			<sourceDesc>
+				                    
+				<p>Information about the source</p>
+				                
+			</sourceDesc>
+			            
+		</fileDesc>
+		        
+	</teiHeader>
+	        
+	<facsimile>
+		            
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/140/manifest.json">
+			            
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/140/manifest.json/canvas/p1" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000030.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/140/manifest.json/canvas/p2" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000031.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/140/manifest.json/canvas/p3" url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000032.jpg"/>
+			</surface>
+		</surfaceGrp>
+		        
+	</facsimile>
+	        
+	<text>
+		            
+		<front>
+			                
+			<p>
+				                
+				<span xml:id="別紙">
+					<span>別紙</span>
+				</span>
+				<span xml:id="×御判">
+					<span>×御判</span>
+				</span>
+				<span xml:id="×謹">
+					<span>×謹</span>
+				</span>
+				<span xml:id="裏">
+					<span>裏</span>
+				</span>
+			</p>
+			            
+		</front>
+		            
+		<body>
+			<p>
+				<lb/>
+				
+去年十一月　日御教書、今年正月　日到来、謹拝見仕候畢、
+				<lb/>
+				
+抑如被仰下者、凶徒勤〃退治事、相共守護人共大将誰共、可致忠節云〃、仍任　上意
+				<lb/>
+				
+申談、馳向凶徒在所、何共可抽忠貞候、以此旨可有御披露候、恐惶謹言、
+				<lb/>
+				
+　　　正月　日
+				<lb/>
+				
+　　　　　　　　　　　　　　　　　　　　　　　　宮内少輔
+				<note corresp="#×謹">請</note>
+				文
+				<note corresp="#×御判">重長</note>
+				<note corresp="#裏">「</note>
+				判」
+				<lb/>
+				
+　　
+				<note corresp="#別紙">「</note>
+				　　　　　<persName corresp="#渋谷重長">宮内少輔重長</persName>請文」
+				<lb/>
+			</p>
+		</body>
+		        
+	</text>
+	        
+</TEI>

@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+	<teiHeader>
+
+		<fileDesc>
+
+			<titleStmt>
+
+				<title>20　　元徳元年10月20日　_関東下知状案（＃５４−４）</title>
+
+			</titleStmt>
+
+			<publicationStmt>
+
+				<p>Publication Information</p>
+
+			</publicationStmt>
+
+			<sourceDesc>
+
+				<p>Information about the source</p>
+
+			</sourceDesc>
+
+		</fileDesc>
+
+	</teiHeader>
+
+	<facsimile>
+
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/54−4/manifest.json">
+
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/54−4/manifest.json/canvas/p1"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/5/00000026.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/54−4/manifest.json/canvas/p2"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/5/00000027.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/54−4/manifest.json/canvas/p3"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/5/00000028.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/54−4/manifest.json/canvas/p4"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/5/00000029.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/54−4/manifest.json/canvas/p5"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/5/00000030.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/54−4/manifest.json/canvas/p6"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/5/00000031.jpg"/>
+			</surface>
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/54−4/manifest.json/canvas/p7"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/5/00000032.jpg"/>
+			</surface>
+		</surfaceGrp>
+
+	</facsimile>
+
+	<text>
+
+		<front>
+
+			<p>
+				<span xml:id="端書">
+					<span>端書</span>
+				</span>
+				<span xml:id="朝臣">
+					<span>朝臣</span>
+				</span>
+			</p>
+
+		</front>
+
+		<body>
+			<p>
+				<lb/> 　　　１　関東下知状案 <lb/> 　 <note corresp="#端書">「</note> 二」 <lb/>
+				　可令早別当二郎丸領知薩摩国入来院内塔原郷田弐町玖段、在家玖宇 <lb/> 　坪付見配分　事 <lb/>
+				右、以亡父<persName>渋谷孫三郎惟重</persName>跡、所被配分也者、早守先例可令領掌之状、 <lb/> 依仰下知如件、 <lb/> 　　　<date when="1329-11-11">元徳元年十月廿日</date> <lb/>
+				　　　　　　　　　　　　　　　　　　　　　　　相模守平 <note corresp="#朝臣"><persName corresp="#朝臣">守時</persName></note>
+				<lb/>
+				<lb/>
+			</p>
+		</body>
+
+	</text>
+
+</TEI>

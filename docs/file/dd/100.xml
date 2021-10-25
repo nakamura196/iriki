@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+	<teiHeader>
+
+		<fileDesc>
+
+			<titleStmt>
+
+				<title>1　　元応2年9月2日　　　本田暁道請文（＃１００）</title>
+
+			</titleStmt>
+
+			<publicationStmt>
+
+				<p>Publication Information</p>
+
+			</publicationStmt>
+
+			<sourceDesc>
+
+				<p>Information about the source</p>
+
+			</sourceDesc>
+
+		</fileDesc>
+
+	</teiHeader>
+
+	<facsimile>
+
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/100/manifest.json">
+
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/100/manifest.json/canvas/p1"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000003.jpg"/>
+			</surface>
+		</surfaceGrp>
+
+	</facsimile>
+
+	<text>
+
+		<front>
+
+			<p>
+				<span xml:id="端裏書">
+					<span>端裏書</span>
+				</span>
+			</p>
+
+		</front>
+
+		<body>
+			<p>
+				<lb/>
+				<note corresp="#端裏書">「</note>
+				本田民部入道請文」
+				
+				<lb/>
+				
+				永利如性掠申、<placeName corresp="#薩摩国">薩摩国</placeName>薩摩郡内<placeName>山田村</placeName>与田崎名堺事、訴状具書等謹下賜
+				
+				<lb/>
+				
+候畢、此条、当名下地以下事、名主善法与暁道番于数問荅訴陳、已被逢
+				
+				<lb/>
+				
+御引付候上者、是非治定之後、可被経御沙汰哉候覧、以此旨可有御披露
+				
+				<lb/>
+				
+候、恐惶謹言、
+				
+				<lb/>
+				
+				　　　<date when="1320-10-04">元応二年九月二日</date>　　　　　　　　　　地頭代<persName corresp="#本田暁道">暁道</persName>請文（裏花押）
+				
+				<lb/>
+			</p>
+		</body>
+
+	</text>
+
+</TEI>

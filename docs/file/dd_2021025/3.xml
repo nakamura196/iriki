@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+	<teiHeader>
+
+		<fileDesc>
+
+			<titleStmt>
+
+				<title>後醍醐天皇綸旨</title>
+
+			</titleStmt>
+
+			<publicationStmt>
+
+				<p>Publication Information</p>
+
+			</publicationStmt>
+			
+			<notesStmt>
+				<note>
+					<span xml:id="重見">
+						<span>重見</span>
+					</span>
+				</note>
+				<note type="no">3</note>
+				<note type="jcdate">元弘三年十一月九日</note>
+				<note type="date">1333-12-16</note>
+				<note type="collection">入来院家文書 一</note>
+				<note type="vol">1帖</note>
+				<note type="外題">御綸旨御下文御感状御教書　九通　九番</note>
+			</notesStmt>
+
+			<sourceDesc>
+
+				<p>Information about the source</p>
+
+			</sourceDesc>
+
+		</fileDesc>
+
+	</teiHeader>
+
+	<facsimile>
+
+		<surfaceGrp facs="https://nakamura196.github.io/iriki/iiif/3/manifest.json">
+
+			<surface>
+				<graphic n="https://nakamura196.github.io/iriki/iiif/3/manifest.json/canvas/p1"
+					url="http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/1/00000004.jpg"/>
+			</surface>
+		</surfaceGrp>
+
+	</facsimile>
+
+	<text>
+
+		<body>
+			<div type="original">
+				<div type="宿紙">
+			<p>
+				<lb/> <persName corresp="#渋谷重見">渋谷 <note corresp="#重見">弥三郎</note> </persName>入道後家舜阿当知行地、不可有相違者、
+				<lb/> 天気如此、悉之以状、
+				<lb/> 　　　<date when="1333-12-16"
+					>元弘三年十一月九日</date>　　　　　　　　　<persName corresp="#式部大丞">式部大丞</persName>（花押）
+				<lb/>
+			</p>
+				</div>
+			</div>
+		</body>
+
+	</text>
+
+</TEI>
